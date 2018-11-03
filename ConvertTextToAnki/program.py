@@ -20,6 +20,7 @@ OneLineText = OneLineText.replace(";","::")
 OneLineText = OneLineText.replace("U.S.","US ")    
 OneLineText = OneLineText.replace("Mr.", "Mr")
 OneLineText = OneLineText.replace("Mrs.", "Mrs")
+OneLineText = OneLineText.replace("-", ":")
 OneLineText = OneLineText.replace("...", ".")
 OneLineText = OneLineText.replace("\"", " ")
 
