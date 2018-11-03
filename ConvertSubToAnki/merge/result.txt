@@ -1,0 +1,1226 @@
+English-HarryPotter01-1  I should've known that you would be here, Professor McGonagall. ; 2  Tôi biết là bà sẽ ở đây mà Giáo sư McGonagall.
+English-HarryPotter01-2  Good evening, Professor Dumbledore. ; 3  Xin chào Giáo sư Dumbledore.
+English-HarryPotter01-3  Are the rumors true, Albus? ; 4  Những tin đồn là thật sao, Albus?
+English-HarryPotter01-4  I'm afraid so, professor. The good and the bad. ; 5  Tôi e đúng là như thế. Điều tốt và xấu.
+English-HarryPotter01-5  - And the boy? - Hagrid is bringing him. ; 6  - Thế còn đứa bé? - Hagrid đang mang nó đến đây.
+English-HarryPotter01-6  Is it wise to trust Hagrid with something so important? ; 7  Cụ nghĩ là sáng suốt khi tin tưởng Hagrid vào việc quan trọng thế này?
+English-HarryPotter01-7  Professor, I would trust Hagrid with my life. ; 8  Giáo sư, tôi có thể giao cả cuộc đời mình cho Hagrid.
+English-HarryPotter01-8  Professor Dumbledore, sir. Professor McGonagall. ; 9  Giáo sư Dumbledore, thưa ngài. Giáo sư McGonagall.
+English-HarryPotter01-9  - No problems, I trust, Hagrid? - No, sir. ; 10  - Ko có vấn đề gì chứ Hagrid? - Ko thưa ngài.
+English-HarryPotter01-10  Little tyke fell asleep as we were flying over Bristol. ; 11  Chú cún con đã ngủ thiếp đi khi bay qua Bristol.
+English-HarryPotter01-11  Try not to wake him. ; 12  Đừng làm thằng bé thức giấc
+English-HarryPotter01-12  There you go. ; 13  Của cụ đây.
+English-HarryPotter01-13  Do you really think it's safe leaving him with these people? ; 14  Cụ có nghĩ như thế là an toàn khi bỏ lại nó với những con người này?
+English-HarryPotter01-14  I've watched them all day. They're the worst sort of Muggles. ; 15  Tôi đã quan sát họ cả ngày. Họ đúng là những Muggles tồi tệ nhất mà tôi thấy
+English-HarryPotter01-15  - They really are... - The only family he has. ; 16  - Họ đúng là... - Gia đình duy nhất của thằng bé bây giờ
+English-HarryPotter01-16  He'll be famous. Every child in our world will know his name. ; 17  Nó sẽ nổi tiếng. Mọi đứa trẻ trong thế giới của chúng ta sẽ biết tên nó.
+English-HarryPotter01-17  Exactly. ; 18  Đúng vậy.
+English-HarryPotter01-18  He's far better off growing up away from all of that. ; 19  Tốt hơn hết hãy để thằng bé lớn lên tránh xa những điều đó.
+English-HarryPotter01-19  Until he's ready. ; 20  Cho tới khi nó sẵn sàng.
+English-HarryPotter01-20  There, there, Hagrid. It's not really goodbye, after all. ; 21  Thôi nào Hagrid. Đâu phải chia tay thực sự.
+English-HarryPotter01-21  Good luck... ; 22  Chúc may mắn...
+English-HarryPotter01-22  ...Harry Potter. ; 23  ...Harry Potter.
+English-HarryPotter01-23  Up. Get up! ; 24  Dậy. Dậy đi!
+English-HarryPotter01-24  Now! ; 25  Ngay bây giờ!
+English-HarryPotter01-25  Wake up, cousin! We're going to the zoo! ; 26  Dậy đi nào em họ! Chúng ta sẽ tới sở thú!
+English-HarryPotter01-26  - Here he comes, the birthday boy. - Happy birthday, son. ; 27  - Nhân vật chính đây rồi - Chúc mừng sinh nhật, cục cưng!
+English-HarryPotter01-27  Cook breakfast. And try not to burn anything. ; 28  Nấu bữa sáng đi cố đừng làm cháy thứ gì.
+English-HarryPotter01-28  - Yes, Aunt Petunia. - I want everything to be perfect... ; 29  - Vâng thưa dì Petunia. - Tao muốn mọi thứ phải thật hoàn hảo....
+English-HarryPotter01-29  ...for my Dudley's special day! ; 30  ...cho ngày đặc biệt của Dudley!
+English-HarryPotter01-30  - Hurry up! Bring my coffee, boy. - Yes, Uncle Vernon. ; 31  - Nhanh lên, đem cà phê đến đây. - Vâng, thưa dượng Vernon.
+English-HarryPotter01-31  Aren't they wonderful, darling? ; 32  Chúng thật tuyệt vời đúng ko con yêu?
+English-HarryPotter01-32  - How many are there? - 36. Counted them myself. ; 33  - Có bao nhiêu tất cả? - 36. Tính cả của bố mẹ nữa.
+English-HarryPotter01-33  36?! But last year I had 37! ; 34  36?! Nhưng năm trước con có 37 cơ mà!
+English-HarryPotter01-34  - But some are bigger than last year's. - I don't care! ; 35  - Có một số thứ to hơn năm ngoái mà con. - Con ko quan tâm!
+English-HarryPotter01-35  This is what we're going to do. ; 36  Vậy thế này nhé.
+English-HarryPotter01-36  We're going to buy you two new presents. How's that, pumpkin? ; 37  Chúng ta sẽ mua cho con hai món quà mới. Thế được ko con yêu?
+English-HarryPotter01-37  It should be a lovely day at the zoo. I'm really looking forward to it. ; 38  Hôm nay là một ngày đẹp trời ở sở thú. Ba và mẹ chờ ngày này lâu lắm rồi.
+English-HarryPotter01-38  I'm warning you now, boy. ; 39  Tao cảnh cáo mày đấy nhóc.
+English-HarryPotter01-39  Any funny business, any at all... ; 40  Nếu có bất kì hành động kì quặc nào bất kì...
+English-HarryPotter01-40  ...and you won't have any meals for a week. ; 41  ...thì mày sẽ phải nhịn đói 1 tuần.
+English-HarryPotter01-41  Get in. ; 42  Rõ chưa?
+English-HarryPotter01-42  Make it move. ; 43  Làm nó bò đi.
+English-HarryPotter01-43  Move! ; 44  Bò đi!
+English-HarryPotter01-44  - Move! - He's asleep! ; 45  - Bò đi! - Nó đang ngủ !
+English-HarryPotter01-45  He's boring. ; 46  Con này chán ngắt.
+English-HarryPotter01-46  Sorry about him. ; 47  Xin lỗi nhé.
+English-HarryPotter01-47  He doesn't understand what it's like, lying there... ; 48  Nó không hiểu sẽ phải chán như thế nào khi phải nằm đây...
+English-HarryPotter01-48  ...watching people press their ugly faces in on you. ; 49  ...nhìn mọi người dán bộ mặt xấu xí vào cửa kính.
+English-HarryPotter01-49  Can you hear me? ; 50  Mày có thể nghe tao nói à?
+English-HarryPotter01-50  It's just, I've never talked to a snake before. ; 51  Chỉ là trước đây tao chưa bao giờ nói chuyện với rắn.
+English-HarryPotter01-51  Do you? ; 52  Mày có...
+English-HarryPotter01-52  Do you talk to people often? ; 53  Mày có hay nói chuyện với con người ko?
+English-HarryPotter01-53  You're from Burma, aren't you? Was it nice there? ; 54  Mày đến từ Burma đúng ko? Nơi đấy có đẹp ko?
+English-HarryPotter01-54  Do you miss your family? ; 55  Mày có nhớ gia đình ko?
+English-HarryPotter01-55  I see. That's me as well. I never knew my parents either. ; 56  Tao hiểu rồi. Tao cũng vây. Tao cũng chưa bao giờ được gặp bố mẹ.
+English-HarryPotter01-56  Mummy, Dad, you won't believe what this snake is doing! ; 57  Bố,mẹ, mọi người sẽ ko tin con rắn đang làm gì đâu!
+English-HarryPotter01-57  Thanks. ; 58  Cảm ơn nhé.
+English-HarryPotter01-58  Anytime. ; 59  KO có gì.
+English-HarryPotter01-59  Snake! ; 60  Rắn!
+English-HarryPotter01-60  Mum! Mummy! Help me! ; 61  Mẹ! Mẹ ơi! Cứu con!
+English-HarryPotter01-61  My darling boy! How did you get in there? ; 62  Ôi! COn yêu! Làm sao con vào được trong đó?
+English-HarryPotter01-62  Who did this? How did you get in there? Is there a snake? ; 63  Ai đã làm điều này? Làm sao con vào được trong đó?
+English-HarryPotter01-63  It's all right, sweetheart. We'll get you out of these cold clothes. ; 64  KO sao rồi con yêu. Mẹ sẽ thay bộ quần áo ướt cho con.
+English-HarryPotter01-64  - What happened? - I swear, I don't know! ; 65  - Chuyện gì đã xảy ra hả thằng kia? - Cháu thề là cháu ko biết.
+English-HarryPotter01-65  The glass was there and then it was gone, like magic. ; 66  Tấm kính ở đó rồi lại biến mất Như có phép màu vậy.
+English-HarryPotter01-66  There's no such thing as magic. ; 67  Ko có cái gì gọi là phép màu ở đây cả.
+English-HarryPotter01-67  Marge is ill. Ate a funny whelk. ; 68  Ôi! Cô Marge đang bị bệnh. Ăn phải ốc xên.
+English-HarryPotter01-68  - Dad, look! Harry's got a letter! - It's mine! ; 69  - Bố, nhìn này. Harry có thư. - Thư của em.
+English-HarryPotter01-69  Yours? Who'd be writing to you? ; 70  Của mày à? Ai lại muốn viết thư cho mày chứ?
+English-HarryPotter01-70  No more mail through this letterbox. ; 71  Không có thư từ gì qua cái khe cửa này nữa.
+English-HarryPotter01-71  Have a lovely day at the office, dear. ; 72  Một ngày làm việc vui vẻ, anh yêu.
+English-HarryPotter01-72  Shoo! Go on. ; 73  Shoo! Biến đi.
+English-HarryPotter01-73  Fine day, Sunday. ; 74  Ngày chủ nhật đẹp đẽ.
+English-HarryPotter01-74  In my opinion, best day of the week. Why is that, Dudley? ; 75  Ngày đẹp nhất trong tuần. Tại sao vậy Dudley?
+English-HarryPotter01-75  - Because there's no post on Sundays? - Right you are, Harry! ; 76  - Bởi vì ko có giao thư vào ngày Chủ nhật? - Đúng rồi đó Harry!
+English-HarryPotter01-76  No post on Sunday. ; 77  Ko có thư vào ngày Chủ nhật.
+English-HarryPotter01-77  No blasted letters today! No, sir. ; 78  Ko có những lá thư đáng nguyền rủa.
+English-HarryPotter01-78  Not one single bloody letter. Not one! ; 79  Ko một bức thư chết tiệt nào.
+English-HarryPotter01-79  No, sir, not one blasted, miserable... ; 80  Ko, ko một lá thư đáng nguyền rủa khốn khổ...
+English-HarryPotter01-80  Make it stop, please! ; 81  Làm ơn làm nó dừng lại đi!
+English-HarryPotter01-81  Stop it! ; 82  Dừng lại
+English-HarryPotter01-82  Mummy, what's happening? ; 83  Mẹ ơi, chuyện gì vậy?
+English-HarryPotter01-83  Give me that! Give me that letter! ; 84  Đưa cho tao, đưa cho tao lá thư đó!
+English-HarryPotter01-84  Get off! ; 85  Bỏ cháu ra!
+English-HarryPotter01-85  They're my letters! Let go of me! ; 86  Đấy là thư của cháu. Bỏ cháu ra!
+English-HarryPotter01-86  That's it! We're going away! ; 87  Vậy đấy. Chúng ta sẽ đi khỏi đây
+English-HarryPotter01-87  Far away, where they can't find us! ; 88  Đi xa khỏi đây. Đến nơi mà chúng ko thể tìm thấy
+English-HarryPotter01-88  Daddy's gone mad, hasn't he? ; 89  Bố bị điên rồi đúng ko mẹ?
+English-HarryPotter01-89  Make a wish, Harry. ; 90  Ước đi Harry.
+English-HarryPotter01-90  Who's there? ; 91  Ai ở ngoài đó?
+English-HarryPotter01-91  Sorry about that. ; 92  Xin lỗi nhé.
+English-HarryPotter01-92  I demand that you leave at once. You are breaking and entering. ; 93  Tôi yêu cầu ông rời khỏi đây ngay. Ông đang đột nhập vào nhà tôi đấy.
+English-HarryPotter01-93  Dry up, Dursley, you great prune. ; 94  Câm đi Dursley, trông ông như một quả mận chín.
+English-HarryPotter01-94  I haven't seen you since you was a baby, Harry. ; 95  Bác đã ko gặp cháu kể từ khi cháu còn là một đứa bé, Harry.
+English-HarryPotter01-95  You're a bit more along than I expected. Particularly in the middle. ; 96  Trông cháu lớn hơn ta tưởng đấy. Đặc biệt là phần giữa.
+English-HarryPotter01-96  I'm not Harry. ; 97  Tôi ko phải Harry.
+English-HarryPotter01-97  - I am. - Well, of course you are. ; 98  - Là cháu. - Ồ, tất nhiên là cháu rồi.
+English-HarryPotter01-98  Got something for you. ; 99  Bác có thứ này cho cháu.
+English-HarryPotter01-99  Afraid I sat on it, but I imagine it'll taste fine just the same. ; 100  Bác e rằng bác đã ngồi phải nó nhưng dù vậy nó vẫn ngon đấy.
+English-HarryPotter01-100  Baked it myself, words and all. ; 101  Bác tự nướng và tự trang trí đấy.
+English-HarryPotter01-101  Thank you. ; 102  Cảm ơn bác.
+English-HarryPotter01-102  It's not every day your young man turns 11, is it? ; 103  Ko phải ngày nào cũng là ngày cháu lên 11 tuổi đúng ko?
+English-HarryPotter01-103  Excuse me, but who are you? ; 104  Xin lỗi, nhưng bác là ai?
+English-HarryPotter01-104  Rubeus Hagrid, Keeper of Keys and Grounds at Hogwarts. ; 105  Rubeus Hagrid, người giữ chìa khóa và gác sân ở Hogwarts.
+English-HarryPotter01-105  - Of course, you know about Hogwarts. - Sorry, no. ; 106  - Tất nhiên là cháu biết về Hogwarts chứ? - Ko ạ.
+English-HarryPotter01-106  Didn't you ever wonder where your mum and dad learned it all? ; 107  Ko ư Harry. Cháu có bao giờ tự hỏi bố mẹ cháu đã từng học ở đâu ko?
+English-HarryPotter01-107  Learned what? ; 108  Ko hề?
+English-HarryPotter01-108  You're a wizard, Harry. ; 109  Cháu là phù thủy Harry ạ!
+English-HarryPotter01-109  - I'm a what? - A wizard. ; 110  - Cháu là gì cơ? - Một phù thủy.
+English-HarryPotter01-110  A good one, I'd wager once you're trained up. ; 111  Và cháu cần được huấn luyện một chút.
+English-HarryPotter01-111  No, you've made a mistake. I mean... ; 112  Bác nhầm rồi. Ý của cháu là...
+English-HarryPotter01-112  ...I can't be a wizard. ; 113  cháu ko thể là một phù thủy được.
+English-HarryPotter01-113  I mean, I'm just Harry. Just Harry. ; 114  Cháu là Harry, chỉ là Harry thôi.
+English-HarryPotter01-114  Well, Just Harry, did you ever make anything happen? ; 115  Được rồi Harry. Cháu đã bao giờ khiến một số việc xảy ra
+English-HarryPotter01-115  Anything you couldn't explain when you were angry or scared? ; 116  Những việc mà cháu ko thể giải thích khi cháu giận dữ hoặc sợ hãi?
+English-HarryPotter01-116  "Dear Mr. Potter We are pleased to accept you... ; 117  "Kính gửi cậu Potter Chúng tôi rất vui mừng thông báo rằng
+English-HarryPotter01-117  ...at Hogwarts School of Witchcraft and Wizardry." ; 118  cậu đã được nhận vào Học viện Pháp thuật và Ma thuật Hogwarts."
+English-HarryPotter01-118  He will not be going! We swore we'd put a stop to all this rubbish. ; 119  Thằng bé sẽ ko đi đâu cả! Chúng tôi thề sẽ chấm dứt mấy thứ vớ vẩn này.
+English-HarryPotter01-119  You knew? You knew all along and you never told me? ; 120  Dượng và dì biết? Dượng và dì biết tất cả mà lại ko nói cho cháu
+English-HarryPotter01-120  Of course we knew. How could you not be? ; 121  Tất nhiên là chúng ta biết. Mày thế nào cũng giống
+English-HarryPotter01-121  My perfect sister being who she was. ; 122  đứa em gái hoàn hảo của tao.
+English-HarryPotter01-122  My mother and father were so proud the day she got her letter. ; 123  Bố mẹ tao rất tự hào khi nó nhận được thư như thế này
+English-HarryPotter01-123  "We have a witch in the family. Isn't it wonderful?" ; 124  "Chúng ta có một phù thủy trong nhà. Điều đó thật tuyệt với!!!."
+English-HarryPotter01-124  I was the only one to see her for what she was. ; 125  Tao là người duy nhất biết mẹ mày là thể loại gì.
+English-HarryPotter01-125  A freak! ; 126  Đồ quái đản!
+English-HarryPotter01-126  Then she met that Potter and then she had you... ; 127  Rồi nó gặp Potter, bố mày rồi nó sinh ra mày...
+English-HarryPotter01-127  ...and I knew you would be the same. Just as strange, just as abnormal. ; 128  ...tao biết thế nào mày cũng giống như thế mà. Cũng quái dị, ko bình thường.
+English-HarryPotter01-128  And then she got herself blown up and we got landed with you. ; 129  Rồi mẹ mày tự làm mình nổ tung thế là bọn tao mắc kẹt với mày.
+English-HarryPotter01-129  Blown up? You told me my parents died in a car crash. ; 130  Nổ tung ư? Bác nói là bố mẹ cháu chết vì bị đụng xe mà.
+English-HarryPotter01-130  A car crash? A car crash killed Lily and James Potter? ; 131  Đụng xe ư? Một vụ đụng xe làm sao có thể giết được Lily và James Potter?
+English-HarryPotter01-131  - We had to say something. - It's an outrage! A scandal! ; 132  - Chúng tôi phải nói gì đó. - Thật xúc phạm! Thật đáng xấu hổ!
+English-HarryPotter01-132  He'll not be going. ; 133  Nó sẽ ko được đi.
+English-HarryPotter01-133  A great Muggle like you is going to stop him? ; 134  Một Muggle béo như ngươi mà đòi ngăn nó ư?
+English-HarryPotter01-134  Muggle? ; 135  Muggle?
+English-HarryPotter01-135  Non-magic folk. This boy's had his name down since he were born. ; 136  Người ko có phép thuật. Thằng bé này được ghi danh vào trường từ khi nó mới sinh ra
+English-HarryPotter01-136  He's going to the finest school of witchcraft and wizardry. ; 137  Nó sẽ được học tại trường ma thuật và pháp thuật tốt nhất.
+English-HarryPotter01-137  He'll be under the finest headmaster Hogwarts has seen, Albus Dumbledore. ; 138  Thằng bé sẽ được dạy dỗ bởi người hiệu trưởng tài ba nhất Hogwarts, cụ Albus Dumbledore.
+English-HarryPotter01-138  I will not pay to have a crackpot old fool teach him magic tricks. ; 139  Ta sẽ ko trả tiền để một lão già ngu ngốc lập dị dạy thằng bé trò ảo thuật bịp bợm.
+English-HarryPotter01-139  Never insult Albus Dumbledore... ; 140  Ko bao giờ được sỉ nhục cụ Albus Dumbledore...
+English-HarryPotter01-140  ...in front of me. ; 141  ...trước mặt ta.
+English-HarryPotter01-141  I'd appreciate it if you didn't tell anyone at Hogwarts about that. ; 142  Bác rất cảm kích nếu cháu ko kể cho ai ở Hogwarts về việc này.
+English-HarryPotter01-142  - I'm not allowed to do magic. - Okay. ; 143  - Bác ko được phép sử dụng phép thuật. - Được ạ.
+English-HarryPotter01-143  We're a bit behind schedule. Best be off. ; 144  Chúng ta hơi chậm tiến độ một chút. Tốt nhất nên bắt đầu luôn thôi.
+English-HarryPotter01-144  Unless you'd rather stay, of course. ; 145  Trừ khi cháu muốn ở lại.
+English-HarryPotter01-145  "All students must be equipped with... ; 146  "Tất cả học sinh phải được trang bị...
+English-HarryPotter01-146  ...one standard size 2 pewter cauldron... ; 147  ...Một vạc thiếc tiêu chuẩn cỡ 2...
+English-HarryPotter01-147  ...and may bring, if they desire either an owl, a cat or a toad." ; 148  ...và có thể mang theo một con cú hoặc một con mèo hoặc một con cóc."
+English-HarryPotter01-148  Can we find all this in London? ; 149  Có thể mua tất cả thứ này ở Luân Đôn ư?
+English-HarryPotter01-149  If you know where to go. ; 150  Nếu cháu biết chỗ mua.
+English-HarryPotter01-150  Ah, Hagrid! The usual, I presume? ; 151  Ah, anh Hagrid! Vẫn như mọi khi chứ?
+English-HarryPotter01-151  No, thanks, Tom. I'm on official Hogwarts business. ; 152  Ko, cảm ơn Tom! Tôi đang đi làm nhiệm vụ cho Hogwarts.
+English-HarryPotter01-152  Just helping Harry buy his school supplies. ; 153  Chỉ là giúp Harry mua đồ dùng học tập.
+English-HarryPotter01-153  Bless my soul. It's Harry Potter! ; 154  Ôi Chúa ơi. Là Harry Potter!
+English-HarryPotter01-154  Welcome back, Mr. Potter. Welcome back. ; 155  Chúc mừng cậu trở về, cậu Potter. Chúc mừng cậu.
+English-HarryPotter01-155  Doris Crockford. I can't believe I'm meeting you at last. ; 156  Doris Crockford. Ko thể tin là cuối cùng tôi có thể gặp được cậu.
+English-HarryPotter01-156  Harry Potter. Can't tell you how pleased I am to meet you. ; 157  Harry Potter. Thật là hân hạnh cho tôi khi được gặp cậu.
+English-HarryPotter01-157  Hello, professor. I didn't see you. ; 158  Xin chào, Giáo sư. Tôi ko nhìn thấy thầy ở đó.
+English-HarryPotter01-158  Professor Quirrell will be your Defense Against the Dark Arts teacher. ; 159  Giáo sư Quirrell sẽ dạy cháu môn Phòng chống Nghệ thuật Hắc ám.
+English-HarryPotter01-159  Oh, nice to meet you. ; 160  Oh, rất vui được gặp thầy.
+English-HarryPotter01-160  Fearfully fascinating subject. ; 161  Một..cảm giác.. hấp dẫn đáng sợ...
+English-HarryPotter01-161  Not that you need it, eh, Potter? ; 162  Đó..chắc hẳn không phải..là điều cậu cần, phải ko Potter?
+English-HarryPotter01-162  Yes, well, must be going now. Lots to buy. ; 163  Chúng ta phải đi thôi Harry. Còn nhiều thứ phải mua lắm.
+English-HarryPotter01-163  Goodbye. ; 164  Tạm biệt.
+English-HarryPotter01-164  - See, Harry? You're famous. - But why am I famous? ; 165  - Thấy chưa Harry? Cháu rất nổi tiếng. - Nhưng tại sao cháu lại nổi tiếng?
+English-HarryPotter01-165  All those people how is it they know who I am? ; 166  Tất cả những người này làm sao họ biết cháu là ai.
+English-HarryPotter01-166  I'm not sure I'm the right person to tell you that. ; 167  Bác ko chắc bác là người thích hợp để kể cháu nghe chuyện này.
+English-HarryPotter01-167  Welcome, Harry, to Diagon Alley. ; 168  Chào mừng đến "Hẻm Xéo" Harry.
+English-HarryPotter01-168  Here, you get your quills and ink. ; 169  Cháu sẽ mua mực và bút lông ở đây.
+English-HarryPotter01-169  Over there, all your bits and bobs for doing wizardry. ; 170  Ở đây này, tất cả nhưng dụng cụ cho việc sử dụng phép thuật
+English-HarryPotter01-170  It's a world-class racing broom. ; 171  Cái chổi tốt nhất thế giới.
+English-HarryPotter01-171  Look at it! The new Nimbus 2000! ; 172  Trời ơi! Nhìn kìa! Nimbus 2000 mới toanh
+English-HarryPotter01-172  It's the fastest model yet. ; 173  Đây là mẫu nhanh nhất hiện nay.
+English-HarryPotter01-173  But how am I to pay for all this? I haven't any money. ; 174  Nhưng làm sao cháu chi trả được. Cháu ko có tiền.
+English-HarryPotter01-174  There's your money. Gringotts, the wizard bank. ; 175  Tiền của cháu đây Harry. Ngân hàng phù thủy Gringotts.
+English-HarryPotter01-175  Ain't no safer place, not one. Except perhaps Hogwarts. ; 176  Ko có nơi nào an toàn hơn ở đây Tất nhiên là trừ trường Hogwarts
+English-HarryPotter01-176  Hagrid, what exactly are these things? ; 177  Bác Hagrid, chúng là gì vậy?
+English-HarryPotter01-177  They're goblins. Clever as they come but not the most friendly of beasts. ; 178  Chúng là yêu tinh. Chúng là những sinh vật khéo léo nhưng ko hề thân thiện.
+English-HarryPotter01-178  Best stay close. ; 179  Đi gần vào bác nào.
+English-HarryPotter01-179  Mr. Harry Potter wishes to make a withdrawal. ; 180  Harry Potter muốn rút tiền.
+English-HarryPotter01-180  And does Mr. Harry Potter have his key? ; 181  Harry Potter có chìa khóa chứ?
+English-HarryPotter01-181  Wait a minute. Got it here somewhere. ; 182  Đợi một chút. Nó ở đâu đây thôi.
+English-HarryPotter01-182  Ha! There's the little devil. ; 183  Ha! Tìm thấy nó đây rồi.
+English-HarryPotter01-183  And there's something else as well. ; 184  Và còn một vấn đề nữa.
+English-HarryPotter01-184  Professor Dumbledore gave me this. ; 185  Giáo sư Dumbledore đưa tôi cái này.
+English-HarryPotter01-185  It's about You-Know-What in vault you-know-which. ; 186  Đấy là cái mà ông biết là cái gì trong cái hầm ông biết ở đâu.
+English-HarryPotter01-186  Very well. ; 187  Tốt thôi.
+English-HarryPotter01-187  Vault 687. ; 188  Hầm 687.
+English-HarryPotter01-188  Lamp, please. ; 189  Đèn.
+English-HarryPotter01-189  Key, please. ; 190  Chìa khóa.
+English-HarryPotter01-190  Did you think your parents would leave you with nothing? ; 191  Cháu nghĩ rằng bố mẹ cháu ko để lại gì cho cháu sao?
+English-HarryPotter01-191  - Vault 713. - What's in there, Hagrid? ; 192  - Hầm 713. - Cái gì trong này vậy bác Hagrid?
+English-HarryPotter01-192  Can't tell you. Hogwarts business. Very secret. ; 193  Ta ko thể nói cho cháu được. Nhiệm vụ của Hogwarts. Cực kì bí mật.
+English-HarryPotter01-193  Stand back. ; 194  Lùi lại.
+English-HarryPotter01-194  Best not to mention this to anyone. ; 195  Tốt nhất là đừng nói chuyện này cho ai.
+English-HarryPotter01-195  I still need a wand. ; 196  Cháu vẫn cần một cây đũa phép.
+English-HarryPotter01-196  You want Ollivanders. There ain't no place better. ; 197  Vậy hãy đến tiệm Ollivanders. Ko có nơi nào tốt hơn đâu.
+English-HarryPotter01-197  Run along there and wait. I got one more thing to do. ; 198  Sao cháu ko vào đấy đợi. Bác còn vài việc khác phải làm
+English-HarryPotter01-198  Hello? ; 199  Xin chào?
+English-HarryPotter01-199  Hello? ; 200  Có ai ko?
+English-HarryPotter01-200  I wondered when I'd be seeing you, Mr. Potter. ; 201  Ta rất ngạc nhiên khi nhìn thấy cháu, Potter.
+English-HarryPotter01-201  It seems only yesterday... ; 202  Như là vừa mới hôm qua...
+English-HarryPotter01-202  ...that your mother and father were in here buying their first wands. ; 203  ...khi bố mẹ cháu đến đây mua cây đũa phép đầu tiên.
+English-HarryPotter01-203  Here we are. ; 204  Đây rồi.
+English-HarryPotter01-204  Give it a wave. ; 205  Vẫy thử xem.
+English-HarryPotter01-205  Apparently not. ; 206  Có vẻ như ko phải nó.
+English-HarryPotter01-206  Perhaps... ; 207  Có thể là...
+English-HarryPotter01-207  ...this. ; 208  ...cái này.
+English-HarryPotter01-208  No, no, definitely not. No matter. ; 209  Ko, ko, chắc chắn là ko phải. Ko sao.
+English-HarryPotter01-209  I wonder... ; 210  Ta tự hỏi...
+English-HarryPotter01-210  Curious. ; 211  Kỳ lạ.
+English-HarryPotter01-211  Very curious. ; 212  Thật kỳ lạ.
+English-HarryPotter01-212  Sorry, but what's curious? ; 213  Điều gì kỳ lạ cơ ạ ?
+English-HarryPotter01-213  I remember every wand I've ever sold, Mr. Potter. ; 214  Ta nhớ mọi cây đũa mà ta đã từng bán cậu Potter ạ.
+English-HarryPotter01-214  It so happens that the phoenix... ; 215  Ngẫu nhiên làm sao khi con phượng hoàng
+English-HarryPotter01-215  ...whose tail feather resides in your wand, gave another feather. ; 216  đã cho chiếc lông làm đũa của cháu cũng cho thêm một chiếc khác.
+English-HarryPotter01-216  Just one other. ; 217  Chỉ một chiếc nữa thôi.
+English-HarryPotter01-217  It is curious that you should be destined for this wand... ; 218  Thật kỳ lạ là cháu đã được cây đũa này chọn
+English-HarryPotter01-218  ...when its brother gave you that scar. ; 219  khi mà người anh em của nó đã để lại vết sẹo đó.
+English-HarryPotter01-219  And who owned that wand? ; 220  Vậy ai sở hữu chiếc đũa đó?
+English-HarryPotter01-220  We do not speak his name. ; 221  Chúng ta ko nói tên hắn ra.
+English-HarryPotter01-221  The wand chooses the wizard, Mr. Potter. ; 222  Đũa phép chọn phù thủy cậu Potter ạ!
+English-HarryPotter01-222  It's not always clear why. ; 223  Ta ko rõ là tại sao
+English-HarryPotter01-223  But I think it is clear... ; 224  Nhưng ta nghĩ rõ ràng rằng
+English-HarryPotter01-224  ...that we can expect great things from you. ; 225  chúng ta có thể trông đợi những điều vĩ đại từ cháu.
+English-HarryPotter01-225  After all, He-Who-Must-Not-Be-Named... ; 226  Nói cho cùng Kẻ mà ta ko nên gọi tên
+English-HarryPotter01-226  ...did great things. ; 227  đã làm những điều vĩ đại...
+English-HarryPotter01-227  Terrible... ; 228  Khủng khiếp
+English-HarryPotter01-228  ...yes, but great. ; 229  nhưng vĩ đại.
+English-HarryPotter01-229  Harry! Harry! ; 230  Harry! Harry!
+English-HarryPotter01-230  Happy birthday. ; 231  Chúc mừng sinh nhật!
+English-HarryPotter01-231  You all right, Harry? You seem very quiet. ; 232  Cháu ko sao chứ Harry? Sao cháu yên lặng vậy?
+English-HarryPotter01-232  He killed my parents, didn't he? The one who gave me this. ; 233  Hắn đã giết cha mẹ cháu đúng ko? Kẻ đã để lại cho cháu cái này.
+English-HarryPotter01-233  You know, Hagrid. I know you do. ; 234  Bác biết đúng ko bác Hagrid. Cháu biết là bác biết mà
+English-HarryPotter01-234  First, and understand this because it's very important: ; 235  Đầu tiên, bác hiểu rõ chuyện này vì nó rất quan trọng:
+English-HarryPotter01-235  Not all wizards are good. ; 236  Ko phải tất cả các phù thủy đều tốt
+English-HarryPotter01-236  Some of them go bad. A few years ago... ; 237  Một số người trở nên xấu xa. Một vài năm trước
+English-HarryPotter01-237  ...there was a wizard who went as bad as you can go. His name was V... ; 238  một phù thủy đã trở nên độc ác hết mức có thể. Tên hắn là V...
+English-HarryPotter01-238  - His name was V... - Maybe if you wrote it down? ; 239  - Tên hắn là V... - Hay là bác viết nó ra?
+English-HarryPotter01-239  No, I can't spell it. ; 240  Ko, bác ko biết đánh vần nó.
+English-HarryPotter01-240  - All right, Voldemort. - Voldemort? ; 241  - Thôi được rồi, Voldemort. - Voldemort?
+English-HarryPotter01-241  It was dark times, Harry. ; 242  Đó là một thời kỳ đen tối Harry, rất đen tối.
+English-HarryPotter01-242  <i>Voldemort started to gather some followers.</i> ; 243  Voldemort bắt đầu tập hợp môn đệ...
+English-HarryPotter01-243  <i>Brought them over to the Dark Side.</i> ; 244  đưa họ sang bên phe Hắc ám...
+English-HarryPotter01-244  <i>Anyone that stood up to him ended up dead.</i> ; 245  Bất kì ai chống lại hắn đều phải chết.
+English-HarryPotter01-245  <i>Your parents fought against him.</i> ; 246  Bố mẹ cháu đã chiến đầu chống lại hắn
+English-HarryPotter01-246  <i>But nobody lived once he decided to kill them.</i> ; 247  Ko một ai có thể sống sau khi hắn đã quyết định ra tay
+English-HarryPotter01-247  <i>Nobody, not one.</i> ; 248  Ko một ai...
+English-HarryPotter01-248  <i>Except you.</i> ; 249  trừ cháu.
+English-HarryPotter01-249  Me? Voldemort tried to kill me? ; 250  Cháu ư? Voldemort đã cố giết cháu ư?
+English-HarryPotter01-250  Yes. That ain't no ordinary cut on your forehead, Harry. ; 251  Phải, và để lại một vết sẹo ko bình thường trên trán cháu Harry.
+English-HarryPotter01-251  A mark like that only comes from being touched by a curse, an evil curse. ; 252  Vết sẹo như vậy chỉ có khi con gặp phải một lời nguyền, một lời nguyền khủng khiếp.
+English-HarryPotter01-252  What happened to V? To You-Know-Who? ; 253  Chuyện gì xảy ra với V? với kẻ-mà-ai-cũng-biết-là-ai-đấy?
+English-HarryPotter01-253  Well, some say he died. ; 254  Chà, một số người nói hắn đã chết.
+English-HarryPotter01-254  Codswallop, in my opinion. ; 255  Theo ta thì đó là chuyện vớ vẩn.
+English-HarryPotter01-255  Nope, I reckon he's out there still... ; 256  Bác đoán hắn vẫn còn ngoài kia
+English-HarryPotter01-256  ...too tired to carry on. ; 257  ...cố gắng vượt qua khốn khổ để sống.
+English-HarryPotter01-257  But one thing's certain. Something about you stumped him that night. ; 258  Nhưng có một điều chắc chắn rằng có điều gì đó ở cháu đã hạ gục hắn.
+English-HarryPotter01-258  That's why you're famous. That's why everybody knows your name. ; 259  Đấy là lý do cháu nổi tiếng. Lý do mọi người đều biết tên cháu.
+English-HarryPotter01-259  You're the boy who lived. ; 260  Cháu là đứa bé vẫn sống sót
+English-HarryPotter01-260  What are you looking at? ; 261  Nhìn cái quái gì vậy?
+English-HarryPotter01-261  Blimey, is that the time? ; 262  Blimey, đến giờ rồi ư?
+English-HarryPotter01-262  I'm gonna have to leave you. Dumbledore will be wanting his... ; 263  Xin lỗi Harry nhưng bác phải đi rồi. Cụ Dumbledore đang cần...à...
+English-HarryPotter01-263  Well, he'll be wanting to see me. Your train leaves in 10 minutes. ; 264  À, cụ ấy muốn gặp bác. Tàu của cháu sẽ khởi hành 10 phút nữa.
+English-HarryPotter01-264  Here's your ticket. Stick to your ticket that's very important. ; 265  Vé của cháu đây. Giữ vé cẩn thận. Quan trọng lắm đấy.
+English-HarryPotter01-265  "Platform 93/4"? ; 266  "Sân ga 9-3/4"?
+English-HarryPotter01-266  But, Hagrid, there must be a mistake. This says platform 93/4. ; 267  Bác Hagrid, có nhầm lẫn ở đây rồi Ở đây ghi là sân ga 9-3/4.
+English-HarryPotter01-267  There's no such thing, is there? ; 268  Ko hề có sân ga nào như vậy cả.
+English-HarryPotter01-268  Sorry. ; 269  Xin lỗi.
+English-HarryPotter01-269  Excuse me. Excuse me. ; 270  Xin lỗi. Xin lỗi.
+English-HarryPotter01-270  On your left. ; 271  Rẽ trái thưa cô.
+English-HarryPotter01-271  Can you tell me where I might find platform 93/4? ; 272  Xin lỗi, ông có thể nói cho cháu biết sân ga 9-3/4 ở đâu ko?
+English-HarryPotter01-272  Think you're being funny, do you? ; 273  Sân ga 9-3/4. Cháu nghĩ điều đó buồn cười lắm à?
+English-HarryPotter01-273  It's the same every year packed with Muggles. ; 274  Năm nào cũng thế đầy dân cả Muggle.
+English-HarryPotter01-274  - Muggles? - Platform 93/4, this way. ; 275  - Muggle? - Sân ga 9-3/4. Lối này!
+English-HarryPotter01-275  All right, Percy, you first. ; 276  Được rồi Percy. Con đi trước
+English-HarryPotter01-276  Fred, you next. ; 277  Fred, đến lượt con.
+English-HarryPotter01-277  - He's not Fred, I am. - You call yourself our mother? ; 278  - Anh ấy ko phải là Fred. Là con cơ mà. - Thật tình mà nói, chúng con giống hệt nhau mà mẹ
+English-HarryPotter01-278  I'm sorry, George. ; 279  Mẹ xin lỗi, George.
+English-HarryPotter01-279  I'm only joking. I am Fred. ; 280  Con đùa đấy. Con là Fred.
+English-HarryPotter01-280  Excuse me. ; 281  Xin lỗi.
+English-HarryPotter01-281  Could you tell me how to? ; 282  Bác làm ơn cho cháu biết làm thế nào để...
+English-HarryPotter01-282  How to get onto the platform? Not to worry, dear. ; 283  Làm thế nào để vào sân ga chứ gì? Cháu đừng lo.
+English-HarryPotter01-283  It's Ron's first time to Hogwarts as well. ; 284  Đây cũng là lần đầu tiên Ron đến Hogwarts.
+English-HarryPotter01-284  All you do is walk straight at the wall between platforms 9 and 10. ; 285  Cháu chỉ cần đi thằng đến bức tường ở giữa sân ga 9 và 10.
+English-HarryPotter01-285  - Best to run if you're nervous. - Good luck. ; 286  - Tốt nhất là hãy chạy nếu cháu lo lắng. - Chúc may mắn.
+English-HarryPotter01-286  Excuse me. Do you mind? Everywhere else is full. ; 287  Xin lỗi. Cậu ko phiền chứ Những nơi khác hết chỗ rồi.
+English-HarryPotter01-287  Not at all. ; 288  Không có chi.
+English-HarryPotter01-288  I'm Ron, by the way. Ron Weasley. ; 289  Tiện thể mình là Ron. Ron Weasley.
+English-HarryPotter01-289  I'm Harry. Harry Potter. ; 290  Mình là Harry. Harry Potter.
+English-HarryPotter01-290  So it's true! ; 291  Vậy đó là sự thật hả?
+English-HarryPotter01-291  I mean, do you really have the? ; 292  Ý mình là, có đúng là cậu có...
+English-HarryPotter01-292  - The what? - The scar? ; 293  - Có cái gì? - Vết sẹo?
+English-HarryPotter01-293  Wicked! ; 294  Thật đáng sợ!
+English-HarryPotter01-294  - Anything off the trolley, dears? - No, thanks. I'm all set. ; 295  - Mua gì ko các cháu? - Dạ ko, cảm ơn. Cháu có đồ ăn rồi.
+English-HarryPotter01-295  We'll take the lot. ; 296  Chúng cháu sẽ mua nhiều đấy.
+English-HarryPotter01-296  - Bertie Bott's Every Flavor Beans? - They mean every flavor. ; 297  - Đậu Bertie Bott's các vị? - Nghĩa là có đủ tất cả các vị đấy
+English-HarryPotter01-297  There's chocolate and peppermint and also... ; 298  Có vị chocolate, bạc hà và cả
+English-HarryPotter01-298  ...spinach, liver and tripe. ; 299  rau chân vịt, vị ngan, vị lòng bò.
+English-HarryPotter01-299  George sweared he got a booger-flavored one once. ; 300  Anh Geogre đã bị tẩu hỏa nhập ma khi nếm thử 1 lần đấy.
+English-HarryPotter01-300  - Are they real frogs? - It's a spell. You want the cards. ; 301  - Đây ko phải ếch thật đúng ko? - Một phép thuật. Đằng sau mỗi tấm hình có....
+English-HarryPotter01-301  Each pack's got a famous witch or wizard. I've got about 500 meself. ; 302  Mỗi tấm hình có hình một phù thủy nổi tiếng. Mình có tầm 500 cái.
+English-HarryPotter01-302  Watch it! ; 303  Cẩn thận đấy!
+English-HarryPotter01-303  That's rotten luck. They've only got one good jump in them. ; 304  Xui thật đấy. Họ chỉ sản xuất một con nhảy được như thế thôi.
+English-HarryPotter01-304  - I've got Dumbledore! - I got about six of him. ; 305  - Hình Giáo sư Dumbledore! - Mình có 6 hình như thế rồi.
+English-HarryPotter01-305  Hey, he's gone! ; 306  Hey, thầy ấy biến mất rồi này!
+English-HarryPotter01-306  You can't expect him to hang around all day, can you? ; 307  Tất nhiên. Cậu nghĩ thầy rảnh cả ngày để ngồi đây với cậu à?
+English-HarryPotter01-307  This is Scabbers. Pathetic, isn't he? ; 308  Đây là Scabbers. Trông nó thật thảm hại.
+English-HarryPotter01-308  A little. ; 309  Cũng ko đến nỗi.
+English-HarryPotter01-309  Fred gave me a spell to turn him yellow. Want to see? ; 310  Anh Fred đã dạy mình câu thần chú để biến nó thành màu vàng. Cậu có muốn xem ko?
+English-HarryPotter01-310  Yeah. ; 311  Yeah.
+English-HarryPotter01-311  Has anyone seen a toad? ; 312  Các cậu có thấy con cóc nào ko?
+English-HarryPotter01-312  - A boy named Neville's lost one. - No. ; 313  - Neville làm mất con cóc. - Ko.
+English-HarryPotter01-313  Oh, are you doing magic? Let's see, then. ; 314  Oh, cậu đang làm phép hả? Để xem nào.
+English-HarryPotter01-314  <i>Sunshine, daisies, butter mellow</i> ; 315  <i>Ánh nắng mặt trời, hoa cúc, mật bơ</i>
+English-HarryPotter01-315  <i>Turn this stupid, fat rat yellow</i> ; 316  <i>Hãy biến con chuột béo ngu đần này thành màu vàng</i>
+English-HarryPotter01-316  Are you sure that's a real spell? Well, it's not very good, is it? ; 317  Cậu có chắc đấy là một câu thần chú ko? Chà, có vẻ ko ăn thua rồi?
+English-HarryPotter01-317  I've only tried a few simple ones myself... ; 318  Hồi trước mình cũng có thử mấy câu thần chú
+English-HarryPotter01-318  ...but they've all worked for me. ; 319  cái nào cũng linh nghiệm hết.
+English-HarryPotter01-319  For example: ; 320  Ví dụ như:
+English-HarryPotter01-320  <i>Oculus Reparo.</i> ; 321  <i> Oculus Reparo.</i>
+English-HarryPotter01-321  That's better, isn't it? ; 322  Tốt hơn rồi đấy?
+English-HarryPotter01-322  Holy cricket, you're Harry Potter! ; 323  Thật tuyệt vời, cậu là Harry Potter!
+English-HarryPotter01-323  I'm Hermione Granger. And you are? ; 324  Mình là Hermione Granger. Còn cậu?
+English-HarryPotter01-324  - I'm Ron Weasley. - Pleasure. ; 325  - Ron Weasley. - Thật thú vị.
+English-HarryPotter01-325  You two better change into robes. I expect we'll be arriving soon. ; 326  Các cậu mặc áo choàng vào đi. Chúng ta sắp đến nơi rồi.
+English-HarryPotter01-326  You've got dirt on your nose. Did you know? ; 327  Tiện thể, cậu có nhọ ở mũi đấy biết ko?
+English-HarryPotter01-327  Just there. ; 328  Ở chỗ này này.
+English-HarryPotter01-328  Right, then. First years, this way, please! ; 329  Nào nào, năm thứ nhất đi lối này!
+English-HarryPotter01-329  Come on, first years, don't be shy. Come on now, hurry up. ; 330  Năm thứ nhất, đừng ngại. Lối này, nhanh lên.
+English-HarryPotter01-330  - Hello, Harry. - Hi, Hagrid. ; 331  - Chào Harry. - Chào bác Hagrid.
+English-HarryPotter01-331  Right, then. This way to the boats. Come on now, follow me. ; 332  Được rồi, đi theo ta đến chỗ thuyền nào.
+English-HarryPotter01-332  Wicked. ; 333  Thật tuyệt vời.
+English-HarryPotter01-333  Welcome to Hogwarts. ; 334  Chào mừng đến Hogwarts.
+English-HarryPotter01-334  Shortly, you'll pass through these doors and join your classmates. ; 335  Chỉ một lát nữa thôi các em sẽ bước qua cánh cửa này và tham gia bữa tiệc.
+English-HarryPotter01-335  But before you take your seats you must be sorted into your houses. ; 336  Nhưng trước khi vào trong các em sẽ được phân loại để xếp vào các nhà
+English-HarryPotter01-336  They are Gryffindor, Hufflepuff... ; 337  Đấy là nhà Gryffindor, Hufflepuff...
+English-HarryPotter01-337  ...Ravenclaw and Slytherin. ; 338  ...Ravenclaw  và Slytherin.
+English-HarryPotter01-338  While you're here, your house will be like your family. ; 339  Khi các em ở đây, các nhà sẽ như gia đình của các em vậy.
+English-HarryPotter01-339  Your triumphs will earn you points. ; 340  Có thành tích tốt các em sẽ được cộng điểm.
+English-HarryPotter01-340  Any rule-breaking and you will lose points. ; 341  Bất kì việc gì vi phạm nội quy sẽ bị trừ điểm.
+English-HarryPotter01-341  At the end of the year, the house with the most points wins the house cup. ; 342  Cuối năm, nhà nào được nhiều điểm nhất sẽ giành được cúp nhà.
+English-HarryPotter01-342  Trevor! ; 343  Trevor!
+English-HarryPotter01-343  Sorry. ; 344  Em xin lỗi.
+English-HarryPotter01-344  The Sorting Ceremony will begin momentarily. ; 345  Lễ phân loại sẽ bắt đầu trong giây lát nữa thôi.
+English-HarryPotter01-345  It's true then what they're saying on the train. ; 346  Vậy là đúng hả. Trên tàu mọi người đồn rằng
+English-HarryPotter01-346  Harry Potter has come to Hogwarts. ; 347  Harry Potter đã đến Hogwarts.
+English-HarryPotter01-347  Harry Potter? ; 348  Harry Potter?
+English-HarryPotter01-348  This is Crabbe and Goyle. ; 349  Đây là Crabbe và Goyle.
+English-HarryPotter01-349  And I'm Malfoy. ; 350  Mình là Malfoy.
+English-HarryPotter01-350  Draco Malfoy. ; 351  Draco Malfoy.
+English-HarryPotter01-351  Think my name's funny, do you? I've no need to ask yours. ; 352  Mày thấy tên tao buồn cười lắm hả? Tao chẳng cần phải hỏi mày.
+English-HarryPotter01-352  Red hair and a hand-me-down robe? You must be a Weasley. ; 353  Tóc đỏ, áo choàng tự may. Mày chắn chắn  là Weasley.
+English-HarryPotter01-353  You'll find out some wizarding families are better than others. ; 354  Cậu sẽ thấy có những gia đình phù thủy quyền quý hơn những gia đình khác, Potter.
+English-HarryPotter01-354  You don't want to go making friends with the wrong sort. ; 355  Cậu ko muốn kết bạn với loại tầm thường này đâu.
+English-HarryPotter01-355  I can help you there. ; 356  Mình có thể giúp cậu.
+English-HarryPotter01-356  I think I can tell the wrong sort for myself, thanks. ; 357  Cảm ơn, mình tự biết được ai là loại tầm thường.
+English-HarryPotter01-357  We're ready for you now. Follow me. ; 358  Chúng ta sẵn sàng thôi. Theo cô nào.
+English-HarryPotter01-358  The ceiling isn't real. It's bewitched to look like the night sky. ; 359  Trần nhà ko phải là thật đâu. Nó được phù phép để trông giống như bầu trời bên ngoài!
+English-HarryPotter01-359  <i>I read about it in Hogwarts, A History.</i> ; 360  Mình đọc được nó ở cuốn Hogwarts, một lịch sử.
+English-HarryPotter01-360  Will you wait along here, please? ; 361  Các em đứng ở đây nào.
+English-HarryPotter01-361  Now, before we begin... ; 362  Trước khi ta bắt đầu
+English-HarryPotter01-362  ...Professor Dumbledore would like to say a few words. ; 363  Giáo sư Dumbledore muốn nói vài lời với các em.
+English-HarryPotter01-363  I have a few start-of-term notices I wish to announce. ; 364  Thầy có một số điều cần thông báo. Thầy muốn nói rằng...
+English-HarryPotter01-364  The first years, please note... ; 365  Học sinh năm đầu chú ý:
+English-HarryPotter01-365  ...that the Dark Forest is strictly forbidden to all students. ; 366  nghiêm cấm các em đến khu rừng cấm.
+English-HarryPotter01-366  Also, our caretaker, Mr. Filch has asked me to remind you... ; 367  Ngoài ra ông giám thị Filch đã yêu cầu tôi nhắc nhở các em rằng:
+English-HarryPotter01-367  ...that the third-floor corridor is out of bounds... ; 368  hành lang tầng 3 phía bên phải là khu vực cấm
+English-HarryPotter01-368  ...to everyone who does not wish to die a most painful death. ; 369  với những ai ko muốn có một cái chết đau đớn khủng khiếp.
+English-HarryPotter01-369  Thank you. ; 370  Xin cảm ơn!
+English-HarryPotter01-370  When I call your name you will come forth. ; 371  Khi cô gọi tên ai, người đó sẽ bước về phía trước.
+English-HarryPotter01-371  I shall place the Sorting Hat on your head... ; 372  Cô sẽ đội chiếc mũ Phân loại cho các em
+English-HarryPotter01-372  ...and you will be sorted into your houses. ; 373  và các em sẽ được phân vào các nhà.
+English-HarryPotter01-373  Hermione Granger. ; 374  Hermione Granger.
+English-HarryPotter01-374  Oh, no. Okay, relax. ; 375  Được rồi, thư giãn nào!
+English-HarryPotter01-375  Mental, that one, I'm telling you. ; 376  Mình nói cho cậu biết. Nó bị hâm đấy.
+English-HarryPotter01-376  Right, then. Right. ; 377  Phải, phải, đủng rồi.
+English-HarryPotter01-377  Okay. Gryffindor! ; 378  Được rồi. Gryffindor!
+English-HarryPotter01-378  Draco Malfoy. ; 379  Draco Malfoy.
+English-HarryPotter01-379  Slytherin! ; 380  Slytherin!
+English-HarryPotter01-380  Every wizard who went bad was in Slytherin. ; 381  Tất cả những phù thủy hắc ám đều ở Slytherin.
+English-HarryPotter01-381  Susan Bones. ; 382  Susan Bones.
+English-HarryPotter01-382  Harry, what is it? ; 383  Harry chuyện gì vậy?
+English-HarryPotter01-383  Nothing. Nothing, I'm fine. ; 384  Không có gì. Mình ổn!
+English-HarryPotter01-384  Let's see... ; 385  Xem nào..
+English-HarryPotter01-385  I know! Hufflepuff! ; 386  Ta biết rồi! Hufflepuff!
+English-HarryPotter01-386  Ronald Weasley. ; 387  Ronald Weasley.
+English-HarryPotter01-387  Another Weasley! I know just what to do with you. ; 388  Lại một Weasley nữa! Ta biết phải làm gì với cậu rồi.
+English-HarryPotter01-388  Gryffindor! ; 389  Gryffindor!
+English-HarryPotter01-389  Harry Potter. ; 390  Harry Potter.
+English-HarryPotter01-390  Difficult, very difficult. ; 391  Khó đây, khó đây.
+English-HarryPotter01-391  Plenty of courage, I see. Not a bad mind, either. ; 392  Can đảm có thừa trí tuệ cũng ko kém.
+English-HarryPotter01-392  There's talent, oh, yes. ; 393  nếu ko muốn nói là một tài năng.
+English-HarryPotter01-393  And a thirst to prove yourself. ; 394  Khát khao muốn khẳng định bản thân.
+English-HarryPotter01-394  But where to put you? ; 395  Ta nên xếp cậu vào đâu đây?
+English-HarryPotter01-395  Not Slytherin, not Slytherin! ; 396  Đừng là Slytherin, đừng là Slytherin!
+English-HarryPotter01-396  Not Slytherin, eh? Are you sure? ; 397  Ko vào Slytherin à? Cậu chắc chứ?
+English-HarryPotter01-397  You could be great, you know. It's all here, in your head. ; 398  Cậu có thể trở nên vĩ đại. Tất cả mọi thứ đều đã ở trong đầu cậu
+English-HarryPotter01-398  And Slytherin will help you on the way to greatness, no doubt about that. ; 399  Slytherin sẽ khiến cậu trở nên vĩ đại. Ko lưỡng lự ư?
+English-HarryPotter01-399  No? Well, if you're sure. ; 400  Được rồi. Nếu cậu chắc chắn.
+English-HarryPotter01-400  Better be... ; 401  Tốt hơn hết là..
+English-HarryPotter01-401  ...Gryffindor! ; 402  ...Gryffindor!
+English-HarryPotter01-402  Your attention, please. ; 403  Tất cả chú ý, làm ơn.
+English-HarryPotter01-403  Let the feast begin. ; 404  Bắt đầu bữa tiệc nào.
+English-HarryPotter01-404  I'm half and half. ; 405  Mình là một con lai.
+English-HarryPotter01-405  Me dad's a Muggle. Mum's a witch. ; 406  Bố mình là dân Muggle. Mẹ mình là phù thủy.
+English-HarryPotter01-406  Bit of a nasty shock for him when he found out. ; 407  Bố mình hơi sốc một chút khi biết điều đó.
+English-HarryPotter01-407  Percy, who's that teacher talking to Professor Quirrell? ; 408  Anh Percy, người đang nói chuyện với Giáo sư Quirrell là ai?
+English-HarryPotter01-408  Professor Snape head of Slytherin house. ; 409  Giáo sư Snape, chủ nhiệm nhà Slytherin.
+English-HarryPotter01-409  - What's he teach? - Potions. ; 410  - Ông ấy dạy môn gì? - Độc dược.
+English-HarryPotter01-410  But he fancies the Dark Arts. He's been after Quirrell's job for years. ; 411  Nhưng thầy ấy rành môn Nghệ thuật Hắc ám hơn. Thầy ấy muốn công việc của Giáo sư Quinrell nhiều năm rồi.
+English-HarryPotter01-411  Hello! How are you? ; 412  Xin chào! Cháu khỏe chứ?
+English-HarryPotter01-412  Welcome to Gryffindor. ; 413  Chào mừng đến Gryffindor.
+English-HarryPotter01-413  It's the Bloody Baron! ; 414  Là Nam tước đẫm máu!
+English-HarryPotter01-414  Hello, Sir Nicholas. Have a nice summer? ; 415  Xin chào Ngài Nicholas. Nghỉ hè vui vẻ chứ?
+English-HarryPotter01-415  Dismal. Once again, my request to join the Headless Hunt has been denied. ; 416  Dismal. Lời yêu cầu gia nhập Hội Hiệp sĩ Không đầu của tôi lại bị từ chối.
+English-HarryPotter01-416  I know you. You're Nearly Headless Nick. ; 417  Cháu biết ông là ai. Ông là Nick-suýt mất đầu.
+English-HarryPotter01-417  I prefer Sir Nicholas if you don't mind. ; 418  Ta thích cháu gọi ta là Ngài Nicholas hơn!
+English-HarryPotter01-418  "Nearly" headless? How can you be nearly headless? ; 419  Suýt mất đầu á? Tại sao lại có thể suýt mất đầu được chứ?
+English-HarryPotter01-419  Like this. ; 420  Thế này này.
+English-HarryPotter01-420  Gryffindors, follow me, please. Keep up. Thank you. ; 421  Nhà Gryffindors theo anh. Đi nhanh lên nào.
+English-HarryPotter01-421  Ravenclaw, follow me. This way. ; 422  Nhà Ravenclaw đi lối này.
+English-HarryPotter01-422  This is the most direct path to the dormitories. ; 423  Đây là lối đi trực tiếp đến phòng sinh hoạt chung.
+English-HarryPotter01-423  Keep an eye on the staircases. They like to change. ; 424  Để ý mấy cái cầu thang đấy. Chúng hay di chuyển lắm.
+English-HarryPotter01-424  Keep up, please, and follow me. Quickly now, come on. Come on. ; 425  Đi theo anh. Nhớ theo sát nhau Nhanh lên nào. Nhanh lên.
+English-HarryPotter01-425  That picture's moving. ; 426  Mấy bức tranh đang chuyển động kìa.
+English-HarryPotter01-426  - Look at that one. - I think she fancies you. ; 427  - Nhìn bức tranh kia kìa. - Mình nghĩ cô ấy thích cậu đấy.
+English-HarryPotter01-427  - Look! - Who's that girl? ; 428  - Nhìn kìa! - Ai vậy?
+English-HarryPotter01-428  Welcome to Hogwarts. ; 429  Chào mừng đến Hogwarts.
+English-HarryPotter01-429  Password? ; 430  Mật khẩu?
+English-HarryPotter01-430  Caput Draconis. ; 431  Đầu rồng!
+English-HarryPotter01-431  Follow me, everyone. Keep up. Quickly, come on. ; 432  Mọi người theo anh. Theo sát nhau. Nhanh lên nào. Nhanh lên.
+English-HarryPotter01-432  Gather around here. ; 433  Tập trung lại đây nào.
+English-HarryPotter01-433  Welcome to the Gryffindor common room. ; 434  Chào mừng đến với phòng sinh hoạt chung của nhà Gryffindor.
+English-HarryPotter01-434  Boys' dormitory is upstairs to the left. Girls, the same on your right. ; 435  Phòng ngủ của con trai ở trên tầng, bên trái Còn con gái thì ở bên phải.
+English-HarryPotter01-435  Your belongings have already been brought up. ; 436  Đồ đạc của các em đã được chuyển đến.
+English-HarryPotter01-436  Made it! ; 437  Vừa kịp lúc.
+English-HarryPotter01-437  Can you imagine the look on old McGonagall's face if we were late? ; 438  Cậu có thể tưởng tượng khuôn mặt của cô McGonagall khi chúng mình vào lớp muộn ko?
+English-HarryPotter01-438  - That was bloody brilliant! - Thank you for that assessment. ; 439  - Cô ấy là 1 con người khác thường! - Cảm ơn lời khen của em, Weasley.
+English-HarryPotter01-439  It'd be better if I transfigured Mr. Potter and you into a watch. ; 440  Có lẽ sẽ có ích hơn nếu ta biến em và Weasley thành cái đồng hồ đấy nhỉ.
+English-HarryPotter01-440  - Then one of you might be on time. - We got lost. ; 441  - Như thế thì các em sẽ ko đi muộn nữa. - Bọn em bị lạc đường ạ.
+English-HarryPotter01-441  Then perhaps a map? I trust you don't need one to find your seats. ; 442  Vậy thì kiếm lấy cái bản đồ. Chắc các em ko cần bản đồ để tìm chỗ ngồi đâu nhỉ.
+English-HarryPotter01-442  There will be no foolish wand-waving or silly incantations in this class. ; 443  Ko cần phải vẩy đũa phép hay đọc mấy câu thần chú ngớ ngẩn trong lớp này.
+English-HarryPotter01-443  As such, I don't expect many of you to appreciate... ; 444  Tất nhiên, ta ko mong các trò đánh giá đúng
+English-HarryPotter01-444  ...the subtle science and exact art that is potion-making. ; 445  sự khoa học tinh tế và nghệ thuật chính xác của việc bào chế độc dược.
+English-HarryPotter01-445  However, for those select few... ; 446  Tuy nhiên, đối với những sự lựa chọn vài...
+English-HarryPotter01-446  ...who possess the predisposition... ; 447  ...người có khả năng thiên bẩm...
+English-HarryPotter01-447  ...I can teach you how to bewitch the mind... ; 448  Ta có thể dạy các trò cách mê hoặc đầu óc
+English-HarryPotter01-448  ...and ensnare the senses. ; 449  và đánh lừa các giác quan.
+English-HarryPotter01-449  I can tell you how to bottle fame... ; 450  Ta có thể dạy các trò cách đóng chai danh vọng
+English-HarryPotter01-450  ...brew glory and even put a stopper in death. ; 451  pha chế vinh quang và cả... cầm chân thần chết.
+English-HarryPotter01-451  Then again, maybe some of you have come to Hogwarts with abilities... ; 452  Một vài người trong các trò đến Hogwarts tin tưởng khả năng của mình
+English-HarryPotter01-452  ...so formidable that you feel confident enough... ; 453  đến mức các trò thấy đủ tự tin
+English-HarryPotter01-453  ...to not pay attention. ; 454  để ko cần phải chú ý.
+English-HarryPotter01-454  Mr. Potter. ; 455  Trò Potter.
+English-HarryPotter01-455  Our new celebrity. ; 456  Nhân vật nổi tiếng mới của chúng ta.
+English-HarryPotter01-456  What would I get if I added root of asphodel to an infusion of wormwood? ; 457  Nói xem, ta sẽ có gì nếu ta thêm rễ cây lan nhật quang vào dung dịch ngải tây?
+English-HarryPotter01-457  You don't know? Let's try again. ; 458  Trò ko biết? Thử lại lần nữa nào
+English-HarryPotter01-458  Where would you look if I asked you to find a bezoar? ; 459  Nếu ta yêu cầu trò tìm cây bezoar thì trò sẽ tim ở đâu?
+English-HarryPotter01-459  I don't know, sir. ; 460  Thưa thầy, em ko biết.
+English-HarryPotter01-460  What is the difference between monkshood and wolfsbane? ; 461  Vậy điểm khác biệt giữa cây mũ thầy tu và cây phụ tử?
+English-HarryPotter01-461  I don't know, sir. ; 462  Em ko biết thưa thầy.
+English-HarryPotter01-462  Pity. ; 463  Thật thảm hại.
+English-HarryPotter01-463  Clearly, fame isn't everything... ; 464  Rõ ràng nổi tiếng ko phải tất cả
+English-HarryPotter01-464  ...is it, Mr. Potter? ; 465  đúng ko cậu Potter?
+English-HarryPotter01-465  <i>Eye of rabbit, harp string hum Turn this water into rum</i> ; 466  Mắt của thỏ, tiếng đàn hạc Hãy biến nước thành rượu rum
+English-HarryPotter01-466  <i>Eye of rabbit...</i> ; 467  Mắt của thỏ, tiếng đàn hạc...
+English-HarryPotter01-467  What's Seamus trying to do to the water? ; 468  Seamus đang làm gì với cốc nước vậy?
+English-HarryPotter01-468  Turn it to rum. Actually managed a weak tea yesterday, before... ; 469  Biến nó thành rượu. nhưng nó chỉ biến chúng thành trà, trước khi...
+English-HarryPotter01-469  Mail's here. ; 470  Thư đến.
+English-HarryPotter01-470  Can I borrow this? Thanks. ; 471  Mình mượn nó được ko? Cảm ơn.
+English-HarryPotter01-471  Look, Neville's got a Remembrall. ; 472  Nhìn kìa! Neville nhận được quả cầu gợi nhớ.
+English-HarryPotter01-472  I've read about those. The smoke turns red when you've forgotten something. ; 473  Mình đã đọc về cái này. Khói sẽ chuyển màu đó khi bạn quên việc gì đó.
+English-HarryPotter01-473  The problem is, I can't remember what I've forgotten. ; 474  Vấn đề là mình ko nhớ là mình đã quên gì.
+English-HarryPotter01-474  Somebody broke into Gringotts. Listen. ; 475  Ê, Ron. Có kẻ đã đột nhập vào Gringotts. Nghe nè:
+English-HarryPotter01-475  "Believed to be the work of Dark wizards or witches... ; 476  "Sự việc được cho là do những phù thủy của phe Hắc ám gây ra...
+English-HarryPotter01-476  ...Gringotts goblins acknowledge the breach but insist nothing was taken. ; 477  ...các yêu tinh ở Gringotts ko hề biết về vụ đột nhập nhưng họ khẳng định ko có thứ gì bị lấy đi.
+English-HarryPotter01-477  The vault in question, number 713 had been emptied earlier that same day." ; 478  Căn hầm bị đột nhập là hầm số 713 đã được dọn trống trước đó cùng ngày."
+English-HarryPotter01-478  That's odd. That's the vault Hagrid and I went to. ; 479  Thật kì lạ. Đó là căn hầm mà mình và bác Hagrid đã tới.
+English-HarryPotter01-479  - Good afternoon, class. - Good afternoon, Madam Hooch. ; 480  Xin chào cả lớp. Xin chào cô Hooch.
+English-HarryPotter01-480  Good afternoon, Amanda. Good afternoon. ; 481  Chào, Amanda. Xin chào.
+English-HarryPotter01-481  Welcome to your first flying lesson. ; 482  Chào mừng các em đến với buổi học bay đầu tiên.
+English-HarryPotter01-482  What are you waiting for? Step up to your broomstick. ; 483  Còn chờ gì nữa? Các em hãy bước đến bên trái của cán chổi.
+English-HarryPotter01-483  Come on now, hurry up. Stick your hand over the broom and say, "Up." ; 484  Bước lên đi, nhanh lên nào. Giơ tay phải trên cán chổi và hô "Lên".
+English-HarryPotter01-484  Up! ; 485  Lên!
+English-HarryPotter01-485  Up. ; 486  Lên.
+English-HarryPotter01-486  Up. ; 487  Lên.
+English-HarryPotter01-487  Up. Up! ; 488  Lên. Lên!
+English-HarryPotter01-488  With feeling. ; 489  truyền cảm vào.
+English-HarryPotter01-489  Shut up, Harry. ; 490  Im đi, Harry.
+English-HarryPotter01-490  Now, once you've got hold of your broom, I want you to mount it. ; 491  Khi các em đã nắm được cán chổi tôi muốn các hãy trèo lên nó.
+English-HarryPotter01-491  Grip it tight. You don't wanna be sliding off the end. ; 492  Giữ chắc vào. Các em sẽ ko muốn bị trượt khỏi cán chổi đâu.
+English-HarryPotter01-492  When I blow my whistle, I want you to kick off from the ground, hard. ; 493  Khi tôi huýt sáo, tôi muốn các em đạp chân xuống đất thật mạnh.
+English-HarryPotter01-493  Keep your broom steady hover for a moment... ; 494  Giữ chổi của các em thật vững lượn vài vòng
+English-HarryPotter01-494  ...then lean forward slightly and touch back down. ; 495  rồi sau đó tiến về phía trước một cách nhẹ nhàng rồi hạ cánh xuống.
+English-HarryPotter01-495  On my whistle. Three, two... ; 496  Theo tiếng sáo của cô nhé. 3, 2...
+English-HarryPotter01-496  Mr. Longbottom. ; 497  Trò Longbottom.
+English-HarryPotter01-497  - Mr. Longbottom! - Down, down! ; 498  - Trò Longbottom! - Hạ xuống, hạ xuống!
+English-HarryPotter01-498  Neville! ; 499  Neville!
+English-HarryPotter01-499  Come back down this instant! ; 500  Quay lại ngay lập tức.
+English-HarryPotter01-500  Everyone out of the way! ; 501  Các trò tránh ra!
+English-HarryPotter01-501  Is he all right? ; 502  Cậu ấy ổn chứ?
+English-HarryPotter01-502  Oh, dear, it's a broken wrist. Poor boy. Come on now, up you get. ; 503  Trời ạ! Gãy cổ tay.. Tội nghiệp trò. Thôi nào, ngồi dậy nào.
+English-HarryPotter01-503  Keep your feet on the ground while I take him to the hospital wing. ; 504  Các trò đứng nguyên ở đây khi tôi đưa trò Longbottom xuống trạm xá.
+English-HarryPotter01-504  Understand? If I see a single broom in the air... ; 505  Rõ chưa? Nếu tôi thấy bất kì một cái chổi nào ở trên không thì...
+English-HarryPotter01-505  ...the one riding it will be expelled before they can say Quidditch. ; 506  người cưỡi nó sẽ bị tống ra khỏi Hogwarts trước khi nói tới Quidditch.
+English-HarryPotter01-506  Did you see his face? ; 507  Mọi người thấy cái mặt nó ko?
+English-HarryPotter01-507  If he had squeezed this, he'd have remembered to fall on his arse. ; 508  Có khi bà nó gửi cho nó cái này để nó nhớ rằng nó sẽ bị ngã dập mông.
+English-HarryPotter01-508  Give it here, Malfoy. ; 509  Đưa nó đây Malfoy!
+English-HarryPotter01-509  No. I'll leave it somewhere for Longbottom to find. ; 510  Ko. Tao sẽ giấu nó ở đâu đấy để thằng Longbottom phải đi tìm.
+English-HarryPotter01-510  How about on the roof? ; 511  Trên mái nhà thì sao nhỉ?
+English-HarryPotter01-511  What's the matter, Potter? Bit beyond your reach? ; 512  Sao thế Potter? Quá tầm với của mày à?
+English-HarryPotter01-512  Harry, no way! You heard what Madam Hooch said. ; 513  Harry, đừng! Cậu nghe cô Hooch nói gì rồi chứ.
+English-HarryPotter01-513  Besides, you don't know how to fly. ; 514  Thêm nữa, cậu còn chưa biết cách bay
+English-HarryPotter01-514  What an idiot. ; 515  Đúng là đồ đần.
+English-HarryPotter01-515  Give it here or I'll knock you off your broom! ; 516  Đưa nó đây Malfoy nếu ko tao sẽ đá văng mày khỏi cái chổi.
+English-HarryPotter01-516  Is that so? ; 517  Mày có chắc ko?
+English-HarryPotter01-517  Have it your way, then. ; 518  Đi mà lấy nè.
+English-HarryPotter01-518  - Nice going, Harry. - That was wicked, Harry! ; 519  - Làm tốt lắm, Harry. - Thật nguy hiểm đó, Harry!
+English-HarryPotter01-519  Harry Potter! ; 520  Harry Potter!
+English-HarryPotter01-520  Follow me. ; 521  Theo cô.
+English-HarryPotter01-521  You wait here. ; 522  Em đợi ở đây.
+English-HarryPotter01-522  Professor Quirrell, excuse me. Could I borrow Wood for a moment? ; 523  Xin lỗi Giáo sư Quinrrell. Tôi mượn trò Wood một chút được ko?
+English-HarryPotter01-523  Yes, of course. ; 524  Tất nhiên rồi!
+English-HarryPotter01-524  Potter, this is Oliver Wood. Wood, I have found you a Seeker. ; 525  Potter, đây Oliver Wood. Wood, cô vừa tìm được cho em một Tầm thủ.
+English-HarryPotter01-525  Have you heard? Harry Potter's the new Gryffindor Seeker. ; 526  Cô đã nghe gì chưa? Harry Potter sẽ là Tấn thủ mới của là Gryffindor.
+English-HarryPotter01-526  I always knew he'd do well. ; 527  Tôi biết cậu ấy sẽ làm tốt mà.
+English-HarryPotter01-527  Seeker? But first years never make the house teams. ; 528  Tầm thủ ư? Nhưng năm đầu tiên chưa bao giờ được chọn vào đội.
+English-HarryPotter01-528  - You must be the youngest player in... - A century, McGonagall says. ; 529  - Cậu chắc chắn sẽ là cầu thủ trẻ nhất từ.. - ...một thế kỉ nay Giáo sư McGonagall nói vậy.
+English-HarryPotter01-529  Well done, Harry. Wood's just told us. ; 530  Làm tốt lắm Harry. Wood vừa nói cho bọn anh xong.
+English-HarryPotter01-530  Fred and George are on the team. Beaters. ; 531  Anh Fred và George cũng ở trong đội. Là Tấn thủ
+English-HarryPotter01-531  Our job is to make sure you don't get bloodied up too bad. ; 532  Việc của bọn anh là đảm bảo rằng em ko bị đánh cho bầm dập.
+English-HarryPotter01-532  Can't make any promises. Rough game, Quidditch. ; 533  Anh cũng ko thể hứa được. Nó là trò bạo lực, Quidditch.
+English-HarryPotter01-533  But no one's died in years. Someone vanishes occasionally. ; 534  Rất bạo lực nhưng chưa ai chết cả. Chỉ một số người bị tai nạn thôi.
+English-HarryPotter01-534  But they'll turn up in a month or two. ; 535  Nhưng họ sẽ trở lại sau 1 hay 2 tháng.
+English-HarryPotter01-535  Go on. Quidditch is great. Best game there is, and you'll be great too. ; 536  Thôi nào Harry. Quidditch là trò rất tuyệt. Trò chơi tuyệt vời nhất đấy, cậu cũng sẽ trở nên như thế.
+English-HarryPotter01-536  I've never played. What if I make a fool of myself? ; 537  Nhưng tớ chưa từng chơi nó bao giờ. Nhỡ tớ biến mình thành thằng ngốc thì sao?
+English-HarryPotter01-537  You won't make a fool of yourself. It's in your blood. ; 538  Cậu sẽ ko thành thằng ngốc đâu. Nó ở trong máu của cậu rồi.
+English-HarryPotter01-538  You never told me your father was a Seeker too. ; 539  Harry, cậu chưa bao giờ kể cho mình bố cậu cũng là Tầm thủ.
+English-HarryPotter01-539  I didn't know. ; 540  Mình ko biết điều đấy.
+English-HarryPotter01-540  I'm telling you, it's spooky. She knows more about you than you do. ; 541  Mình đang nói với cậu đấy. Thật đáng sợ. Cậu ấy biết nhiều về cậu hơn cả cậu đấy.
+English-HarryPotter01-541  Who doesn't? ; 542  Ai mà lại ko biết chứ.
+English-HarryPotter01-542  What's happening? ; 543  Chuyện gì vây?
+English-HarryPotter01-543  The staircases change, remember? ; 544  Mấy cái cầu thang luôn di chuyển, nhớ ko?
+English-HarryPotter01-544  - Let's go this way. - Before the staircase moves again. ; 545  Đi lối này. trước khi mấy cái cầu thang lại di chuyển lần nữa.
+English-HarryPotter01-545  Does anybody feel like we shouldn't be here? ; 546  Có ai nghĩ rằng chúng ta ko nên vào đây ko?
+English-HarryPotter01-546  We're not supposed to be here. ; 547  Chúng ta ko được phép ở đây.
+English-HarryPotter01-547  This is the third floor. It's forbidden. ; 548  Đây là hành lang tầng 3, là khu vực cấm.
+English-HarryPotter01-548  Let's go. ; 549  Đi thôi.
+English-HarryPotter01-549  - It's Filch's cat! - Run! ; 550  - Mèo của ông giám thị Flitch. - Chạy mau!
+English-HarryPotter01-550  Quick, let's hide through that door! ; 551  Nhanh lên. Trốn sau cánh cửa này.
+English-HarryPotter01-551  - It's locked! - We're done for! ; 552  - Nó bị khóa rồi - Chúng ta tiêu rồi
+English-HarryPotter01-552  Move over! ; 553  Tránh ra
+English-HarryPotter01-553  <i>Alohomora.</i> ; 554  <i>Alohomora.</i>
+English-HarryPotter01-554  Get in. ; 555  Vào đi.
+English-HarryPotter01-555  <i>Alohomora?</i> ; 556  Alohomora?
+English-HarryPotter01-556  <i>Standard Book of Spells chapter seven.</i> ; 557  Sách thần chú cơ bản, chương 7.
+English-HarryPotter01-557  Anyone here, my sweet? ; 558  Có ai ở đây không?
+English-HarryPotter01-558  Come on. ; 559  Đi nào.
+English-HarryPotter01-559  - Filch is gone. - He thinks this door's locked. ; 560  - Ông Filch đi rồi - Chắc ông ý nghĩ cánh cửa này bị khóa.
+English-HarryPotter01-560  - It was locked. - And for good reason. ; 561  - Thì nó bị khóa mà. - Vì một lý do chính đáng.
+English-HarryPotter01-561  What are they doing, keeping a thing like that locked up in a school? ; 562  Họ nghĩ họ đang làm gì vậy? Giữ một cái thứ như vậy ở trong trường.
+English-HarryPotter01-562  Didn't you see what it was standing on? ; 563  Cậu ko nhìn à? Cậu ko thấy nó đứng trên cái gì à?
+English-HarryPotter01-563  I wasn't looking at its feet! I was preoccupied with its heads. ; 564  Mình ko nhìn chân nó. Lúc đấy mình đang mải để ý đến cái đầu.
+English-HarryPotter01-564  Or maybe you didn't notice. There were three! ; 565  Hoặc là cậu ko để ý rằng nó có 3 cái đầu đấy.
+English-HarryPotter01-565  It was standing on a trap door. It wasn't there by accident. ; 566  Nó đứng trên một cái cửa sập. Ko phải ngẫu nhiên mà nó có ở đấy.
+English-HarryPotter01-566  - It's guarding something. - Guarding something? ; 567  - Nó đang canh giữ thứ gì đó. - Canh giữ thứ gì đó ư?
+English-HarryPotter01-567  That's right. Now, if you two don't mind I'm going to bed... ; 568  Đúng vậy. Giờ nếu 2 cậu ko phiền thì mình đi ngủ
+English-HarryPotter01-568  ...before you come up with another idea to get us killed. ; 569  trước khi một trong hai cậu nghĩ ra điều gì đó khiến chúng ta tiêu đời
+English-HarryPotter01-569  Or worse, expelled. ; 570  hoặc tệ hơn là bị đuổi.
+English-HarryPotter01-570  She needs to sort out her priorities. ; 571  Cô ấy cần sắp xếp các ưu tiên của bản thân trước
+English-HarryPotter01-571  Quidditch is easy to understand. Each team has seven players. ; 572  Luật chơi Quidditch rất dễ hiểu. Mỗi đội chơi có 7 người.
+English-HarryPotter01-572  Three Chasers, two Beaters one Keeper and a Seeker. That's you. ; 573  3 Truy thủ, 2 Tấn thủ, 1 Thủ môn và 1 Tầm thủ là em đấy.
+English-HarryPotter01-573  There are three kinds of balls. This one's called the Quaffle. ; 574  Có 3 loại banh Quả này gọi là Quaffle.
+English-HarryPotter01-574  The Chasers handle the Quaffle and try to put it through one of those hoops. ; 575  Các Truy thủ sẽ giữ Quaffle và cố gắng ném nó vào một trong 3 cái vòng kia.
+English-HarryPotter01-575  The Keeper, that's me defends the hoops. With me so far? ; 576  Thủ môn là anh sẽ bảo vệ mấy cái vòng. Có hiểu kịp ko?
+English-HarryPotter01-576  I think so. What are those? ; 577  Em nghĩ là có. Đây là gì?
+English-HarryPotter01-577  You better take this. ; 578  Em nên cầm cái này.
+English-HarryPotter01-578  Careful now, it's coming back. ; 579  Cẩn thận đấy. Nó đang bay trở lại.
+English-HarryPotter01-579  Not bad, Potter. You'd make a fair Beater. ; 580  Ko tồi Potter. Em có thể là Tấn thủ tốt đấy.
+English-HarryPotter01-580  What was that? ; 581  Nó là gì vậy?
+English-HarryPotter01-581  Bludger. Nasty little buggers. ; 582  Bludger. Quả banh nguy hiểm.
+English-HarryPotter01-582  But you are a Seeker. ; 583  Nhưng em là Tầm thủ
+English-HarryPotter01-583  The only thing I want you to worry about is this. ; 584  Thứ duy nhất mà anh muốn em bận tâm đến là cái này
+English-HarryPotter01-584  The Golden Snitch. ; 585  Trái banh Snitch vàng.
+English-HarryPotter01-585  - I like this ball. - You like it now. ; 586  - Em thích trái này. - Tất nhiên rồi.
+English-HarryPotter01-586  Just wait. It's wicked fast and damn near impossible to see. ; 587  Nhưng đợi đã. Nó bay nhanh đến nỗi gần như không thể nhìn thấy.
+English-HarryPotter01-587  What do I do with it? ; 588  Em nên làm gì với nó?
+English-HarryPotter01-588  You catch it. Before the other team's Seeker. ; 589  Em sẽ bắt nó trước Tấn thủ của đội khác.
+English-HarryPotter01-589  You catch this, the game's over. ; 590  Nếu em bắt được nó trò chơi sẽ kết thúc.
+English-HarryPotter01-590  You catch this, Potter and we win. ; 591  Nếu em bắt được nó Potter chúng ta sẽ thắng.
+English-HarryPotter01-591  One of a wizard's most rudimentary skills is levitation... ; 592  Một trong những kĩ năng cơ bản của phù thủy là bay lượn
+English-HarryPotter01-592  ...or the ability to make objects fly. ; 593  hoặc khiến đồ vật có thể bay.
+English-HarryPotter01-593  Do you have your feathers? Good. ; 594  Các em đã chuẩn bị lông chim chưa? Tốt.
+English-HarryPotter01-594  Now, don't forget the nice wrist movement we've been practicing. ; 595  Giờ thì đừng quên cách cử động cổ tay mà chúng ta đã tập luyện.
+English-HarryPotter01-595  The swish and flick. Everyone. ; 596  Sang trọng và nhẹ nhàng. Nào, các em.
+English-HarryPotter01-596  The swish and flick. Good. Oh, and enunciate. ; 597  Sang trọng và nhẹ nhàng. Tốt. Oh, và nói
+English-HarryPotter01-597  <i>Wingardium Leviosa. Off you go, then.</i> ; 598  <i> Wingardium Leviosa. <i> Các em thử đi.
+English-HarryPotter01-598  <i>Wingardium Leviosa.</i> ; 599  <i> Wingardium Leviosa. </i>
+English-HarryPotter01-599  <i>Wingardium Leviosa.</i> ; 600  <i>Wingardium Leviosa.</i>
+English-HarryPotter01-600  No, stop, stop, stop! You're going to take someone's eye out. ; 601  Dừng lại đi. Bạn phải thật sự làm cho nó hiểu.
+English-HarryPotter01-601  <i>Besides, you're saying it wrong. It's Leviosa, not Leviosar.</i> ; 602  Hơn nữa, cậu đọc sai rồi. Là  Leviosa, ko phải Leviosar.
+English-HarryPotter01-602  You do it then, if you're so clever. Go on, go on. ; 603  Cậu giỏi thì đi mà làm đi. Làm đi, làm đi.
+English-HarryPotter01-603  <i>Wingardium Leviosa.</i> ; 604  <i>Wingardium Leviosa.</i>
+English-HarryPotter01-604  Well done! See here, everyone Miss Granger's done it! ; 605  Tốt lắm. Mọi người nhìn đi. Trò Granger làm được rồi.
+English-HarryPotter01-605  Splendid! ; 606  Tuyệt vời!
+English-HarryPotter01-606  Well done, dear. ; 607  Trò làm tốt lắm.
+English-HarryPotter01-607  I think we're going to need another feather over here. ; 608  Em nghĩ ta cần một chiếc lông vũ khác thưa Giáo sư.
+English-HarryPotter01-608  <i>"It's Leviosa, not Leviosar."</i> ; 609  "Là Leviosa, ko phải Leviosar."
+English-HarryPotter01-609  She's a nightmare, honestly! No wonder she hasn't got any friends. ; 610  Thật tình, con nhỏ đó đúng là ác mộng Bảo sao nó ko có bạn.
+English-HarryPotter01-610  I think she heard you. ; 611  Bạn ấy nghe thấy rồi đấy.
+English-HarryPotter01-611  Where's Hermione? ; 612  Hermione đâu?
+English-HarryPotter01-612  Parvati said she wouldn't come out of the bathroom. ; 613  Parvati nói bạn ấy ko chịu ra khỏi phòng vệ sinh.
+English-HarryPotter01-613  She said that she'd been in there all afternoon, crying. ; 614  Bạn ấy khóc trong đó cả buổi chiều.
+English-HarryPotter01-614  Troll in the dungeon! ; 615  Có nguy hiểm ở nhà ngục!
+English-HarryPotter01-615  Troll in the dungeon! ; 616  Quỷ khổng lồ sổng khỏi hầm ngục.
+English-HarryPotter01-616  Thought you ought to know. ; 617  Tôi nghĩ mọi người nên biết.
+English-HarryPotter01-617  Silence! ; 618  Im lặng!
+English-HarryPotter01-618  Everyone will please not panic! ; 619  Tất cả mọi người ko được hoảng sợ!
+English-HarryPotter01-619  Now... ; 620  Bây giờ
+English-HarryPotter01-620  ...prefects will lead their house back to the dormitories. ; 621  các Huynh trưởng sẽ dẫn các em về phòng sinh hoạt chung!
+English-HarryPotter01-621  Teachers will follow me to the dungeons. ; 622  còn các giáo viên sẽ theo tôi đến hầm ngục!
+English-HarryPotter01-622  Gryffindors, keep up, please and stay alert. ; 623  Gryffindors đi sát vào nhau và nhớ cảnh giác.
+English-HarryPotter01-623  How could a troll get in? ; 624  Làm sao Quỷ khổng lồ vào đây được?
+English-HarryPotter01-624  Not on its own. Trolls are really stupid. Probably people playing jokes. ; 625  Mấy con Quỷ đần lắm, nó ko thể tự thoát được. Chắc là mọi người đùa thôi.
+English-HarryPotter01-625  - What? - Hermione! She doesn't know. ; 626  - Cái gì? - Hermione ko biết chuyện gì.
+English-HarryPotter01-626  I think the troll's left the dungeon. ; 627  Mình nghĩ con Quỷ đã ra khỏi hầm rồi.
+English-HarryPotter01-627  It's going into the girls' bathroom. ; 628  Nó đang vào phòng vệ sinh nữ.
+English-HarryPotter01-628  Hermione, move! ; 629  Chạy đi Hermione.
+English-HarryPotter01-629  Help! Help! ; 630  Cứu! Cứu!
+English-HarryPotter01-630  Hey, pea brain! ; 631  Hey, đồ óc bã đậu!
+English-HarryPotter01-631  Help! ; 632  Cứu!
+English-HarryPotter01-632  Do something! ; 633  Làm gì đi chứ!
+English-HarryPotter01-633  - What? - Anything! ; 634  - Làm gì? - Gì cũng được
+English-HarryPotter01-634  - Hurry up! - Swish and flick. ; 635  - Nhanh lên! - Thật tao nhã và nhẹ nhàng.
+English-HarryPotter01-635  <i>Wingardium Leviosa.</i> ; 636  <i>Wingardium Leviosa.</i>
+English-HarryPotter01-636  Cool. ; 637  Tuyệt.
+English-HarryPotter01-637  Is it dead? ; 638  Nó chết chưa vậy?
+English-HarryPotter01-638  I don't think so. Just knocked out. ; 639  Mình ko nghĩ thế. Nó chỉ ngất đi thôi.
+English-HarryPotter01-639  Troll boogers. ; 640  Nước mũi Quỷ!
+English-HarryPotter01-640  Oh, my goodness! Explain yourselves, both of you! ; 641  Ôi Chúa ơi! Hãy giải thích xem nào, cả 2 em.
+English-HarryPotter01-641  - Well, what it is... - It's my fault, Professor McGonagall. ; 642  - À, thật ra là - Là lỗi của em thưa Giáo sư McGonagall.
+English-HarryPotter01-642  Miss Granger? ; 643  Trò Granger?
+English-HarryPotter01-643  I went looking for the troll. I thought I could handle it. ; 644  Em đã đọc về con Quỷ và em đã đi tìm nó. Em nghĩ em có thể xử lý được nó.
+English-HarryPotter01-644  But I was wrong. ; 645  Nhưng em đã nhầm.
+English-HarryPotter01-645  If Harry and Ron hadn't come and found me, I'd probably be dead. ; 646  Nếu Harry và Ron ko đến kịp lúc thì chắc em đã chết rồi.
+English-HarryPotter01-646  Be that as it may, it was an extremely foolish thing to do. ; 647  Nếu là như vậy thì đó đúng là hành động cực kỳ ngu ngốc
+English-HarryPotter01-647  I expected more rational behavior and am very disappointed in you. ; 648  Cô đã mong chờ ở em những hành động đúng đắn hơn đấy. Cô rất thất vọng về em.
+English-HarryPotter01-648  Five points will be taken from Gryffindor... ; 649  Trừ 5 điểm của nhà Gryffindor...
+English-HarryPotter01-649  ...for your serious lack of judgment. ; 650  vì hành động thiếu suy xét ở em.
+English-HarryPotter01-650  As for you two gentlemen... ; 651  Còn 2 quý ông này...
+English-HarryPotter01-651  ...I just hope you realize how fortunate you are. ; 652  ...cô mong các em nhận ra rằng mình may mắn đến cỡ nào.
+English-HarryPotter01-652  Not many first-year students could take on a troll... ; 653  Ko có nhiều học sinh năm đầu có thể cầm chân con Quỷ...
+English-HarryPotter01-653  ...and live to tell the tale. ; 654  ...mà còn sống để kể về nó đâu.
+English-HarryPotter01-654  Five points... ; 655  5 điểm...
+English-HarryPotter01-655  ...will be awarded to each of you... ; 656  ...sẽ được cộng cho mỗi em...
+English-HarryPotter01-656  ...for sheer dumb luck. ; 657  ...vì sự may mắn ngu ngốc này.
+English-HarryPotter01-657  Perhaps you ought to go. It might wake up. ; 658  Các em nên đi đi. Nó có thể tỉnh lại đấy.
+English-HarryPotter01-658  Take a bit of toast, mate. Go on. ; 659  Ăn một ít bánh mì nướng đi.
+English-HarryPotter01-659  Ron's right. You'll need your strength today. ; 660  Ron nói đúng đấy. Cậu cần giữ sức khỏe cho ngày hôm nay.
+English-HarryPotter01-660  I'm not hungry. ; 661  Nhưng mình ko đói.
+English-HarryPotter01-661  Good luck today, Potter. You've proven yourself against a troll. ; 662  Chúc may mắn Potter. Kể cả khi trò đã đánh bại được con Quỷ khổng lồ.
+English-HarryPotter01-662  A game of Quidditch should be easy work. ; 663  Thì Quidditch ko phải là việc dễ dàng
+English-HarryPotter01-663  Even if it is against Slytherin. ; 664  Nhất là khi phải đối đầu với nhà Slytherin.
+English-HarryPotter01-664  - That explains the blood. - Blood? ; 665  - Đấy là lý do thầy ấy bị thương. - Bị thương?
+English-HarryPotter01-665  Last night, I'm guessing Snape let the troll in as a diversion... ; 666  Mình đoán tối qua thầy Snape đã thả con Quỷ để đánh lạc hướng mọi người...
+English-HarryPotter01-666  ...so he could get past that dog. ; 667  ...như vậy thầy ấy có thể vượt qua con chó.
+English-HarryPotter01-667  But he got bit that's why he's limping. ; 668  Nhưng thầy ấy đã để bị cắn đấy là lý do thầy đi tập tễnh.
+English-HarryPotter01-668  But why would anyone go near that dog? ; 669  Nhưng ai lại muốn lại gần con chó đấy chứ?
+English-HarryPotter01-669  At Gringotts, Hagrid took something out of the vault. ; 670  Ở Gringotts, bác Hagrid đã lấy một vật ở cái hầm.
+English-HarryPotter01-670  Said it was Hogwarts business very secret. ; 671  Bác ấy nói đấy là nhiệm vụ bí mật của Hogwarts.
+English-HarryPotter01-671  You're saying... ; 672  Cậu đang muốn nói là...
+English-HarryPotter01-672  That's what the dog's guarding. That's what Snape wants. ; 673  Đấy là thứ mà con chó đang canh giữ. Đấy là thứ mà thầy Snape muốn.
+English-HarryPotter01-673  - Bit early for mail, isn't it? - But I never get mail. ; 674  - Hơi sớm để gửi thư nhỉ? - Nhưng mình chưa bao giờ được nhận thư.
+English-HarryPotter01-674  Let's open it. ; 675  Mở ra đi.
+English-HarryPotter01-675  It's a broomstick. ; 676  Là một cái chổi.
+English-HarryPotter01-676  That's not just a broomstick it's a Nimbus 2000! ; 677  Ko phải chổi thường đâu Harry. Là Nimbus 2000!
+English-HarryPotter01-677  But who? ; 678  Nhưng là của ai?
+English-HarryPotter01-678  - Scared, Harry? - A little. ; 679  - Sợ chứ Harry? - Cũng hơi hơi.
+English-HarryPotter01-679  It's all right. I felt the same way before my first game. ; 680  Ko sao đâu. Anh cũng có cảm giác như thế ở trận đầu tiên của anh.
+English-HarryPotter01-680  - What happened? - I don't really remember. ; 681  - Chuyện gì đã xảy ra? - Anh ko nhớ rõ lắm.
+English-HarryPotter01-681  I took a Bludger to the head two minutes in. ; 682  Anh bị một quả Bludge vào đầu sau 2 phút
+English-HarryPotter01-682  Woke up in hospital a week later. ; 683  rồi tỉnh dậy ở bệnh viện sau 1 tuần
+English-HarryPotter01-683  Welcome to Hogwarts' first Quidditch game of the season. ; 684  Chào mừng đến với trận Quidditch đầu tiên của mùa giải tại Hogwarts.
+English-HarryPotter01-684  Today's game Slytherin versus Gryffindor! ; 685  Hôm nay là trận đấu giữa Slytherin và Gryffindor!
+English-HarryPotter01-685  The players take their positions... ; 686  Các cầu thủ đã vào vị trí..
+English-HarryPotter01-686  ...as Madam Hooch steps onto the field to begin the game! ; 687  ...cô Hooch bước ra sân để bắt đầu trận đấu
+English-HarryPotter01-687  Now, I want a nice, clean game... ; 688  Tôi muốn các em phải chơi một trận...
+English-HarryPotter01-688  ...from all of you! ; 689  ...thật hay, thật đẹp!
+English-HarryPotter01-689  The Bludgers are up followed by the Golden Snitch. ; 690  Trái Bludgers bay ra theo sau là trái Snitch vàng.
+English-HarryPotter01-690  Remember, the Snitch is worth 150 points. ; 691  Hãy nhớ, trái Snitch sẽ mang lại 150 điểm.
+English-HarryPotter01-691  The Seeker who catches the Snitch ends the game. ; 692  Tầm thủ đội nào bắt được trái Snitch thì trận đấu sẽ kết thúc.
+English-HarryPotter01-692  The Quaffle is released and the game begins! ; 693  Trái Quaffle đã được tung ra. Và trận đấu bắt đầu.
+English-HarryPotter01-693  Angelina Johnson scores! Ten points for Gryffindor! ; 694  Angelina Johnson ghi điểm! 10 điểm cho Gryffindor!
+English-HarryPotter01-694  Well done! ; 695  Giỏi lắm!
+English-HarryPotter01-695  Slytherin takes the Quaffle. Bletchley passes to Captain Marcus Flint. ; 696  Slytherin  bắt được trái Quaffle. Bletchley đã qua mặt được Thủ quân Marcus Flint.
+English-HarryPotter01-696  Another 10 points to Gryffindor! ; 697  10 điểm nữa cho Gryffindor!
+English-HarryPotter01-697  Give me that! ; 698  Đưa cho tao!
+English-HarryPotter01-698  Take that side! ; 699  Qua bên đó!
+English-HarryPotter01-699  What's going on with Harry's broomstick? ; 700  Chuyện gì xảy ra với cái chổi của Harry vậy?
+English-HarryPotter01-700  It's Snape. He's jinxing the broom! ; 701  Là thầy Snape. Thầy ấy đang yểm bùa cái chổi.
+English-HarryPotter01-701  - Jinxing the broom? What do we do? - Leave it to me. ; 702  - Yểm bùa cái chổi á? Chúng ta phải làm gì bây giờ? - Để đấy cho mình.
+English-HarryPotter01-702  Come on, Hermione! ; 703  Nhanh lên nào Hermione!
+English-HarryPotter01-703  <i>Lacarnum Inflamarae.</i> ; 704  <i>Lacarnum Inflamarae.</i>
+English-HarryPotter01-704  Fire! You're on fire! ; 705  Cháy! Thầy đang bị cháy kìa!
+English-HarryPotter01-705  Go, go, go, go! ; 706  Go, go, go, go!
+English-HarryPotter01-706  Looks like he's gonna be sick. ; 707  Thằng bé như sắp nôn vậy.
+English-HarryPotter01-707  He's got the Snitch! ; 708  Cậu ấy bắt được trái Snitch!
+English-HarryPotter01-708  Harry Potter receives 150 points for catching the Snitch! ; 709  Harry Potter giành được 150 điểm vì bắt được trái Snitch!
+English-HarryPotter01-709  Gryffindor wins! ; 710  Gryffindor thắng!
+English-HarryPotter01-710  Nonsense! Why would Snape put a curse on Harry's broom? ; 711  Thật vô lý! Tại sao thầy Snape lại yểm bùa lên chổi của Harry?
+English-HarryPotter01-711  Who knows? Why was he trying to get past that three-headed dog? ; 712  Ai mà biết được? Tại sao thầy ấy lại cố vượt qua con chó 3 đầu vào đêm lễ hội ma?
+English-HarryPotter01-712  - Who told you about Fluffy? - Fluffy? ; 713  - Ai nói cho các cháu biết về Fluffy? - Fluffy?
+English-HarryPotter01-713  - That thing has a name? - Of course he has a name. He's mine. ; 714  - Vậy cái thứ đó có tên ạ? - Tất nhiên là nó có tên rồi. Nó là của bác.
+English-HarryPotter01-714  I bought him off an Irishman. I lent him to Dumbledore to guard... ; 715  Bác mua nó của một gã Ai-len mà bác gặp ở quán rượu năm ngoái. Bác cho cụ Dumbledore để canh giữ...
+English-HarryPotter01-715  Shouldn't have said that. No more questions! That's top-secret. ; 716  Đáng lẽ bác ko nên nói điều đó. Ko hỏi thêm gì nữa. Đấy là bí mật.
+English-HarryPotter01-716  But whatever Fluffy's guarding Snape's trying to steal it. ; 717  Nhưng bác Hagrid cho dù Fluffy đang canh giữ cái gì thì thầy Snape cũng cố đánh cắp nó.
+English-HarryPotter01-717  Codswallop. Professor Snape is a Hogwarts teacher. ; 718  Chuyện vớ vẩn. Giáo sư Snape là giáo viên ở Hogwarts.
+English-HarryPotter01-718  Teacher or not, I know a spell when I see one. I've read all about them. ; 719  Kể cả là giáo viên Hogwarts hay ko. Cháu biết kiểu thần chú đó khi cháu nhìn thấy. Cháu đã đọc về nó trước đây.
+English-HarryPotter01-719  You've got to keep eye contact and Snape wasn't blinking. ; 720  Ta phải nhìn chăm chú vào người đó. Mà thầy Snape thì ko hề nhấp nháy mắt.
+English-HarryPotter01-720  Exactly. ; 721  Chính xác.
+English-HarryPotter01-721  Now, you listen to me all three of you. ; 722  Cả 3 cháu nghe ta nói này.
+English-HarryPotter01-722  You're meddling in things that ought not to be meddled in. It's dangerous. ; 723  Các cháu đang nhúng mũi vào việc ko nên biết. Rất nguy hiểm đấy.
+English-HarryPotter01-723  What that dog is guarding is between Dumbledore and Nicholas Flamel. ; 724  Dù con chó có canh giữ cái gì thì đó là chuyện giữa cụ Dumbledore và Nicholas Flamel.
+English-HarryPotter01-724  Nicholas Flamel? ; 725  Nicholas Flamel?
+English-HarryPotter01-725  I shouldn't have said that. I should not have said that. ; 726  Mình ko nên nói điều đó. Mình ko nên nói điều đó.
+English-HarryPotter01-726  Nicholas Flamel. Who's Nicholas Flamel? ; 727  Nicholas Flamel. Nicholas Flamel là ai?
+English-HarryPotter01-727  I don't know. ; 728  Mình ko biết.
+English-HarryPotter01-728  <i>Merry Christmas Merry Christmas</i> ; 729  <i>Merry Christmas Merry Christmas</i>
+English-HarryPotter01-729  <i>Ring the Hogwart bell</i> ; 730  <i>Ring the Hogwart bell</i>
+English-HarryPotter01-730  <i>Merry Christmas Merry Christmas</i> ; 731  <i>Merry Christmas Merry Christmas</i>
+English-HarryPotter01-731  <i>Cast a Christmas spell</i> ; 732  <i>Cast a Christmas spell</i>
+English-HarryPotter01-732  Knight to e5. ; 733  Mã sang e5.
+English-HarryPotter01-733  Queen to e5. ; 734  Hậu sang e5.
+English-HarryPotter01-734  That's totally barbaric! ; 735  Thật là dã man.
+English-HarryPotter01-735  That's wizard's chess. I see you've packed. ; 736  Đây là cờ phù thủy. Cậu đang thu xếp hành lý à?
+English-HarryPotter01-736  I see you haven't. ; 737  Còn cậu thì ko.
+English-HarryPotter01-737  Change of plans. My parents went to Romania to visit my brother Charlie. ; 738  Thay đổi kế hoạch ý mà. Bố mẹ mình quyết định đến Romania để thăm anh Charlie.
+English-HarryPotter01-738  - He's studying dragons there. - Good. You can help Harry. ; 739  - Anh ấy đang nghiên cứu về rồng ở đó. - Tốt. Vậy thì cậu có thể giúp Harry.
+English-HarryPotter01-739  He's going to the library to look up Nicholas Flamel. ; 740  Cậu ấy sẽ đến thư viện để tìm hiểu về Nicholas Flamel.
+English-HarryPotter01-740  We've looked a hundred times! ; 741  Chúng ta đã tìm cả trăm lần rồi.
+English-HarryPotter01-741  Not in the restricted section. Happy Christmas. ; 742  Ở khu vực hạn chế thì chưa. Giáng sinh vui vẻ.
+English-HarryPotter01-742  I think we've had a bad influence on her. ; 743  Mình nghĩ chúng ta đã gây ảnh hưởng xấu đến bạn ý.
+English-HarryPotter01-743  Harry, wake up! Come on, Harry, wake up! ; 744  Harry, dậy đi! Nhanh lên nào Harry. Dậy đi.
+English-HarryPotter01-744  - Happy Christmas, Harry. - Happy Christmas, Ron. ; 745  - Giáng sinh vui vẻ Harry. - Giáng sinh vui vẻ Ron.
+English-HarryPotter01-745  What are you wearing? ; 746  Cậu đang mặc cái gì vậy?
+English-HarryPotter01-746  Oh, my mum made it. Looks like you've got one too. ; 747  Mẹ mình may nó đấy. Có vẻ như cậu cũng có một cái.
+English-HarryPotter01-747  - I've got presents? - Yeah. ; 748  - Mình có quà ư? - Yeah.
+English-HarryPotter01-748  There they are. ; 749  Chúng đây.
+English-HarryPotter01-749  "Your father left this in my possession before he died. ; 750  "Bố con đã để lại cái này cho ta trước khi ông ấy qua đời.
+English-HarryPotter01-750  It is time it was returned to you. Use it well." ; 751  Đã đến lúc trao nó lại cho con. Hãy biết tận dụng nó."
+English-HarryPotter01-751  - What is it? - Some kind of cloak. ; 752  - Cái gì đấy? - Hình như là cái áo choàng.
+English-HarryPotter01-752  Well, let's see, then. Put it on. ; 753  Chà, cậu mặc thử vào xem nào.
+English-HarryPotter01-753  My body's gone! ; 754  Người mình biến mất rồi này.
+English-HarryPotter01-754  I know what that is. That's an invisibility cloak! ; 755  Mình biết nó là cái gì. Đấy là chiếc áo choàng tàng hình.
+English-HarryPotter01-755  I'm invisible? ; 756  Mình tàng hình ư?
+English-HarryPotter01-756  They're really rare. I wonder who gave it to you. ; 757  Áo này rất hiếm đấy. Ko biết ai đã gửi nó cho cậu nhỉ.
+English-HarryPotter01-757  There was no name. It just said, "Use it well." ; 758  Ko có tên người gửi. Nó chỉ nói "Hãy biết tận dụng nó".
+English-HarryPotter01-758  <i>Famous Fire-Eaters. Fifteenth-Century Fiends.</i> ; 759  <i>Những người ăn lửa nổi tiếng. Quái vật thế kỷ 15.</i>
+English-HarryPotter01-759  Flamel. Nicholas Flamel. Where are you? ; 760  Flamel. Nicholas Flamel. Ông ở đâu?
+English-HarryPotter01-760  Who's there? ; 761  Ai ở đấy?
+English-HarryPotter01-761  I know you're in there. You can't hide. ; 762  Ta biết mi đang ở đấy. Mi ko trốn được đâu.
+English-HarryPotter01-762  Who is it? Show yourself. ; 763  Là ai? Lộ mặt đi.
+English-HarryPotter01-763  Severus, I... ; 764  Severus, tôi...
+English-HarryPotter01-764  You don't want me as your enemy, Quirrell. ; 765  Ông ko muốn tôi thành kẻ thù của ông chứ Quirrell.
+English-HarryPotter01-765  - I don't know what you mean. - You know perfectly well what I mean. ; 766  - Tôi ko hiểu ông đang nói gì. - Ông hiểu rất rõ tôi đang nói gì mà.
+English-HarryPotter01-766  We'll have another little chat soon. ; 767  Chúng ta sẽ nói chuyện sau
+English-HarryPotter01-767  When you've had time to decide where your loyalties lie. ; 768  khi ông có đủ thì giờ để cân nhắc nên đặt lòng trung thành ở đâu.
+English-HarryPotter01-768  Professors. I found this in the restricted section. ; 769  Giáo sư, tôi tìm thấy cái này ở khu vực cấm.
+English-HarryPotter01-769  It's still hot. That means there's a student out of bed. ; 770  Nó vẫn còn nóng. Vậy là có học sinh đã ra khỏi giường.
+English-HarryPotter01-770  Mum? ; 771  Mẹ?
+English-HarryPotter01-771  Dad? ; 772  Bố?
+English-HarryPotter01-772  Ron, you've really gotta see this! Ron, you've gotta see this! ; 773  Ron, cậu phải xem cái này. Ron, cậu phải xem cái này.
+English-HarryPotter01-773  Ron, come on, get out of bed! ; 774  Nhanh lên Ron, ra khỏi giường thôi.
+English-HarryPotter01-774  - Why? - There's something you've got to see! ; 775  - Tại sao? - Có thứ này cậu phải xem.
+English-HarryPotter01-775  Come on! Come! Come look, it's my parents! ; 776  Nhanh lên! Đi nào! Lại nhìn đi. Đấy là bố mẹ mình.
+English-HarryPotter01-776  I only see us. ; 777  Mình chỉ thấy chúng ta thôi.
+English-HarryPotter01-777  Look in properly. Go on, stand there. ; 778  Nhìn thẳng vào. Lại đây. Đứng đây này.
+English-HarryPotter01-778  - There. You see them, don't you? - That's me! Only I'm head boy. ; 779  - Đấy, cậu thấy họ rồi chứ? - Đấy là mình, mình là người đứng đầu.
+English-HarryPotter01-779  And I'm holding the Quidditch Cup. ; 780  và mình đang cầm cúp Quidditch.
+English-HarryPotter01-780  And bloody hell! I'm Quidditch captain too! ; 781  Cái quái gì vậy? Mình là Thủ quân Quidditch luôn này.
+English-HarryPotter01-781  I look good. ; 782  Mình trông rất tuyệt.
+English-HarryPotter01-782  Harry, do you think this mirror shows the future? ; 783  Harry, cậu có nghĩ cái gương này dự báo tương lai ko?
+English-HarryPotter01-783  How can it? Both my parents are dead. ; 784  Làm sao được. Bố mẹ mình đều chết rồi mà.
+English-HarryPotter01-784  Back again, Harry? ; 785  Lại trở lại hả Harry?
+English-HarryPotter01-785  I see that you like many before you... ; 786  Ta thấy con cũng như những người trước đó
+English-HarryPotter01-786  ...have discovered the delights of the Mirror of Erised. ; 787  đã khám phá ra niềm vui sướng mà chiếc gương ảo ảnh mang lại.
+English-HarryPotter01-787  I trust by now you realize what it does. ; 788  Ta tin rằng bây giờ con đã thấy được nó có tác dụng gì.
+English-HarryPotter01-788  Let me give you a clue. ; 789  Để ta gợi ý nhé.
+English-HarryPotter01-789  The happiest man on earth... ; 790  Người đàn ông hạnh phúc nhất thế gian
+English-HarryPotter01-790  ...would look in the mirror and see only himself... ; 791  khi nhìn vào gương sẽ chỉ nhìn thấy bản thân anh ta
+English-HarryPotter01-791  ...exactly as he is. ; 792  đúng bản thân anh ta.
+English-HarryPotter01-792  So then, it shows us what we want. Whatever we want. ; 793  Vì vậy, tấm gương chỉ cho ta thấy những gì ta muốn. Bất cứ thứ gì.
+English-HarryPotter01-793  Yes. And no. ; 794  Cũng đúng mà cũng sai.
+English-HarryPotter01-794  It shows us nothing more or less... ; 795  Nó chỉ cho chúng ta thấy điều ước ao
+English-HarryPotter01-795  ...than the deepest and most desperate desires of our hearts. ; 796  tha thiết nhất trong tim, ko hơn ko kém.
+English-HarryPotter01-796  Now you, Harry, who have never known your family... ; 797  Còn con, Harry. Con chưa từng nhìn thấy người thân của mình
+English-HarryPotter01-797  ...you see them standing beside you. ; 798  nên con nhìn thấy họ đứng cạnh con trong gương.
+English-HarryPotter01-798  But remember this, Harry. ; 799  Nhưng hãy nhớ điều này, Harry.
+English-HarryPotter01-799  This mirror gives us neither knowledge... ; 800  Tấm gương này ko hề cho ta kiến thức
+English-HarryPotter01-800  ...or truth. ; 801  hay sự thật.
+English-HarryPotter01-801  Men have wasted away in front of it. Even gone mad. ; 802  Nhiều người đã phí thời gian đứng trước nó. Có người còn phát điên
+English-HarryPotter01-802  That is why tomorrow it will be moved to a new home. ; 803  Vì vậy, ngày mai thầy sẽ chuyển cái gương đi nơi khác.
+English-HarryPotter01-803  And I must ask you... ; 804  Và thầy phải yêu cầu con
+English-HarryPotter01-804  ...not to go looking for it again. ; 805  ko được đi tìm nó nữa.
+English-HarryPotter01-805  It does not do to dwell on dreams... ; 806  Nó ko đáng để ta khiến ta mê đắm
+English-HarryPotter01-806  ...and forget to live. ; 807  mà quên đi hiện tại.
+English-HarryPotter01-807  I had you looking in the wrong section. How could I be so stupid? ; 808  Mình đã nhờ các cậu tìm sai chỗ rồi. Sao mình lại ngốc đến vậy nhỉ.
+English-HarryPotter01-808  I checked this out weeks ago for a bit of light reading. ; 809  Mình đã thử tìm trong những loại nhẹ nhàng hơn tuần trước.
+English-HarryPotter01-809  This is light? ; 810  Đây là nhẹ nhàng hơn á?
+English-HarryPotter01-810  Of course! Here it is! ; 811  Tất nhiên. Đây này.
+English-HarryPotter01-811  Nicholas Flamel is the only known maker of the Philosopher's Stone. ; 812  Nicholas Flamel được biết đến là người duy nhất tạo ra Hòn đá Phù thủy.
+English-HarryPotter01-812  The what? ; 813  Cái gì cơ?
+English-HarryPotter01-813  Honestly, don't you two read? ; 814  Sao hai cậu ko đọc đi?
+English-HarryPotter01-814  "The Philosopher's Stone is a legendary substance with astonishing powers. ; 815  "Hòn đá Phù thủy là một loại vật chất huyền thoại có sức mạnh kỳ lạ.
+English-HarryPotter01-815  It'll transform any metal into pure gold... ; 816  Nó biến mọi kim loại thành vàng nguyên chất
+English-HarryPotter01-816  ...and produces the Elixir of Life which will make the drinker immortal." ; 817  và tạo ra thuốc Trường sinh khiến người uống trở nên bất tử."
+English-HarryPotter01-817  - Immortal? - It means you'll never die. ; 818  - Bất tử? - Nghĩa là ko bao giờ chết.
+English-HarryPotter01-818  I know what it means! ; 819  Tớ biết điều này có nghĩa là gì!
+English-HarryPotter01-819  "The only Stone currently in existence belongs to Mr. Nicholas Flamel... ; 820  "Hòn đá duy nhất đang tồn tại hiện nay thuộc về cụ Nicholas Flamel
+English-HarryPotter01-820  ...the noted alchemist who last year celebrated his 665th birthday." ; 821  nhà giả kim nổi tiếng vừa kỉ niệm sinh nhật lần thứ 655 của mình."
+English-HarryPotter01-821  That's what Fluffy's guarding. ; 822  Đó là thứ mà Fluffy đang canh giữ.
+English-HarryPotter01-822  That's what's under the trap door. The Philosopher's Stone. ; 823  Là thứ ở bên dưới cái cửa sập. Hòn đá Phù thủy.
+English-HarryPotter01-823  Don't wish to be rude but I'm in no state to entertain. ; 824  Chào, xin lỗi, ko muốn bất lịch sự đâu nhưng ta ko có thời gian để tiếp đã các cháu.
+English-HarryPotter01-824  We know about the Philosopher's Stone. ; 825  Bọn cháu đã biết về Hòn đá Phù thủy.
+English-HarryPotter01-825  - We think Snape's trying to steal it. - Are you still on about him? ; 826  - Bọn cháu nghĩ Snape đang cố lấy trộm nó. - Snape? Các cháu vẫn nghi ngờ thầy ấy?
+English-HarryPotter01-826  We know he's after it. We don't know why. ; 827  Chúng cháu biết thầy ấy đứng sau chuyện này nhưng ko biết tại sao.
+English-HarryPotter01-827  Snape is one of the teachers protecting the Stone. He won't steal it. ; 828  Thầy Snape là một trong những giáo viên bảo vệ hòn đá. Thầy ấy sẽ ko đánh cắp nó.
+English-HarryPotter01-828  What? ; 829  Cái gì?
+English-HarryPotter01-829  You heard. Come on I'm a bit preoccupied today. ; 830  Cháu nghe rồi đấy. Thôi nào hôm nay bác hơi bận..
+English-HarryPotter01-830  Wait a minute. "One of the teachers"? ; 831  Đợi đã, " một trong những giáo viên" ạ?
+English-HarryPotter01-831  There are other things defending the Stone, aren't there? ; 832  Tất nhiên. Còn có những thứ khác bảo vệ hòn đá, đúng ko ạ?
+English-HarryPotter01-832  - Spells, enchantments. - Right. ; 833  - Phép thuật, bùa chú. - Đúng đấy.
+English-HarryPotter01-833  Waste of bloody time, if you ask me. ; 834  Hỏi ta chỉ phí thời gian thôi.
+English-HarryPotter01-834  Ain't no one gonna get past Fluffy. ; 835  Ko ai có thể qua mặt được Fluffy.
+English-HarryPotter01-835  Ain't a soul knows how except for me and Dumbledore. ; 836  Cũng ko ai biết cách trừ bác và Cụ Dumbledore
+English-HarryPotter01-836  I shouldn't have told you that. I should not have told you that. ; 837  Ta ko nên nói điều đó Ta ko nên nói điều đó.
+English-HarryPotter01-837  - Hagrid, what exactly is that? - That? It's... ; 838  - Bác Hagrid, nó là cái gì vậy? - À, nó là....
+English-HarryPotter01-838  I know what that is! ; 839  Cháu biết nó là cái gì.
+English-HarryPotter01-839  But, Hagrid, how did you get one? ; 840  Nhưng bác Hagrid, làm sao bác có được nó?
+English-HarryPotter01-840  I won it. Off a stranger I met down at the pub. ; 841  Ta thắng được nó từ một gã lạ mặt trong quán rượu.
+English-HarryPotter01-841  Seemed quite glad to be rid of it as a matter of fact. ; 842  Hắn có vẻ mừng khi tống được nó cho ta.
+English-HarryPotter01-842  Is that... ; 843  Nó là..
+English-HarryPotter01-843  ...a dragon? ; 844  ..một con rồng?
+English-HarryPotter01-844  That's not just a dragon. That's a Norwegian Ridgeback. ; 845  Ko chỉ là một con rồng thôi đâu. Nó là giống Hắc long Na Uy.
+English-HarryPotter01-845  My brother works with these in Romania. ; 846  Anh trai Charlie của mình nghiên cứu về nó ở Romania.
+English-HarryPotter01-846  Isn't he beautiful? Oh, bless him. Look, he knows his mummy. ; 847  Nó ko đẹp sao? Nhìn kìa, nó biết ai là mẹ của nó.
+English-HarryPotter01-847  Hello, Norbert. ; 848  Xin chào, Norbert.
+English-HarryPotter01-848  - Norbert? - He's gotta have a name, don't he? ; 849  - Norbert? - Đúng, nó phải có một cái tên chứ.
+English-HarryPotter01-849  Don't you, Norbert? ; 850  Đúng ko hả Norbert?
+English-HarryPotter01-850  He'll have to be trained up a bit of course. ; 851  Nó cần phải được huấn luyện một chút.
+English-HarryPotter01-851  Who's that? ; 852  Ai đấy?
+English-HarryPotter01-852  Malfoy. ; 853  Malfoy.
+English-HarryPotter01-853  Oh, dear. ; 854  Ôi trời ạ.
+English-HarryPotter01-854  Hagrid always wanted a dragon. Told me so the first time I met him. ; 855  Bác Hagrid luôn muốn có một con rồng. Bác ý nói với mình khi mình gặp bác ý lần đầu.
+English-HarryPotter01-855  It's crazy. And worse, Malfoy knows. ; 856  Thật là điên rồ. Và tệ hơn là Malfoy đã biết.
+English-HarryPotter01-856  - I don't understand. Is that bad? - It's bad. ; 857  - Mình ko hiểu. Tệ đến thế sao? - Đúng đấy.
+English-HarryPotter01-857  Good evening. ; 858  Chào buổi tối.
+English-HarryPotter01-858  Nothing, I repeat, nothing... ; 859  Ko điều gì, ta nhắc lại, ko điều gì...
+English-HarryPotter01-859  ...gives a student the right to walk about at night. ; 860  ...cho học sinh cái quyền đi lang thang vào buổi tối.
+English-HarryPotter01-860  Therefore, as punishment for your actions 50 points will be taken. ; 861  Để trừng phạt cho hành động này ta sẽ trừ các con 50 điểm.
+English-HarryPotter01-861  - 50?! - Each. ; 862  - 50?! - Mỗi người.
+English-HarryPotter01-862  To ensure it doesn't happen again... ; 863  Để đảm bảo việc này ko xảy ra lần nữa...
+English-HarryPotter01-863  ...all four of you will receive detention. ; 864  ...cả 4 trò sẽ bị cấm túc.
+English-HarryPotter01-864  Excuse me, professor perhaps I heard you wrong. ; 865  Xin lỗi, thưa Giáo sư hình như em nghe nhầm.
+English-HarryPotter01-865  I thought you said the four of us. ; 866  HÌnh như cô nói là cả 4 chúng em?
+English-HarryPotter01-866  No, you heard me correctly. ; 867  Ko, em nghe đúng đấy Malfoy.
+English-HarryPotter01-867  Honorable as your intentions were you too were out of bed after hours. ; 868  Phần thưởng xứng đáng cho ý định của em. Ko phải em cũng ra khỏi giường sao?
+English-HarryPotter01-868  You will join your classmates in detention. ; 869  Em cũng sẽ bị cấm túc.
+English-HarryPotter01-869  A pity they let the old punishments die. ; 870  Thật đáng tiếc là người ta đã bỏ cách trừng phạt cũ.
+English-HarryPotter01-870  Was a time detention found you hanging by your thumbs in the dungeons. ; 871  Như là giam giữ, trói bọn mi trong ngục tối.
+English-HarryPotter01-871  God, I miss the screaming. ; 872  Trời ạ, ta nhớ những tiếng la hét.
+English-HarryPotter01-872  You'll be serving detention with Hagrid tonight. ; 873  Tối nay bọn mi sẽ bị cấm túc cùng Hagrid.
+English-HarryPotter01-873  He's got a little job to do inside the Dark Forest. ; 874  Lão ta có một số việc nho nhỏ phải làm trong rừng cấm.
+English-HarryPotter01-874  A sorry lot, this, Hagrid. ; 875  Rất chia buồn Hagrid.
+English-HarryPotter01-875  Good God, you're not still on about that bloody dragon, are you? ; 876  Trời ạ. Ông vẫn buồn vì cái con rồng chết tiệt đấy hả?
+English-HarryPotter01-876  Norbert's gone. ; 877  Norbert đi rồi.
+English-HarryPotter01-877  Dumbledore sent him off to Romania to live in a colony. ; 878  Dumbledore gửi trả nó về sống cùng bầy đàn ở Romania.
+English-HarryPotter01-878  That's good, isn't it? He's with his own kind. ; 879  Tốt đấy chứ. Nó sẽ được ở cùng đồng loại.
+English-HarryPotter01-879  What if he don't like Romania? ; 880  Nhỡ nó ko thích Romania thì sao?
+English-HarryPotter01-880  What if the other dragons are mean to him? He's only a baby. ; 881  Nhỡ những con rồng khác đối xử tệ với nó? Nói cho cùng thì nó vẫn còn nhỏ.
+English-HarryPotter01-881  For God's sake, pull yourself together. You're going into the Forest. ; 882  Vì Chúa. cố mà đi cùng nhau. Bọn mi sẽ vào khu rừng cấm .
+English-HarryPotter01-882  Got to have your wits about you. ; 883  Sẽ có việc cho bọn mi ở đấy.
+English-HarryPotter01-883  The Forest? I thought that was a joke. We can't go in there. ; 884  Rừng cấm ư? Em tưởng là đùa chứ. Bọn em ko được vào đấy.
+English-HarryPotter01-884  Students aren't allowed. And there are... ; 885  Học sinh ko được phép vào. Và còn có cả...
+English-HarryPotter01-885  ...werewolves. ; 886  Người Sói.
+English-HarryPotter01-886  There's more than werewolves in those trees. ; 887  Còn nhiều thứ khác ngoài Người Sói ở trong những đám cây.
+English-HarryPotter01-887  You can be sure of that. ; 888  Mi chắc chắn sẽ tin điều đó đấy.
+English-HarryPotter01-888  Nighty-night. ; 889  Chúc một buổi tối tốt lành!
+English-HarryPotter01-889  Right. Let's go. ; 890  Được rồi. Đi thôi.
+English-HarryPotter01-890  Hagrid, what is that? ; 891  Hagrid, cái gì vây?
+English-HarryPotter01-891  What we're here for. See that? ; 892  Lý do mà chúng ta ở đây. Thấy gì ko?
+English-HarryPotter01-892  That's unicorn blood, that is. I found one dead a few weeks ago. ; 893  Đây là máu Bạch kỳ mã. Bác tìm thấy 1 con đã chết vài tuần trước.
+English-HarryPotter01-893  Now, this one's been hurt bad by something. ; 894  Bây giờ đây, con này đang bị thương rất nặng bởi 1 thứ gì đấy.
+English-HarryPotter01-894  So, it's our job to go and find the poor beast. ; 895  Vậy nên việc của chúng ta là đi tìm con vật đáng thương kia.
+English-HarryPotter01-895  Ron, Hermione, come with me. ; 896  Ron, Hermione, đi cùng bác.
+English-HarryPotter01-896  And, Harry, you'll go with Malfoy. ; 897  Còn Harry, cháu đi cùng Malfoy.
+English-HarryPotter01-897  Okay. Then I get Fang. ; 898  Được thôi, thế thì cháu sẽ lấy con Fang.
+English-HarryPotter01-898  Fine. Just so you know he's a bloody coward. ; 899  Tốt thôi. Nói để cháu biết. Nó là con vật hèn nhát đấy.
+English-HarryPotter01-899  Wait till my father hears about this. This is servant's stuff. ; 900  Đợi đến khi cha tao nghe được chuyện này xem. Đây là việc của người hầu.
+English-HarryPotter01-900  If I didn't know better I'd say you were scared. ; 901  Nếu tao đoán ko nhầm thì là mày đang sợ đúng ko.
+English-HarryPotter01-901  I'm not scared, Potter. ; 902  Tao ko sợ, Potter.
+English-HarryPotter01-902  Do you hear that? ; 903  Nghe thấy gì ko?
+English-HarryPotter01-903  Come on, Fang. ; 904  Đi nào Fang.
+English-HarryPotter01-904  Scared! ; 905  Đừng sợ!
+English-HarryPotter01-905  What is it, Fang? ; 906  Cái gì vậy Fang?
+English-HarryPotter01-906  Harry Potter, you must leave. You are known to many creatures here. ; 907  Harry Potter, cậu phải đi ngay. Khá nhiều sinh vật biết cháu đang ở đây.
+English-HarryPotter01-907  The Forest is not safe at this time. Especially for you. ; 908  Rừng cấm hiện không an toàn. Đặc biệt là với cậu.
+English-HarryPotter01-908  What was that thing you saved me from? ; 909  Chú vừa bảo vệ cháu khỏi cái gì vậy?
+English-HarryPotter01-909  A monstrous creature. It is a terrible crime to slay a unicorn. ; 910  Một sinh vật kỳ dị. Thật kinh khủng khi giết chết 1 con bạch kỳ mã.
+English-HarryPotter01-910  Drinking its blood will keep you alive even if you are an inch from death. ; 911  Uống máu của nó sẽ giúp cậu sống kể cả khi cậu đang cận kề cái chết.
+English-HarryPotter01-911  But at a terrible price. For you have slain something so pure... ; 912  nhưng phải trả một cái giá rất khủng khiếp. Vì cậu giết chết 1 thứ quá thuần khiết...
+English-HarryPotter01-912  ...that the moment the blood touches your lips, you will have a half-life. ; 913  ..vào giây phút môi cậu chạm vào dòng máu đó cậu sẽ chỉ là kẻ sống nhờ.
+English-HarryPotter01-913  A cursed life. ; 914  một cuộc sống bị nguyền rủa.
+English-HarryPotter01-914  - Who would choose such a life? - Can you think of no one? ; 915  - Ai lại đi chọn 1 cuộc sống như vậy chứ? - Cậu ko nghĩ được ai sao?
+English-HarryPotter01-915  Do you mean to say that that thing that killed the unicorn... ; 916  Ý chú là kẻ đã giết con bạch kỳ mã
+English-HarryPotter01-916  ...that was drinking its blood that was Voldemort? ; 917  uống máu của nó là Voldemort?
+English-HarryPotter01-917  Do you know what is hidden in the school at this very moment? ; 918  Cậu có biết cái gì đang được giấu trong trường ngay lúc này đây ko?
+English-HarryPotter01-918  The Philosopher's Stone. ; 919  Hòn đá Phù thủy.
+English-HarryPotter01-919  Harry! ; 920  Harry!
+English-HarryPotter01-920  Hello there, Firenze. See you've met our young Mr. Potter. ; 921  Xin chào  Firenze. Vậy là cậu đã gặp Mr. Potter rồi đấy.
+English-HarryPotter01-921  You all right there, Harry? ; 922  Cháu ổn chứ Harry?
+English-HarryPotter01-922  Harry Potter this is where I leave you. ; 923  Harry Potter, tôi sẽ để cậu ở lại đây.
+English-HarryPotter01-923  You're safe now. Good luck. ; 924  Giờ cậu đã an toàn. Chúc may mắn!
+English-HarryPotter01-924  You mean, You-Know-Who is out there right now in the Forest? ; 925  Ý cậu là Kẻ-mà-ai-cũng-biết-là-ai-đấy đang ở trong rừng cấm à?
+English-HarryPotter01-925  But he's weak. He's living off the unicorns. ; 926  Nhưng hắn đang rất yếu. Hắn phải sống nhờ máu của bạch kỳ mã.
+English-HarryPotter01-926  Don't you see? We had it wrong. ; 927  Các cậu ko thấy à? Chúng ta đã nhầm.
+English-HarryPotter01-927  Snape doesn't want the Stone for himself. He wants it for Voldemort. ; 928  Snape ko muốn Hòn đá cho hắn. Hắn muốn cho Voldemort.
+English-HarryPotter01-928  With the Elixir of Life Voldemort will be strong again. ; 929  Với thuốc Trường Sinh Voldemort sẽ lại trở nên hùng mạnh.
+English-HarryPotter01-929  He'll come back. ; 930  Hắn sẽ lại xuất hiện.
+English-HarryPotter01-930  But if he comes back... ; 931  Nhưng nếu hắn quay lại...
+English-HarryPotter01-931  ...you don't think he'll try to kill you, do you? ; 932  ...cậu ko nghĩ là hắn sẽ lại cố giết cậu chứ?
+English-HarryPotter01-932  If he'd had the chance he might have tried tonight. ; 933  Nếu hắn có cơ hội, hắn có thể giết mình ngay tối nay.
+English-HarryPotter01-933  And to think I've been worrying about my Potions final. ; 934  Còn mình thì lo lắng về bài thi Độc dược cuối năm.
+English-HarryPotter01-934  Hang on a minute. We're forgetting one thing. ; 935  Đợi đã. Chúng mình quên mất một điều.
+English-HarryPotter01-935  Who's the one wizard Voldemort always feared? ; 936  Ai là vị pháp sư duy nhất mà Voldemort luôn khiếp sợ nhỉ?
+English-HarryPotter01-936  Dumbledore. As long as Dumbledore is around, Harry, you're safe. ; 937  Cụ Dumbledore. Chừng nào cụ Dumbledore còn ở quanh đây thì cậu còn an toàn, Harry ạ
+English-HarryPotter01-937  As long as Dumbledore is around you can't be touched. ; 938  Cụ Dumbledore còn ở đây thì hắn sẽ ko động đến cậu.
+English-HarryPotter01-938  I'd heard Hogwarts' final exams were frightful, but I found that enjoyable. ; 939  Mình được nghe là bài kiểm tra cuối năm của Hogward rất đáng sợ. Nhưng mình nhận thấy là nó cực thú vị.
+English-HarryPotter01-939  Speak for yourself. All right there, Harry? ; 940  Cứ lải nhải đi. Sao thế Harry?
+English-HarryPotter01-940  - My scar. It keeps burning. - It's happened before. ; 941  - Vết sẹo của mình. Nó lại đau. - Việc này đã xảy ra trước đây.
+English-HarryPotter01-941  - Not like this. - You should see the nurse. ; 942  - Ko giống thế này. - Có lẽ cậu nên đi gặp y tá.
+English-HarryPotter01-942  I think it's a warning. It means danger's coming. ; 943  Mình nghĩ nó đang báo hiệu rằng nguy hiểm đang đến.
+English-HarryPotter01-943  - Of course! - What is it? ; 944  - Tất nhiên rồi! - Gì vậy?
+English-HarryPotter01-944  Isn't it odd that what Hagrid wants more than anything is a dragon... ; 945  Thật là kỳ quặc khi mà thứ bác Hagrid muốn nhất là một con rồng ...
+English-HarryPotter01-945  ...and a stranger just happens to have one? ; 946  ...và một kẻ lạ mặt lại xuất hiện với một con rồng?
+English-HarryPotter01-946  How many people wander around with dragon eggs? ; 947  Ý mình là có bao nhiêu người lại đi lang thang với một quả trứng rồng trong túi?
+English-HarryPotter01-947  Why didn't I see it before? ; 948  Sao mình lại ko nhận ra điều đấy trước đây nhỉ?
+English-HarryPotter01-948  Who gave you the egg? What did he look like? ; 949  Bác Hagrid. Ai đã cho bác quả trứng rồng? Hắn trông như thế nào??
+English-HarryPotter01-949  I never saw his face. He kept his hood up. ; 950  Bác ko biết. Bác ko nhìn thấy mặt hắn. Hắn ta cứ giữ chặt cái mũ trùm đầu.
+English-HarryPotter01-950  You and this stranger must have talked. ; 951  Dù vậy thì bác cũng có nói chuyện với hắn chứ??
+English-HarryPotter01-951  He wanted to know what sort of creatures I looked after. ; 952  Hắn muốn biết về loại sinh vật mà bác đang nuôi.
+English-HarryPotter01-952  I said, "After Fluffy a dragon's gonna be no problem." ; 953  Bác bảo hắn: Sau Fluffy, một con rồng thì cũng ko có vấn đề gì.
+English-HarryPotter01-953  - Was he interested in Fluffy? - Of course he was interested. ; 954  - Hắn có thấy thích thú khi bác nói về Fluffy ko? - Tất nhiên là có.
+English-HarryPotter01-954  How often do you come across a three-headed dog? ; 955  Cháu đã bao giờ được nghe về một con chó ba đầu chưa?? Kể cả trong một cuộc trao đổi.
+English-HarryPotter01-955  But I told him, "The trick with any beast is to know how to calm him." ; 956  Nhưng bác nói với hắn: " Bí quyết với bất kỳ con quái vật nào là phải biết cách làm cho nó bình tĩnh"
+English-HarryPotter01-956  Take Fluffy, for example. Play him music and he falls straight to sleep. ; 957  Lấy Fluffy làm ví dụ nhé. Cho nó nghe một bản nhạc, nó sẽ chìm vào giấc ngủ ngay.
+English-HarryPotter01-957  I shouldn't have told you that. ; 958  Đáng lẽ ta ko nên nói điều đó.
+English-HarryPotter01-958  Where are you going? ; 959  Các cháu đi đâu vậy??
+English-HarryPotter01-959  We have to see Dumbledore. Immediately! ; 960  Bọn em cần phải đi gặp Giáo sư Dumbledore ngay lập tức!
+English-HarryPotter01-960  I'm afraid he's not here. ; 961  Ta e là Giáo sư Dumbledore ko có ở đây.
+English-HarryPotter01-961  He received an urgent owl from the Ministry of Magic and left. ; 962  Thầy ấy nhận được con cú khẩn từ Bộ pháp thuật và ngay lập tức đến Luân Đôn rồi.
+English-HarryPotter01-962  He's gone? But this is important! ; 963  Thầy ấy đi rồi ạ?? Nhưng là chuyện quan trọng!
+English-HarryPotter01-963  This is about the Philosopher's Stone! ; 964  Đó là về Hòn đá Phù thủy!
+English-HarryPotter01-964  - How do you know? - Someone's going to try and steal it. ; 965  - Làm sao mà trò biết? - Có người đang cố gắng đánh cắp nó.
+English-HarryPotter01-965  I don't know how you know but I assure you it is well protected. ; 966  Ta ko biết làm thế nào các trò lại biết về Hòn đá,nhưng ta đảm bảo với các trò là nó đang được bảo vệ rất tốt.
+English-HarryPotter01-966  Now would you go back to your dormitories? Quietly. ; 967  Còn bây giờ, các trò nên quay về phòng sinh hoạt chung một cách yên lặng.
+English-HarryPotter01-967  That was no stranger Hagrid met. It was Snape. ; 968  Bác Hagrid chẳng gặp kẻ lạ mặt nào cả. Đó là thầy Snape.
+English-HarryPotter01-968  Which means he knows how to get past Fluffy. ; 969  Nghĩa là thấy ấy đã biết làm thế nào đả qua mặt con Fluffy.
+English-HarryPotter01-969  - And with Dumbledore gone... - Good afternoon. ; 970  - Và với việc Cụ Dumbledore đã rời đi... - Chào.
+English-HarryPotter01-970  What would three young Gryffindors... ; 971  Điều gì làm ba đứa trẻ nhà Gryffindors...
+English-HarryPotter01-971  ...be doing inside on a day like this? ; 972  ...lại ở trong nhà vào một ngày như thế này hả??
+English-HarryPotter01-972  - We were just... - You ought to be careful. ; 973  - Chúng em chỉ... - Các trò nên cẩn thận.
+English-HarryPotter01-973  People will think you're... ; 974  Mọi người sẽ nghĩ là các trò...
+English-HarryPotter01-974  ...up to something. ; 975  ...đang âm mưu chuyện gì đấy.
+English-HarryPotter01-975  Now what do we do? ; 976  Giờ thì ta làm gì đây?
+English-HarryPotter01-976  We go down the trap door. Tonight. ; 977  Chúng ta sẽ xuống chỗ cửa sập. Tối nay.
+English-HarryPotter01-977  Trevor. ; 978  Trevor.
+English-HarryPotter01-978  Trevor, go! You shouldn't be here! ; 979  Trevor, đi đi. Cậu ko nên ở đây.
+English-HarryPotter01-979  Neither should you. You're sneaking out again, aren't you? ; 980  Các cậu cũng vậy. Các cậu lại lẩn ra ngoài chứ gì??
+English-HarryPotter01-980  - Neville, listen. We were... - No, I won't let you! ; 981  - Neville, nghe này. Bọn tớ... - Mình, mình ko cho các bạn làm vậy đâu!
+English-HarryPotter01-981  You'll get Gryffindor into trouble again. I'll fight you. ; 982  Các cậu sẽ lại khiến nhà Gryffindor gặp rắc rối. Mình sẽ đánh nhau với các cậu.
+English-HarryPotter01-982  <i>Neville, I'm really sorry about this. Petrificus Totalus.</i> ; 983  Neville, mình rất rất xin lỗi về chuyện này. Petrificus Totalus
+English-HarryPotter01-983  You're a little scary sometimes you know that? ; 984  Thỉnh thoảng cậu cũng ghê gớm đấy chứ.
+English-HarryPotter01-984  Brilliant, but scary. ; 985  Thông minh nhưng đáng sợ.
+English-HarryPotter01-985  Let's go. ; 986  Đi thôi.
+English-HarryPotter01-986  - Sorry. - It's for your own good, you know. ; 987  - Xin lỗi. - Chỉ là muốn tốt cho cậu thôi.
+English-HarryPotter01-987  - You stood on my foot! - Sorry. ; 988  - Cậu giẫm lên chân mình rồi! - Xin lỗi.
+English-HarryPotter01-988  <i>Alohomora.</i> ; 989  <i>Alohomora.</i>
+English-HarryPotter01-989  Wait a minute. He's... ; 990  Chờ đã. Nó đang...
+English-HarryPotter01-990  ...snoring. ; 991  ...ngáy.
+English-HarryPotter01-991  Snape's already been here. He's put a spell on the harp. ; 992  Thầy Snape đã ở đây rồi. Thầy ấy đã niệm chú cho cái đàn hạc.
+English-HarryPotter01-992  It's got horrible breath. ; 993  Hơi thở của nó hôi quá.
+English-HarryPotter01-993  - We have to move its paw. - What? ; 994  - Phải kéo chân nó ra chỗ khác. - Gì cơ??
+English-HarryPotter01-994  Come on! ; 995  Nhanh nào!
+English-HarryPotter01-995  Okay. Push. ; 996  Thôi được. Đẩy đi.
+English-HarryPotter01-996  I'll go first. Don't follow until I give you a sign. ; 997  Mình sẽ đi trước. Đừng có theo cho đến khi mình ra hiệu nhé.
+English-HarryPotter01-997  If something bad happens get yourselves out. ; 998  Nếu có chuyện tồi tệ xảy ra thì hãy ra khỏi đây ngay.
+English-HarryPotter01-998  Does it seem a bit quiet to you? ; 999  Sao lại có vẻ im ắng thế nhỉ??
+English-HarryPotter01-999  The harp. ; 1000  Cái đàn.
+English-HarryPotter01-1000  It's stopped playing. ; 1001  Nó ngừng chơi rồi.
+English-HarryPotter01-1001  Jump! ; 1002  Nhảy đi!
+English-HarryPotter01-1002  Lucky this plant thing's here, really. ; 1003  May là có mấy cái cây này.
+English-HarryPotter01-1003  Stop moving, both of you. This is Devil's Snare. ; 1004  Cả 2 người, đừng cử động nữa. Đấy là Tấm lưới Sa Tăng.
+English-HarryPotter01-1004  You have to relax. If you don't it will only kill you faster. ; 1005  Các cậu phải thư giãn. Nếu ko nó sẽ càng giết các cậu nhanh hơn đấy.
+English-HarryPotter01-1005  Kill us faster? Oh, now I can relax! ; 1006  Giết chúng ta nhanh hơn ư? Giờ mình có thể thư giãn được rồi đấy!
+English-HarryPotter01-1006  Hermione! ; 1007  Hermione!
+English-HarryPotter01-1007  - Now what are we gonna do? - Just relax! ; 1008  - Ta phải làm gì bây giờ? - Thư giãn đi!
+English-HarryPotter01-1008  - Hermione, where are you? - Do what I say! Trust me. ; 1009  - Hermione, cậu đâu rồi? - Làm theo những gì mình nói. Tin mình đi.
+English-HarryPotter01-1009  - Are you okay? - Yeah, I'm fine. ; 1010  - Cậu ổn chứ? - Ừ, mình ổn.
+English-HarryPotter01-1010  - He's not relaxing, is he? - Apparently not. ; 1011  - Cậu ấy ko thể thư giãn được đúng ko?? - Chắc chắn là ko rồi.
+English-HarryPotter01-1011  - We've gotta do something. - What? ; 1012  - Chúng mình phải làm gì đó. - Làm gì chứ??
+English-HarryPotter01-1012  I remember reading something in Herbology. ; 1013  Mình nhớ là đã đọc về chúng trong những cuốn Thảo mộc học.
+English-HarryPotter01-1013  Devil's Snare, Devil's Snare. It's deadly fun... ; 1014  Tấm lưới Sa Tăng. Chúng gây chết chóc...
+English-HarryPotter01-1014  ...but will sulk in the sun! That's it! It hates sunlight. ; 1015  ...nhưng sẽ biến mất khi mặt trời lên. Đúng rồi. Chúng ghét ánh sáng.
+English-HarryPotter01-1015  <i>Lumus Solem.</i> ; 1016  <i>Lumus Solem.</i>
+English-HarryPotter01-1016  - Ron, you okay? - Yeah. ; 1017  - Ron, cậu ổn chứ?? - Yeah.
+English-HarryPotter01-1017  Lucky we didn't panic. ; 1018  May là chúng ta ko hoảng sợ.
+English-HarryPotter01-1018  Lucky Hermione pays attention in Herbology. ; 1019  May là Hermione đã để tâm đến môn Thảo mộc học.
+English-HarryPotter01-1019  What is that? ; 1020  Cái gì vậy??
+English-HarryPotter01-1020  I don't know. Sounds like wings. ; 1021  Mình ko biết. Nghe như tiếng vỗ cánh.
+English-HarryPotter01-1021  Curious. I've never seen birds like these. ; 1022  Kỳ lạ thật. Mình chưa từng thấy những con chim như thế này.
+English-HarryPotter01-1022  They're not birds. They're keys. ; 1023  Chúng ko phải chim mà là chìa khóa.
+English-HarryPotter01-1023  And I'll bet one of them fits that door. ; 1024  Và mình cá là một trong số chúng mở được cánh cửa kia.
+English-HarryPotter01-1024  - What's this all about? - I don't know. ; 1025  - Cái này để làm gì? - Mình ko biết.
+English-HarryPotter01-1025  Strange. ; 1026  Thật kỳ lạ.
+English-HarryPotter01-1026  <i>Alohomora!</i> ; 1027  <i>Alohomora!</i>
+English-HarryPotter01-1027  Well, it was worth a try. ; 1028  Chà, cũng đáng để thử lắm.
+English-HarryPotter01-1028  What will we do? There must be a thousand keys. ; 1029  Ta sẽ làm gì?? Có hàng nghìn chiếc chìa khóa ở đây.
+English-HarryPotter01-1029  We want a big, old-fashioned one. Probably rusty. ; 1030  Ta cần tìm cái nào trông to kiểu xưa, có lẽ hơi rỉ.
+English-HarryPotter01-1030  I see it! The one with the broken wing. ; 1031  Mình thấy rồi! Cái bị mẻ cánh ý.
+English-HarryPotter01-1031  What's wrong? ; 1032  Sao vậy Harry?
+English-HarryPotter01-1032  It's too simple. ; 1033  Thật quá đơn giản.
+English-HarryPotter01-1033  Go on! If Snape could catch it on that old broomstick, you can. ; 1034  Nhanh lên Harry! Nếu thầy Snape có thể bắt được chìa khóa trên cái chổi cũ đó thì cậu cũng có thể.
+English-HarryPotter01-1034  You're the youngest Seeker in a century. ; 1035  Cậu là Tầm thủ trẻ nhất thế kỷ này mà.
+English-HarryPotter01-1035  This complicates things a bit. ; 1036  Có vẻ hơi rắc rối một chút.
+English-HarryPotter01-1036  Catch the key! ; 1037  Bắt lấy cái chìa khóa!
+English-HarryPotter01-1037  Hurry up! ; 1038  Nhanh lên!
+English-HarryPotter01-1038  I don't like this. I don't like this at all. ; 1039  Mình ko thích mấy cái này. Hoàn toàn ko.
+English-HarryPotter01-1039  Where are we? A graveyard. ; 1040  Ta đang ở đâu đây?? Bãi tha ma à??
+English-HarryPotter01-1040  This is no graveyard. ; 1041  Đây ko phải bãi tha ma.
+English-HarryPotter01-1041  It's a chessboard. ; 1042  Là một bàn cờ.
+English-HarryPotter01-1042  There's the door. ; 1043  Cánh cửa kìa.
+English-HarryPotter01-1043  Now what do we do? ; 1044  Ta phải làm gì bây giờ??
+English-HarryPotter01-1044  It's obvious, isn't it? We've got to play our way across the room. ; 1045  Rõ ràng rồi còn gì. Chúng ta phải chơi cờ để vượt qua căn phòng này.
+English-HarryPotter01-1045  Harry, you take the empty bishop's square. ; 1046  Được rồi. Harry, cậu đứng vào chỗ của quân Tượng.
+English-HarryPotter01-1046  Hermione, you'll be the queen-side castle. ; 1047  Hermione, cậu sẽ là quân Hậu.
+English-HarryPotter01-1047  As for me, I'll be a knight. ; 1048  Còn mình, mình sẽ là quân Mã.
+English-HarryPotter01-1048  What happens now? ; 1049  Bây giờ thì sao đây??
+English-HarryPotter01-1049  Well, white moves first. ; 1050  À, quân trắng đi trước.
+English-HarryPotter01-1050  And then... ; 1051  Sau đó...
+English-HarryPotter01-1051  ...we play. ; 1052  ...đến lượt chúng ta.
+English-HarryPotter01-1052  Ron, you don't suppose this is going to be like... ; 1053  Ron, cậu ko cho là cái này...
+English-HarryPotter01-1053  ...real wizard's chess, do you? ; 1054  ...sẽ giống một ván cờ phù thủy chứ??
+English-HarryPotter01-1054  You there, d5. ; 1055  Mày ra kia, d5.
+English-HarryPotter01-1055  Yes, Hermione. ; 1056  Đúng đấy, Hermione.
+English-HarryPotter01-1056  I think this is gonna be exactly like wizard's chess. ; 1057  Mình nghĩ nó chính xác là một ván cờ phù thủy.
+English-HarryPotter01-1057  Castle to e4! ; 1058  Xe đến e4!
+English-HarryPotter01-1058  Pawn to c3! ; 1059  Tốt ra c3!
+English-HarryPotter01-1059  - Wait a minute. - You understand right, Harry. ; 1060  - Đợi đã. - Cậu hiểu rồi đấy, Harry.
+English-HarryPotter01-1060  Once I make my move the queen will take me. ; 1061  Khi mình di chuyển quân Hậu sẽ bắt mình.
+English-HarryPotter01-1061  Then you're free to check the king. ; 1062  Sau đó cậu sẽ thoải mái mà chiếu tướng.
+English-HarryPotter01-1062  - No. Ron, no! - What is it? ; 1063  - Ko, Ron! - Gì thế?
+English-HarryPotter01-1063  - He's going to sacrifice himself. - No, there must be another way! ; 1064  - Cậu ấy định hi sinh. - Ko, chắc phải có cách khác chứ!
+English-HarryPotter01-1064  Do you wanna stop Snape from getting that Stone or not? ; 1065  Cậu có muốn ngăn Snape lấy hòn đá hay ko??
+English-HarryPotter01-1065  Harry, it's you that has to go on. I know it. ; 1066  Harry, mình biết chính cậu phải là người thực hiện điều đó.
+English-HarryPotter01-1066  Not me. Not Hermione. You. ; 1067  Ko phải mình, ko phải Hermione. Mà là cậu
+English-HarryPotter01-1067  Knight to h3. ; 1068  Mã đến h3.
+English-HarryPotter01-1068  Check. ; 1069  Chiếu.
+English-HarryPotter01-1069  Ron! ; 1070  Ron!
+English-HarryPotter01-1070  No, don't move! Don't forget, we're still playing. ; 1071  Ko, đừng di chuyển! Đừng quên là chúng ta vẫn đang chơi.
+English-HarryPotter01-1071  Checkmate. ; 1072  Chiếu tướng.
+English-HarryPotter01-1072  Take care of Ron. Then go to the owlery. ; 1073  Chăm sóc cho Ron nhé. Sau đó đến chỗ tổ cú
+English-HarryPotter01-1073  Send a message to Dumbledore. Ron's right. ; 1074  gửi lời nhắn đến thầy Dumbledore. Ron nói đúng.
+English-HarryPotter01-1074  I have to go on. ; 1075  Mình phải tiếp tục thôi.
+English-HarryPotter01-1075  You'll be okay, Harry. You're a great wizard. You really are. ; 1076  Cậu sẽ ổn thôi Harry. Cậu là một phù thủy vĩ đại.
+English-HarryPotter01-1076  Not as good as you. ; 1077  Làm sao bằng cậu được.
+English-HarryPotter01-1077  Me? Books and cleverness. There are more important things. ; 1078  Mình chỉ được cái đọc sách và thông minh thôi. Có nhiều điều còn quan trọng hơn.
+English-HarryPotter01-1078  Friendship and bravery. And, Harry, just be careful. ; 1079  Tình bạn và lòng dũng cảm. Cẩn thận nhé Harry.
+English-HarryPotter01-1079  You? ; 1080  Là thầy ư??
+English-HarryPotter01-1080  No, it can't be. Snape, he was the... ; 1081  Ko thể như thế được. Snape, thầy ấy...
+English-HarryPotter01-1081  Yes, he does seem the type doesn't he? ; 1082  Phải, có vẻ như là hắn đúng ko??
+English-HarryPotter01-1082  Next to him, who would suspect... ; 1083  Bên cạnh hắn, ai nỡ nghi ngờ...
+English-HarryPotter01-1083  ...poor, stuttering Professor Quirrell? ; 1084  ...Giáo sư Quirrel lắp bắp khốn khổ chứ??
+English-HarryPotter01-1084  But that day, during the Quidditch match Snape tried to kill me. ; 1085  Nhưng cái ngày mà trận Quidditch diễn ra. Thầy Snape cố giết em mà.
+English-HarryPotter01-1085  No, dear boy. I tried to kill you! ; 1086  Ko đâu, chàng trai! Ta mới là kẻ cố giết mi.
+English-HarryPotter01-1086  If Snape's cloak hadn't caught fire and broken my eye contact... ; 1087  Nếu áo choàng của Snape mà ko bị cháy và khiến ta mất tập trung...
+English-HarryPotter01-1087  ...I would have succeeded. ; 1088  ...thì ta đã thành công rồi.
+English-HarryPotter01-1088  Even with Snape muttering his countercurse. ; 1089  Kể cả khi Snape lẩm bẩm câu thần chú giải lời nguyền vớ vẩn.
+English-HarryPotter01-1089  Snape was trying to save me? ; 1090  Thầy Snape cố cứu em ư??
+English-HarryPotter01-1090  I knew you were a danger to me especially after Halloween. ; 1091  Ta biết mi sẽ trở nên nguy hiểm cho ta đặc biệt là sau lễ hội Haloween.
+English-HarryPotter01-1091  - Then you let the troll in! - Very good, Potter, yes. ; 1092  - Thầy thả con quỷ khổng lồ ra ư?? - Đoán đúng đấy Potter.
+English-HarryPotter01-1092  Snape, unfortunately, wasn't fooled. ; 1093  Ko may là Snape ko phải đồ đần.
+English-HarryPotter01-1093  While everyone ran about he went to the third floor to head me off. ; 1094  Khi mọi người chạy tán loạn thì hắn chạy lên tầng 3 chặn đầu ta.
+English-HarryPotter01-1094  He, of course, never trusted me again. ; 1095  Tất nhiên là hắn ko bao giờ tin ta nữa.
+English-HarryPotter01-1095  He rarely left me alone. But he doesn't understand. ; 1096  Hắn cô lập ta. Nhưng hắn ko hiểu.
+English-HarryPotter01-1096  I'm never alone. Never. ; 1097  Ta chưa bao giờ cô độc. Ko bao giờ.
+English-HarryPotter01-1097  Now, what does this mirror do? ; 1098  Cái gương này có vai trò gì??
+English-HarryPotter01-1098  I see what I desire. ; 1099  Ta thấy cái ta mong ước.
+English-HarryPotter01-1099  I see myself holding the Stone. But how do I get it? ; 1100  Ta thấy ta đang cầm Hòn đá. Nhưng làm thế nào để lấy nó??
+English-HarryPotter01-1100  Use the boy. ; 1101  Hãy dùng thằng bé.
+English-HarryPotter01-1101  Come here, Potter! Now! ; 1102  Lại đây, Potter! Nhanh lên!
+English-HarryPotter01-1102  Tell me, what do you see? ; 1103  Nói cho ta biết, ngươi thấy gì??
+English-HarryPotter01-1103  What is it? What do you see? ; 1104  Gì vậy?? Mi đã thấy gì??
+English-HarryPotter01-1104  I'm shaking hands with Dumbledore. I've won the house cup. ; 1105  Em bắt tay với thầy Dumbledore. Em giành được Cúp nhà.
+English-HarryPotter01-1105  He lies. ; 1106  Nó nói dối.
+English-HarryPotter01-1106  Tell the truth! What do you see? ; 1107  Nói thật cho ta biết. Mi thấy gì??
+English-HarryPotter01-1107  - Let me speak to him. - Master, you are not strong enough. ; 1108  - Để ta nói chuyện với thằng bé. - Chủ nhân, ngài chưa đủ khỏe mà.
+English-HarryPotter01-1108  I have strength enough for this. ; 1109  Ta đủ khỏe để làm chuyện này.
+English-HarryPotter01-1109  Harry Potter... ; 1110  Harry Potter...
+English-HarryPotter01-1110  ...we meet again. ; 1111  ...ta lại gặp nhau.
+English-HarryPotter01-1111  Voldemort. ; 1112  Voldemort.
+English-HarryPotter01-1112  Yes. You see what I've become? ; 1113  Đúng. Mi thấy ta đã trở thành cái gì rồi đấy.
+English-HarryPotter01-1113  See what I must do to survive? ; 1114  Thấy ta phải làm gì để tồn tại.
+English-HarryPotter01-1114  Live off another. A mere parasite. ; 1115  Sống nhờ vào kẻ khác. Chỉ là kẻ ăn bám.
+English-HarryPotter01-1115  Unicorn blood can sustain me... ; 1116  Máu Bạch kỳ mã có thể duy trì sự sống cho ta...
+English-HarryPotter01-1116  ...but it cannot give me a body of my own. ; 1117  ...nhưng ko thể cho ta một cơ thể hoàn chỉnh.
+English-HarryPotter01-1117  But there is something that can. ; 1118  Nhưng có một thứ có thể.
+English-HarryPotter01-1118  Something that, conveniently enough lies in your pocket. ; 1119  Một thứ có đủ sức mạnh đang nằm trong túi mi.
+English-HarryPotter01-1119  Stop him! ; 1120  Ngăn nó lại!
+English-HarryPotter01-1120  Don't be a fool. ; 1121  Đừng có ngu thế.
+English-HarryPotter01-1121  Why suffer an horrific death... ; 1122  Tại sao phải chịu đựng cái chết khủng khiếp...
+English-HarryPotter01-1122  ...when you can join me and live? ; 1123  ...khi mà mi có thể theo ta và sống??
+English-HarryPotter01-1123  Never! ; 1124  Ko bao giờ!
+English-HarryPotter01-1124  Bravery. Your parents had it too. ; 1125  Dũng cảm thay. Cha mẹ mi cũng vậy.
+English-HarryPotter01-1125  Tell me, Harry... ; 1126  Nói ta nghe xem Harry...
+English-HarryPotter01-1126  ...would you like to see your mother and father again? ; 1127  ...mi có muốn gặp lại cha mẹ mi một lần nữa ko??
+English-HarryPotter01-1127  Together... ; 1128  Cùng nhau...
+English-HarryPotter01-1128  ...we can bring them back. ; 1129  ...ta có thể đưa họ trở về.
+English-HarryPotter01-1129  All I ask is for something in return. ; 1130  Ta chỉ cần thứ gì đó để trao đổi.
+English-HarryPotter01-1130  That's it, Harry. ; 1131  Là nó đấy, Harry.
+English-HarryPotter01-1131  There is no good and evil. ; 1132  Sẽ chẳng còn cái thiện hay cái ác.
+English-HarryPotter01-1132  There is only power... ; 1133  Sẽ chỉ còn sức mạnh...
+English-HarryPotter01-1133  ...and those too weak to seek it. ; 1134  ...và những kẻ kia thì quá yếu để có nó.
+English-HarryPotter01-1134  Together, we'll do extraordinary things. ; 1135  Cùng nhau, ta sẽ làm nên những điều phi thường.
+English-HarryPotter01-1135  Just give me the Stone! ; 1136  Chỉ cần đưa ta Hòn đá!
+English-HarryPotter01-1136  You liar! ; 1137  Ngươi nó dối!
+English-HarryPotter01-1137  Kill him! ; 1138  Giết nó đi!
+English-HarryPotter01-1138  - What is this magic? - Fool, get the Stone! ; 1139  - Phép thuật gì vậy?? - Đồ ngu. Lấy Hòn đá mau!
+English-HarryPotter01-1139  Good afternoon, Harry. ; 1140  Chào con, Harry.
+English-HarryPotter01-1140  - Tokens from your admirers? - Admirers? ; 1141  - Quà từ những người hâm mộ con. - Người hâm mộ??
+English-HarryPotter01-1141  What happened in the dungeons between you and Professor Quirrell is a secret. ; 1142  Những chuyện xảy ra giữa con và Giáo sư Quirrel dưới hầm là hoàn toàn bí mật...
+English-HarryPotter01-1142  So, naturally, the whole school knows. ; 1143  Thế nên tất nhiên là cả trường đều biết.
+English-HarryPotter01-1143  I see that your friend Ronald has saved you the trouble... ; 1144  Ta thấy là bạn con - Ronald đã giúp con bớt rắc rối...
+English-HarryPotter01-1144  ...of opening your Chocolate Frogs. ; 1145  ...bằng cách ăn món sô-cô-la Ếch nhái này đây.
+English-HarryPotter01-1145  Ron was here? Is he all right? What about Hermione? ; 1146  Ron đã ở đây?? Cậu ấy ổn chứ?? Còn Hermione thì sao??
+English-HarryPotter01-1146  Fine. They're both just fine. ; 1147  Ổn. Cả hai đứa nó đều ổn.
+English-HarryPotter01-1147  - What happened to the Stone? - Relax, dear boy. ; 1148  - Chuyện gì xảy ra với Hòn đá?? - Thư giãn đi con trai.
+English-HarryPotter01-1148  The Stone has been destroyed. ; 1149  Hòn đá đã bị tiêu hủy.
+English-HarryPotter01-1149  My friend Nicholas and I have had a little chat... ; 1150  Ông bạn Nicholas và thầy đã có một cuộc trò chuyện nhỏ...
+English-HarryPotter01-1150  ...and agreed it was best all around. ; 1151  ...và nhất trí rằng đó là cách tốt nhất.
+English-HarryPotter01-1151  But then, Flamel he'll die, won't he? ; 1152  Nhưng sau đó thì cụ Flamel sẽ chết phải ko??
+English-HarryPotter01-1152  He has enough Elixir to set his affairs in order. ; 1153  Cụ ấy có đủ thuốc Trường sinh để sắp đặt mọi việc đâu đó cho mình.
+English-HarryPotter01-1153  But yes, he will die. ; 1154  Nhưng đúng. Cụ ấy sẽ chết.
+English-HarryPotter01-1154  How is it I got the Stone, sir? ; 1155  Làm sao mà con lấy được Hòn đá hả thầy??
+English-HarryPotter01-1155  One minute I was staring in the mirror and... ; 1156  Một phút trước con đang nhìn chằm chằm vào gương và rồi...
+English-HarryPotter01-1156  You see, only a person... ; 1157  Con thấy chứ, chỉ người nào...
+English-HarryPotter01-1157  ...who wanted to find the Stone find it... ; 1158  ...muốn tìm Hòn đá, tìm nó...
+English-HarryPotter01-1158  ...but not use it would be able to get it. ; 1159  ...chứ ko dùng nó thì mới có thể lấy được nó.
+English-HarryPotter01-1159  That is one of my more brilliant ideas. ; 1160  Đó là một trong những ý tưởng kỳ diệu của thầy.
+English-HarryPotter01-1160  And between you and me that is saying something. ; 1161  Đây là một bí mật của riêng hai ta.
+English-HarryPotter01-1161  Does that mean, with the Stone gone that Voldemort can never come back? ; 1162  Vậy có nghĩa là nếu Hòn đá biến mất thì Voldermort sẽ ko bao giờ có thể quay lại??
+English-HarryPotter01-1162  I'm afraid... ; 1163  Ta e là...
+English-HarryPotter01-1163  ...there are ways in which he can return. ; 1164  ...sẽ vẫn còn cách để hắn quay lại.
+English-HarryPotter01-1164  Harry, do you know why... ; 1165  Harry, con có biết tại sao...
+English-HarryPotter01-1165  ...Professor Quirrell couldn't bear to have you touch him? ; 1166  ...Giáo sư Quirrel ko thể để cho con chạm vào người hắn ko??
+English-HarryPotter01-1166  It was because of your mother. She sacrificed herself for you. ; 1167  Đó là nhờ mẹ con đấy. Mẹ con đã hi sinh thân mình vì con.
+English-HarryPotter01-1167  And that kind of act leaves a mark. ; 1168  Và hành động đó đã để lại một dấu hiệu.
+English-HarryPotter01-1168  No, this kind of mark cannot be seen. ; 1169  Ko, dấu hiệu đó ko thể nhìn thấy.
+English-HarryPotter01-1169  - It lives in your very skin. - What is it? ; 1170  - Nó tồn tại trên người con. - Là gì ạ??
+English-HarryPotter01-1170  Love, Harry. Love. ; 1171  Tình yêu thương Harry ạ.
+English-HarryPotter01-1171  Bertie Bott's Every Flavor Beans. ; 1172  Đậu Bertie Bott's đủ các vị.
+English-HarryPotter01-1172  I was most unfortunate in my youth to come across a vomit-flavored one. ; 1173  Thật ko mày khi còn nhỏ, thầy ăn nhầm một viên có vị nôn.
+English-HarryPotter01-1173  And since then I've lost my liking for them. ; 1174  Và từ đó, thầy mất hết hứng thú với chúng.
+English-HarryPotter01-1174  But I think I could be safe... ; 1175  Nhưng thầy nghĩ là ko sao...
+English-HarryPotter01-1175  ...with a nice toffee. ; 1176  ...với một viên kẹo bơ cứng.
+English-HarryPotter01-1176  Alas! ; 1177  Trời ạ!
+English-HarryPotter01-1177  Earwax. ; 1178  Vị ráy tai.
+English-HarryPotter01-1178  - All right there, Ron? - All right. You? ; 1179  - Ổn cả chứ, Ron?? - Ổn, còn cậu??
+English-HarryPotter01-1179  All right. Hermione? ; 1180  Ổn chứ. Hermione??
+English-HarryPotter01-1180  Never better. ; 1181  Ko thể tốt hơn.
+English-HarryPotter01-1181  Another year gone. ; 1182  Một năm học lại trôi qua.
+English-HarryPotter01-1182  And now, as I understand it the house cup needs awarding. ; 1183  Và giờ, theo như ta biết. Đã tới lúc trao Cúp nhà.
+English-HarryPotter01-1183  And the points stand thus: ; 1184  Và thứ tự điểm là:
+English-HarryPotter01-1184  In fourth place Gryffindor with 312 points. ; 1185  Vị trí thứ tư Gryffindor với 312 điểm.
+English-HarryPotter01-1185  Third place Hufflepuff with 352 points. ; 1186  Vị trí thứ 3 Hufflepuff với 352 điểm.
+English-HarryPotter01-1186  In second place... ; 1187  Vị trí thứ hai là...
+English-HarryPotter01-1187  ...Ravenclaw with 426 points. ; 1188  ...Ravenclaw với 426 điểm.
+English-HarryPotter01-1188  And in first place... ; 1189  Và vị trí đầu tiên...
+English-HarryPotter01-1189  ...with 472 points, Slytherin house. ; 1190  ...với 472 điểm là nhà Slytherin.
+English-HarryPotter01-1190  Nice one, mate. ; 1191  Tuyệt lắm.
+English-HarryPotter01-1191  Yes, well done, Slytherin. Well done. ; 1192  Tốt lắm Slytherin. Tốt lắm.
+English-HarryPotter01-1192  However, recent events must be taken into account. ; 1193  Tuy nhiên, với những chuyện xảy ra gần đây ta cũng cần phải tính lại điểm.
+English-HarryPotter01-1193  And I have a few last-minute points to award. ; 1194  Có mấy điểm thưởng giờ chót tôi xin công bố.
+English-HarryPotter01-1194  To Miss Hermione Granger for the cool use of intellect... ; 1195  Cho trò Hermione Granger với khả năng bình tĩnh lập luận...
+English-HarryPotter01-1195  ...while others were in grave peril... ; 1196  ...khi người khác đang trong cơn nguy hiểm khôn cùng...
+English-HarryPotter01-1196  ...50 points. ; 1197  ...50 điểm.
+English-HarryPotter01-1197  Good job. ; 1198  Làm tốt lắm.
+English-HarryPotter01-1198  Second, to Mr. Ronald Weasley for the best-played game of chess... ; 1199  Tiếp theo là trò Ronald Weasley vì đã chơi ván cờ hay nhất...
+English-HarryPotter01-1199  ...that Hogwarts has seen these many years, 50 points. ; 1200  ...trường Hogward nhiều năm nay. 50 điểm.
+English-HarryPotter01-1200  And third... ; 1201  Và thứ ba...
+English-HarryPotter01-1201  ...to Mr. Harry Potter... ; 1202  ...là trò Harry Potter...
+English-HarryPotter01-1202  ...for pure nerve and outstanding courage... ; 1203  ...vì khí phách trong sáng và lòng dũng cảm xuất chúng...
+English-HarryPotter01-1203  ...I award Gryffindor house 60 points. ; 1204  ...tôi thưởng cho nhà Gryffindor 60 điểm.
+English-HarryPotter01-1204  We're tied with Slytherin! ; 1205  Chúng ta bằng điểm với Slytherin rồi!
+English-HarryPotter01-1205  Finally, it takes a great deal of bravery to stand up to your enemies... ; 1206  Cuối cùng, chúng ta cần nhiều sự dũng cảm khi đứng lên chống lại kẻ thù...
+English-HarryPotter01-1206  ...but a great deal more to stand up to your friends. ; 1207  ...nhưng cần nhiều hơn thế khi chúng ta đứng lên đấu tranh với chính bạn bè.
+English-HarryPotter01-1207  I award 10 points... ; 1208  Tôi thưởng 10 điểm...
+English-HarryPotter01-1208  ...to Neville Longbottom. ; 1209  ...cho Neville Longbottom.
+English-HarryPotter01-1209  Assuming that my calculations are correct... ; 1210  Nếu mà tính toán của tôi đúng...
+English-HarryPotter01-1210  ...I believe that a change of decoration is in order. ; 1211  ...thì tôi tin là chúng ta cần thay đổi chút bài trí ở đây.
+English-HarryPotter01-1211  Gryffindor wins the house cup. ; 1212  Gryffindor đã giành được Cúp nhà.
+English-HarryPotter01-1212  Come on, now. Hurry up, you'll be late. ; 1213  Đi nào. Nhanh lên nào. Các cháu sẽ muộn mất.
+English-HarryPotter01-1213  Train's leaving. Go on. Come on, hurry up. ; 1214  Tàu sắp đi rồi. Đi thôi. Nhanh lên.
+English-HarryPotter01-1214  - Come on, Harry. - One minute. ; 1215  - Đi nào Harry. - Đợi một chút.
+English-HarryPotter01-1215  Thought you were leaving without saying goodbye, did you? ; 1216  Ta cứ nghĩ là cháu đi mà ko chào tạm biệt chứ?
+English-HarryPotter01-1216  This is for you. ; 1217  Cái này cho cháu.
+English-HarryPotter01-1217  Thanks, Hagrid. ; 1218  Cảm ơn bác Hagrid.
+English-HarryPotter01-1218  Go on. On with you. On with you now. Oh, listen, Harry. ; 1219  Đi đi, nhanh lên. À, nghe này Harry.
+English-HarryPotter01-1219  If that dolt of a cousin of yours Dudley, gives you any grief... ; 1220  Nếu thằng anh họ Dursley ngu đần của cháu gây cho cháu bất kỳ rắc rối nào...
+English-HarryPotter01-1220  ...you could always threaten him... ; 1221  ...cháu hoàn toàn có thể dọa nó,...
+English-HarryPotter01-1221  ...with a nice pair of ears to go with his tail. ; 1222  ...cho nó đôi tai phù hợp với cái đuôi của nó.
+English-HarryPotter01-1222  But we're not allowed to do magic away from Hogwarts. You know that. ; 1223  Nhưng bác Hagrid, chúng ta ko được dùng phép thuật bên ngoài trường Hogward.
+English-HarryPotter01-1223  I do. But your cousin don't, do he? ; 1224  Bác biết. Nhưng anh họ cháu ko biết đúng ko??
+English-HarryPotter01-1224  Feels strange to be going home doesn't it? ; 1225  Cảm thấy lạ khi về nhà hả??
+English-HarryPotter01-1225  I'm not going home. ; 1226  Mình ko về nhà.
+English-HarryPotter01-1226  Not really. ; 1227  Ko hẳn là vậy.

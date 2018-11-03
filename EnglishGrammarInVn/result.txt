@@ -1,0 +1,49 @@
+xx  ; english
+xx  ; noun
+xx  ; article
+xx  ; in 
+xx  ; and 
+0001. xx  xx  xx  xx  xx  ; nouns and articles in english
+xx  ; to be
+xx  ; what
+0002. xx  xx  xx  ? ; what is noun?
+xx  ; to be called
+0003. xx  xx  xx  xx  noun. ; in english the noun is called noun.
+xx  ; word
+xx  ; in order to
+xx  ; refer to 
+xx  ; name , to name
+xx  ; one
+xx  ; specifier for a human
+xx  ; thing, object
+xx  ; fact
+xx  ; condition
+xx  ; or (in question)
+xx   ; emotion
+0004. xx  xx  xx  xx  xx  xx  xx  xx , xx  xx , xx  xx , xx  xx  xx  xx  xx  ; a noun refers to a person's name, an object, an event, a condition or an emotion.
+xx  ; to seperate
+xx  ; sort, category
+xx  ; to classified, classification
+0005. xx  xx  ; classsification of noun
+xx  ; can, be able
+xx  ; can, be able
+xx  ; to devide
+xx  ; in to , to became
+xx  ; two
+xx  ; main
+xx  ; main category
+0006. xx  xx  xx  xx  xx  xx  xx :
+xx  ; concrete noun
+xx  ; this, here , demonstrative pronoun/adj
+xx  ; behind, as follow
+0007. xx  (concrete nouns): xx  xx  xx  xx  xx  xx  xx  xx  xx :
+xx  ; common, public, general
+xx  ; common nouns
+xx  ; to use
+xx  ; to do , to create
+xx  ; to use (/to be used) as 
+xx  ; to, of 
+0008. xx  (common nouns): xx  xx  xx  xx  xx  xx  xx  xx . ; common noun is used as the general name  of a category
+xx  ; proper noun
+xx  ; adj. special, private, particlular
+0009. xx  (proper nouns): xx  xx  xx 

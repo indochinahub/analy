@@ -1,0 +1,6 @@
+have
+car
+i xx  a xx .
+cars->car
+has->have
+he xx  two xx .

@@ -1,0 +1,28 @@
+[*] * { margin: 0; padding: 0;}	The star symbol will target every single element on the page.
+[*] #container * { border: 1px solid black;}	This will target every single element that is a child of the #container div. Again, try not to use this technique very much, if ever.
+[#X] #container { width: 960px; margin: auto;}	Prefixing the hash symbol to a selector allows us to target by id. This is easily the most common usage, however be cautious when using id selectors.Ask yourself: do I absolutely need to apply an id to this element in order to target it?id selectors are rigid and don't allow for reuse. If possible, first try to use a tag name, one of the new HTML5 elements, or even a pseudo-class.
+[.X] .error {color: red;}	This is a class selector. The difference between ids and classes is that, with the latter, you can target multiple elements.
+[X Y] a { text-decoration: none;}	The next most comment selector is the descendant selector. When you need to be more specific with your selectors, you use these. 
+[X] a { color: red; }, ul { margin-left: 0; }	What if you want to target all elements on a page, according to their type, rather than an id or classname? Keep it simple, and use a type selector.
+[X:visited and X:link]  a:link { color: red; }, a:visted { color: purple; }	 We use the :link pseudo-class to target all anchors tags which have yet to be clicked on. Alternatively, we also have the :visited pseudo class, which, as you'd expected, allows us to apply specific styling to only the anchor tags on the page which have been clicked on, or visited.
+[X + Y] ul + p { color: red;}	This is referred to as an adjacent selector. It will select only the element that is immediately preceded by the former element. In this case, only the first paragraph after each ul will have red text.
+[X > Y] div#container > ul {border: 1px solid black;}	The difference between the standard X Y and X > Y is that the latter will only select direct children. For example, consider the following markup.
+[X ~ Y] ul ~ p {color: red;}	This sibling combinator is similar to X + Y, however, it's less strict. While an adjacent selector (ul + p) will only select the first element that is immediately preceded by the former selector, this one is more generalized. It will select, referring to our example above, any p elements, as long as they follow a ul.
+X[title] a[title] { color: green;}	Referred to as an attributes selector, in our example above, this will only select the anchor tags that have a title attribute. Anchor tags which do not will not receive this particular styling. But, what if you need to be more specific? Well...
+[X[href="foo"]] a[href="http://net.tutsplus.com"] {color: #1f6053; /* nettuts green */}	The snippet above will style all anchor tags which link to http://net.tutsplus.com; they'll receive our branded green color. All other anchor tags will remain unaffected.
+[X[href*="nettuts"]] a[href*="tuts"] {color: #1f6053; /* nettuts green */}	There we go; that's what we need. The star designates that the proceeding value must appear somewhere in the attribute's value. That way, this covers nettuts.com, net.tutsplus.com, and even tutsplus.com.
+[ X[href^="http"] ] a[href^="http"] { background: url(path/to/external/icon.png) no-repeat; padding-left: 10px;} 	This is a cinch with the carat symbol. It's most commonly used in regular expressions to designate the beginning of a string. If we want to target all anchor tags that have a href which begins with http.
+[X[href$=".jpg"]] a[href$=".jpg"] { color: red; }	gain, we use a regular expressions symbol, $, to refer to the end of a string. In this case, we're searching for all anchors which link to an image -- or at least a url that ends with .jpg. Keep in mind that this certainly won't work for gifs and pngs.
+[X[data-*="foo"]] a[data-filetype="image"] {color: red;}	
+
+
+
+
+
+
+
+
+
+
+
+

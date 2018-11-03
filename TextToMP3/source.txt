@@ -1,0 +1,1300 @@
+0001	Dad.
+0002	Clear the ramp! 30 seconds! God be with you! Port side, stick.
+0003	Starboard side, stick.
+0004	Move fast and clear those mortar holes.
+0005	l want to see plenty of beach between men.
+0006	Five men is an opportunity.
+0007	One is a waste of ammo.
+0008	Keep the sand out of your weapons.
+0009	Keep those actions clear.
+0010	l'll see you on the beach.
+0011	Open mortar holes! Over the side! Port and starboard, over.
+0012	Jesus.
+0013	Thank you.
+0014	l said, what the hell do we do now, sir? Captain Miller! Captain Miller! Captain Miller! Sergeant Horvath! Move your men off the beach! Go! OK, you guys! Get on my ass! Follow me! What's the rallying point? Anywhere but here! The sea wall! Move up to the sea wall! Sir, l'm staying! Clear this beach! Make way for the others! This is all we got! Every inch of this beach has been pre-sighted! You stay here, you're dead men! Mama! Mama! Stay down! Stay down! What are you guys? Here to set up field operations! Get rid of that crap! Grab yourselves some weapons.
+0015	Follow me.
+0016	l'm hit! Briggs! Get me out! l'm hit low.
+0017	God! Medic! Navy Beach Battalion, sir.
+0018	l gotta clear these obstacles for the tanks.
+0019	All the armour's foundering in the Channel.
+0020	Orders, sir.
+0021	You go somewhere else.
+0022	l'm clearing this one! Come on, Briggs! Medic! Move! Move! Move! Come on! Move! Shore party.
+0023	No armour has made it ashore.
+0024	We got no DD tanks.
+0025	Dog One is not open.
+0026	Who's in command here? You are, sir! - Sergeant Horvath! - Sir! You recognise where we are? Right where we're supposed to be, but no one else is! Nobody's where they're supposed to be.
+0027	Shore party.
+0028	First wave, ineffective.
+0029	We do not hold the beach.
+0030	Say again, we do not hold the beach.
+0031	Sir, we got the leftovers from Fox Company, Able Company and George Company! Plus we got some Navy Demo guys and a Beachmaster! Shore party.
+0032	Shore party.
+0033	Cat-F, Cat-F, C.
+0034	- Reiben here, sir! - Anybody else? Jackson, but that's about it.
+0035	Mellish here.
+0036	Caparzo! DeForest's back with Wade.
+0037	He's hurt so bad he says he sprung 100 leaks.
+0038	Wade says he's all used up.
+0039	Find somebody you can help.
+0040	He's battalion surgeon, sir! Get his attention.
+0041	Wade! Yo, doc! Wade! Get him off the beach.
+0042	l got it! We stopped the bleeding! We stopped the bleeding! Fuck! Just give us a fucking chance, you son of a bitch! Son of a fucking cocksucker! Come on, Wade! lt's Mellish! Wade! We found Miller! Let's move! Let's move! Oh, God.
+0043	Oh, God.
+0044	This is all? This is all that's made it? We got scattered pretty bad, sir.
+0045	There's bound to be more.
+0046	Not enough.
+0047	This is not enough.
+0048	Dog One exit.
+0049	On the right.
+0050	Or is it left? Shit! No, Vierville is west of us.
+0051	This is Dog One.
+0052	They're killing us! We don't have a fucking chance, and that ain't fair! Gather weapons and ammo! Gather weapons and ammo! Come on, drag 'em in off the sand! Hey, Reiben, Reiben, Reiben, where's your BAR? Bottom of the channel, sir.
+0053	Nearly drowned me.
+0054	Find a replacement.
+0055	Bangalores! Bring up some bangalores! Grenades, grenades! Get 'em over here! Bangalores up the line! Bangalores up the line! Heads up! Bangers coming your way! Come on, come on, come on! Jackson here, sir! Reiben back, sir! One more.
+0056	Give me one more.
+0057	Oh, my God, it hurts! l'm gonna die! Oh, my God! Oh, Jesus! Oh, my God! Keep it moving.
+0058	Keep it moving.
+0059	Almost got it.
+0060	Jesus! Lucky bastard.
+0061	Keep it moving.
+0062	You got it? God! God, help me! You're not gonna die.
+0063	You're fine.
+0064	Don't look at it.
+0065	Bangalores! Clear the shingle! Fire in the hole! Fire in the hole! We're in business! Defilade! Other side of the hole! That's it! Let's go! lnspected.
+0066	Morphine.
+0067	Routine.
+0068	Priority.
+0069	He's gone.
+0070	Son of a.
+0071	Get in there.
+0072	Fuck.
+0073	l can't move.
+0074	Mellish, give me your bayonet.
+0075	Two MG-42s and two mortars.
+0076	Add 20, left 30.
+0077	There's a little defilade, but it's the perfect position if we get some armour.
+0078	We gotta open up this draw! Get this draw open.
+0079	Reiben, Mellish, let's get into the war! Grab some cover and put some fire on that crew.
+0080	Davis, DeBernardo, Young, Valk, get ready.
+0081	Covering fire! Go, go, go! Goddamn firing squad.
+0082	lt's the only way we can get everybody out.
+0083	Short, Payton, McDonald, Parkes! You're next! - Why not hand out blindfolds? - All we'll do here is die.
+0084	Covering fire! Go, go, go! Come on! Come on! Come on! Go, Goddamit! Jackson.
+0085	Sir.
+0086	See that impact crater? Yes, sir.
+0087	That should give complete defilade from that machine gun.
+0088	Wait for my command.
+0089	Go! Captain, if your mother saw that, she'd be very upset.
+0090	l thought you were my mother.
+0091	Be not thou far from me, O Lord.
+0092	My God, l am sorry for offending Thee.
+0093	l detest my sins for having offended Thee, O Lord.
+0094	Listen to me, Lord.
+0095	All my strength.
+0096	haste Thee to help me.
+0097	Dog One exit! Right here! We're in business! Move! Move! Reiben.
+0098	- Let's go, sarge.
+0099	Go! - Reiben.
+0100	Come on, Doyle! Sarge.
+0101	Flame! Doyle, do it! Don't shoot! Let 'em burn! ''Comrade?'' You son of a bitch! Lie down! Cease fire! Cease fire! Cut it out! Cut it out! Cease fire! Sugar Cane.
+0102	Sugar Charlie Three.
+0103	Say again, Dog One is open.
+0104	Send in the dozers.
+0105	l'm waiting to tie in my flanks.
+0106	Over.
+0107	What? What? l'm sorry, l can't understand you.
+0108	What'd he say? What'd he say? ''Look, l washed for supper.
+0109	' - Hey, Fish.
+0110	- Yeah? Look at this.
+0111	A Hitler Youth knife.
+0112	Now it's a Shabbat challah cutter, right? Keep it moving! That's quite a view.
+0113	Yes, it is.
+0114	Quite a view.
+0115	'Dear Mr Brian Boyd, ''no doubt you have received information.
+0116	' ''Dear Mrs Jensen.
+0117	' ''.
+0118	the death of your son.
+0119	' ''.
+0120	no words can relieve the grief.
+0121	' ''We have felt his loss tremendously.
+0122	' ''He was a fine soldier.
+0123	' ''We were involved ''in one of the most important operations of this war.
+0124	' ''Al held us all together.
+0125	'He was always first to volunteer.
+0126	' ''.
+0127	came to a clearing ''where 4,000 troops had passed.
+0128	' ''Your husband served in a unit ''whose dangerous duty is to place itself beyond.
+0129	' ''.
+0130	we all cherish and hold so dear.
+0131	'The loss of Lee and others like him is a distinct blow.
+0132	' ''l understand your desire ''to learn about circumstances leading to his death.
+0133	' Colonel, l've got something you should know about.
+0134	These two men died in Normandy.
+0135	This one at Omaha beach.
+0136	Sean Ryan.
+0137	This man at Utah.
+0138	Peter Ryan.
+0139	This man was killed last week in New Guinea.
+0140	Daniel.
+0141	Ryan.
+0142	The three are brothers, sir.
+0143	l've just learned that this afternoon their mother will get all three telegrams.
+0144	That's not all.
+0145	There's a fourth brother.
+0146	He parachuted in the night before the invasion.
+0147	He's somewhere in Normandy.
+0148	- ls he alive? - We don't know.
+0149	Come with me.
+0150	Goddamit.
+0151	 All four were in the 29th Division, but we split them up after the Sullivan brothers died on the Juneau.
+0152	Any contact with the fourth son, James? No, sir.
+0153	He was dropped about That's still deep behind German lines.
+0154	There's no way to know where the hell he was dropped.
+0155	First reports out of SHAEF said the 101st is scattered to hell.
+0156	There's misdrops all over Normandy.
+0157	Assuming Ryan survived the jump, he could be anywhere.
+0158	ln fact, he's probably KlA.
+0159	And frankly, sir, we go sending some sort of rescue mission, flat-hatting through swarms of German reinforcements along our axis of advance, they're gonna be KlA, too.
+0160	l have a letter here.
+0161	written a long time ago to a Mrs Bixby in Boston.
+0162	So bear with me.
+0163	'Dear Madam, ''l have been shown in the files of the War Department ''a statement of the Adjutant General of Massachusetts ''that you are the mother of five.
+0164	'sons who died gloriously on the field of battle.
+0165	'l feel how weak and fruitless must be any words of mine ''that would attempt to beguile you from the grief ''of a loss so overwhelming.
+0166	'But l cannot refrain from tendering to you ''the consolation that may be found ''in the thanks of the republic they died to save.
+0167	'l pray that Our Heavenly Father ''may assuage the anguish of your bereavement ''and leave only the cherished memory of the loved lost.
+0168	'and the solemn pride that must be yours ''to have laid so costly a sacrifice ''upon the altar of freedom.
+0169	'Yours very sincerely and respectfully.
+0170	'Abraham Lincoln.
+0171	' That boy is alive.
+0172	We are gonna send somebody to find him.
+0173	and we are gonna get him the hell out of there.
+0174	Yes, sir.
+0175	We expected 32 tanks, - Miller, Charlie Company.
+0176	- Go in, Captain.
+0177	lf we don't off-load those Shermans by 0600, we'll have an entire division stuck at Carentan with its pants around its ankles.
+0178	Well, you let me know.
+0179	Have Charlie Company hold Vierville until we get there.
+0180	Yes, sir.
+0181	Runner! Airborne was supposed to win an open door for us.
+0182	They misdropped, scattered everything into the wind.
+0183	What's your situation? Yes, sir.
+0184	Sector four is secure.
+0185	We took out towed 88s here, here.
+0186	and here.
+0187	They'd already gotten four Shermans and some deuce-and-a-halves.
+0188	These two minefields are one big one.
+0189	We tried going through, but it turned into a high-density field.
+0190	little bit of everything.
+0191	Spreng mine 44s, pot mines, A-200s.
+0192	the wooden bastards that the mine detectors don't pick up.
+0193	This road here.
+0194	they placed Teller mine 43s, l guess for our tanks.
+0195	from here to the edge of the village.
+0196	So we marked 'em, called the engineers.
+0197	Resistance? We had higher support expectations, sir.
+0198	There was an understrength company without artillery.
+0199	Wehrmacht 346 lnfantry, von Luck Kampfgruppe.
+0200	We ended up with 23 prisoners.
+0201	We turned them over to MPs.
+0202	What about our casualties? Well.
+0203	the figures.
+0204	were 35 dead.
+0205	times two wounded.
+0206	They just.
+0207	didn't wanna give up those 88s.
+0208	lt was tough, that's why you got it.
+0209	Yes, sir.
+0210	John.
+0211	l've got another one for you.
+0212	- Yes, sir.
+0213	- Straight from the top.
+0214	We're taking a squad to Neuville on a public relations mission.
+0215	You leading a squad? Some Private lost three brothers and got a ticket home.
+0216	How come Neuville? They think he's part of all those airborne misdrops.
+0217	lt won't be easy finding one particular soldier.
+0218	Like finding a needle in a stack of needles.
+0219	What about the company? We take our pick, the rest get folded into Baker.
+0220	Jesus Christ.
+0221	They took away your company? lt wasn't my company.
+0222	lt was the army's.
+0223	So they told me.
+0224	Give me Reiben on BAR, Jackson, Wade, Beasley and Caparzo.
+0225	Beasley's dead.
+0226	All right, Mellish, then.
+0227	We got anybody speaks French? Not that l know of.
+0228	What about Talbot? - This morning.
+0229	- Oh.
+0230	All right.
+0231	l'll try to dig up another interpreter.
+0232	Assemble at battalion motor pool.
+0233	Yes, sir.
+0234	- What we doing? - Listen up.
+0235	What? What we gonna do? You're going home with a hunk of cheese in your ass, Caparzo.
+0236	You like it in the ass.
+0237	Attention! As you were.
+0238	l'm looking for Corporal Upham, - Timothy E.
+0239	- l'm Upham, sir.
+0240	- You speak French and German? - Yes, sir.
+0241	Accent? A slight one in French.
+0242	My German's clean, sir.
+0243	You're reassigned to me.
+0244	Grab your gear.
+0245	We're going to Neuville.
+0246	When was this updated? As of 0830, sir.
+0247	Uh, sir.
+0248	These two axes advance south.
+0249	Sir, there are Germans in Neuville.
+0250	- Yes, Corporal.
+0251	- Sir, a LOT of Germans.
+0252	You have a problem with that, Corporal? No, l've never been in combat.
+0253	l make maps, translate.
+0254	l need someone who speaks French and German.
+0255	My guys were killed.
+0256	But l haven't held a weapon since training, sir.
+0257	- Did you fire the weapon? - Yes, sir.
+0258	- Then get your gear.
+0259	- Yes, sir.
+0260	Sir, may l.
+0261	May l bring my typewriter, sir? Yes, sir.
+0262	Thank you very much, sir.
+0263	- That a souvenir? - No, sir.
+0264	Take your time, Corporal.
+0265	Look on the bright side, Corporal.
+0266	Yes, sir.
+0267	For one thing.
+0268	you don't need to carry those.
+0269	You'll need that.
+0270	Need this.
+0271	Yes, sir.
+0272	Don't need that.
+0273	You want your head blown off? Don't fuckin' touch me with those little rat claws.
+0274	Get the fuck back in formation.
+0275	l was wondering where you're from, that's.
+0276	Caparzo, is it? Hey, drop dead, Corporal.
+0277	Got you.
+0278	And saluting the captain makes him a target for Germans.
+0279	So don't do it, especially when l'm next to him.
+0280	Corporal, what's your book about? - Watch your rifle.
+0281	- Sorry.
+0282	lt's supposed to be about the bonds of brotherhood that develop between soldiers during war.
+0283	Brotherhood? What do you know about brotherhood? Get a load of this guy, Fish.
+0284	Ask the captain where he's from.
+0285	Yeah, ask the captain.
+0286	He'll tell you everything you wanna know.
+0287	You wanna explain the math of this to me? Why risk the lives of the eight of us to save one guy? Anybody wanna answer? Reiben, think about the poor bastard's mother.
+0288	l got a mother, all right? l mean, you got a mother.
+0289	Sarge has got a mother.
+0290	Shit, l bet even the captain's got a mother.
+0291	Well, not the captain, but the rest of us.
+0292	'Theirs not to reason why, theirs but to do and die.
+0293	' What does that mean? We're all supposed to die? Upham's talking about our duty as soldiers.
+0294	Yes, sir.
+0295	We have orders to follow.
+0296	That supersedes everything, including your mothers.
+0297	Thank you, sir.
+0298	Even if you think the mission's fubar, sir? Especially if you think the mission's fubar.
+0299	What's ''fubar''? Oh, it's German.
+0300	Yeah.
+0301	Never heard of that.
+0302	Sir.
+0303	l have an opinion on this matter.
+0304	Well, by all means, share it with the squad.
+0305	Well, from my way of thinking, sir, this entire mission is a serious misallocation of valuable military resources.
+0306	Yeah.
+0307	Go on.
+0308	Well, it seems to me, sir, that God made me a fine instrument of warfare.
+0309	Reiben, pay attention.
+0310	This is the way to gripe! Continue, Jackson.
+0311	What l mean, sir, if you put me and this rifle within one mile of Adolf Hitler with a clear line of sight, sir.
+0312	Pack your bags, fellas.
+0313	War's over.
+0314	Amen.
+0315	Oh, that's brilliant, bumpkin.
+0316	So, Captain, what about you? You don't gripe at all? l don't gripe to you, Reiben.
+0317	l'm a captain.
+0318	There's a chain of command.
+0319	Gripes go up, not down.
+0320	You gripe to me, l gripe to my superiors and so on.
+0321	l don't gripe to you or in front of you.
+0322	l'm sorry, sir, but, uh.
+0323	Let's say you weren't a captain.
+0324	What would you say then? Well, in that case, l'd say this is an excellent mission, sir, with an extremely valuable objective, sir, worthy of my best efforts, sir.
+0325	Moreover.
+0326	l feel heartfelt sorrow for the mother of Private James Ryan and will lay down my life and the lives of my men, especially you, Reiben, to ease her suffering.
+0327	- He's good.
+0328	- l love him.
+0329	Right.
+0330	Thunder! Flash! Upham, over there.
+0331	Reiben, you four go.
+0332	Go, go, go, go, go.
+0333	You're a welcome sight.
+0334	Our relief showed up.
+0335	How many are you? Just eight.
+0336	We're not your relief.
+0337	Sorry.
+0338	What do you mean, sir? We're here for a Private Ryan.
+0339	Who? Ryan? What for? - ls he here? - l don't know.
+0340	Maybe on the other side of town.
+0341	The Germans cut us in two.
+0342	- What's his name again? - Ryan.
+0343	James Ryan.
+0344	He dropped in with 101st.
+0345	- Goldman, get me a runner.
+0346	- Runner! Come on.
+0347	Jonesy, make a hole there! We got stopped by intense rifle action from the eastward.
+0348	The Germans have been reinforcing regiments all day.
+0349	lt's been quiet for about 45 minutes.
+0350	Most of the German fire is concentrated to the westward.
+0351	Who's on the loudspeaker? That's Dagwood Dsseldorf, our friendly neighbourhood morale officer.
+0352	The Statue of Liberty is kaputt.
+0353	'The Statue of Liberty is kaputt.
+0354	' That's disconcerting.
+0355	Take the second left.
+0356	Your father was circumcised by my rabbi, you prick! Private Ryan, James, probably misdropped with 101.
+0357	- Got that? - Cover! Go! Those sadistic fuckin' animals! Get down.
+0358	They know we're not in contact, they'll get the runners.
+0359	Why keep shooting him? Long as he lives, he carries the message.
+0360	- We'd do the same.
+0361	- We wouldn't! - Get ready to travel.
+0362	- Yes, sir.
+0363	Try again to let Captain Hamill know we're coming.
+0364	What's the rest of Neuville like? Uh, next block's got two-storey buildings both sides.
+0365	A lotta windows and a square on the left.
+0366	- Show me.
+0367	- Sarge, hold right here.
+0368	Yes, sir.
+0369	Let's stay out of this enfilade and use the buildings.
+0370	Try a left hook.
+0371	Two of yours, two of mine.
+0372	Hastings, Goldman, up front! Reiben, Caparzo.
+0373	Fundamentals.
+0374	Short runs.
+0375	High and low at the corners.
+0376	Be prepared for close contact.
+0377	Go.
+0378	Upham, stay with Sergeant Horvath.
+0379	Stay right here.
+0380	l'll wear him like underwear! Stay with me.
+0381	Past the end are the gates to the square.
+0382	Good.
+0383	Reiben, where's the Captain from? Figure that out, you got yourself a prize.
+0384	Company's got a pool.
+0385	Five bucks gets you in.
+0386	Easy.
+0387	lt's around this corner.
+0388	Defilade up to those gates.
+0389	Somebody must know where he's from.
+0390	Been with him since Kasserine Pass, and l don't know.
+0391	My ankles are killing me.
+0392	l'll need a wheelchair before this is over.
+0393	Ow! That's it.
+0394	Oh, my God.
+0395	Got ankles like an old woman.
+0396	Like an old.
+0397	Reiben.
+0398	So you don't even know where he went to school? Captain didn't go to school, they assembled him out of Gl body parts.
+0399	Pay attention to detail.
+0400	l know where he's from 'cause l pay attention to detail.
+0401	Hey, Upham.
+0402	careful you don't step in the bullshit.
+0403	Do it.
+0404	Thunder! Thunder, or we will fire on you! Upham, tell them to show themselves.
+0405	Ask where the Germans are.
+0406	What's he saying? The children.
+0407	Take the children.
+0408	No, we can't take the kids.
+0409	We can't take the kids! No! They think they'll be safe with us.
+0410	lt's not gonna be safe with us! Are you nuts?! Listen to the Captain! They think they'll be safe, sir.
+0411	Not gonna be safe anywhere.
+0412	Put that kid back! Put that little girl back! Caparzo, give that kid back now! Upham, how do you say ''lt's OK''? She reminds me of my niece, sir.
+0413	Get the kid back up there! Captain, we could take her down the road to the next town.
+0414	We're not here to do the decent thing! We're here to follow fuckin' orders! Sarge, take this goddamn kid! Cover! Cover! Come on.
+0415	No! Goddamit! Where'd that come from? He was on the ground before we heard.
+0416	That's where l'd be.
+0417	l didn't see it.
+0418	Maybe a shade under.
+0419	l wouldn't venture out there, fellas! This sniper's got talent! Please don't cry.
+0420	l'll take you back to your parents.
+0421	Please don't cry.
+0422	Come on.
+0423	Captain.
+0424	Hold on, Caparzo.
+0425	Help me up.
+0426	l can walk.
+0427	l can walk.
+0428	Caparzo, stay still! All right.
+0429	Two clicks, left wind.
+0430	Captain, can you see him from there? How is he? Wade, you stay put.
+0431	Where's he shot, Captain? - Can you see him? - Stay there! Damn it, stay down! What's up with you? What if you get hit? Huh? Fish, come over here.
+0432	Carpy, put your head down.
+0433	Put your head down.
+0434	O my God, l trust in Thee.
+0435	Let me not be ashamed.
+0436	Let not my enemies triumph over me.
+0437	Copy it.
+0438	Copy it and send it for me.
+0439	You're gonna send it.
+0440	Put it down! - lt's got blood! - l see it.
+0441	lt's.
+0442	lt's to my dad.
+0443	lt's got blood on it.
+0444	We got him.
+0445	Stay down.
+0446	How bad is it? Chest, maybe lung shot.
+0447	Get that 30 up the street! Detail! Clear up! Clear down! That's why we can't take children.
+0448	Sergeant Horvath, do an ammo check.
+0449	Upham.
+0450	canteens.
+0451	Fill 'em up.
+0452	- Sergeant Hill.
+0453	- Yes, sir.
+0454	Gather your men.
+0455	We'll form up at the north-west corner.
+0456	Mellish, check the tower.
+0457	Right now.
+0458	Go! Fuck Ryan.
+0459	- Thunder! - Flash! Come on in.
+0460	Hey, guys, we're looking for Captain Hamill.
+0461	Somewhere across the square.
+0462	Across the square.
+0463	Go easy.
+0464	Watch for snipers.
+0465	Take it easy.
+0466	Sit down.
+0467	Jimmy T, find Captain Hamill, bring him in here.
+0468	What? Up there? How should l know? Would you go look, please? Thank you, you moron.
+0469	All right.
+0470	You guys just flake out here for a while.
+0471	Let me get this goddamn hitchhiker out of my boot.
+0472	Jesus! Drop your weapons! Drop 'em now! Drop the fucking weapons! l'll shoot you! l'll shoot! Drop! Drop! Drop 'em! Now! Put 'em down! Clear up! Shit.
+0473	Shit! Clear up! Clear down! Enough to make you old.
+0474	Let's hope so.
+0475	Fred Hamill, Pathfinders 101st.
+0476	John Miller, 2nd Rangers.
+0477	Thank you.
+0478	We're looking for Private James Ryan.
+0479	He's part of your outfit.
+0480	Any chance you policed him up? - How was the road in? - Scenic.
+0481	We lost most of our ammo.
+0482	And one of our men.
+0483	Lieutenant, redeploy that bazooka to the right side.
+0484	Yes, sir! And get Ryan up here.
+0485	Ryan! Ryan, front and centre! Ryan! Here comes our boy.
+0486	Told you he was an asshole.
+0487	Sir, Private Ryan reporting.
+0488	At ease.
+0489	Captain Miller, 2nd Rangers.
+0490	He wants a word with you.
+0491	This way.
+0492	All right.
+0493	Take a knee.
+0494	Private, l have some bad news.
+0495	Well, there isn't any easy way to say this, so, uh.
+0496	so l'll just say it - your brothers are dead.
+0497	We have, uh, orders to come get you.
+0498	cause you're going home.
+0499	Oh, my God.
+0500	My brothers are dead.
+0501	l was gonna take 'em fishing when we got home.
+0502	l'm so sorry, James.
+0503	l can't tell you how much.
+0504	How.
+0505	how did they die? They were killed in action.
+0506	No, that can't be.
+0507	They're both.
+0508	That.
+0509	that can't be.
+0510	My brothers are still in grammar school.
+0511	You're James Ryan? Yeah.
+0512	James Francis Ryan from lowa? James Frederick Ryan, Minnesota.
+0513	Well, does that.
+0514	does that mean my brothers are OK? Yeah, l'm sure they're fine.
+0515	Are you sure they're OK, though? We're looking for a different Private Ryan.
+0516	How do you know? How do you know the foul-up isn't that his brothers are OK and that.
+0517	Lieutenant, l'm sorry for the trouble.
+0518	l just wrote them a letter.
+0519	l got to get home.
+0520	l got to get home right now.
+0521	Shh, take it easy.
+0522	- Where's our Ryan? - l don't know.
+0523	You in touch with your CO? - That figures.
+0524	- What unit's he in? Baker Company, 506.
+0525	- The guy with the broken foot? - Charlie, l think.
+0526	You think? Yeah.
+0527	Ryan? Don't know.
+0528	Man! Where was your drop zone? Just inside of Vierville.
+0529	Vierville? How did you end up here? You got me, sir.
+0530	C-47 took heavy fire.
+0531	Pilot tried to get out, turning every which way.
+0532	Took more fire in the drop.
+0533	Got messy.
+0534	l ended up here.
+0535	l haven't seen a single guy from my stick, sir.
+0536	Anybody there have a big mouth, say where the drop was? No, sir, but they had the same rally point as us.
+0537	Show me.
+0538	My men are beat.
+0539	We'll hold up for three hours then pull out after dark.
+0540	Got anything left in this town like a three-star hotel? Something with clean sheets and room service? How about a nice comfy church? - We'll take that.
+0541	- Any news? How's it all falling together? Well, we got the beachhead secure.
+0542	Problem is Monty's taking his time moving on Caen.
+0543	We can't pull out till he's ready, so.
+0544	That guy's overrated.
+0545	No argument here.
+0546	You got to take Caen so you can take Saint-Lo.
+0547	Take Saint-Lo to take Valognes.
+0548	Valognes, you got Cherbourg.
+0549	And Cherbourg, you got Paris.
+0550	Paris, you get Berlin.
+0551	Then that big boat home.
+0552	We sure could use you around here, but l understand what you're doing.
+0553	You do? Yeah.
+0554	l got a couple of brothers myself.
+0555	- Oh.
+0556	- Good luck.
+0557	Thank you.
+0558	No, l mean it.
+0559	Find him.
+0560	Get him home.
+0561	What's with your hand? l don't know.
+0562	lt started when they brought us down for embarkation.
+0563	lt comes and goes.
+0564	You may have to get yourself a new job.
+0565	This one doesn't seem to agree with you any more.
+0566	What? - What? - Nothing.
+0567	What was the name of that kid at Anzio? He was always walking around on his hands, and singing that song about the man on the flying trapeze? Yeah, Vecchio.
+0568	He was a goofy kid.
+0569	Remember he used to pee a ''V'' on everybody's jacket, for Vecchio.
+0570	For victory.
+0571	Vecchio.
+0572	He was so short.
+0573	- Wasn't he a midget? - How did he become a Ranger? Got shot in the foot once.
+0574	He could walk faster on his hands.
+0575	He could run faster on his hands than.
+0576	You see, when.
+0577	you end up killing one of your men, you tell yourself it happened so you could save the lives of two or three or 10 others.
+0578	Maybe a hundred others.
+0579	Do you know how many men l've lost under my command? - How many? - 94.
+0580	But that means l've saved the lives of 10 times that many, doesn't it? Maybe even 20, right? And that's how simple it is.
+0581	That's how you.
+0582	That's how you rationalise making the choice between the mission and the men.
+0583	Except this time, this mission is a man.
+0584	This Ryan better be worth it.
+0585	He'd better go home and cure some disease or invent a longer-lasting light bulb or something.
+0586	l wouldn't trade 10 Ryans for one Vecchio or one Caparzo.
+0587	Amen.
+0588	Look.
+0589	There it goes again.
+0590	Sir.
+0591	are you all right? Look, we're gonna move out in two hours.
+0592	Why don't you get some sleep? l don't know how he does it.
+0593	What's that? Falls asleep like that.
+0594	Look at him.
+0595	He's lights-out the minute his head's down.
+0596	Clear conscience.
+0597	What's that saying? ''lf God's on our side, who's on theirs?'' ''lf God be for us, who could be against us?'' Yeah, what did l say? Well, actually, the trick to falling asleep is trying to stay awake.
+0598	How is that, Wade? My mother was an intern, she worked late nights, slept through the day, so the only time we got to talk was when she'd get home.
+0599	So l used to lie in my bed and try to stay awake, but it never worked 'cause the harder l tried, the faster l'd fall asleep.
+0600	That wouldn't have mattered in my house.
+0601	My ma would've shook me awake, chatted till dawn.
+0602	That woman was never too tired to talk.
+0603	Probably the only time she could get a word in.
+0604	Funny thing is, sometimes she'd come home early, and l'd pretend to be asleep.
+0605	Who? You.
+0606	your mom? Yeah.
+0607	She'd stand in the doorway looking at me.
+0608	And l'd just keep my eyes shut.
+0609	l knew she just wanted to find out about my day, that she came home early.
+0610	just to talk to me.
+0611	And l still wouldn't move.
+0612	l'd still pretend to just be asleep.
+0613	l don't know why l did that.
+0614	We only got a couple hours.
+0615	Go to sleep.
+0616	Captain? Sir? Corporal? How you doin' there? You all right? Yeah, l think this is all good for me, sir.
+0617	Really? How is that? ''War educates the senses, ''calls into action the will, ''perfects the physical constitution, ''brings men into such swift and close collision ''in critical moments that man measures man.
+0618	' Yeah, well, l guess that's Emerson's way of finding the bright side.
+0619	- You know Emerson, sir? - l know some.
+0620	So where are you from, Captain? What'd you do before the war? What's the pool up to? You know, l think it's around 300, sir.
+0621	Well, when it gets up to 500, l'll tell you and we'll split the money, how about that? Well, sir, l feel it's my duty under your command to suggest we wait until it gets to a thousand, sir.
+0622	What if we don't live that long? - 500? - 500 would be good, yeah.
+0623	Yes, sir.
+0624	Yeah.
+0625	Get some sleep, Corporal.
+0626	Yes, sir.
+0627	Who's got sulphur powder? Medic! My buddy's bleeding! He needs a tourniquet! - Wade.
+0628	- Yes, sir? - Do what you can.
+0629	- Yes, sir.
+0630	Hold on, fellas.
+0631	lt won't be much longer.
+0632	How we doing here? All right.
+0633	Yeah, doing all right.
+0634	Don't worry about it.
+0635	Doc's in town.
+0636	lt's all right.
+0637	lt's all right.
+0638	The 29th lnfantry's breaking through, they'll be here soon.
+0639	Plasma.
+0640	Anybody got plasma? - Captain.
+0641	Hey, Captain.
+0642	- Soldier, want to fill me in? Uh, yeah.
+0643	Lieutenant DeWindt, sir.
+0644	carrying 327th Glider lnfantry.
+0645	This one was mine.
+0646	l was the pilot.
+0647	22 dead.
+0648	l ended up without a scratch.
+0649	Took my co-pilot's head off.
+0650	Well, who are these people? The guys we came with, they headed off first night.
+0651	Other guys keep showing up.
+0652	One, two, half-dozen at a time.
+0653	Then some officer'll patch together a mixed unit, head off to make trouble, sir.
+0654	We're looking for Private James Ryan.
+0655	Baker Company, 506 of the 101st.
+0656	No, you got me, sir.
+0657	A lot of guys come in and out of here.
+0658	Check that squad.
+0659	- See if Ryan's in it.
+0660	- Yes, sir.
+0661	Smell that leg right there.
+0662	ls it south of cheese? What? Keep moving.
+0663	Keep moving! l'm Juden, you know? Ju-den.
+0664	Yeah, l couldn't pry him out of there, - l'd need a winch.
+0665	- Yeah.
+0666	Stars.
+0667	Yep, Brigadier General Amend, Deputy Commander, 101st.
+0668	Some fucking genius had the idea of welding steel plates on to keep the general safe from ground fire.
+0669	Unfortunately, they forgot to tell me until we were getting airborne.
+0670	That's like flying a freight train.
+0671	OK? Gross overload.
+0672	Trim characteristics all shot to hell.
+0673	l nearly broke both my arms keeping her level.
+0674	And when.
+0675	and when we released, l cut as hard as l could, tried to gain altitude and still keep from stalling.
+0676	Came down like a fucking meteor.
+0677	Here's how we ended up.
+0678	And the others, they stopped easy enough OK, though, you know? We were just.
+0679	we were just too damn heavy, you know? The grass was wet.
+0680	Downward slope and all.
+0681	All that for a general? One man.
+0682	- Lot of that going around.
+0683	- Fubar.
+0684	Fubar.
+0685	Fubar.
+0686	Fubar.
+0687	Y'all got that right.
+0688	l looked in a German dictionary.
+0689	There's no ''fubar'' in there.
+0690	- Upham.
+0691	- Yes, sir? There's more paratroops.
+0692	Find out if one's Ryan.
+0693	Yes, sir.
+0694	You might want to check these out, sir.
+0695	Dog tags.
+0696	More than l really want to count, sir.
+0697	l've.
+0698	l've covered a lot of bodies, sir.
+0699	Jackson.
+0700	start going through those.
+0701	Yes, sir.
+0702	l'll help.
+0703	What do you think? He in there? lf he is, l'll find him.
+0704	l bet he is.
+0705	- Who we got.
+0706	? - You don't stand a chance.
+0707	- You think he's in here? - Just keep looking.
+0708	All right.
+0709	Gary lanico.
+0710	Ben Rubino.
+0711	Mike Cessacchio.
+0712	All the Guineas are buying it, huh? Oh, come on, not the right name.
+0713	Wee Willie Winkie, that's your buddy.
+0714	We gotta find this prick.
+0715	Where is this sonofabitch? Don't mix them up? Keep them in your pile.
+0716	How will l know who's here? Why don't you just shut up, Reiben, all right? Everybody be friends.
+0717	Cranky there, huh? l got a winner.
+0718	What you talking about? Ryan.
+0719	Ryan? Look at that, Mellish.
+0720	You're a genius, you really are.
+0721	R-l-E-N-N-E.
+0722	That's Rienne.
+0723	That's French.
+0724	You know what that means? lt means nothing.
+0725	- Three of a kind.
+0726	- All from New York.
+0727	Do you need a hand with that? l got a full house.
+0728	Got you beat.
+0729	Straight flush.
+0730	You were looking at my tags.
+0731	You're cheating, you know? Ryan.
+0732	Fuckin' unreal, this guy.
+0733	Do you need a hand with that? Can you read that shit? Jesus, look at this poor bastard.
+0734	They're not bulletproof, huh? Guess not.
+0735	All right? What's between his ears? Sort of what you fellas got between your legs.
+0736	We got to give him that.
+0737	Not bad, Jackson.
+0738	What the hell are you doing? The whole Airborne's watching.
+0739	These aren't chips.
+0740	- All right, all right.
+0741	- Put 'em back in! He's not here.
+0742	Put 'em back.
+0743	Maybe we should split into groups, huh? Wander the woods, calling his name.
+0744	He'll hear us sooner or later.
+0745	Ryan! That might be a little hard to do, Captain.
+0746	Maybe the locals.
+0747	Hey, you know.
+0748	uh, excusez-moi.
+0749	Parlez-vous Ryan, James Ryan? Merci.
+0750	Merci beaucoup.
+0751	Ryan! Anybody know Ryan, Ryan? You know a guy named Ryan? Private James Ryan from lowa? Anybody know a Ryan? James Ryan?! Hey, Joe, doesn't, uh, Michaelson pal around with a Ryan from ''C'' Company? l think so.
+0752	Bring him up here, would you? You know Private Ryan? You're gonna have to speak up, sir.
+0753	Speak up, sir! My hearing's not good! lt comes and goes! A grenade went off by me! Got it, got it.
+0754	Do you know Private Ryan? Who? - Private Ryan? James Ryan? - Jimmy Ryan? James.
+0755	James Francis Ryan.
+0756	No, no, no.
+0757	James Francis Ryan.
+0758	Get me a pencil, something to write on.
+0759	Quick! Come on, a pencil! A small one, sir.
+0760	Write this down.
+0761	James Francis Ryan, question mark.
+0762	lowa, question mark.
+0763	Do you know know him? Read the message.
+0764	Look.
+0765	Yeah.
+0766	Of course l know him, sir.
+0767	Where is he? Yeah, yeah.
+0768	We missed our drop zone by 20 miles, ended up by Bumville or some damn place.
+0769	We were coming here to the rally point, ran into a colonel who was gathering up men - to go to, uh.
+0770	Ramelle.
+0771	- Ramelle.
+0772	Babysitting a bridge.
+0773	That's all l know, sir.
+0774	Great! Great! Thank.
+0775	thank you.
+0776	Write ''thank you.
+0777	' Read, and thank you.
+0778	You're welcome! Assemble on me.
+0779	Thank you, Lieutenant.
+0780	Ramelle.
+0781	We're here.
+0782	There.
+0783	Ramelle.
+0784	is on the Merderet river, just south-west of us.
+0785	You know anything about this bridge, Captain? Yep.
+0786	The target has always been Cherbourg.
+0787	We can't push on Paris without a deep water port, Rommel knows that, so he's gonna try to get his armour across the river.
+0788	Then he can hit us in the flank when we turn to Cherbourg.
+0789	That makes any village with a bridge solid-gold real estate.
+0790	Let's go.
+0791	Captain.
+0792	What the hell is that? A radar site.
+0793	Must be out of action.
+0794	Looks like there's something in that.
+0795	sandbag bunker right under the station.
+0796	See it? Yeah.
+0797	That's my guess, too.
+0798	What is it? Machine gun.
+0799	Probably MG-42.
+0800	Jesus.
+0801	ls that what got those guys? Maybe one of them's our boy.
+0802	No, their patches are 82nd.
+0803	l don't know how fast you guys are, but let's detour this way, they'll never know we were here.
+0804	So, Captain, let's just go around it.
+0805	l hear what you're saying, but we can't.
+0806	l'm with Reiben on this one, sir.
+0807	- We left them 88s.
+0808	- For the Air Force.
+0809	The Air Force won't spend ordinance on one machine gun.
+0810	Uh, Captain.
+0811	We skip it and still accomplish our mission.
+0812	l mean, this isn't our mission, right? That's what you want to do, just leave it here? Let them ambush the next company? No, sir, l'm simply saying, it seems like an unnecessary risk given our objective, sir.
+0813	Our objective is to win the war.
+0814	Sir, l just, uh, l don't have a good feeling about this one.
+0815	When was the last time you felt good about anything? All right, three runners with suppressing fire.
+0816	Mellish, you hook to the right.
+0817	l'll go up the middle.
+0818	Who's going left? Who's going left? l'll do it.
+0819	l'll go left.
+0820	All right.
+0821	Upham, switch off with Jackson, and you linger in the rear.
+0822	Yes, sir.
+0823	We keep pressure on till he has to change his barrels.
+0824	l think we should be able to hit him from grenade range.
+0825	- l should take the middle, sir.
+0826	- The way you run? - Maybe l should go left, sir.
+0827	- Maybe you should shut up.
+0828	Reiben, base of fire.
+0829	Mags and clips where you can reach 'em, and.
+0830	and extra grenades for the base runners.
+0831	Hill's clear! Four down and dead! Upham, grab the gear.
+0832	Get up here! We need water and extra dressing now! Get the morphine out of the extra medical kit! Get the morphine out of the extra medical kit! Son of a bitch! Get some sulphur on there.
+0833	Move my legs up.
+0834	More sulphur, Mellish.
+0835	You're gonna be all right, doc.
+0836	How's it look? Wade, you're going on a hospital ship.
+0837	More sulphur! Put my legs up.
+0838	Put my legs up.
+0839	l got 'em.
+0840	l got 'em.
+0841	l got 'em.
+0842	Upham, give me your canteen! Come on.
+0843	Come on.
+0844	come on.
+0845	Put some pressure on it.
+0846	- You'll be OK.
+0847	- How's it look? - Give him morphine.
+0848	- How's it look? - All right.
+0849	- How's it look? Here comes the morphine.
+0850	Am l shot in the spine? - You're OK, Wade.
+0851	Am l shot in the spine? Lift him up.
+0852	Easy, easy, easy.
+0853	Put some pressure on him.
+0854	Easy, easy.
+0855	Lift him up.
+0856	lt's OK, doc.
+0857	lt's all right.
+0858	Wade, you got an exit wound.
+0859	lt's in the small of your back.
+0860	How big.
+0861	how big's the hole in the.
+0862	lt's about the size of an acorn.
+0863	You're fine.
+0864	Put some pressure on it.
+0865	Put some pressure on it.
+0866	Put some pressure on it.
+0867	lt's all right.
+0868	Put some more pressure on it! ls there anything bleeding worse than the others? Yeah, right here.
+0869	Do you know what it is? No.
+0870	Here.
+0871	l'll put your hand on it.
+0872	Pressure on there.
+0873	Right there.
+0874	OK? That's the one.
+0875	Oh, my God, my liver! Oh, my God! lt's my liver! Tell us what to do.
+0876	Tell us how to fix you.
+0877	What can we do? Tell us what to do.
+0878	Oh, shit.
+0879	l could use.
+0880	l could use a little more morphine.
+0881	More morphine, sir? Give it to him.
+0882	Give it to him.
+0883	l don't wanna die.
+0884	Here you go, Wade.
+0885	Here you go.
+0886	There you go.
+0887	There you.
+0888	Give him another one.
+0889	Mama? Mama? l want to go home.
+0890	l want to go home.
+0891	Mama! Mama! Mam.
+0892	Reiben, hold him! Not yet.
+0893	First, make him mark and cover Wade's body for grave detail.
+0894	Same thing for those paratroopers down there.
+0895	Strip that stuff.
+0896	Check for intelligence.
+0897	Ask if he's the one who shot Wade.
+0898	- lt doesn't matter.
+0899	- lt does matter! Shut up with that filthy Pig Latin.
+0900	Jackson, you're hit.
+0901	Shut up.
+0902	- lt just skinned me, sir.
+0903	- Get it dressed.
+0904	You and Sarge watch the perimeter.
+0905	He says please don't shoot.
+0906	l don't care, Upham.
+0907	Sir? Sir, you're gonna let them kill him? - This is not right, sir.
+0908	- Help him with the bodies.
+0909	What is happening? American.
+0910	l like American.
+0911	Steamboat Willie.
+0912	Steamboat Willie.
+0913	Yeah, Steamboat Willie.
+0914	American.
+0915	He's says he's not finished.
+0916	That's what you think.
+0917	Please.
+0918	l like America.
+0919	Fancy schmancy! What a cinch! Go fly a kite! Cat got your tongue! Cool beans! Betty Boop! What a dish! Betty Grable.
+0920	Nice gams.
+0921	l say can you see.
+0922	l say can you see.
+0923	l.
+0924	l say.
+0925	Fuck Hitler.
+0926	Fuck Hitler.
+0927	Sir, he says he's sorry about Wade.
+0928	He says he's sorry about Wade, sir.
+0929	Captain! Captain, this isn't right! You know this.
+0930	He's a prisoner.
+0931	He surrendered.
+0932	He surrendered, sir! Tell him.
+0933	To march a thousand paces, then he can take off the blindfold.
+0934	We'll be gone, and he turns himself in to Allied patrols.
+0935	- We're letting him go? - He's a POW, Reiben.
+0936	Can't take him with us.
+0937	Our guys'll pick him up.
+0938	lf he isn't picked up by the Wehrmacht, then thrown back into circulation.
+0939	Captain, you just let the enemy go.
+0940	This is such bullshit.
+0941	Y'all got that right.
+0942	Bullshit? This is bullshit? Shooting prisoners is OK? lt's against the goddamn rules! The rules just walked off with your friend.
+0943	But l guess that was the decent thing to do, huh, Captain? Get your gear.
+0944	Let's go.
+0945	You heard him.
+0946	Gear up.
+0947	The Captain just gave you an order.
+0948	Yeah.
+0949	Like the one to take this machine gun.
+0950	That was a real doozie, sarge.
+0951	Soldier, you're outta line.
+0952	Yes, sir, one hell of a call, to take this nest.
+0953	But, what the hell, we only lost one guy.
+0954	l hope mama Ryan's happy knowing that little Jimmy's life is more important than our guys! But then, we haven't found him yet, have we? Get the hell off me! Reiben, get up.
+0955	Gear up.
+0956	Fall in.
+0957	l'm done with this mission.
+0958	Sir.
+0959	Don't walk away from your Captain, get back in line.
+0960	l'll go to the stockade if l have to.
+0961	- l won't ask again.
+0962	- Captain! This is bullshit! Fall in! - You'd shoot me over Ryan? - No, l don't like you.
+0963	Just let him go! Are you letting this happen? Captain! You see this? - Captain? Sir? Ryan's dead.
+0964	- Bullshit! - Sir, we have a situation.
+0965	- l have a sixth sense, l know.
+0966	You don't kill Krauts, but you shoot me, huh? - He's better than you.
+0967	- Do it.
+0968	Put one in my leg.
+0969	l'm gonna shoot you in your big goddamn mouth! Put your money where your.
+0970	You don't know when to shut up.
+0971	Captain, please! What's the pool on me up to? What? - You coward son of a bitch! - l'm waiting, sarge.
+0972	Mike, what's the pool on me up to now? What.
+0973	what's it up to? What is it, $300? ls that it, 300? l'm a schoolteacher.
+0974	l teach English composition in this little town called Addley, Pennsylvania.
+0975	The last 1 1 years, l've been at Thomas Alva Edison High School.
+0976	l was the coach of the baseball team.
+0977	l'll be doggone.
+0978	Back home, when l'd tell people what l do for a living, they'd think, ''Well, that figures.
+0979	' But over here, it's a.
+0980	a big.
+0981	a big mystery.
+0982	So l guess l've changed some.
+0983	Sometimes l wonder if l've changed so much, my wife will even recognise me whenever l get back to her.
+0984	And how l'll ever be able to.
+0985	to tell her about days like today.
+0986	Ah, Ryan.
+0987	l don't know anything about Ryan.
+0988	l don't care.
+0989	The man means nothing to me, just a name.
+0990	But if.
+0991	lf finding him so he can go home, lets me get back to my wife, well, then.
+0992	then that's my mission.
+0993	You want to leave? You want to go off and fight the war? All right.
+0994	All right, l won't stop you.
+0995	l'll even put in the paperwork.
+0996	l just know, every man l kill, the farther from home l feel.
+0997	By memories Of days gone by ln my solitude You taunt me With memories That never die l sit in my chair Filled with despair There's no one Could be so sad With gloom everywhere l sit and l stare.
+0998	Half-track! Cover! Who's doing the shooting? Who's doing the shooting? Move on their left flank! Take their left flank! Hold on, make sure they're down! That was a recon element, second SS.
+0999	We've been expecting a probe.
+1000	That must have been it.
+1001	Captain Miller, Charlie Company, 2nd Rangers.
+1002	Corporal Henderson, Easy Company, Five-o-first.
+1003	Ryan, First of the Five-o-sixth.
+1004	PFC Toynbe, Third of the Five-o-sixth.
+1005	James Francis Ryan? Yes, sir.
+1006	How'd you guess that? Looks like you guys got hit pretty hard.
+1007	Yes, sir.
+1008	Small unit action.
+1009	They beat the hell out of us with 88s.
+1010	Sir, if you're our relief, l'm gonna file a complaint.
+1011	l wouldn't blame you.
+1012	Who's your CO? lt would have been Captain Jennings, sir.
+1013	The best we can muster now is a corporal.
+1014	So, what are you guys all about? We're here for him.
+1015	Ryan.
+1016	Me, sir? James Francis Ryan of lowa? Yes, sir.
+1017	Payton, lowa, that's correct.
+1018	What is this about? Your brothers were killed in combat.
+1019	Which.
+1020	which ones? All of them.
+1021	Uh.
+1022	On.
+1023	on the level? Yeah.
+1024	l'm afraid so.
+1025	Uh.
+1026	You might want to take some time with this.
+1027	lf there's someplace you want to go and.
+1028	- What's this all about? - Ryan lost his brothers.
+1029	- Which one? - All of them.
+1030	You.
+1031	You came all the way out here to tell me that? Well, you're.
+1032	you're going home.
+1033	Our orders are to bring you back.
+1034	Bring me back? Corporal Henderson.
+1035	l don't mean to leave you short-handed, but orders are orders.
+1036	When are you being relieved? Sir, we have no way to tell.
+1037	My orders don't include me abandoning my post.
+1038	l understand that, but this changes things.
+1039	l don't see that it does, sir.
+1040	The Chief of Staff for the United States Army says it does.
+1041	Sir, we have to hold this bridge.
+1042	The 82nd have taken out every bridge across the Merderet except two, at Valognes and here.
+1043	lf the Germans take 'em, we'll have to displace.
+1044	Private, your outfit stays, but your party's over here.
+1045	Sir, l can't leave until reinforcements.
+1046	You got three minutes.
+1047	Sir, what about them? There's barely.
+1048	Hey, asshole! Two of our guys already died trying to find you, all right? Sir? That's right.
+1049	What were their names? lrwin Wade and Adrian Caparzo.
+1050	Wade and.
+1051	Caparzo.
+1052	lt doesn't make any sense.
+1053	lt doesn't make sense, sir.
+1054	Why do l deserve to go? Why not these guys? They fought just as hard! ls that what they're supposed to tell your mother when they send her another folded American flag? Tell her that when you found me, l was here with the only brothers l have left, and that there's no way l was gonna desert them.
+1055	l think she'll understand that.
+1056	There's no way l'm leaving this bridge.
+1057	What are your orders? Sergeant, we have crossed some strange boundary here.
+1058	The world has taken a turn for the surreal.
+1059	Clearly, but the question still stands.
+1060	l don't know.
+1061	What do you think? You don't want to know what l think.
+1062	No, Mike, l do.
+1063	Well.
+1064	part of me thinks the kid's right.
+1065	What's he done to deserve this? lf he wants to stay here, fine, let's leave him.
+1066	Yeah.
+1067	But another part of me thinks.
+1068	what if by some miracle we stay and actually make it out of here? Someday we might look back and decide that saving Private Ryan was the one decent thing we were able to pull out of this whole God-awful, shitty mess.
+1069	That's what l was thinking, sir.
+1070	Like you said, Captain, if we do that.
+1071	we all earn the right to go home.
+1072	Oh, brother.
+1073	This is everything.
+1074	Two.
+1075	30-calibre machine guns, You got two bazookas, but only eight rounds left, and assorted small arms.
+1076	An arty round took out our.
+1077	60 mortar.
+1078	Might as well be spit wads if they use tanks.
+1079	- Which they're sure to.
+1080	- What you thinking, sir? Well.
+1081	l think they're going to try to whip around the flanks.
+1082	Unless we draw them up here between these buildings, where all the rubble makes a bit of a bottleneck.
+1083	- Disable him? - lf we can.
+1084	Make the tank a 60-ton roadblock, we'll have a chance.
+1085	Yes, sir, don't let them mass anywhere.
+1086	Hit hard and fall back to the bridge.
+1087	Machine gun moving, number two up high to piss on their heads.
+1088	That would be the idea.
+1089	Jackson? lf we can, l'd like to get you up in that bell tower.
+1090	- Yes, sir.
+1091	- Give you company if need be.
+1092	Yes, sir.
+1093	Company couldn't hurt.
+1094	l'd say a.
+1095	30 with about Parker, job opportunity.
+1096	Not the worst idea, Captain.
+1097	But it all depends on knocking out the tank here, right? So how do you plan on doing that? Reiben's right.
+1098	As our esteemed colleague from the Airborne pointed out, what we got here is spit wads, so how do we stop the tank? Give it a rabbit to chase.
+1099	We could hit the tank in the tracks.
+1100	Yeah, but with what? We could try a sticky bomb.
+1101	Sticky bomb, sir? - Sir, are you making that up? - No.
+1102	lt's in the field manual.
+1103	Well, we're out of field manuals, sir.
+1104	Perhaps you can enlighten us? Right, you have demolition - some TNT or composition B? l got that bridge wired with enough to blow it twice.
+1105	You can spare some, then.
+1106	You take a standard-issue Gl sock, cram it with as much Comp' B as possible, rig up a simple fuse, then coat the whole thing with axle grease.
+1107	When you throw it, it should stick.
+1108	lt's a bomb that sticks.
+1109	A sticky bomb.
+1110	You know a better way to knock the tracks off a tank, tell me.
+1111	This is good.
+1112	Now we got to surrender our socks.
+1113	Haul away.
+1114	Select the field of fire.
+1115	Cross with the bell tower.
+1116	l can cover 1 2 to nine here.
+1117	- Easy! - l got her! Here are the mines.
+1118	For being the best we can do, that forward machine gun is not in a terrible firing position.
+1119	And this position right here.
+1120	this is the Alamo.
+1121	They push us back here, last man blows the bridge.
+1122	We only got a 30-second fuse, so that last man better hurry, or he won't be alive long.
+1123	Captain? Where am l during all this? Never more than two feet from me, and that's not negotiable.
+1124	l'll get some ammo.
+1125	Come on.
+1126	- Upham.
+1127	- Yes.
+1128	- Listen, all right? - Yeah.
+1129	- Listening? - Yes.
+1130	All right, we'll be displacing and falling back like crazy.
+1131	So be Johnny-on-the-spot with ammo or we're dead.
+1132	- Right.
+1133	- Understand? - Johnny-on-the-spot.
+1134	- You all right? Yeah.
+1135	When we shipped out of England, l told the supply sergeant handing out cigarettes, ''l don't smoke.
+1136	' ''l don't smoke.
+1137	' Quite a situation, huh? Unbelievable.
+1138	Here.
+1139	Fucked up beyond all recognition, right? Yeah, you got that right.
+1140	Fubar.
+1141	- Yeah, well.
+1142	- Fubar.
+1143	lt'll be a real show, huh? Take it easy.
+1144	Fubar.
+1145	Who's that singing, sir? Edith Piaf.
+1146	What's she so upset about? Her lover left her, but she still sees his face everywhere she goes.
+1147	That would do it.
+1148	'Even life itself ''only represents you.
+1149	'Sometimes l dream that l'm in your arms.
+1150	' What was that part? She sang that before.
+1151	The chorus.
+1152	'And you speak softly in my ear.
+1153	'and you say things ''that make my eyes close, ''and l find that marvellous.
+1154	' Uh, again.
+1155	Upham, uh.
+1156	to be honest, l.
+1157	l find myself curiously aroused by you.
+1158	Marvellous.
+1159	No, it's.
+1160	it's a melancholy song.
+1161	At the beginning, she says, ''And then one day, you left.
+1162	'You left me, and, uh.
+1163	l've been desperate ever since.
+1164	'l see you all over the sky, l see you all over the earth.
+1165	' Any more of this, the Krauts won't have to shoot me.
+1166	l'll just slit my own wrists.
+1167	You're a strange bird, Upham.
+1168	Sorry, it's Edith, you know.
+1169	You know what that song reminds me of? What Mrs Rachel Troubowitz said when l left for Basic.
+1170	What, ''Don't touch me''? No.
+1171	Mrs Rachel Troubowitz is our super's wife.
+1172	She tries things on in my mom's shop, and she's, like, a 44-EE.
+1173	- Double-E? - These things are massive.
+1174	Those are big.
+1175	l've got her convinced that she's, like, a 42-D.
+1176	So she's trying to squeeze into this side-cut, silk-ribboned, triple-panel girdle with the shelf-lift brassiere.
+1177	And it's beautiful, she's just pouring out of it.
+1178	lt's beautiful, and she can tell l got a hard-on the size of the Statue of Liberty.
+1179	And she says, ''Richard, calm down.
+1180	' And says, ''When you're over there, ''if you see anything that upsets you, ''just close your eyes and think of these.
+1181	You understand?'' So l said, ''Yes, ma'am.
+1182	' Are you all right, sir? Yeah, just keeping the rhythm.
+1183	ls it true you were a teacher back home? Yes.
+1184	See, that's something l could never do Not after the way we treated our teachers.
+1185	No, sir.
+1186	l had a thousand kids like you.
+1187	l can't see my brothers' faces.
+1188	l've been trying, and l can't see them.
+1189	Has that ever happened to you? You gotta think of a context.
+1190	What does that mean? Well, you think about something specific.
+1191	something you've done together.
+1192	When l think of home, l think of something specific.
+1193	l think of my hammock in the backyard or.
+1194	my wife pruning the rose bushes in a pair of my old work gloves.
+1195	Well, this one night, two of my brothers came and woke me up in the middle of the night, and they said they had a surprise for me.
+1196	They took me to the barn, into the loft, and.
+1197	there was my oldest brother Dan.
+1198	with Alice.
+1199	Alice Jardine.
+1200	l mean.
+1201	picture a girl who took a nosedive from the ugly tree and hit every branch coming down.
+1202	And.
+1203	and Dan's got her shirt off.
+1204	So he's working on this bra, and all of a sudden, Sean just screams out.
+1205	'Danny, you're a young man! Don't do it!'' And Alice Jardine screams, and jumps up, and tries to get out, but this shirt's over her head, and she runs into the wall and knocks herself out.
+1206	So now Dan is so mad, he starts coming after us, but Alice is there unconscious, he's gotta wake her up.
+1207	So he grabs her leg, and he's dragging her.
+1208	And he picks up a shovel and goes after Sean.
+1209	Sean says, ''Why are you trying to hit me? l did you a favour.
+1210	' And this makes Dan more angry.
+1211	He tries to swing this thing.
+1212	lt goes out of his grasp and hits a kerosene lantern.
+1213	The thing explodes, and the whole barn almost goes up.
+1214	That was it.
+1215	Dan went to Basic next day.
+1216	That was the last night the four of us were together.
+1217	That was two years ago.
+1218	Tell me about your wife and those rose bushes.
+1219	No.
+1220	No.
+1221	That one l save just for me.
+1222	Enemy from the east.
+1223	He sees Tiger tanks, two of 'em.
+1224	Panzer tanks, two of 'em.
+1225	lnfantry, Disperse! You know what to do! Reiben, get on the rabbit.
+1226	Upham, get some cover.
+1227	Mellish and Henderson, lock and load! Everybody check your ammo! Good luck, Reiben.
+1228	l was born lucky, sarge.
+1229	One in five tracer? Yep, and tracers point both ways.
+1230	Yeah? Check her head space and she should run.
+1231	Upham! Hustle up! - Corporal Upham? - Yes, sir.
+1232	We don't have a.
+1233	30-calibre here.
+1234	Either Mr Mellish or Mr Jackson needs that.
+1235	Yes, sir.
+1236	Upham! Jackson's fine.
+1237	Turn around to Mellish.
+1238	l don't know if they took the bait, Captain.
+1239	You got any more of that? Panzers didn't take the bait.
+1240	lnfantry's moving to the left.
+1241	Half-track just went by with about 20 troops.
+1242	Displace! Do it now! Light it! You! Light it! Get over there and stop 'em! Displace! Upham! Clear! Krauts! Right flank! Sanitater! Get down! Get down! Upham! Upham!.
+1243	30-cal! Hurry! And find the captain! This flank's going to fold! Reversing! He's still in this fight! No, no, Ryan, get down! Get down! - Ryan.
+1244	- Get off me! - You all right? - Get off me! l'm fine, too, Captain(!) OK, both sides! Get a grenade in there! Grenade! - 20-mil! - 20-mil! Flak gun.
+1245	Take it out! Heavy weapon below! l ain't got a shot! Pincer move, Parker! Targets eight o'clock low! Shit! God grant me strength.
+1246	Come on! Displace! Come on! Cover, Upham! Cover! Cover! l'm out of.
+1247	30-calibre.
+1248	Blessed be the Lord, my strength, which teaches my hands to war.
+1249	My goodness and my fortress.
+1250	my high tower and my deliverer.
+1251	my shield and He in whom l trust.
+1252	Parker, get down! Captain, that 20-millimetre's killing us.
+1253	We gotta try to flank it.
+1254	Well, let me get over for the top shot.
+1255	Upham, ammo, Goddamit! l'm jammed! l'm jammed! Got any.
+1256	30-cal? - l'm out.
+1257	- Shit.
+1258	l'm out! l need a bandolier! Anybody got a bandolier? God! God! You stupid.
+1259	Let's stop.
+1260	Listen to me! Listen to me! Stop! No! D-d-d-d.
+1261	Stop.
+1262	Stop.
+1263	Son of.
+1264	son of a bitch! Son of a bitch! Son of a bitch! Son of a bitch! Son of a bitch! l'm out.
+1265	Those.
+1266	60 rounds.
+1267	We can use them without the tube.
+1268	How? Fuse-arming wire, set back, heave it! Panzer schreck! We're going to the Alamo.
+1269	Alamo! Alamo! We'll take it! You fall back! You be right behind us! Soon as we're in business! Displace.
+1270	Reload.
+1271	All right, go.
+1272	We're blowing the bridge! Clear the bridge! Sarge! Mike, are you all right? - l just got the winded.
+1273	- Get out of here! We're gonna blow this bridge! Come on, come on! Tiger coming! Coming across the bridge! Captain.
+1274	Captain, where are you going? Get back here! Hang in there, Captain.
+1275	Medic! Medic! We got a medic? They're tank-busters, sir.
+1276	P-51s.
+1277	Angels on our shoulders.
+1278	What, sir? James.
+1279	Earn this.
+1280	Earn it.
+1281	My dear Mrs Ryan, it's with a profound sense of joy that l write to inform you your son Private James Ryan is well and, at this very moment, on his way home from European battlefields.
+1282	Reports from the front indicate James did his duty in combat with great courage and steadfast dedication even after informed of the tragic loss your family has suffered in this great campaign to rid the world of tyranny and oppression.
+1283	l take great pleasure in joining the Secretary of War, the United States Army and the citizens of a grateful nation in wishing you good health and many years of happiness with James at your side.
+1284	Nothing, not even the safe return of a beloved son, can compensate you or the thousands of other families who have suffered great loss in this tragic war.
+1285	l share with you some words which sustained me through long, dark nights of peril, loss and heartache.
+1286	And l quote, ''l pray that our heavenly father ''may assuage the anguish of your bereavement ''and leave you only the cherished memory ''of the loved and lost ''and the solemn pride that must be yours ''to have laid so costly a sacrifice ''upon the alter of freedom.
+1287	'Abraham Lincoln.
+1288	' Yours very sincerely and respectfully, George C Marshall, General, Chief of Staff.
+1289	My family is with me today.
+1290	They wanted to come with me.
+1291	To be honest with you, l wasn't sure how l'd feel coming back here.
+1292	Every day l think about what you said to me that day on the bridge.
+1293	And l've tried to live my life the best l could.
+1294	l hope that was enough.
+1295	l hope that, at least in your eyes, l've earned what all of you have done for me.
+1296	James.
+1297	Captain John H Miller.
+1298	Tell me l've led a good life.
+1299	What? Tell me l'm a good man.
+1300	You are.

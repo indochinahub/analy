@@ -1,0 +1,2 @@
+car,cars
+have,has

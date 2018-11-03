@@ -1,0 +1,924 @@
+0201	Watashi no tanjoobi wa 9-gatsu 17-nichi desu.	わたし の たんじょおび わ 9ーがつ 17ーにち です.
+0202	Soo desu ka.	そお です か.
+0203	kyooshi	きょおし
+0204	tanjoobi	たんじょおび
+0205	ne (particle)	ね (ぱrちclえ)
+0206	omedetoo (gozaimasu)	おめでとお (ございます)
+0207	arigatoo (gozaimasu)	ありがとお (ございます)
+0208	-gatsu	ーがつ
+0209	nan-gatsu	なんーがつ
+0210	-nichi	ーにち
+0211	nan-nichi	なんーにち
+0212	ichi-gatsu	いちーがつ
+0213	ni-gatsu	にーがつ
+0214	san-gatsu	さんーがつ
+0215	shi-gatsu (not yon-gatsu)	しーがつ (のt よんーがつ)
+0216	go-gatsu	ごーがつ
+0217	roku-gatsu	ろくーがつ
+0218	shichi-gatsu (not nana-gatsu)	しちーがつ (のt ななーがつ)
+0219	hachi-gatsu	はちーがつ
+0220	ku-gatsu (not kyuu-gatsu)	くーがつ (のt きゅうーがつ)
+0221	juu-gatsu	じゅうーがつ
+0222	juuichi-gatsu	じゅういちーがつ
+0223	juuni-gatsu	じゅうにーがつ
+0224	tsuitachi	ついたち
+0225	futsuka	ふつか
+0226	mikka	みっか
+0227	yokka	よっか
+0228	itsuka	いつか
+0229	muika	むいか
+0230	nanoka	なのか
+0231	yooka	よおか
+0232	kokonoka	ここのか
+0233	tooka	とおか
+0234	juu ichi-nichi	じゅう いちーにち
+0235	juu ni-nichi	じゅう にーにち
+0236	juu san-nichi	じゅう さんーにち
+0237	juu yokka	じゅう よっか
+0238	juu go-nichi	じゅう ごーにち
+0239	juu roku-nichi	じゅう ろくーにち
+0240	juu shichi-nichi	じゅう しちーにち
+0241	juu hachi-nichi	じゅう はちーにち
+0242	juu ku-nichi	じゅう くーにち
+0243	hatsuka/ni juu-nichi	はつか/に じゅうーにち
+0244	ni juu ichi-nichi	に じゅう いちーにち
+0245	ni juu ni-nichi	に じゅう にーにち
+0246	ni juu san-nichi	に じゅう さんーにち
+0247	ni juu yokka	に じゅう よっか
+0248	ni juu go-nichi	に じゅう ごーにち
+0249	ni juu -roku-nichi	に じゅう ーろくーにち
+0250	ni juu shichi-nichi	に じゅう しちーにち
+0251	ni juu hachi-nichi	に じゅう はちーにち
+0252	ni juu ku-nichi	に じゅう くーにち
+0253	san juu-nichi	さん じゅうーにち
+0254	san juu ichi-nichi	さん じゅう いちーにち
+0255	Kyoo wa juu-gatsu nijuugo-nichi desu.	きょお わ じゅうーがつ にじゅうごーにち です.
+0256	Watashi no tanoobi wa shichi-gatsu nijuuyokka desu.	わたし の たのおび わ しちーがつ にじゅうよっか です.
+0257	Ashita wa 10-gatsu 26-nichi desu ka.	あした わ 10ーがつ 26ーにち です か.
+0258	Kinoo wa nan-gatsu nan-nichi deshita ka.	きのお わ なんーがつ なんーにち でした か.
+0259	Kinoo wa ni-gatsu mikka deshita.	きのお わ にーがつ みっか でした.
+0260	Tomu-san no tanjoobi wa itsu desu ka.	とむーさん の たんじょおび わ いつ です か.
+0261	(Watashi no tanjoobi wa) san-gatsu futsuka desu.	(わたし の たんじょおび わ) さんーがつ ふつか です.
+0262	(Watashi no tanjoobi wa) ashita desku.	(わたし の たんじょおび わ) あした でsく.
+0263	Tankaka-san, kaisha no kurisumasu paatii wa itsu desu ka.	たんかかーさん, かいしゃ の くりすます ぱあちい わ いつ です か.
+0264	Raishuu no kin-yoobi desu.	らいしゅう の きんーよおび です.
+0265	Raishuu no kin-yoobi wa nan-gatsu nan-nichi desu ka.	らいしゅう の きんーよおび わ なんーがつ なんーにち です か.
+0266	12-gatsu 15-nichi desu.	12ーがつ 15ーにち です.
+0267	Soo desu ka. Wakarimashita. Arigatoo.	そお です か. わかりました. ありがとお.
+0268	kaisha	かいしゃ
+0269	kurisumasu	くりすます
+0270	paatii	ぱあちい
+0271	raishuu	らいしゅう
+0272	kin-yoobi	きんーよおび
+0273	wakarimashita	わかりました
+0274	nichi-yoobi	にちーよおび
+0275	getsu-yoobi	げつーよおび
+0276	ka-yoobi	かーよおび
+0277	sui-yoobi	すいーよおび
+0278	moku-yoobi	もくーよおび
+0279	kin-yoobi	きんーよおび
+0280	do-yoobi	どーよおび
+0281	nan-yoodi	なんーよおぢ
+0282	kinoo	きのお
+0283	kyoo	きょお
+0284	ashita	あした
+0285	senshuu	せんしゅう
+0286	konshuu	こんしゅう
+0287	raishuu	らいしゅう
+0288	sengetsu	せんげつ
+0289	kongetsu	こんげつ
+0290	raigetsu	らいげつ
+0291	kyonen	きょねん
+0292	kotoshi	ことし
+0293	rainen	らいねん
+0294	Senshuu no nichi-yoobi	せんしゅう の にちーよおび
+0295	Konshuu no getsu-yoobi	こんしゅう の げつーよおび
+0296	deshita	でした
+0297	purezento	ぷれぜんと
+0298	chokoreeto	ちょこれえと
+0299	to	と
+0300	kaaado	かああど
+0301	Howaito-san. Koko wa watashi no uchi desu. Doozo.	ほわいとーさん. ここ わ わたし の うち です. どおぞ.
+0302	Doomo. Anoo sumimasen. Otearai wa doko desu ka.	どおも. あのお すみません. おてあらい わ どこ です か.
+0303	Oteari wa asoko deu.	おてあり わ あそこ でう.
+0304	Moo ichido yukkuri onegai shimasu.	もお いちど ゆっくり おねがい します.
+0305	Hai, otearai wa asoko desu.	はい, おてあらい わ あそこ です.
+0306	Soo desu ka. Doomo arigatoo gozaimasu.	そお です か. どおも ありがとお ございます.
+0307	kokonoka	ここのか
+0308	uchi	うち
+0309	doozo	どおぞ
+0310	Doomo. Anoo sumimasen. Otearai wa doko desu ka.	どおも. あのお すみません. おてあらい わ どこ です か.
+0311	anoo	あのお
+0312	sumimasen	すみません
+0313	otearai	おてあらい
+0314	doko	どこ
+0315	asoko	あそこ
+0316	Moo ichido yukkuri onegai shimasu.	もお いちど ゆっくり おねがい します.
+0317	yukkuri	ゆっくり
+0318	onegai shimasu	おねがい します
+0319	Otearai wa asoko desu.	おてあらい わ あそこ です.
+0320	Soko wa watashi no uchi desu.	そこ わ わたし の うち です.
+0321	Howaito-san. wa watashi no uchi desu.	ほわいとーさん. わ わたし の うち です.
+0322	machi	まち
+0323	konbuni	こんぶに
+0324	suupaa	すうぱあ
+0325	depaato	でぱあと
+0326	resutoran	れすとらん
+0327	kissaten	きっさてん
+0328	ginkoo	ぎんこお
+0329	toshokan	としょかん
+0330	gakkoo	がっこお
+0331	hoteru	ほてる
+0332	eki	えき
+0333	kuukoo	くうこお
+0334	taishikan	たいしかん
+0335	byooin	びょおいん
+0336	chikatetsu	ちかてつ
+0337	yuubinkyoku	ゆうびんきょく
+0338	kooban	こおばん
+0339	Tookyoo eki wa doko desu ka.	とおきょお えき わ どこ です か.
+0340	(Tookyoo eki wa) ASOKO DESU.	(とおきょお えき わ) あそこ です.
+0341	Kumura-san wa koko desu ka.	くむらーさん わ ここ です か.
+0342	Kimura-san wa kissaten desu.	きむらーさん わ きっさてん です.
+0343	koko	ここ
+0344	kochira	こちら
+0345	soko	そこ
+0346	sochira	そちら
+0347	asoko	あそこ
+0348	achira	あちら
+0349	doko	どこ
+0350	dochira	どちら
+0351	Sumimasen. Otearai wa doko desu ka.	すみません. おてあらい わ どこ です か.
+0352	Otearai wa achira desu.	おてあらい わ あちら です.
+0353	Soo desu ka. Doomo.	そお です か. どおも.
+0354	Sumimasen. Howaito-san. Ima nan-ji desu ka.	すみません. ほわいとーさん. いま なんーじ です か.
+0355	Ima, gozen 9-ji han desu.	いま, ごぜん 9ーじ はん です.
+0356	Soo desu ka. Doomo arigatoo gozaimasu. Howaito-san no (o)kuni wa Kanada desu ne. Kanada wa ima nan-ji desu ka.	そお です か. どおも ありがとお ございます. ほわいとーさん の (お)くに わ かなだ です ね. かなだ わ いま なんーじ です か.
+0357	EEto, Kanada wa ima gogo 5-ji han desu.	ええと, かなだ わ いま ごご 5ーじ はん です.
+0358	Soo desu ka.	そお です か.
+0359	ima	いま
+0360	nan-ji	なんーじ
+0361	-ji	ーじ
+0362	gozen	ごぜん
+0363	han	はん
+0364	(o)kuni	(お)くに
+0365	eeto	ええと
+0366	gogo	ごご
+0367	ichi-ji	いちーじ
+0368	ni-ji	にーじ
+0369	san-ji	さんーじ
+0370	yo-ji	よーじ
+0371	go-ji	ごーじ
+0372	roku-ji	ろくーじ
+0373	shichi-ji	しちーじ
+0374	hachi-ji	はちーじ
+0375	ku-ji	くーじ
+0376	juu-ji	じゅうーじ
+0377	juu ichi-ji	じゅう いちーじ
+0378	juu ni-ji	じゅう にーじ
+0379	-pum/ -fun	ーぷm/ ーふん
+0380	ip-pup	いpーぷp
+0381	ni-fun	にーふん
+0382	san-pun	さんーぷん
+0383	yon-pun	よんーぷん
+0384	go-fun	ごーふん
+0385	rop-pun	ろpーぷん
+0386	nana-fun	ななーふん
+0387	hap-pun	はpーぷん
+0388	kyuu-fun	きゅうーふん
+0389	jup-pun	じゅpーぷん
+0390	gozen ni-ji	ごぜん にーじ
+0391	gogo vy-ji juugo-fun	ごご vyーじ じゅうごーふん
+0392	gozen roku-ji sanjup-pun (or gozen roku-ji han)	ごぜん ろくーじ さんじゅpーぷん (おr ごぜん ろくーじ はん)
+0393	Q : Sumimasen. Ima nan-ji desu ka. A: ima go-ji sesu.	q : すみません. いま なんーじ です か. あ: いま ごーじ せす.
+0394	Q: Tookyoo wa ima nan-ji desu ka. A: Ima gozen hachi-ji han desu.	q: とおきょお わ いま なんーじ です か. あ: いま ごぜん はちーじ はん です.
+0395	Ima gozen ku-ji go-fun mae desu.	いま ごぜん くーじ ごーふん まえ です.
+0396	Ima gogo shichi-ji jup-pun mae desu.	いま ごご しちーじ じゅpーぷん まえ です.
+0397	Satoo-san, Nihon no depaato wa nan-ji kara desu ka.	さとおーさん, にほん の でぱあと わ なんーじ から です か.
+0398	Futsuu gozen 10-ji kara desu.	ふつう ごぜん 10ーじ から です.
+0399	Soo desu ka. Jaa, nan-ji made desu ka.	そお です か. じゃあ, なんーじ まで です か.
+0400	Soo desu ne. Futsuu gogo 8-ji goro made desu.	そお です ね. ふつう ごご 8ーじ ごろ まで です.
+0401	Do-yoobi mo gozen 10-ji kara gogo 8-ji made desu ka.	どーよおび も ごぜん 10ーじ から ごご 8ーじ まで です か.
+0402	iie, do-yoobi wa gogo 8-ji han made desu.	いいえ, どーよおび わ ごご 8ーじ はん まで です.
+0403	kara (particle)	から (ぱrちclえ)
+0404	fusuu	ふすう
+0405	made(paticle)	まで(ぱちclえ)
+0406	goro	ごろ
+0407	Ginko wa gozen 10-ji kara desu.	ぎんこ わ ごぜん 10ーじ から です.
+0408	Ginko wa gogo 4-ji made desu.	ぎんこ わ ごご 4ーじ まで です.
+0409	Ginkoo wa gozen 10-ji kara gogo 4-ji made desu.	ぎんこお わ ごぜん 10ーじ から ごご 4ーじ まで です.
+0410	Ginkoo wa nan-ji kara desu ka.	ぎんこお わ なんーじ から です か.
+0411	Kimura-san. Kore wa nan desu ka?	きむらーさん. これ わ なん です か?
+0412	Sore wa terebi no rimokon desu.	それ わ てれび の りもこん です.
+0413	Are mo terebi no rimokon desu ka.	あれ も てれび の りもこん です か.
+0414	Dore desu ka.	どれ です か.
+0415	Are desu.	あれ です.
+0416	AA, are wa eakon no rimokon desu.	ああ, あれ わ えあこん の りもこん です.
+0417	Soo desu ka. Nite imasu ne.	そお です か. にて います ね.
+0418	kore	これ
+0419	Sore wa terebi no rimokon desu.	それ わ てれび の りもこん です.
+0420	terebi	てれび
+0421	rimokon	りもこん
+0422	are	あれ
+0423	Dore desu ka.	どれ です か.
+0424	eakon	えあこん
+0425	nite imasu	にて います
+0426	Kore wa pen desu.	これ わ ぺん です.
+0427	Sore wa ringo desu.	それ わ りんご です.
+0428	Are wa Nihon-go jisho desu.	あれ わ にほんーご じしょ です.
+0429	Watashi no jisho wa kore desu.	わたし の じしょ わ これ です.
+0430	Q: Sumimasen. Terebi no rimokon wa dore desu ka. A: (Terebi no rimokon wa) kore desu.	q: すみません. てれび の りもこん わ どれ です か. あ: (てれび の りもこん わ) これ です.
+0431	Q: Sumimasen. Terebi no rimokon wa dochira desu ka. A: (Terebi no rimokon wa) kochira desu.	q: すみません. てれび の りもこん わ どちら です か. あ: (てれび の りもこん わ) こちら です.
+0432	pasupooto	ぱすぽおと
+0433	tokee	とけえ
+0434	udedokee	うでどけえ
+0435	shinbun	しんぶん
+0436	megane	めがね
+0437	saifu	さいふ
+0438	kutsu	くつ
+0439	denchi	でんち
+0440	jisho	じしょ
+0441	pasokon	ぱそこん
+0442	dejkame	でjかめ
+0443	(keetai) denwa	(けえたい) でんわ
+0444	hon	ほん
+0445	baban	ばばん
+0446	kasa	かさ
+0447	boorup	ぼおるp
+0448	zasski	ざssき
+0449	khoohii	kほおひい
+0450	ocha	おちゃ
+0451	hanbaagaa	はんばあがあ
+0452	sakana	さかな
+0453	kudamono	くだもの
+0454	juusu	じゅうす
+0455	koocha	こおちゃ
+0456	niku	にく
+0457	yasai	やさい
+0458	ringo	りんご
+0459	konbiniensu sutoaa -> konbini	こんびにえんす すとああ ー> こんびに
+0460	paasonaru coypyuuta-> pasokon	ぱあそなる cおyぴゅうたー> ぱそこん
+0461	dejitaru kamera -> dejikame	でじたる かめら ー> でじかめ
+0462	rimooto kontorooraa->rimokon	りもおと こんとろおらあー>りもこん
+0463	eaa knodishonaa->eakon	えああ kのぢしょなあー>えあこん
+0464	Kimura-san. Kono kasa wa dare no kasa desu ka.	きむらーさん. この かさ わ だれ の かさ です か.
+0465	Shono kasa wa watashi no desu.	しょの かさ わ わたし の です.
+0466	Soo desu ka. Jaa, sono kasa mo kimura-san no desu ka.	そお です か. じゃあ, その かさ も きむらーさん の です か.
+0467	IIe, kono kasa wa watashi no dewa arimasen. Yamada-san no desu.	いいえ, この かさ わ わたし の でわ ありません. やまだーさん の です.
+0468	Yamada-san?	やまだーさん?
+0469	Yamada-san wa watashi no tonari no hito desu.	やまだーさん わ わたし の となり の ひと です.
+0470	kono	この
+0471	dare	だれ
+0472	dare no	だれ の
+0473	sono	その
+0474	tonari	となり
+0475	hito	ひと
+0476	kono hon	この ほん
+0477	sono hon	その ほん
+0478	ano hon	あの ほん
+0479	dono hon	どの ほん
+0480	Kono shibun wa Niho no shinbun desu.	この しぶん わ にほ の しんぶん です.
+0481	Sono pasokon to ano terebi o kudasai.	その ぱそこん と あの てれび お ください.
+0482	Yamada-san wa dono toke o kaimashita ka.	やまだーさん わ どの とけ お かいました か.
+0483	Q: Ano hito wa dare (donata) desu ka. A: (Ano hito wa) Yamada-san desu.	q: あの ひと わ だれ (どなた) です か. あ: (あの ひと わ) やまだーさん です.
+0484	Q: Kore wa dare no (donata no) hon desu ka. A:(Sore wa) watashi no (hoo) desu.	q: これ わ だれ の (どなた の) ほん です か. あ:(それ わ) わたし の (ほお) です.
+0485	Irasshaimase	いらっしゃいませ
+0486	Sumimasen. Ano kamera wa ikura desu ka.	すみません. あの かめら わ いくら です か.
+0487	Ano kemera wa sanman-nisen-en desu.	あの けめら わ さんまんーにせんーえん です.
+0488	Jaa, kono kamera wa ikura desu ka.	じゃあ, この かめら わ いくら です か.
+0489	Sono kamera wa nimen-syuusen-syuuhyaku-en desu.	その かめら わ にめんーしゅうせんーしゅうひゃくーえん です.
+0490	Soo desu ka. Jaa, kono kamera o dudasai.	そお です か. じゃあ, この かめら お づださい.
+0491	Doomo arigatoo gozaimasu.	どおも ありがとお ございます.
+0492	ten'in	てんいん
+0493	irasshaimase	いらっしゃいませ
+0494	ikura	いくら
+0495	-man	ーまん
+0496	sen	せん
+0497	hyaku	ひゃく
+0498	-en	ーえん
+0499	-o kudasai	ーお ください
+0500	hyaku	ひゃく
+0501	ni hyaku	に ひゃく
+0502	san byyaku	さん bっやく
+0503	yon hyaku	よん ひゃく
+0504	go hyaku	ご ひゃく
+0505	rop-pyaku	ろpーぴゃく
+0506	nana hyaku	なな ひゃく
+0507	hap-pyaku	はpーぴゃく
+0508	kyuu hyaku	きゅう ひゃく
+0509	sen	せん
+0510	ni sen	に せん
+0511	san zen	さん ぜん
+0512	yon sen	よん せん
+0513	go sen	ご せん
+0514	roku sen	ろく せん
+0515	nana sen	なな せん
+0516	has-sen	はsーせん
+0517	kyuu sen	きゅう せん
+0518	ichi man	いち まん
+0519	ni man	に まん
+0520	san man	さん まん
+0521	yon man	よん まん
+0522	go man	ご まん
+0523	roku man	ろく まん
+0524	nana man	なな まん
+0525	hachi man	はち まん
+0526	kyuu man	きゅう まん
+0527	juu	じゅう
+0528	hyaku	ひゃく
+0529	hyaku-kyuujuu-san	ひゃくーきゅうじゅうーさん
+0530	sanzen-nanakyaku-rokujuu-go	さんぜんーななきゃくーろくじゅうーご
+0531	hachiman-yonsen-nihyaku-ichi	はちまんーよんせんーにひゃくーいち
+0532	Kono hon wa 630 (roppyaku-sanjuu)-en desu.	この ほん わ 630 (ろっぴゃくーさんじゅう)ーえん です.
+0533	A: Kono hon wa ikura desu ka. B: (Sono hon wa) 630-en desu.	あ: この ほん わ いくら です か. b: (その ほん わ) 630ーえん です.
+0534	doko no+ noun	どこ の+ のうん
+0535	Jonson-san. Nihon no seekatsu wa doo sesu ka.	じょんそんーさん. にほん の せえかつ わ どお せす か.
+0536	Nihon no seekatsu wa tanoshii desu.	にほん の せえかつ わ たのしい です.
+0537	Soo desu ka. Jaa, Nihon no tebemono wa doo seku ka.	そお です か. じゃあ, にほん の てべもの わ どお せく か.
+0538	Nihon no kappu raamen wa totemo oishii desu. Soshite totemo yas yasui desu.	にほん の かっぷ らあめん わ とても おいしい です. そして とても やs やすい です.
+0539	Soo desu ne.	そお です ね.
+0540	seekatsu	せえかつ
+0541	tabemono	たべもの
+0542	kappu raamen	かっぷ らあめん
+0543	tanoshii	たのしい
+0544	doo	どお
+0545	totemo	とても
+0546	oishii (i-adj)	おいしい (いーあdj)
+0547	soshite	そして
+0548	yasui (i-adj)	やすい (いーあdj)
+0549	soo desu ne	そお です ね
+0550	ookii	おおきい
+0551	chiisai	ちいさい
+0552	atarashii	あたらしい
+0553	furui	ふるい
+0554	ii(or yoii)	いい(おr よいい)
+0555	warui	わるい
+0556	takai	たかい
+0557	yasui (i-adj)	やすい (いーあdj)
+0558	hikui	ひくい
+0559	yasashii	やさしい
+0560	muzukashii	むずかしい
+0561	atsui	あつい
+0562	samui	さむい
+0563	tsumetai	つめたい
+0564	omoshiroi	おもしろい
+0565	tsumaranai	つまらない
+0566	oishii (i-adj)	おいしい (いーあdj)
+0567	mazui	まずい
+0568	shinsetsu(na)	しんせつ(な)
+0569	yuume(na)	ゆうめ(な)
+0570	nigiyaka(na)	にぎやか(な)
+0571	kireen\(an)	きれえん\(あん)
+0572	shizuka(na)	しずか(な)
+0573	benri(na)	べんり(な)
+0574	fuben(na)	ふべん(な)
+0575	suki(na)	すき(な)
+0576	kirai(na)	きらい(な)
+0577	joozu(na)	じょおず(な)
+0578	heta(na)	へた(な)
+0579	hima(na)	ひま(な)
+0580	genki(na)	げんき(な)
+0581	takai desu	たかい です
+0582	takakunai sesu	たかくない せす
+0583	takakatta desu	たかかった です
+0584	takakunakatta desu	たかくなかった です
+0585	shizuka desu	しずか です
+0586	shizuka dewa arimasen	しずか でわ ありません
+0587	shizuka deshita	しずか でした
+0588	shizuka dewa arimasendeshita	しずか でわ ありませんでした
+0589	ii desu	いい です
+0590	yokatta desu	よかった です
+0591	yokunai desu	よくない です
+0592	yokunakatta desu	よくなかった です
+0593	Kono hon wa takai desu	この ほん わ たかい です
+0594	Ano hon wa omoshirokatta desu.	あの ほん わ おもしろかった です.
+0595	Yamada-san wa shinsetsu desu.	やまだーさん わ しんせつ です.
+0596	Q: Sono hon wa doo desu ka. A: (Kono hon wa) omoshiroi desu.	q: その ほん わ どお です か. あ: (この ほん わ) おもしろい です.
+0597	Q: Kinoo no paatii wa doo deshita ka. A: (Kinoo no paatii wa) nigiyaka deshita.	q: きのお の ぱあちい わ どお でした か. あ: (きのお の ぱあちい わ) にぎやか でした.
+0598	totemo ookii desu	とても おおきい です
+0599	maamaa ookii desu	まあまあ おおきい です
+0600	chotto ookii sesu	ちょっと おおきい せす
+0601	amari ookikunai desu	あまり おおきくない です
+0602	zenzen ookikunai desu	ぜんぜん おおきくない です
+0603	Kono machi wa tetemo ookii desu.	この まち わ てても おおきい です.
+0604	Kono machi wa maamaa ookii desu.	この まち わ まあまあ おおきい です.
+0605	Kono machi wa chotto ookii desu.	この まち わ ちょっと おおきい です.
+0606	Kono machi wa amari ookikunai desu.	この まち わ あまり おおきくない です.
+0607	Kono machi wa zenzen ookikunai desu.	この まち わ ぜんぜん おおきくない です.
+0608	tenki	てんき
+0609	Imai-san no uchi wa doko desu ka.	いまいーさん の うち わ どこ です か.
+0610	Asakusa desu.	あさくさ です.
+0611	Asakusa wa donna machi desu ka.	あさくさ わ どんあ まち です か.
+0612	Totemo omoshiroi machi desu. Soshite nigiyakana machi desu.	とても おもしろい まち です. そして にぎやかな まち です.
+0613	Soo desu ka. II desu ne.	そお です か. いい です ね.
+0614	Asakusa	あさくさ
+0615	donna + noun	どんあ + のうん
+0616	omoshiroi hon	おもしろい ほん
+0617	takai hon	たかい ほん
+0618	kiree na hon	きれえ な ほん
+0619	yuumee na hon	ゆうめえ な ほん
+0620	Ashita wa ii hi desu.	あした わ いい ひ です.
+0621	Kinoo wa ii hi deshita.	きのお わ いい ひ でした.
+0622	Q: Nihon wa donna kuni desu ka. A: (Nihon wa) kireena kuni desu.	q: にほん わ どんあ くに です か. あ: (にほん わ) きれえな くに です.
+0623	Q: Kinoo no eega wa donna eega deshita ka. A: (Kinoo no eega wa) omoshiroi eega deshita.	q: きのお の ええが わ どんあ ええが でした か. あ: (きのお の ええが わ) おもしろい ええが でした.
+0624	ongaku	おんがく
+0625	eega	ええが
+0626	hana	はな
+0627	Imai-san wa genki desu. Shoshite shinsetsu desu.	いまいーさん わ げんき です. しょして しんせつ です.
+0628	Nihon-go wa omoshiroi desu. Deme muzukashii desu.	にほんーご わ おもしろい です. でめ むずかしい です.
+0629	Nihon-go wa omoshiroi desu ga, muzu kashii desu.	にほんーご わ おもしろい です が, むず かしい です.
+0630	AA, Jonson-san. Sore wa doko no ongaku desu ka.	ああ, じょんそんーさん. それ わ どこ の おんがく です か.
+0631	Kore wa Roshia no ongaku desu.	これ わ ろしあ の おんがく です.
+0632	Jonson-san wa Roshia no ongaku ga suki desu ka.	じょんそんーさん わ ろしあ の おんがく が すき です か.
+0633	Hai, daisuki desu. Roshia no ongaku wa totemo kiree desu.	はい, だいすき です. ろしあ の おんがく わ とても きれえ です.
+0634	aa	ああ
+0635	ga (particle)	が (ぱrちclえ)
+0636	daisuki(na) (na-adj.)	だいすき(な) (なーあdj.)
+0637	Watashi wa Nihon no ongaku ga suki desu.	わたし わ にほん の おんがく が すき です.
+0638	Johnson-san wa (o)sushi ga amari suki dewa arimasen.	じょhんそんーさん わ (お)すし が あまり すき でわ ありません.
+0639	Imai-san wa Eego ga totemo joozu desu.	いまいーさん わ ええご が とても じょおず です.
+0640	tenisu	てにす
+0641	piano	ぴあの
+0642	supootsu	すぽおつ
+0643	[name] + e	[なめ] + え
+0644	Tookyoo	とおきょお
+0645	Oosaka	おおさか
+0646	okonomiyaki	おこのみやき
+0647	o tabemashita	お たべました
+0648	tanoshimi(na) (na-adj.)	たのしみ(な) (なーあdj.)
+0649	mata	また
+0650	[name] + yori	[なめ] + より
+0651	Wooka-san wa kotoshi no fuyu doko e ikimasu ka.	をおかーさん わ ことし の ふゆ どこ え いきます か.
+0652	Watashi wa Igirisu e kaerimasu. Suzuki-san wa?	わたし わ いぎりす え かえります. すずきーさん わ?
+0653	Watashi wa doko(e)mo ikimaswen. Demo watashi wa rainen Igirisu e ikimasu.	わたし わ どこ(え)も いきまsうぇん. でも わたし わ らいねん いぎりす え いきます.
+0654	Itsu ikimasu ka.	いつ いきます か.
+0655	Rainen no natsu ikimasu.	らいねん の なつ いきます.
+0656	fuyu	ふゆ
+0657	e (particle)	え (ぱrちclえ)
+0658	ikimasu	いきます
+0659	kaerimasu	かえります
+0660	doko(e)mo	どこ(え)も
+0661	ikimasen	いきません
+0662	natsu	なつ
+0663	Nihon	にほん
+0664	Igirisu	いぎりす
+0665	Amerika	あめりか
+0666	Chuugoku	ちゅうごく
+0667	Yuubinkyoku	ゆうびんきょく
+0668	gakkoo	がっこお
+0669	kaisha	かいしゃ
+0670	uchi	うち
+0671	doobutsuen	どおぶつえん
+0672	suizokukan	すいぞくかん
+0673	hakubutsukan	はくぶつかん
+0674	bijutsukan	びじゅつかん
+0675	kenchoo	けんちょお
+0676	shiyakusho	しやくしょ
+0677	ajia	あじあ
+0678	yooroppa	よおろっぱ
+0679	gaikoku	がいこく
+0680	ikimasu	いきます
+0681	kimasu	きます
+0682	kaerimasu	かえります
+0683	iki masu	いき ます
+0684	iki masen	いき ません
+0685	iki mashita	いき ました
+0686	iki masendeshita	いき ませんでした
+0687	Watashi wa shiyakusho e ikimasu.	わたし わ しやくしょ え いきます.
+0688	Kimura-san wa uchi e kaerimashita.	きむらーさん わ うち え かえりました.
+0689	Q: Jonson-san wa doko e ikimashita ka. A: (Jonson-san wa) bijutsukan e ikimashita.	q: じょんそんーさん わ どこ え いきました か. あ: (じょんそんーさん わ) びじゅつかん え いきました.
+0690	haru	はる
+0691	natsu	なつ
+0692	aki	あき
+0693	fuyu	ふゆ
+0694	yasumi	やすみ
+0695	natsu-yasumi	なつーやすみ
+0696	mainichi	まいにち
+0697	maiasa	まいあさ
+0698	maiban	まいばん
+0699	maishuu	まいしゅう
+0700	maitsuki	まいつき
+0701	maitoshi	まいとし
+0702	shuumatsu	しゅうまつ
+0703	saikin	さいきん
+0704	Watashi wa shuumatsu doobutsuen e ikimasu.	わたし わ しゅうまつ どおぶつえん え いきます.
+0705	Watashi wa natsu-yasumi yooroppa e ikimashita.	わたし わ なつーやすみ よおろっぱ え いきました.
+0706	Q: Maiku-san wa itsu Kyooto e ikimashita ka. A: (Watashi wa) kinoo ikimashita.	q: まいくーさん わ いつ きょおと え いきました か. あ: (わたし わ) きのお いきました.
+0707	Suzuki-san wa kinoo doko e ikimashita ka.	すずきーさん わ きのお どこ え いきました か.
+0708	Watashi wa kinoo bijutsukan e ikimashita.	わたし わ きのお びじゅつかん え いきました.
+0709	Dare to ikimashita ka.	だれ と いきました か.
+0710	Tomodachi to ikimashita.	ともだち と いきました.
+0711	Nani de ikimashita ka.	なに で いきました か.
+0712	Densha de ikimashita.	でんしゃ で いきました.
+0713	Soo desu ka.	そお です か.
+0714	dare to	だれ と
+0715	to (particle)	と (ぱrちclえ)
+0716	tomodachi	ともだち
+0717	nani de	なに で
+0718	de (particle)	で (ぱrちclえ)
+0719	densha	でんしゃ
+0720	Watashi wa basu de uchi e kaerimashita.	わたし わ ばす で うち え かえりました.
+0721	Watashi wa mainichi jitensha de eki e ikimasu.	わたし わ まいにち じてんしゃ で えき え いきます.
+0722	Q: Maiku-san wa nani de kaisha e ikimasu ka. A: Watashi wa densha de kaishe e ikimasu.	q: まいくーさん わ なに で かいしゃ え いきます か. あ: わたし わ でんしゃ で かいsへ え いきます.
+0723	Watashi wa aruite gakkoo e ikimasu.	わたし わ あるいて がっこお え いきます.
+0724	kuruma	くるま
+0725	ootobai	おおとばい
+0726	shinkansen	しんかんせん
+0727	hikooki	ひこおき
+0728	densha	でんしゃ
+0729	basu	ばす
+0730	takushii	たくしい
+0731	jetensha	じぇてんしゃ
+0732	Watashi wa Lii-san to toshokan e ikiasu.	わたし わ lいいーさん と としょかん え いきあす.
+0733	Q: Maiku-san wa kinoo dare to resutoran e ikimashita ka. A: Watashi wa tomodachi to ikimashita.	q: まいくーさん わ きのお だれ と れすとらん え いきました か. あ: わたし わ ともだち と いきました.
+0734	hitori de	ひとり で
+0735	furari de	ふらり で
+0736	Q: Maiku-san wa tomodachi to suupaa e ikimasu ka. A: IIe, (watashi wa) hitori de ikimasu.	q: まいくーさん わ ともだち と すうぱあ え いきます か. あ: いいえ, (わたし わ) ひとり で いきます.
+0737	Wookaa-san no Igirisu no uchi wa doko desu ka.	をおかあーさん の いぎりす の うち わ どこ です か.
+0738	Rondon desu.	ろんどん です.
+0739	Rondon kara Tookyoo made hikooki de donokurai kakarimasu ka.	ろんどん から とおきょお まで ひこおき で どのくらい かかります か.
+0740	Soo desu ne. Rondon kara Tookyoo made 10-jikan gurai kakarimasu.	そお です ね. ろんどん から とおきょお まで 10ーじかん ぐらい かかります.
+0741	Tooi desu ne.	とおい です ね.
+0742	Rondon	ろんどん
+0743	kara (particle)	から (ぱrちclえ)
+0744	made (particle)	まで (ぱrちclえ)
+0745	donokurai	どのくらい
+0746	kakarimasu	かかります
+0747	-jikan	ーじかん
+0748	gurai (or kurai)	ぐらい (おr くらい)
+0749	tooi (i-adj.)	とおい (いーあdj.)
+0750	Tookyoo kara OOsaka made donokurai desu ka.	とおきょお から おおさか まで どのくらい です か.
+0751	Shikansen de 2-jikan han desu.	しかんせん で 2ーじかん はん です.
+0752	-nen(kan)	ーねん(かん)
+0753	-kagetsu(kan)	ーかげつ(かん)
+0754	-shuu(kan)	ーしゅう(かん)
+0755	-nichi(kan)	ーにち(かん)
+0756	-jikan	ーじかん
+0757	-fun/pun	ーふん/ぷん
+0758	Shinkansen de 2-jikan han gurai (or kurai) desu.	しんかんせん で 2ーじかん はん ぐらい (おr くらい) です.
+0759	Tookyoo kara OOsaka made shinkansen de 2-jikan han kurai kakarimasu.	とおきょお から おおさか まで しんかんせん で 2ーじかん はん くらい かかります.
+0760	kooen	こおえん
+0761	Paakaa-san wa kinoo nan-ji ni okimashita ka.	ぱあかあーさん わ きのお なんーじ に おきました か.
+0762	Watashi wa gozen 7-ji ni okmashida.	わたし わ ごぜん 7ーじ に おkましだ.
+0763	Sorekera nani o shimashita ka.	それけら なに お しました か.
+0764	Shinbun o yomimashita. Shshite, asa -gohan o tabemashita.	しんぶん お よみました. shして, あさ ーごはん お たべました.
+0765	Soo desu ka. Sorekara doko e ikimashita ka.	そお です か. それから どこ え いきました か.
+0766	Doko(e)mo ikimasendeshita	どこ(え)も いきませんでした
+0767	ni(particle)	に(ぱrちclえ)
+0768	sorekara	それから
+0769	o(particle)	お(ぱrちclえ)
+0770	shimashita	しました
+0771	shinbun	しんぶん
+0772	yomimashita	よみました
+0773	asa-gohan	あさーごはん
+0774	tabemashita	たべました
+0775	doko(e)mo	どこ(え)も
+0776	okimasu	おきます
+0777	nemasu	ねます
+0778	tabemasu	たべます
+0779	nominasu	のみなす
+0780	mimasu	みます
+0781	kikimasu	ききます
+0782	kakimasu	かきます
+0783	yomimasu	よみます
+0784	kaimasu	かいます
+0785	shimasu	します
+0786	benkyoo	べんきょお
+0787	ryoori	りょおり
+0788	shigoto	しごと
+0789	kaimono	かいもの
+0790	unten	うんてん
+0791	benkyoo shimasu	べんきょお します
+0792	ryoori shimasu	りょおり します
+0793	shigoto shimasu	しごと します
+0794	kaimono shimasu	かいもの します
+0795	unten shimasu	うんてん します
+0796	Watashi wa maiasa ringo o tabemasu.	わたし わ まいあさ りんご お たべます.
+0797	Watashi no otooto wa kuruma o unten shimasen.	わたし の おとおと わ くるま お うんてん しません.
+0798	Watashi wa kinoo Nihon no hon o yomimashita.	わたし わ きのお にほん の ほん お よみました.
+0799	Q: Anata wa kinoo nani o benkyoo shimashita ka. A: Watashi wa kinoo Nihon-go o benkyoo shimashita.	q: あなた わ きのお なに お べんきょお しました か. あ: わたし わ きのお にほんーご お べんきょお しました.
+0800	tabemono	たべもの
+0801	gohan	ごはん
+0802	asa-gohan	あさーごはん
+0803	hiru-gohan	ひるーごはん
+0804	ban-gohan	ばんーごはん
+0805	okashi	おかし
+0806	nomimono	のみもの
+0807	(o)sake	(お)さけ
+0808	biiru	びいる
+0809	wain	わいん
+0810	suupu	すうぷ
+0811	(o)mizu	(お)みず
+0812	tegami	てがみ
+0813	meeru	めえる
+0814	intaanetto	いんたあねっと
+0815	Watashi wa maiasa gozen 7-ji no okimasu.	わたし わ まいあさ ごぜん 7ーじ の おきます.
+0816	Watashi wa do-yoobi (ni) kaisha e ikimasen.	わたし わ どーよおび (に) かいしゃ え いきません.
+0817	Anata wa natsu-yasumi(ni) doko e ikimasu ka.	あなた わ なつーやすみ(に) どこ え いきます か.
+0818	Watashi wa kyoo (not kyoo ni) suupaa e ikimasu.	わたし わ きょお (のt きょお に) すうぱあ え いきます.
+0819	Watashi wa kinoo 10-ji kara 1-ji made Nihon-go o benkyoo shimashita. (or) Kinoo watashi wa 10-ji kara 1-ji made Nihon-go o benkyoo shimashita. (or) Watashi wa kinoo Nihon-go o 10-ji kara 1-ji made benkyoo shimashita.	わたし わ きのお 10ーじ から 1ーじ まで にほんーご お べんきょお しました. (おr) きのお わたし わ 10ーじ から 1ーじ まで にほんーご お べんきょお しました. (おr) わたし わ きのお にほんーご お 10ーじ から 1ーじ まで べんきょお しました.
+0820	nanimo	なにも
+0821	dokomo	どこも
+0822	daremo	だれも
+0823	Watashi wa ashita nanimo shimasen.	わたし わ あした なにも しません.
+0824	Watashi wa kinoo doko(e)mo ikimasendeshita.	わたし わ きのお どこ(え)も いきませんでした.
+0825	Paakaa-san wa donna tabemono ga suki desu ka.	ぱあかあーさん わ どんあ たべもの が すき です か.
+0826	Watashi wa Nihon no (o) sushi ga totemo suki desu.	わたし わ にほん の (お) すし が とても すき です.
+0827	Soo desu ka. Nani de (o)sushi o tabemasu ka.	そお です か. なに で (お)すし お たべます か.
+0828	Watashi wa (o)hashi de (o)sushi o tabemasu. Itoo-san wa nani de (o)sushi o tabemasu ka.	わたし わ (お)はし で (お)すし お たべます. いとおーさん わ なに で (お)すし お たべます か.
+0829	Watashi wa te de (o)sushi o tabemasu.	わたし わ て で (お)すし お たべます.
+0830	Soo desu ka.	そお です か.
+0831	(o)sushi	(お)すし
+0832	(o)hashi	(お)はし
+0833	nani de	なに で
+0834	te	て
+0835	Watashi wa (o)hashi de gohan o tabemasu.	わたし わ (お)はし で ごはん お たべます.
+0836	Q: Nani de (o)sushi o tabemasu ka. A: Watashi wa te de shshi o tabemasu.	q: なに で (お)すし お たべます か. あ: わたし わ て で shし お たべます.
+0837	naifu	ないふ
+0838	fooku	ふぉおく
+0839	supuun	すぷうん
+0840	(o)hashi	(お)はし
+0841	te	て
+0842	enpitsu	えんぴつ
+0843	Q:'Lunch' wa Nihon-go de nan desu ka. A: 'Hiru-gohan' desu.	q:'lうんch' わ にほんーご で なん です か. あ: 'ひるーごはん です.
+0844	Q:'Tabehoodai' wa EEgo de nan desu ka. A: 'Eat as much as you can' desu.	q:'たべほおだい' わ ええご で なん です か. あ: 'えあt あs むch あs よう cあん です.
+0845	Paakaa-san wa kinoo nani o shimashita ka.	ぱあかあーさん わ きのお なに お しました か.
+0846	Watashi wa kinoo hitori de hon o yomimashita.	わたし わ きのお ひとり で ほん お よみました.
+0847	doko de hon o yomimashita ka	どこ で ほん お よみました か
+0848	Toshokan de hon o yomimashita.	としょかん で ほん お よみました.
+0849	Paakaa-san wa yoku toshokan e ikimasu ka.	ぱあかあーさん わ よく としょかん え いきます か.
+0850	IIe, yoke ikimasen ga, tokidoki ikimasu.	いいえ, よけ いきません が, ときどき いきます.
+0851	Soo desu ka.	そお です か.
+0852	de (particle)	で (ぱrちclえ)
+0853	doko de	どこ で
+0854	yoku	よく
+0855	tokidoki	ときどき
+0856	Watashi wa kyoo resutoran de ban-gohan o babemasu.	わたし わ きょお れすとらん で ばんーごはん お ばべます.
+0857	Watashi wa kinoo toshokan de Nihon-go o benkyoo shimashita.	わたし わ きのお としょかん で にほんーご お べんきょお しました.
+0858	Q: Jon-san wa doko de kono jisho o kaimashita ka. A: Nihon de kaimashita.	q: じょんーさん わ どこ で この じしょ お かいました か. あ: にほん で かいました.
+0859	Watashi wa resutoran e ikimasu.	わたし わ れすとらん え いきます.
+0860	itsumo	いつも
+0861	yoku	よく
+0862	tokidoki	ときどき
+0863	tamani	たまに
+0864	amari	あまり
+0865	zenzen	ぜんぜん
+0866	Watashi wa yoku hon o yomimasu.	わたし わ よく ほん お よみます.
+0867	Watashi wa zenzen hon o yomimasen.	わたし わ ぜんぜん ほん お よみません.
+0868	raamen	らあめん
+0869	Ogawa-an. OOsaka wa nigiyaka desu ne.	おがわーあん. おおさか わ にぎやか です ね.
+0870	Hai. OOsaka ni ii resutoran ya momoshiroi (o)mise ga takusan arimasu.	はい. おおさか に いい れすとらん や ももしろい (お)みせ が たくさん あります.
+0871	Oshiro mo arimasu ka.	おしろ も あります か.
+0872	Hai, yuumeena (o)shiro ga arimasu. Itsumo (o)shiro ni kankookyaku ga imasu.	はい, ゆうめえな (お)しろ が あります. いつも (お)しろ に かんこおきゃく が います.
+0873	Jaa, totemo nigiyaka desu ne.	じゃあ, とても にぎやか です ね.
+0874	Hai.	はい.
+0875	ni (particle)	に (ぱrちclえ)
+0876	takusan	たくさん
+0877	arimasu	あります
+0878	ya( particle)	や( ぱrちclえ)
+0879	(o)mise	(お)みせ
+0880	(o)shiro	(お)しろ
+0881	imasu	います
+0882	Q: Tookyoo ni nani ga arimasu ka. A: Tookyoo ni Tookyoo Sukai Tsuri ga arimasu.	q: とおきょお に なに が あります か. あ: とおきょお に とおきょお すかい つり が あります.
+0883	Q: Tookyo ni dare ga imsu ka. A: Tookyoo ni watashi no kazoku ga imasu.	q: とおきょ に だれ が いmす か. あ: とおきょお に わたし の かぞく が います.
+0884	Nani mo arimasen.	なに も ありません.
+0885	Dare mo imasen.	だれ も いません.
+0886	onna no hito	おんあ の ひと
+0887	otoko no hito	おとこ の ひと
+0888	onna no ko	おんあ の こ
+0889	toko no ko	とこ の こ
+0890	kankookyaku	かんこおきゃく
+0891	inu	いぬ
+0892	neko	ねこ
+0893	usagi	うさぎ
+0894	eegakan	ええがかん
+0895	(o)mise	(お)みせ
+0896	-noriba (takushii noriba)	ーのりば (たくしい のりば)
+0897	chizu	ちず
+0898	(o)shiro	(お)しろ
+0899	(o) tera	(お) てら
+0900	Fusisan	ふしさん
+0901	hana	はな
+0902	heya	へや
+0903	niwa	にわ
+0904	ima	いま
+0905	genkan	げんかん
+0906	shinshitsu	しんしつ
+0907	daidokoro	だいどころ
+0908	beddo	べっど
+0909	tsukue	つくえ
+0910	Watashi no heya ni beddo to tsukue ga arimasu.	わたし の へや に べっど と つくえ が あります.
+0911	Watashi no heyo ni beddo ya tsukue ga arimasu.	わたし の へよ に べっど や つくえ が あります.
+0912	Konnichiwa, Ogawa-san. Takusan kaimono shimashita ne.	こんいちわ, おがわーさん. たくさん かいもの しました ね.
+0913	Hai, iroiro na mono o kaimashita.	はい, いろいろ な もの お かいました.
+0914	Suupaa de nani o kaimashita ka.	すうぱあ で なに お かいました か.
+0915	Ringo o mittsu to wain o ni-hon kaimashita. Sorekara zasshi mo kaimashita.	りんご お みっつ と わいん お にーほん かいました. それから ざっし も かいました.
+0916	Wain wa ikura deshita ka.	わいん わ いくら でした か.
+0917	Wain wa ip-pon 1000-en deshita.	わいん わ いpーぽん 1000ーえん でした.
+0918	iroiro na	いろいろ な
+0919	mona	もな
+0920	-tsu	ーつ
+0921	-hon	ーほん
+0922	-ko	ーこ
+0923	-hon(pon, bon)	ーほん(ぽん, ぼん)
+0924	-dai	ーだい
+0925	-mai	ーまい
+0926	-nin	ーにん
+0927	-kai	ーかい
+0928	Watashi no uchi ni terebi ga 2-dai arimasu.	わたし の うち に てれび が 2ーだい あります.
+0929	Kooen ni hito ga 10-nin imasu.	こおえん に ひと が 10ーにん います.
+0930	Otooto wa mainnichi kono CD o -i-iai kikimasu.	おとおと わ まいんいち この cd お ーいーいあい ききます.
+0931	Kyooto no chizu o 1-mai kudasai.	きょおと の ちず お 1ーまい ください.
+0932	zenbu de	ぜんぶ で
+0933	minna de	みんあ で
+0934	Sumimasen, yubinkyoku wa doko ni arimasu ka.	すみません, ゆびんきょく わ どこ に あります か.
+0935	Yuubinkyoku desu ka. Asoko ni hon-ya ga arimasu ne.	ゆうびんきょく です か. あそこ に ほんーや が あります ね.
+0936	Hai.	はい.
+0937	Yuubinkyoku wa ano hon-ya no tonari ni arimasu.	ゆうびんきょく わ あの ほんーや の となり に あります.
+0938	Soo desu ka. Doomo argatoo gozaimasu	そお です か. どおも あrがとお ございます
+0939	IIe, doo itashimashite.	いいえ, どお いたしまして.
+0940	tsuukoonin	つうこおにん
+0941	hon-ya	ほんーや
+0942	-ya	ーや
+0943	doo itashimashite	どお いたしまして
+0944	ue	うえ
+0945	hidari	ひだり
+0946	mae	まえ
+0947	naka	なか
+0948	soto	そと
+0949	shita	した
+0950	migi	みぎ
+0951	hshiro	hしろ
+0952	chikaku	ちかく
+0953	tonari	となり
+0954	Teeburu no ue ni ringo ga arimasu.	てえぶる の うえ に りんご が あります.
+0955	Hito no mae ni ringo ga arimasu.	ひと の まえ に りんご が あります.
+0956	Kaban no naka ni ringo ga arimasu.	かばん の なか に りんご が あります.
+0957	biru	びる
+0958	Q: Yuubinkyoku wa doko ni arimasu ka. A:Yuubinkyoku wa ano hon-ya no tonari ni arimasu.	q: ゆうびんきょく わ どこ に あります か. あ:ゆうびんきょく わ あの ほんーや の となり に あります.
+0959	Q: Kono chikaku ni yuubinkyoku ga arimasu ka. A: Hai, asoko ni arimasu.	q: この ちかく に ゆうびんきょく が あります か. あ: はい, あそこ に あります.
+0960	X to Y no aida	x と y の あいだ
+0961	Ema-san, moo densha no kippu o kaimashita ka.	えまーさん, もお でんしゃ の きっぷ お かいました か.
+0962	IIe mada desu. Kyoo no gogo intaanetto de kaimasu.	いいえ まだ です. きょお の ごご いんたあねっと で かいます.
+0963	Soo desu ka. Ema-san, Nagano wa hajimete desu ka.	そお です か. えまーさん, ながの わ はじめて です か.
+0964	Hai, hajimete desu.	はい, はじめて です.
+0965	Nagano de nani o shitai desu ka.	ながの で なに お したい です か.
+0966	Takusan shashin o toritai desu. Soshite onsen ni hairitai desu.	たくさん しゃしん お とりたい です. そして おんせん に はいりたい です.
+0967	moo	もお
+0968	kippu	きっぷ
+0969	mada	まだ
+0970	hajimate	はじまて
+0971	(verb)-tai desu	(う゛ぇrb)ーたい です
+0972	ikitai desu	いきたい です
+0973	shashin	しゃしん
+0974	torimasu	とります
+0975	onsen	おんせん
+0976	hairimasu	はいります
+0977	shashin	しゃしん
+0978	onsen	おんせん
+0979	sumoo	すもお
+0980	kankoo, annaijo	かんこお, あんあいじょ
+0981	ryokan	りょかん
+0982	washitsu	わしつ
+0983	yooshitsu	よおしつ
+0984	torimasu	とります
+0985	hairimasu	はいります
+0986	yasumimasu	やすみます
+0987	kaemasu	かえます
+0988	(ni) tomarimasu	(に) とまります
+0989	yoyaku shimasu	よやく します
+0990	kyanseru shimasu	きゃんせる します
+0991	chumon shimasu	ちゅもん します
+0992	Watashi wa m oo densha no kippu o kaimashita.	わたし わ m おお でんしゃ の きっぷ お かいました.
+0993	Katoo-san wa moo hoteru o yoyaku shimashita ka.	かとおーさん わ もお ほてる お よやく しました か.
+0994	Hai, m oo yoyaku shimashita.	はい, m おお よやく しました.
+0995	IIe, mada sesu.	いいえ, まだ せす.
+0996	ta i desu	た い です
+0997	ta kunai desu	た くない です
+0998	ta katta desu	た かった です
+0999	ta kunakatta desu	た くなかった です
+1000	Watashi wa sushi o/ga tabetai desu.	わたし わ すし お/が たべたい です.
+1001	Watashi wa kyoo terebi o/ga mitakunai desu.	わたし わ きょお てれび お/が みたくない です.
+1002	Watashi wa Nihon e inkitakatta desu.	わたし わ にほん え いんきたかった です.
+1003	Watashi wa kyoo kissaten de koohii o/ga nomitai desu.	わたし わ きょお きっさてん で こおひい お/が のみたい です.
+1004	Watashi wa Tanaka-san ni aitai desu.	わたし わ たなかーさん に あいたい です.
+1005	Sensee wa biiru o nomimasu ka. (not .. nomitai desu ka)	せんせえ わ びいる お のみます か. (のt .. のみたい です か)
+1006	(to/ni) hanashimasu	(と/に) はなします
+1007	(ni) aimasu	(に) あいます
+1008	undoo shimasu	うんどお します
+1009	Ema-san wa natsu-yasumi ni doko e ikimashita ka.	えまーさん わ なつーやすみ に どこ え いきました か.
+1010	Watashi wa natsu-yasumi ni Amerika e ikimashita.	わたし わ なつーやすみ に あめりか え いきました.
+1011	Nani o shi ni Amerika e ikimashita ka.	なに お し に あめりか え いきました か.
+1012	Nyuuyooku no tomodachi ni ai ni ikimashita.	にゅうよおく の ともだち に あい に いきました.
+1013	Nyuuyooku de nani o shimashita ka.	にゅうよおく で なに お しました か.
+1014	Tomodachi to Nyuuyooku o kankoo shimashita.	ともだち と にゅうよおく お かんこお しました.
+1015	Nyuuyooku	にゅうよおく
+1016	kankoo shimasu	かんこお します
+1017	Watashi wa ashita suupaa e pan to yasai o kai ni ikimasu.	わたし わ あした すうぱあ え ぱん と やさい お かい に いきます.
+1018	Watashi wa Nihon e Nihon-go o benkyoo shi ni kimashita.	わたし わ にほん え にほんーご お べんきょお し に きました.
+1019	Watashi wa Nihon e Nihon-go no benkyoo ni kimashita.	わたし わ にほん え にほんーご の べんきょお に きました.
+1020	hiru	ひる
+1021	asa	あさ
+1022	ban or yoru	ばん おr よる
+1023	hashirimasu	はしります
+1024	Ema-san wa Nihon de moo sumoo o mimashita ka.	えまーさん わ にほん で もお すもお お みました か.
+1025	IIe, mada desu. Totemo mitai desu ga ...	いいえ, まだ です. とても みたい です が ...
+1026	Jaa, knoshuumatsu issho ni sumoo o mi ni ikimasen ka.	じゃあ, kのしゅうまつ いっしょ に すもお お み に いきません か.
+1027	Hontoo desu ka. Ureshii desu. Demo sumoo wa nan -yoobi sesu ka.	ほんとお です か. うれしい です. でも すもお わ なん ーよおび せす か.
+1028	Watashi no tomodachi mo issho ni ikimasu ga, ii desu ka.	わたし の ともだち も いっしょ に いきます が, いい です か.
+1029	Mochiron desu.	もちろん です.
+1030	Jaa, issho ni ikimashoo.	じゃあ, いっしょ に いきましょお.
+1031	issho ni	いっしょ に
+1032	[V-stem]+masen ka	[vーsてm]+ません か
+1033	ikikmasen ka	いきkません か
+1034	hontoo desu ka	ほんとお です か
+1035	ureshii (i-adj)	うれしい (いーあdj)
+1036	isogashii (i-adj.)	いそがしい (いーあdj.)
+1037	mochiron	もちろん
+1038	[V-stem]+ mashoo	[vーsてm]+ ましょお
+1039	ikimashoo	いきましょお
+1040	Issho ni tenisu o shimasen ka.	いっしょ に てにす お しません か.
+1041	Issho ni Fujisan e ikimasen ka.	いっしょ に ふじさん え いきません か.
+1042	Issho ni resutoran e tabe ni ikimasen ka.	いっしょ に れすとらん え たべ に いきません か.
+1043	basukettobooru	ばすけっとぼおる
+1044	DVD (pronounced as dii bui dii)	dvd (pろのうんcえd あs ぢい ぶい ぢい)
+1045	Q: Issho ni ban-gohan o batemasen ka. A: Hai, (issho ni) babemashoo.	q: いっしょ に ばんーごはん お ばてません か. あ: はい, (いっしょ に) ばべましょお.
+1046	Q: Issho ni eega o mi ni ikimasen ka. A: II desu ne. (Issho ni) ikimashoo.	q: いっしょ に ええが お み に いきません か. あ: いい です ね. (いっしょ に) いきましょお.
+1047	Q: Issho ni tenisu o shimasen ka. A1: Zanmen desu ga, chotto ... A2: Sumimasen ga, chotto ...	q: いっしょ に てにす お しません か. あ1: ざんめん です が, ちょっと ... あ2: すみません が, ちょっと ...
+1048	geemu	げえむ
+1049	Hokkaidoo	ほっかいどお
+1050	yuki	ゆき
+1051	(o)matsuri	(お)まつり
+1052	zoo	ぞお
+1053	Akita-san, ashita wa boonusu-bi desu ne. Akita-san wa boonasu de nani ga hoshii desu ka.	あきたーさん, あした わ ぼおぬすーび です ね. あきたーさん わ ぼおなす で なに が ほしい です か.
+1054	Watashi wa atarashii pasokon ga shshii desu.	わたし わ あたらしい ぱそこん が shしい です.
+1055	Dooshite atarashii pasokon ga hoshii desu ka.	どおして あたらしい ぱそこん が ほしい です か.
+1056	Ima no pasokon wa moo furui desu kara. Soeni, ima no pasokon wa sukoshi osoi desu kara.	いま の ぱそこん わ もお ふるい です から. そえに, いま の ぱそこん わ すこし おそい です から.
+1057	Soo desu ka.	そお です か.
+1058	boonasu-bi	ぼおなすーび
+1059	hoshii(i-adj.)	ほしい(いーあdj.)
+1060	dooshite	どおして
+1061	kara	から
+1062	soreni	それに
+1063	osoi (i-adj.)	おそい (いーあdj.)
+1064	sukoshi	すこし
+1065	hoshi i desu	ほし い です
+1066	hoshi kunai desu	ほし くない です
+1067	hoshi katta desu	ほし かった です
+1068	hoshi kuakatta desu	ほし くあかった です
+1069	Watashi wa tanjoobi purezento ni hana ga hoshii desu.	わたし わ たんじょおび ぷれぜんと に はな が ほしい です.
+1070	Kekkon iwai ni nani ga hoshii desu ka.	けっこん いわい に なに が ほしい です か.
+1071	hayai (i-adj.)	はやい (いーあdj.)
+1072	kekon iwai	けこん いわい
+1073	kawaii (i-adj)	かわいい (いーあdj)
+1074	shashin tate	しゃしん たて
+1075	Kuraaku-san wa dooshite Nihon-go o benkyoo shimasu ka.	くらあくーさん わ どおして にほんーご お べんきょお します か.
+1076	Dooshite Fujita-san wa kinoo isogashikata desu ka.	どおして ふじたーさん わ きのお いそがしかた です か.
+1077	Q: Fusjian wa dooshite yuume desu ka. A: (Fujisan wa) Nihon de ichi-ban takai yama desu kara.	q: ふsじあん わ どおして ゆうめ です か. あ: (ふじさん わ) にほん で いちーばん たかい やま です から.
+1078	byooki	びょおき
+1079	Akita-san, korekara tomodachi to karaoke ni ikimasu. Akit-san mo issho ni ikimasen ka.	あきたーさん, これから ともだち と からおけ に いきます. あきtーさん も いっしょ に いきません か.
+1080	Ikitai desu ga, sukoshi atama ga itai desu kara, kyoo wa uchi e maerimasu.	いきたい です が, すこし あたま が いたい です から, きょお わ うち え まえります.
+1081	Sore wa kiemasen ne. Watashi wa kusuri ga arimasu ga, nomimasu ka.	それ わ きえません ね. わたし わ くすり が あります が, のみます か.
+1082	Arigatto gozaimasu. Jaa, hitotsu kudasai.	ありがっと ございます. じゃあ, ひとつ ください.
+1083	karaoke	からおけ
+1084	atama ga itai	あたま が いたい
+1085	atama ga itai	あたま が いたい
+1086	itai (i-adj)	いたい (いーあdj)
+1087	sore wa ikemasen	それ わ いけません
+1088	kusuri	くすり
+1089	arimasu	あります
+1090	atama ga itai	あたま が いたい
+1091	ha ga itai	は が いたい
+1092	kimochi ga warui	きもち が わるい
+1093	netsu ga arimasu	ねつ が あります
+1094	nodo ga itai	のど が いたい
+1095	onaka ga itai	おなか が いたい
+1096	Atama ga itai desu. Kusuri o kudasai.	あたま が いたい です. くすり お ください.
+1097	Q: Kinoo dooshite paatii e kimasendeshita ka. A: Onaka ga itakatta desu kara.	q: きのお どおして ぱあちい え きませんでした か. あ: おなか が いたかった です から.
+1098	Watashi wa netsu ga arimasu.	わたし わ ねつ が あります.
+1099	Q: Kuraaku-san wa Nihon no chizu ga arimasu ka. A: IIe, arimasen.	q: くらあくーさん わ にほん の ちず が あります か. あ: いいえ, ありません.
+1100	Fujisan wa kiree desu krra, yuumee desu.	ふじさん わ きれえ です kっら, ゆうめえ です.
+1101	Kimochi ga warui desu kara, nanimo tabetakunai desu.	きもち が わるい です から, なにも たべたくない です.
+1102	ryokoo	りょこお
+1103	jikan	じかん
+1104	isogimasu	いそぎます
+1105	Kuraaku-san, senshu no kin-yoobi wa kusuri o arigatoo gozaimashita.	くらあくーさん, せんしゅ の きんーよおび わ くすり お ありがとお ございました.
+1106	Doo itashimashite. Akita-san wa moo daijoobu desu ka.	どお いたしまして. あきたーさん わ もお だいじょおぶ です か.
+1107	Hai, do-yoobi oisha-san ni kusuri o moraimashita kar.	はい, どーよおび おいしゃーさん に くすり お もらいました かr.
+1108	Soo desu ka. Sore wa yokatta desu.	そお です か. それ わ よかった です.
+1109	Tokorode, kin-yoobi no karaoke wa doo seshita ka.	ところで, きんーよおび の からおけ わ どお せした か.
+1110	Totemo tanoshikatta desu. Knodo Akita-san mo issho ni ikimashoo.	とても たのしかった です. kのど あきたーさん も いっしょ に いきましょお.
+1111	Hai, zehi.	はい, ぜひ.
+1112	daijoobu(na) (na-adj.)	だいじょおぶ(な) (なーあdj.)
+1113	oisha-san	おいしゃーさん
+1114	moralmashita	もらlました
+1115	tokorode	ところで
+1116	kondo	こんど
+1117	zehi	ぜひ
+1118	Kinoo wa arigatoo gozaimashita.	きのお わ ありがとお ございました.
+1119	Kinoo wa kusuri o arigatoo gozaimashita.	きのお わ くすり お ありがとお ございました.
+1120	Kuraaku-san wa Akita-san ni kusuri o agemashita.	くらあくーさん わ あきたーさん に くすり お あげました.
+1121	Akita-san wa Kuraaku-san ni kusuri o moraimashita.	あきたーさん わ くらあくーさん に くすり お もらいました.
+1122	omiyage	おみやげ
+1123	shukudai	しゅくだい
+1124	kabin	かびん
