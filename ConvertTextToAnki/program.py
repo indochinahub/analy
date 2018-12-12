@@ -19,6 +19,7 @@ for line in source_file :
 OneLineText = OneLineText.replace(";","::")    
 OneLineText = OneLineText.replace("U.S.","US ")    
 OneLineText = OneLineText.replace("Mr.", "Mr")
+OneLineText = OneLineText.replace("Jr.", "Jr")
 OneLineText = OneLineText.replace("Mrs.", "Mrs")
 OneLineText = OneLineText.replace("-", ":")
 OneLineText = OneLineText.replace("...", ".")

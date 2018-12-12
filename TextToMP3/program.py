@@ -14,7 +14,7 @@ for line in source_file :
     line = line.strip()
     splitLine = line.split("\t")
     tts = gTTS(text=splitLine[1], lang='en')
-    tts.save("GOT3-"+splitLine[0].strip()+".mp3" )
+    tts.save("GOT5-"+splitLine[0].strip()+".mp3" )
     print( splitLine )
 
 # Lang = vi, ja, en,km    
