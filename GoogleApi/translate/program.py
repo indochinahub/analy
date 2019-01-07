@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 
-
 from google.cloud import translate
-import unicodedata
 
-import io
-source_file = open('source.txt', mode='r')
-#result_file = open('result.txt', mode='w')
-result_file = io.open('result.txt', mode='w', encoding='utf-8')
-
+source_file = open('source.txt', encoding='utf-8', mode='r')
+result_file = open('result.txt', mode='w')
 
 client = translate.Client(target_language='en')
 

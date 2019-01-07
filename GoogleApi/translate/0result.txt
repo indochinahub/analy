@@ -1,0 +1,1000 @@
+0001	a girl
+0002	a son
+0003	juice
+0004	tea
+0005	country
+0006	The girl is eating.
+0007	The girl is drinking juice.
+0008	The boy is eating.
+0009	The boy is drinking water.
+0010	a daughter a son
+0011	a woman a man a woman a man
+0012	a woman a man
+0013	The woman is drinking water.
+0014	The man is eating.
+0015	The woman is eating.
+0016	The man is drinking water.
+0017	The man is drinking juice.
+0018	The girl is running.
+0019	The boy is running.
+0020	The man is running.
+0021	The woman is running.
+0022	a letter a letter a letter a book a newspaper
+0023	a letter
+0024	a book a newspaper
+0025	The girl is reading.
+0026	The boy is reading.
+0027	The man is reading.
+0028	The woman is reading a book.
+0029	The woman is reading the newspaper.
+0030	The girls are drinking water.
+0031	The boys are eating rice.
+0032	Men are drinking water.
+0033	The girls are running.
+0034	The women are eating rice.
+0035	The boys are reading.
+0036	Men are reading newspapers.
+0037	The women are reading newspapers.
+0038	The men are running.
+0039	The women are running.
+0040	The women are reading.
+0041	Girls reading books.
+0042	sons of daughters men of women
+0043	The women are drinking juice.
+0044	He is running.
+0045	He is eating.
+0046	She is drinking juice.
+0047	She is reading a book.
+0048	She is drinking tea.
+0049	She is eating.
+0050	She is reading a book.
+0051	She is running.
+0052	She is running.
+0053	They are eating.
+0054	They are reading newspapers.
+0055	They are drinking tea.
+0056	They are running.
+0057	They are reading.
+0058	They are drinking water.
+0059	She is writing a letter.
+0060	They are writing letters.
+0061	He is cooking.
+0062	She is cooking.
+0063	They are cooking.
+0064	The boys are swimming.
+0065	The girl is swimming.
+0066	The man is swimming.
+0067	The women are swimming.
+0068	The man is cooking.
+0069	The men are cooking.
+0070	The men are eating rice.
+0071	The woman is swimming.
+0072	He is swimming.
+0073	They are swimming.
+0074	Girls are writing letters.
+0075	The girl is writing.
+0076	He is drinking water.
+0077	She is writing a letter.
+0078	The man is drinking tea.
+0079	Hello Mrs.
+0080	Hello sir.
+0081	What is the man doing? The man is cooking.
+0082	What is the woman doing?
+0083	What is the boy doing? The boy is running.
+0084	What is the girl doing? The girl is walking.
+0085	Ms. Vy Ms. Mai Mrs. Linh em Trung anh Xuan Mr. Quang
+0086	Vy is running.
+0087	Mai is eating.
+0088	Ms. Linh is writing a letter.
+0089	Trung is reading a book.
+0090	Mr. Xuan is drinking tea.
+0091	Mr. Quang is cooking.
+0092	What is Vy doing? She is running.
+0093	What is Mai doing? She is eating.
+0094	What is Mrs. Linh doing? She is writing a letter.
+0095	What is Trung doing? She is reading a book.
+0096	What is Mr. Xuan doing? He is drinking tea.
+0097	What is Mr. Quang doing? He is cooking.
+0098	a sandwich with a sandwich with an egg
+0099	an egg an apple
+0100	bread bread coffee coffee milk coffee
+0101	an egg sandwich
+0102	an apple milk coffee bread
+0103	a daughter and a woman a son and a man a sandwich and milk
+0104	a man and a rice woman and an apple
+0105	bread and water
+0106	The boy is drinking milk.
+0107	The woman is drinking coffee.
+0108	The boy and the man are drinking water.
+0109	The girl is eating bread.
+0110	The man is eating eggs.
+0111	The man and the woman are eating.
+0112	She is eating apples.
+0113	They are eating eggs.
+0114	They are eating sandwiches.
+0115	She is drinking water.
+0116	a dog a dog a dog a cat a cat a horse
+0117	a car a car a car a car a newspaper a bicycle newspaper
+0118	a dog a cat a horse a car a newspaper a bike
+0119	The man is driving a car.
+0120	The woman is driving a car.
+0121	The boy is walking.
+0122	The girl is walking.
+0123	The woman is walking.
+0124	They are eating apples.
+0125	He is driving a car.
+0126	They are reading newspapers.
+0127	She is reading a book.
+0128	She has a cat.
+0129	She has a dog.
+0130	They have horses.
+0131	He has a car.
+0132	She has a sandwich.
+0133	They have a newspaper.
+0134	She has books.
+0135	She has a fish.
+0136	They have pens.
+0137	a book a pen for a fish
+0138	She is sleeping.
+0139	She is sleeping.
+0140	He is sleeping.
+0141	The fish is swimming.
+0142	The cat is sleeping.
+0143	The dog is eating.
+0144	The horse is running.
+0145	They are walking.
+0146	They are sleeping.
+0147	a child a child kids an adult an adult adults
+0148	The adults are eating.
+0149	The adults are sleeping.
+0150	The children are drinking water.
+0151	The children are swimming.
+0152	The adults are running.
+0153	The kids are running.
+0154	The adults are reading.
+0155	Children reading books.
+0156	The man is driving.
+0157	The boy does not drive.
+0158	The woman is driving.
+0159	The girl does not drive.
+0160	The adults are cooking.
+0161	The adults do not cook.
+0162	The children are writing.
+0163	Children do not write.
+0164	The woman does not drive.
+0165	They don't swim.
+0166	She doesn't sleep.
+0167	They do not cook.
+0168	They do not eat rice.
+0169	She does not walk.
+0170	He is walking.
+0171	He does not run.
+0172	The women have rice.
+0173	The women do not have rice.
+0174	The boy has a pen.
+0175	The boy does not have a pen.
+0176	The boy has milk.
+0177	The boy does not have milk.
+0178	Girls have bicycles.
+0179	Girls don't have bicycles.
+0180	The dog is running.
+0181	The dog does not run.
+0182	Boys have water.
+0183	Boys don't have water.
+0184	What is this? This is a pen.
+0185	What is this?
+0186	This is a bike.
+0187	This is the newspaper.
+0188	What is this? This is rice.
+0189	This is an Apple.
+0190	What is this? This is an egg.
+0191	What is this? This is a cat.
+0192	What is this? This is a fish.
+0193	Is the woman drinking water? Yes.
+0194	Is the man eating bread? Yes.
+0195	The man is eating bread.
+0196	Is the dog swimming? Yes.
+0197	The horse is swimming? Is not.
+0198	Is she reading a newspaper? Is not.
+0199	Is she reading a book? Yes.
+0200	Hello.
+0201	Hello
+0202	white white white black black red
+0203	blue sky blue blue green yellow
+0204	white blue green black
+0205	red yellow
+0206	The eggs are red.
+0207	The bike is red.
+0208	The apples are green.
+0209	The pens are blue.
+0210	Cars are white.
+0211	The bike is white.
+0212	White milk.
+0213	White rice.
+0214	The car is white.
+0215	The car is blue.
+0216	The apple is green.
+0217	The bike is blue.
+0218	The egg is blue.
+0219	The eggs are blue.
+0220	The bike is yellow.
+0221	The bike is yellow.
+0222	The car is black.
+0223	Cars are black.
+0224	Red ball.
+0225	The balls are red.
+0226	The car is red.
+0227	The cars are red.
+0228	The cat is black.
+0229	The cats are black.
+0230	The fish is red.
+0231	Red fish.
+0232	It's blue.
+0233	It is red.
+0234	It is black.
+0235	It's white.
+0236	It's yellow.
+0237	They are white.
+0238	They are green.
+0239	It is black and white.
+0240	They are red.
+0241	It is blue and green.
+0242	Black dog.
+0243	White dog.
+0244	White cat.
+0245	Moon Moon Moon Sun Sun Sky
+0246	a tree a tree a tree a flower a grass flower
+0247	the sun moon the sky a tree a grass flower
+0248	Green grass.
+0249	Blue sky.
+0250	The moon is white.
+0251	The sun is yellow.
+0252	Red flower.
+0253	The apple is yellow.
+0254	The ball is blue.
+0255	Little Flower.
+0256	Small egg.
+0257	Little flowers.
+0258	Small eggs.
+0259	Big flowers.
+0260	Big books.
+0261	Big fish.
+0262	The egg is big.
+0263	Big dog
+0264	Little dog.
+0265	She is a doctor.
+0266	He is a teacher.
+0267	They are police.
+0268	She is a student.
+0269	They are students.
+0270	He is a teacher.
+0271	She is a teacher.
+0272	He is a police officer.
+0273	He is a doctor.
+0274	She is a boy.
+0275	She is not a girl.
+0276	She is a girl.
+0277	She is not a boy.
+0278	He is not a teacher.
+0279	He is not a doctor.
+0280	This is a dog.
+0281	This is not a cat.
+0282	This is milk.
+0283	This is not juice.
+0284	This is a book.
+0285	This is not a newspaper.
+0286	I am a student.
+0287	I am a teacher.
+0288	I'm a teacher.
+0289	I'm not a teacher.
+0290	I'm a doctor.
+0291	I am not a doctor.
+0292	I am not a student.
+0293	I have a blue book.
+0294	I have a yellow book.
+0295	I have a red book.
+0296	I'm a man.
+0297	We are men.
+0298	I am a boy.
+0299	We are teacher teachers.
+0300	I am a girl.
+0301	We are girls.
+0302	We are the police.
+0303	We are doctors.
+0304	I have a bike.
+0305	We have bicycles.
+0306	I have an apple.
+0307	We have an apple.
+0308	What are you doing? I'm reading a book.
+0309	What are you doing?
+0310	She is reading the newspaper.
+0311	What are you doing? I'm eating.
+0312	Are you eating an apple?
+0313	No, I'm eating a sandwich.
+0314	Your uncle is drinking tea?
+0315	Is not.
+0316	My uncle is drinking coffee.
+0317	What are you drinking? I am drinking water.
+0318	What are you eating?
+0319	She is eating.
+0320	What do you have?
+0321	She has a sandwich.
+0322	She has a pen.
+0323	Hello, uncle! Hello!
+0324	Hello.
+0325	Hello.
+0326	one two three four five six
+0327	one two Three
+0328	six, one, three, five, two two, four, six
+0329	one two three four five
+0330	a car with an egg of two dogs
+0331	two pens
+0332	Three bicycles three cats
+0333	four sons four men six girls five books five newspapers
+0334	six apples
+0335	There is a fish.
+0336	There is a book.
+0337	There is a woman.
+0338	There is an egg.
+0339	There is a child.
+0340	There is a mobile phone.
+0341	There are five fish.
+0342	There are three books.
+0343	There are four women.
+0344	There are six eggs.
+0345	There are two children.
+0346	There are two mobile phones.
+0347	There are three balls.
+0348	There is a bed.
+0349	There are four keys.
+0350	There is a cup.
+0351	There are four chairs.
+0352	There are two tables.
+0353	There are three phones.
+0354	There is a ball.
+0355	There are three chairs.
+0356	There is a table.
+0357	How many fish? There are three fish.
+0358	How many keys are there? There are four keys.
+0359	How many police officers? There are two police officers.
+0360	How many apples are there? There is an apple.
+0361	How many chairs? There are six chairs.
+0362	How many phones are there? There are five phones.
+0363	How many beds? There are two beds.
+0364	There are three eggs.
+0365	There are five eggs.
+0366	There are four cups.
+0367	There are six cups.
+0368	a bowl a bowl a bowl a plate a plate a cup
+0369	Three white plates.
+0370	Two apples are green.
+0371	A red flower.
+0372	Four bowls are blue.
+0373	How many white tables? Two tables are white.
+0374	How many red balls? A red ball.
+0375	How many bowls are yellow? Two bowls are yellow.
+0376	How many phones are black? A black phone.
+0377	What are you doing? I'm reading newspapers.
+0378	What are you doing?
+0379	I am writing a letter.
+0380	What are you doing?
+0381	I'm drinking coffee.
+0382	What are you doing? We are eating.
+0383	What are you doing? We are reading a book.
+0384	How many cups do you have? We have four cups.
+0385	How many sandwiches do you have? We have five sandwiches.
+0386	How many bowls do you have? We have three bowls.
+0387	How many plates do you have? We have two discs.
+0388	I have yellow flowers.
+0389	He has red flowers.
+0390	We have white flowers.
+0391	You have blue flowers.
+0392	one pair of shoes one pair of shoes and one shirt, a shirt, one pants
+0393	a jacket with a coat and a coat and a dress a dress
+0394	a shoe with a shirt a pants a coat and a dress a dress
+0395	a blue shirt with a red shirt with a blue T-shirt with a yellow T-shirt
+0396	The girl is wearing a T-shirt.
+0397	The boy does not wear a T-shirt.
+0398	The woman wears shoes.
+0399	The man does not wear shoes.
+0400	The women wear hats.
+0401	Men do not wear hats.
+0402	I wear shoes.
+0403	I wear a dress.
+0404	She wears a hat.
+0405	She is wearing a dress.
+0406	The woman is wearing a dress.
+0407	The woman is wearing a skirt.
+0408	The woman is wearing pants.
+0409	The woman wears a hat.
+0410	The girls wear skirts.
+0411	He wears a shirt.
+0412	They wear dresses.
+0413	They wear pants.
+0414	She wears a skirt.
+0415	They wear shoes.
+0416	She wears a jacket.
+0417	He is buying a hat.
+0418	She is buying two hats.
+0419	He is buying three T-shirts.
+0420	She is buying four T-shirts.
+0421	The man in a jacket.
+0422	The man is buying a jacket.
+0423	The man is wearing a hat.
+0424	The man is buying a hat.
+0425	I am buying a skirt.
+0426	I wear a skirt.
+0427	I am buying pants.
+0428	I wear pants.
+0429	Who is eating?
+0430	The police are eating.
+0431	Who is reading?
+0432	The students are reading.
+0433	Who is drinking?
+0434	The women are drinking.
+0435	Who is writing?
+0436	The girl is writing.
+0437	Who has a hat?
+0438	The woman has a hat.
+0439	Who has the ball?
+0440	The boy has the ball.
+0441	Who has a book?
+0442	Two girls have books.
+0443	Who has the newspaper?
+0444	The doctor has a newspaper.
+0445	Who wears shoes? I wear shoes.
+0446	Who wears a hat?
+0447	We wear hats.
+0448	Who is walking? We are walking.
+0449	Who is running?
+0450	We are running.
+0451	How many trees are there? There are three trees.
+0452	How many trees are there? There are four trees.
+0453	How many bowls? There is a bowl.
+0454	How many children? There are six children.
+0455	What is this? This is bread.
+0456	What is this? This is a bed.
+0457	What is this? This is water.
+0458	What is this? This is the disk.
+0459	What is this? This is a tree.
+0460	How many bicycles? There are three bicycles.
+0461	Who has a bike? She has a bicycle.
+0462	Does she have a bike? Have.
+0463	She has a bicycle.
+0464	Is the grass green? Have.
+0465	Green grass.
+0466	Is the horse black? Is not.
+0467	The horse is not black.
+0468	This is a sandwich.
+0469	How many sandwiches? There are two sandwiches.
+0470	Hi brother and sister.
+0471	Do you have a dog? Have.
+0472	I have a dog.
+0473	What are you doing? I'm reading a book.
+0474	What is this? This is coffee.
+0475	Do you have a cup? Have.
+0476	I have a cup.
+0477	What do you have? I have bread.
+0478	What do you have? I have apples.
+0479	What is the dog doing? The dog is eating!
+0480	a family with a family of one family
+0481	a family
+0482	mother and father daughter and son
+0483	the son and the father the daughter and the mother
+0484	the mother the daughter of the father and the son
+0485	baby
+0486	the woman and husband of the daughter and parents of two daughters and parents
+0487	the mother and the mother and the children of the father and the daughter of the parents and the sons
+0488	mother and baby father and children of husband and wife
+0489	parents and daughter
+0490	The father and the boys are playing.
+0491	The mother and the girls are playing.
+0492	The son and the dog are playing.
+0493	The woman and the cat are playing.
+0494	The son does not play.
+0495	Father playing.
+0496	The father does not read.
+0497	The girl is reading.
+0498	Children don't cook.
+0499	The father is cooking.
+0500	Who is playing?
+0501	The boy is playing.
+0502	Who is sleeping?
+0503	The woman is sleeping.
+0504	The man is eating.
+0505	The woman is drinking.
+0506	Her pen is black.
+0507	His pen is red.
+0508	Her pen is blue.
+0509	Her pen is green.
+0510	Her dress is yellow.
+0511	Their coats are red.
+0512	His car is black.
+0513	Their car is white.
+0514	This is my table.
+0515	This is my bike.
+0516	This is my cat.
+0517	This is my dress.
+0518	This is my mother.
+0519	This is my father.
+0520	This is my son.
+0521	This is my daughter.
+0522	This is my bike.
+0523	This is my bed.
+0524	This is my family.
+0525	This is my sister.
+0526	This is my brother.
+0527	My brother is running.
+0528	My brother is eating apples.
+0529	My sister is playing.
+0530	My sister is reading a book.
+0531	My brother is drinking juice.
+0532	My brother is writing a letter.
+0533	My sister is walking.
+0534	My sister is cooking.
+0535	This is my brother.
+0536	This is my sister.
+0537	This is my friend.
+0538	They are sisters.
+0539	They are brothers.
+0540	They are not brothers.
+0541	They are friends.
+0542	They are not sisters.
+0543	These are my friends.
+0544	These are my brothers.
+0545	These are my sisters.
+0546	This is my parents.
+0547	This is my child.
+0548	These are my children.
+0549	These are my sons.
+0550	This is our son.
+0551	This is our mother.
+0552	These are our children.
+0553	This is our parents.
+0554	Her bike is big.
+0555	Her bike is small.
+0556	Their bike is green.
+0557	My bike is blue.
+0558	Our bike is black.
+0559	You are my friend.
+0560	You are my friends.
+0561	Parents are parents and children.
+0562	I am your brother.
+0563	I am my sister.
+0564	I am your wife.
+0565	I am my brother.
+0566	What are you doing? I am cooking.
+0567	What are you doing? We are eating.
+0568	What are you doing? We are eating.
+0569	Are you writing a letter? Yes, I'm writing a letter.
+0570	Are you playing
+0571	Yes, I'm playing.
+0572	Are you cooking? Yes, I'm cooking.
+0573	Are you reading a book Yes, I'm reading a book.
+0574	Are you eating Yes, I'm eating.
+0575	What are you eating?
+0576	I'm eating bread.
+0577	What do you have? I have rice.
+0578	Are you drinking juice? Yes.
+0579	I have no juice.
+0580	I have milk.
+0581	Are you reading a letter No, I'm writing a letter.
+0582	Are you reading a book Yes.
+0583	We have two boys.
+0584	We have four daughters.
+0585	We have a son and three daughters.
+0586	six
+0587	seven
+0588	eight
+0589	nine
+0590	ten eleven twelve no
+0591	three, two, one, no
+0592	six, seven, eight, nine, sixteen, eight, ten, twelve eleven, no, nine, five
+0593	seven pens seven babies eight eggs eight chairs nine hats nine apples
+0594	ten plates ten cups eleven bowls eleven flowers twelve balls twelve keys
+0595	She is one year old.
+0596	She is two years old.
+0597	She is three years old.
+0598	She is four years old.
+0599	She is five years old.
+0600	She is six years old.
+0601	She is seven years old.
+0602	She is eight years old.
+0603	How old is your brother? She is six years old.
+0604	How old is your child? My child is seven years old.
+0605	How old are you? I am five years old.
+0606	How old are you? I'm four years old.
+0607	How old are you? I'm ten years old.
+0608	How old is your brother? He is twelve years old.
+0609	How old is your child? My child is nine years old.
+0610	How old are you? I'm nine years old.
+0611	Are you sleeping No.
+0612	What are you doing? I'm reading a book.
+0613	Are you eating? Is not.
+0614	What are you doing? She is writing.
+0615	an apartment an apartment an apartment a house a house a door
+0616	a television with a television and a television with a radio
+0617	computers
+0618	a desktop computer a desktop computer a laptop a laptop laptop computer
+0619	an apartment a door a house a computer a television a radio
+0620	The computer is on the table.
+0621	The radio is on the chair.
+0622	The cat is on the television.
+0623	The apple is on the computer.
+0624	The computer is in a car.
+0625	The key is in the shoe.
+0626	The cat is in the hat.
+0627	The man is in the car.
+0628	The man is in the car.
+0629	The key is in the car.
+0630	The key is on the car.
+0631	Whose station is this?
+0632	That station of my father.
+0633	Whose computer is this? That computer of my mother.
+0634	This hat is yours?
+0635	No, that sister's hat.
+0636	Is this key for you?
+0637	Yes, that key is yours.
+0638	Is this your computer Yes, my computer.
+0639	This ball is red.
+0640	This ball is blue.
+0641	This ball is yellow.
+0642	a window a window a window a toilet a toilet with a sink
+0643	a living room a living room a living room a kitchen a kitchen a bathroom
+0644	a living room a kitchen a kitchen a window a toilet a sink
+0645	The apples are in the bowl.
+0646	The bowl is on the table.
+0647	The table in the kitchen.
+0648	Kitchen in the house.
+0649	The boy is in the house.
+0650	The girl is in the apartment.
+0651	Family in the house.
+0652	The woman is in the apartment.
+0653	This door is big.
+0654	This door is small.
+0655	This window is big.
+0656	This window is small.
+0657	one bedroom one bedroom one bedroom one dining room a dining room a bathroom
+0658	The man is in the dining room.
+0659	The cat is in the bedroom.
+0660	Family in the dining room.
+0661	The computer is in the bedroom.
+0662	Blue kitchen.
+0663	Blue bedroom.
+0664	Blue bathroom.
+0665	Blue living room.
+0666	Blue dining room.
+0667	The house is blue.
+0668	This is my mother.
+0669	This is the mother of my mother.
+0670	This is my grandmother.
+0671	This is my mother's father.
+0672	This is his grandfather.
+0673	This is my father.
+0674	This is my father's mother.
+0675	This is my grandmother.
+0676	This is my father's father.
+0677	This is my grandfather.
+0678	The girl and the grandmother are in the dining room.
+0679	The son and grandfather were in the bathroom.
+0680	The girl and grandfather are playing.
+0681	The son and grandmother are cooking.
+0682	The father is holding his son.
+0683	The mother is hugging her daughter.
+0684	The husband is kissing his wife.
+0685	The younger sister is kissing his brother.
+0686	Young sister is hugging her sister.
+0687	The boy is hugging the dog.
+0688	Parents are kissing the children.
+0689	The boy is kissing his father.
+0690	She is hugging her grandmother.
+0691	He is kissing his son.
+0692	I am hugging my friend.
+0693	She is kissing her husband.
+0694	I love my mother.
+0695	I love my brother.
+0696	I love my sister.
+0697	I love my grandfather.
+0698	The wife loves her husband.
+0699	Parents love children.
+0700	She loves her grandfather.
+0701	The girl loves the dog.
+0702	The wife is kissing her husband.
+0703	Children love mothers.
+0704	I love my child.
+0705	The newspaper is under the table.
+0706	The newspaper is under the book.
+0707	The pen is under the chair.
+0708	The pen is under the letter.
+0709	The cat is under the table.
+0710	The dog is under the shirt.
+0711	The boys are under the bed.
+0712	The girl is under the coat.
+0713	The cat is on the table.
+0714	I stayed in bed.
+0715	I'm under the bed.
+0716	The man is under the car.
+0717	The girl is in bed.
+0718	The girl is under the bed.
+0719	The boys are watching TV.
+0720	The child is listening.
+0721	The cat is looking at the fish.
+0722	Parents are listening.
+0723	The man is listening to the radio.
+0724	The girl is listening to the radio.
+0725	Parents are looking at the children.
+0726	The boy and the girl are looking at the fish.
+0727	The women are watching TV.
+0728	The man is standing.
+0729	The boy is sitting.
+0730	The woman is standing.
+0731	The girl is sitting.
+0732	The mother is sitting in the kitchen.
+0733	The girl is sitting in the living room.
+0734	The boy is standing in the living room.
+0735	The father is standing in the kitchen.
+0736	The man is sitting.
+0737	The woman is sitting.
+0738	Is this your book? Yes.
+0739	This is my book.
+0740	Is this your hat? Is not.
+0741	This is not my hat.
+0742	Is this your sister? Yes, this is my sister.
+0743	Is this your ball? Yes, this is my ball.
+0744	Where is your key?
+0745	Your key is in the car.
+0746	Where is your jacket?
+0747	My coat is on the chair.
+0748	Where are your books? My books are in the chair.
+0749	Where is your cup?
+0750	My cup is in the sink.
+0751	Is this my brother? Yes, this is my brother.
+0752	Where is my newspaper?
+0753	His newspaper is on the table.
+0754	Where are the shoes?
+0755	Shoes are under the bed.
+0756	Where is the newspaper?
+0757	The newspaper is in bed.
+0758	Where are the cups?
+0759	The cups are in the sink.
+0760	Where are the disks?
+0761	The plates are in the sink.
+0762	I live in an apartment.
+0763	I live in a house.
+0764	We live in an apartment.
+0765	We live in a house.
+0766	She lives in an apartment.
+0767	They live in a house.
+0768	Where do you live?
+0769	I live in this apartment.
+0770	Where are you live?
+0771	Rome
+0772	Rome Paris Paris Moscow
+0773	I live in Moscow.
+0774	I live in Paris.
+0775	Where do you and I live? We live in Rome.
+0776	Where do you and I live?
+0777	We live in Moscow.
+0778	Where do you live? We live in Paris.
+0779	a country a country a country a city a city a bridge
+0780	a park a park a park a street a street a bridge
+0781	a country a city a street a park a bridge
+0782	The girl is sitting on the bridge.
+0783	The man is standing on the street.
+0784	The girls are standing on the bridge.
+0785	The woman is sitting in the park.
+0786	This street is in Paris.
+0787	This city is in France.
+0788	This bridge is in New York.
+0789	This city is in the United States.
+0790	They come from France.
+0791	He came from France.
+0792	She came from France.
+0793	They came from America.
+0794	He came from America.
+0795	She came from America.
+0796	We are from Vietnam.
+0797	I am from Vietnam.
+0798	You are from Vietnam.
+0799	China China China Russia Russia Egypt
+0800	Where are you from?
+0801	I'm from the United States.
+0802	Where are you from? I came from Egypt.
+0803	Where are you from?
+0804	We are from France.
+0805	Where are you from?
+0806	We are from China.
+0807	The son is near the house.
+0808	The girl is far from the house.
+0809	The dog is near the house.
+0810	The horse is far from the house.
+0811	My house is near the street.
+0812	My house is far from the street.
+0813	The chair is near the door.
+0814	The chair is far from the door.
+0815	I am near the tree.
+0816	I am far from the tree.
+0817	I am near the bridge.
+0818	I am far from the bridge.
+0819	Brazilian Brazilian Brazilian Japanese Japanese Italian
+0820	This country is called Italy.
+0821	This country is called Japan.
+0822	This country is called Egypt.
+0823	This country is called Russia.
+0824	Japan is near China.
+0825	Japan is far from Brazil.
+0826	Italy is near France.
+0827	Italy is far from Brazil.
+0828	My name is Nancy Wilson.
+0829	I'm a policeman.
+0830	My name is John Clark.
+0831	My name is Sue Simpson.
+0832	I'm from Russia.
+0833	My name is Viktor Popov.
+0834	My name is Sarah Smith.
+0835	My mother's name is Anne Smith.
+0836	My father's name is Mike Smith.
+0837	His name is John Smith.
+0838	Hello.
+0839	What is your name? My name is Sarah.
+0840	What is your name? My name is Bobby.
+0841	What's your name? My name is Steve Jones.
+0842	Nice to meet you.
+0843	What's your name?
+0844	My name is Mike Smith.
+0845	What is your name?
+0846	Her name is Jones.
+0847	I'm happy to meet you.
+0848	My name is Viktor.
+0849	My name is Lin.
+0850	My name is Isabella.
+0851	My name is Pierre.
+0852	I live in Moscow, Russia.
+0853	I live in Beijing, China.
+0854	I live in Rome, Italy.
+0855	I live in Paris, France.
+0856	This is my bedroom.
+0857	This is my kitchen.
+0858	This is my mom.
+0859	My mother's name is Mei.
+0860	My mother is cooking in the kitchen.
+0861	This is my older brother.
+0862	His name is Vladimir.
+0863	He is sleeping in the bedroom.
+0864	This is my father.
+0865	My father's name is Bertrand.
+0866	My father is eating in the dining room.
+0867	Here is my sister.
+0868	Her name is Giulia.
+0869	She is playing in the park.
+0870	a sweater a sweater a sweater a jeans a jeans a belt
+0871	a suit, a suit, a suit, a pair of socks and a tie
+0872	a sweater, a tie, a suit, a pair of jeans, a belt
+0873	My socks are gray.
+0874	Her socks are purple.
+0875	My sweater is purple.
+0876	His sweater is gray.
+0877	Doctor wearing a sweater.
+0878	Doctor wearing tie.
+0879	The policeman wears a sweater.
+0880	The policeman wears a tie.
+0881	High man wearing a tie.
+0882	Low man wearing a sweater.
+0883	The tall woman wore jeans.
+0884	The low woman wears a T-shirt.
+0885	The tall man wore a black suit.
+0886	The low man wore a black suit.
+0887	The tall woman wore a gray suit.
+0888	The low woman wore a gray suit.
+0889	My dress is pink.
+0890	My shoes are brown.
+0891	My belt is pink.
+0892	My tie is brown.
+0893	Her pants are blue.
+0894	Her T-shirt is orange.
+0895	Her jacket is blue.
+0896	Her dress is orange.
+0897	My hat is blue.
+0898	My tie is orange.
+0899	My belt is brown.
+0900	Pink belt.
+0901	The house is brown.
+0902	Pink House.
+0903	The belt is brown.
+0904	gray purple pink orange brown
+0905	yellow blue
+0906	green
+0907	I have brown hair.
+0908	She has brown hair.
+0909	We have blond hair.
+0910	They have blond hair.
+0911	I have red hair.
+0912	You have red hair.
+0913	He has gray hair.
+0914	We have gray hair.
+0915	I am tall.
+0916	I have brown hair.
+0917	I'm low.
+0918	I have red hair.
+0919	She has black hair.
+0920	She has gray hair.
+0921	He has red hair.
+0922	She has brown hair.
+0923	He has blond hair.
+0924	He has white hair.
+0925	What color is his sweater? His sweater is blue.
+0926	What color is your suit? My suit is gray.
+0927	What color is her hair?
+0928	Her hair is brown.
+0929	What color is her hair? Her hair is yellow.
+0930	What color is their hair?
+0931	Their hair is black.
+0932	What color is your hair? My hair is red.
+0933	The girl is cold.
+0934	The son is hot.
+0935	The man is cold.
+0936	The woman is hot.
+0937	The man is hungry.
+0938	The boy is thirsty.
+0939	The woman is hungry.
+0940	The girl is thirsty.
+0941	I'm hungry.
+0942	I am thirsty.
+0943	I'm hot.
+0944	I am cold.
+0945	Are you thirsty? Have.
+0946	He is thirsty.
+0947	Are your grandparents cold? Is not.
+0948	We are not cold.
+0949	Are you hungry?
+0950	I'm not hungry.
+0951	Are you hot Have.
+0952	We are hot.
+0953	Are you cold? Have.
+0954	She is cold.
+0955	Are you thirsty? Is not.
+0956	We are not thirsty.
+0957	Are you hot
+0958	Mom is not hot.
+0959	Are you hungry? Have.
+0960	We are hungry.
+0961	The boy is tired.
+0962	The girl is sick.
+0963	The man is sick.
+0964	The woman is tired.
+0965	I'm sick.
+0966	I'm tired.
+0967	How are you? I'm sick.
+0968	How are you? I'm fine.
+0969	How are you? I'm tired.
+0970	How are you? I'm fine.
+0971	How are you? I'm fine.
+0972	Hi Sarah.
+0973	How are you? I'm fine.
+0974	How is Mr. Jones? I'm fine.
+0975	Hello Ms. Jones.
+0976	Hi, brother and grandchildren.
+0977	Hello.
+0978	This is my grandmother.
+0979	This is my grandfather.
+0980	Hello mom
+0981	Hello dad
+0982	Hello lady
+0983	Hi sir
+0984	Hi Amy.
+0985	How are you? I'm sick.
+0986	How are you? Healthy mother
+0987	How are you? I'm fine.
+0988	How are you? She is healthy.
+0989	Are you hungry Yes, I'm hungry.
+0990	Hi sir
+0991	Hello
+0992	My name is Paulo Lima.
+0993	What's your name?
+0994	My name is Pei-chi Yu.
+0995	Nice to meet you.
+0996	Is this my brother? Yes.
+0997	My name is Pei-li.
+0998	How old are you? I'm nine years old.
+0999	Where are you from?
+1000	We are from China.

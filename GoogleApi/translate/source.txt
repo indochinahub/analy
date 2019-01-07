@@ -1,0 +1,4486 @@
+1001	Anh từ đâu đến? Anh từ Braxin đến.
+1002	Em có đói không? Không.
+1003	Em không đói.
+1004	Em có đói không? Có.
+1005	Em đói ạ.
+1006	Chào các em.
+1007	Đây có phải là sách của em không? Vâng.
+1008	Đây là sách của em.
+1009	Đây có phải là gia đình của em không? Vâng.
+1010	Đây là gia đình của em.
+1011	Gia đình của em sống ở đâu?
+1012	Gia đình của em sống ở Bắc Kinh.
+1013	Những người đàn bà đang làm việc.
+1014	Những đứa con trai đang chơi.
+1015	Người đàn ông đang làm việc.
+1016	Đứa con gái đang chơi.
+1017	một trường học một bệnh viện một nhà hàng một công viên
+1018	Bác sĩ làm việc ở bệnh viện.
+1019	Những người đàn ông làm việc ở công viên.
+1020	Những người đàn bà làm việc ở nhà hàng.
+1021	Thầy giáo làm việc ở trường học.
+1022	Em đang chơi ở công viên.
+1023	Em đang chơi ở trường học.
+1024	Tôi làm việc ở bệnh viện.
+1025	Tôi làm việc ở trường học.
+1026	Họ đang ăn cơm ở bên trong.
+1027	Họ đang ăn bánh sandwich ở bên ngoài.
+1028	Anh ấy đang chạy ở bên trong.
+1029	Cô ấy đang chạy ở bên ngoài.
+1030	Người đàn ông này làm việc ở bên trong.
+1031	Những người đàn ông này làm việc ở bên ngoài.
+1032	Những người đàn bà này làm việc ở bên trong.
+1033	Người đàn bà này làm việc ở bên ngoài.
+1034	buổi sáng buổi trưa buổi tối ban đêm
+1035	Bây giờ là buổi sáng.
+1036	Bây giờ là buổi trưa.
+1037	Bây giờ là buổi tối.
+1038	Bây giờ là ban đêm.
+1039	Những đứa trẻ đang ăn sáng.
+1040	Những người đàn ông đang ăn trưa.
+1041	Họ đang ăn tối.
+1042	Họ đang ăn sáng ở bên trong.
+1043	Họ đang ăn sáng ở bên ngoài.
+1044	Cô ấy đang ăn trưa ở bên trong.
+1045	Cô ấy đang ăn trưa ở bên ngoài.
+1046	Chúng tôi đang ăn sáng ở bên trong.
+1047	Chúng tôi đang ăn tối ở bên ngoài.
+1048	Chúng tôi đang ăn sáng ở bên ngoài.
+1049	Chúng tôi đang ăn tối ở bên trong.
+1050	Anh ấy làm việc buổi sáng.
+1051	Anh ấy làm việc ban đêm.
+1052	Các em ấy chơi buổi trưa.
+1053	Cô ấy xem tivi buổi tối.
+1054	Các anh chị làm việc ở đâu? Tôi làm việc ở công viên.
+1055	Tôi làm việc ở nhà hàng.
+1056	Khi nào anh làm việc? Tôi làm việc buổi sáng.
+1057	Khi nào anh làm việc? Tôi làm việc buổi trưa.
+1058	Khi nào anh làm việc? Tôi làm việc ban đêm.
+1059	Khi nào chị làm việc? Tôi làm việc buổi sáng.
+1060	Anh làm việc ở đâu? Tôi làm việc ở nhà hàng.
+1061	Anh ấy đi giày và đi tất.
+1062	Anh ấy đi giày nhưng anh ấy không đi tất.
+1063	Tôi mặc bộ com lê và đeo cà vạt.
+1064	Tôi mặc bộ com lê nhưng tôi không đeo cà vạt.
+1065	Em ấy có quả trứng và em ấy đang ăn.
+1066	Em ấy có quả trứng nhưng em ấy không ăn.
+1067	Em ấy có quyển sách và em ấy đang đọc.
+1068	Em ấy có quyển sách nhưng em ấy không đọc.
+1069	Con có tất và giày không?
+1070	Con có tất, nhưng con không có giày ạ.
+1071	Bạn có anh chị em không?
+1072	Có.
+1073	Mình có hai anh trai và hai chị gái.
+1074	Anh có áo khoác và mũ không?
+1075	Tôi có áo khoác, nhưng tôi không có mũ.
+1076	Ông ấy đọc sách trước khi ngủ.
+1077	Cô ấy đọc sách sau khi ăn trưa.
+1078	Anh ấy uống cà phê trước khi làm việc.
+1079	Họ uống cà phê sau khi ăn tối.
+1080	Khi nào anh ăn sáng?
+1081	Tôi ăn sáng trước khi làm việc.
+1082	Khi nào anh ăn tối?
+1083	Tôi ăn tối sau khi làm việc.
+1084	mười ba quả trứng mười bốn cái chén mười lăm cái cà vạt mười sáu chiếc dây lưng
+1085	mười bảy cái đĩa mười tám quả bóng mười chín bông hoa hai mươi quyển sách
+1086	mười ba mười bốn mười lăm mười sáu mười bảy mười tám mười chín hai mươi
+1087	Mười bốn đi sau mười ba.
+1088	Mười lăm đi sau mười bốn.
+1089	Mười chín đi trước hai mươi.
+1090	Mười lăm đi trước mười sáu.
+1091	Mười bảy đi sau mười sáu.
+1092	Mười bảy đi trước mười tám.
+1093	Em bao nhiêu tuổi? Em mười bốn tuổi.
+1094	Anh bao nhiêu tuổi? Tôi mười chín tuổi.
+1095	Chào các con.
+1096	Chúc em ngủ ngon.
+1097	Chào anh, anh có khỏe không? Tôi khỏe.
+1098	Chào các em, các em có khỏe không? Chúng em khỏe ạ.
+1099	Anh có khỏe không?
+1100	Tôi khỏe.
+1101	Chị có khỏe không? Tôi lạnh.
+1102	Chúc chị ngủ ngon.
+1103	Chúc anh ngủ ngon.
+1104	Chào các anh chị.
+1105	Tôi là Dan Parker.
+1106	Đây là cô Jane Taylor.
+1107	Đây là quyển sách của cô ấy.
+1108	Chào cô Taylor.
+1109	Cô có khỏe không? Tôi khỏe.
+1110	Khi nào cô viết sách?
+1111	Buổi sáng và buổi tối tôi viết sách.
+1112	Buổi trưa cô làm gì?
+1113	Tôi và con tôi chơi.
+1114	Cô viết sách ở đâu?
+1115	Buổi sáng, tôi viết sách ở trong công viên.
+1116	Buổi tối, tôi viết sách ở trong phòng khách.
+1117	bảy ngày
+1118	Em bé này một ngày tuổi.
+1119	hai ngày
+1120	Con mèo này hai mươi ngày tuổi.
+1121	Có bảy ngày trong một tuần.
+1122	Có bốn tuần trong một tháng.
+1123	Có mười hai tháng trong một năm.
+1124	một ngày một tuần một tháng một năm
+1125	Em bé này mười tám ngày tuổi.
+1126	Em bé này mười tám tuần tuổi.
+1127	Em bé này mười tám tháng tuổi.
+1128	Anh ấy mười tám tuổi.
+1129	Ngày này là thứ sáu.
+1130	Ngày này là thứ bảy.
+1131	Ngày này là chủ nhật.
+1132	Hôm nay là thứ sáu.
+1133	Tôi đang làm việc.
+1134	Hôm nay là thứ bảy.
+1135	Tôi đang chạy.
+1136	Hôm nay là chủ nhật.
+1137	Tôi đang xem tivi.
+1138	Họ đang đi bộ ở trong công viên.
+1139	Hôm nay là thứ hai.
+1140	Chúng tôi đang ăn trưa.
+1141	Hôm nay là thứ ba.
+1142	Tôi đang mua cá.
+1143	Hôm nay là thứ tư.
+1144	Tôi đang đọc sách.
+1145	Hôm nay là thứ năm.
+1146	Tôi đang nghe đài.
+1147	Họ đang chơi.
+1148	Anh ấy đang bơi.
+1149	thứ hai thứ ba thứ tư thứ năm thứ sáu thứ bảy chủ nhật
+1150	một đứa con gái một đứa con trai một cô con gái một cậu con trai
+1151	Những đứa con gái đang chơi trò chơi.
+1152	Những cô con gái đang chơi trò chơi.
+1153	Những đứa con trai đang chơi trò chơi.
+1154	Những cậu con trai đang chơi trò chơi.
+1155	Một đứa con trai đang chơi bóng đá.
+1156	Hai đứa con trai và một đứa con gái đang chơi bóng đá.
+1157	Hai đứa con trai đang chơi bóng đá.
+1158	Hai anh ấy có chơi bóng đá không? Có, hai anh ấy chơi bóng đá.
+1159	Các cháu có chơi bóng đá không? Có, chúng cháu chơi bóng đá ạ.
+1160	Họ đang chơi trò chơi với các đứa con của họ.
+1161	Đứa con gái đang ăn với bạn.
+1162	Đứa con gái đang đọc sách với ông nội.
+1163	Đứa con trai đang bơi với bạn.
+1164	Hai đứa con trai đang chơi bóng đá với bố.
+1165	Chị đang ăn trưa với ai?
+1166	Tôi đang ăn trưa với em gái tôi.
+1167	Chị đang ăn tối với ai?
+1168	Tôi đang ăn tối với chồng tôi.
+1169	Đứa con trai đang đi thăm bà ngoại.
+1170	Cô con gái đang đi thăm bạn.
+1171	Người đàn bà đang đi tham quan Pari.
+1172	Người đàn ông đang đi tham quan Matxcơva.
+1173	Con đang làm gì?
+1174	Con đang chơi trò chơi với em.
+1175	Cháu đang làm gì?
+1176	Cháu đang đi thăm bà nội ở bệnh viện.
+1177	Em đang đi thăm bạn.
+1178	Gia đình này đang đi tham quan Rôma.
+1179	Người chồng và vợ đang đi tham quan Bắc Kinh.
+1180	Đứa con trai đang đi thăm ông ngoại.
+1181	Bố mẹ và hai đứa con đang đi tham quan New York.
+1182	Những người đàn bà đang đi tham quan Nhật Bản.
+1183	Cô ấy đang đi thăm bố mẹ.
+1184	Chúng em đang đi thăm ông nội.
+1185	Đây là gia đình tôi.
+1186	Đây là ngôi nhà của chúng tôi.
+1187	Đây là những khách mời của chúng tôi.
+1188	Họ là khách trọ.
+1189	Tôi không phải là khách trọ.
+1190	Anh ấy là khách trọ.
+1191	Khách mời của chúng tôi ở ngoài cửa.
+1192	Những khách mời của chúng tôi đang ngồi ở trong phòng khách.
+1193	Chúng tôi đang ăn tối với khách mời.
+1194	Chúng tôi đang chơi trò chơi với khách mời.
+1195	Chào mừng anh chị đến nhà chúng tôi! Chào mừng anh chị đến nhà hàng của chúng tôi!
+1196	Chào mừng anh chị đến Việt Nam!
+1197	Chào mừng anh chị đến nhà hàng của chúng tôi.
+1198	Cảm ơn anh.
+1199	Chào mừng các chị đến nhà chúng tôi.
+1200	Cảm ơn chị.
+1201	Chào mừng chị đến Việt Nam.
+1202	Những khách mời đang ở ngoài cửa.
+1203	Chào anh chị!
+1204	Chào mừng các anh chị đến nhà chúng tôi! Cảm ơn anh.
+1205	Người đàn bà đang ngửi cà phê.
+1206	Người đàn ông đang ngửi hoa.
+1207	Người đàn bà đang nếm thử cơm.
+1208	Họ đang nếm thử bánh mì.
+1209	Đứa con trai đang nếm thử quả táo.
+1210	Người đàn ông đang ngửi sữa.
+1211	Đứa con gái đang ngửi hoa.
+1212	Người đàn bà đang nếm thử bánh mì.
+1213	Họ đang nếm thử cơm.
+1214	Cơm ngon.
+1215	Người đàn ông đang nếm thử cà phê.
+1216	Cà phê dở.
+1217	Bánh mì ngon.
+1218	Bánh sandwich dở.
+1219	Táo ngon.
+1220	Trứng dở.
+1221	Hoa thơm.
+1222	Tất hôi.
+1223	Trà thơm.
+1224	Cá hôi.
+1225	Cái này hôi.
+1226	Cái này thơm.
+1227	Cái này ngon.
+1228	Cái này dở.
+1229	Áo sơ mi này thơm.
+1230	Cà phê này thơm.
+1231	Áo sơ mi này hôi.
+1232	Cà phê này hôi.
+1233	bốn ngón tay ba bàn tay mười ngón chân một bàn chân
+1234	một bàn tay những ngón tay một bàn chân những ngón chân
+1235	Bàn chân ở trên cỏ.
+1236	Các ngón chân ở dưới nước.
+1237	Hai bàn tay ở trên cửa sổ.
+1238	Các ngón tay ở trên bàn.
+1239	một ngôi nhà vào mùa đông một công viên vào mùa xuân một thành phố vào mùa hè một cái cây vào mùa thu
+1240	mùa xuân
+1241	mùa hè
+1242	mùa thu
+1243	mùa đông
+1244	Đây là một cái cây vào mùa đông.
+1245	Đây là một cái cây vào mùa xuân.
+1246	Đây là một cái cây vào mùa hè.
+1247	Đây là một cái cây vào mùa thu.
+1248	Đây là nhà của tôi vào mùa đông.
+1249	Đây là nhà của tôi vào mùa hè.
+1250	Đây là mũ của tôi vào mùa đông.
+1251	Đây là mũ của em vào mùa hè.
+1252	Tôi tên là David Brown.
+1253	Tôi tên là Michael Levy.
+1254	Tôi sống ở trong ngôi nhà màu đỏ.
+1255	Anh làm việc ở đâu?
+1256	Khi nào anh làm việc?
+1257	Thứ hai, thứ ba và thứ năm, tôi làm việc.
+1258	Con của chị bao nhiêu tuần tuổi? Con tôi chín tuần tuổi.
+1259	Con trai của chị bao nhiêu tháng tuổi? Con trai tôi mười tám tháng tuổi.
+1260	Ông ấy đang viết thư.
+1261	Cô ấy đang đọc báo.
+1262	Anh ấy đang nói.
+1263	Bà ấy đang nói.
+1264	Người đàn ông đang đọc tiếng Trung Quốc.
+1265	Người đàn bà đang đọc tiếng Anh.
+1266	Đứa con trai đang viết tiếng Ả Rập.
+1267	Đứa con gái đang viết tiếng Việt.
+1268	Ông ấy đang viết tiếng Ả Rập.
+1269	Ông ấy đang đọc tiếng Ả Rập.
+1270	Ông ấy đang nói tiếng Ả Rập.
+1271	Cô ấy đang viết tiếng Trung Quốc.
+1272	Cô ấy đang đọc tiếng Trung Quốc.
+1273	Cô ấy đang nói tiếng Trung Quốc.
+1274	Cô con gái đang nói tiếng Anh.
+1275	Đứa con trai đang nói tiếng Việt.
+1276	Người đàn ông đang nói tiếng Anh.
+1277	Người đàn bà đang nói tiếng Việt.
+1278	Ông ấy đang viết tiếng Việt.
+1279	Ông ấy đang đọc tiếng Việt.
+1280	Ông ấy đang nói tiếng Việt.
+1281	Tôi đang đọc tiếng Trung Quốc.
+1282	Tôi đang viết tiếng Trung Quốc.
+1283	Tôi đang đọc tiếng Việt.
+1284	Tôi đang viết tiếng Việt.
+1285	Người đàn ông từ nước Úc đến.
+1286	Người đàn bà từ nước Nga đến.
+1287	Cô con gái từ nước Nhật Bản đến.
+1288	Đứa con trai từ Việt Nam đến.
+1289	Chó, mèo và ngựa là những con vật.
+1290	Đàn ông, đàn bà, con gái và con trai là người.
+1291	Đây là một con vật.
+1292	Đây là một người.
+1293	Đây là những con vật.
+1294	Đây là người.
+1295	Người Ai Cập nói tiếng Ả Rập.
+1296	Người Trung Quốc nói tiếng Trung Quốc.
+1297	Người Việt Nam nói tiếng Việt.
+1298	Người Úc nói tiếng Anh.
+1299	Người đàn bà này từ Trung Quốc đến.
+1300	Cô ấy nói tiếng Trung Quốc.
+1301	Con vật này ở Trung Quốc.
+1302	Nó không nói tiếng Trung Quốc.
+1303	Người đàn ông này từ nước Úc đến.
+1304	Anh ấy nói tiếng Anh.
+1305	Con vật này ở nước Úc.
+1306	Nó không nói tiếng Anh.
+1307	Người này nói tiếng Trung Quốc.
+1308	Người này nói tiếng Ả Rập.
+1309	Người này nói tiếng Anh.
+1310	Người này nói tiếng Việt.
+1311	Tôi nói tiếng Trung Quốc.
+1312	Tôi nói tiếng Ả Rập.
+1313	Tôi nói tiếng Anh.
+1314	Tôi nói tiếng Việt.
+1315	Anh có biết nói tiếng Ả Rập không?
+1316	Tôi biết nói tiếng Ả Rập.
+1317	Bạn có biết nói tiếng Trung Quốc không? Không.
+1318	Mình không biết nói tiếng Trung Quốc.
+1319	Xin lỗi chị, chị có biết nói tiếng Trung Quốc không?
+1320	Tôi không biết nói tiếng Trung Quốc.
+1321	Tôi biết nói tiếng Trung Quốc.
+1322	Xin lỗi anh.
+1323	Anh có biết nói tiếng Anh không? Có.
+1324	Tôi biết nói tiếng Anh.
+1325	Xin lỗi chị.
+1326	Chị có biết nói tiếng Việt không? Có.
+1327	Tôi biết nói tiếng Việt.
+1328	mười chiếc dây lưng hai mươi cái chén ba mươi quả bóng bốn mươi cái đĩa năm mươi cái cà vạt sáu mươi cái mũ
+1329	mười hai mươi ba mươi bốn mươi năm mươi sáu mươi
+1330	hai mươi cái chén
+1331	hai mươi mốt cái chén hai mươi hai cái chén hai mươi ba cái đĩa hai mươi bốn cái đĩa hai mươi lăm cái đĩa
+1332	ba mươi bốn cái bát ba mươi lăm cái bát ba mươi sáu cái bát ba mươi bảy cái đĩa ba mươi tám cái đĩa ba mươi chín cái đĩa
+1333	bốn mươi bốn bốn mươi lăm bốn mươi sáu bốn mươi bảy bốn mươi tám bốn mươi chín
+1334	bốn mươi bốn mươi mốt bốn mươi hai bốn mươi ba bốn mươi bốn bốn mươi lăm bốn mươi sáu bốn mươi bảy bốn mươi tám bốn mươi chín
+1335	Anh bao nhiêu tuổi? Tôi bốn mươi lăm tuổi.
+1336	Anh ấy bao nhiêu tuổi? Anh ấy ba mươi tuổi.
+1337	Anh bao nhiêu tuổi? Tôi ba mươi lăm tuổi.
+1338	Chúng ta có bao nhiêu cái đĩa? Chúng ta có mười cái đĩa.
+1339	Anh chị có bao nhiêu cái đĩa? Chúng tôi có mười cái đĩa.
+1340	Chúng ta có bao nhiêu cái bát? Chúng ta có hai mươi cái bát.
+1341	Anh chị có bao nhiêu cái bát? Chúng tôi có hai mươi cái bát.
+1342	Chúng ta có bao nhiêu cái đĩa? Chúng ta có hai mươi bốn cái đĩa.
+1343	Chúng ta có bao nhiêu cái bát? Chúng ta có bốn mươi lăm cái bát.
+1344	Có bao nhiêu khách mời?
+1345	Có ba mươi khách mời.
+1346	Chúng tôi là thầy giáo.
+1347	Chúng ta là thầy giáo.
+1348	Tôi đang dạy tiếng Anh.
+1349	Anh ấy đang dạy tiếng Ả Rập.
+1350	Cô ấy đang dạy tiếng Trung Quốc.
+1351	Chị đang dạy tiếng Việt à?
+1352	Ông ấy đang dạy tiếng Ả Rập.
+1353	Ông ấy đang dạy tiếng Anh.
+1354	Ông ấy đang dạy tiếng Việt.
+1355	Tôi đang học tiếng Trung Quốc.
+1356	Anh ấy đang học tiếng Ả Rập.
+1357	Họ đang học tiếng Anh.
+1358	Chúng tôi đang học tiếng Việt.
+1359	Chị đang học tiếng Anh.
+1360	Anh đang dạy tiếng Ả Rập.
+1361	Chúng tôi đang học tiếng Ả Rập.
+1362	Ai là cô giáo của cháu?
+1363	Cô Li là cô giáo của cháu ạ.
+1364	Ai là thầy giáo của chị?
+1365	Ông Haddad là thầy giáo của tôi.
+1366	Tôi đang dạy tiếng Trung Quốc.
+1367	Chúng tôi đang học tiếng Trung Quốc.
+1368	Tôi đang dạy tiếng Việt.
+1369	Tôi đang học tiếng Việt.
+1370	Em tên là Reem.
+1371	Em nói tiếng Ả Rập, nhưng em đang học tiếng Anh.
+1372	Đây là thầy giáo của em.
+1373	Thầy giáo tên là Haddad.
+1374	Bố mẹ tôi từ Trung Quốc đến.
+1375	Chúng tôi sống ở New York.
+1376	Bố mẹ tôi không nói tiếng Anh.
+1377	Tôi nói tiếng Anh và tiếng Trung Quốc.
+1378	Đứa con trai vừa ngủ dậy.
+1379	Người chồng đang đánh thức vợ.
+1380	Người đàn ông đang đánh thức bạn.
+1381	Đứa con gái vừa ngủ dậy.
+1382	Người đàn bà vừa ngủ dậy.
+1383	Người đàn ông vừa ngủ dậy.
+1384	Người đàn bà đang đánh thức đứa con gái.
+1385	Người đàn ông đang đánh thức đứa con trai.
+1386	Em ấy đang rửa bát.
+1387	Ông ấy đang rửa xe ô tô.
+1388	Họ đang rửa xe ô tô.
+1389	Đứa con gái đang rửa mặt.
+1390	Người đàn bà đang rửa mặt.
+1391	Người đàn ông đang rửa mặt.
+1392	Người đàn ông đang giặt quần.
+1393	Người đàn bà đang giặt áo len.
+1394	Đứa con trai đang giặt áo phông.
+1395	Tôi đang giặt đôi tất.
+1396	Họ đang rửa bát.
+1397	Ông ấy đang giặt áo phông.
+1398	Em đang rửa tay.
+1399	Cô ấy đang giặt váy.
+1400	Em ấy đang rửa tay.
+1401	Tôi đang giặt áo.
+1402	Em ấy đang rửa mặt.
+1403	Quả bóng ở trên bàn chân của anh ấy.
+1404	Quả bóng ở trên ngón tay của anh ấy.
+1405	Quả bóng ở trên mặt của anh ấy.
+1406	Con phố ướt.
+1407	Những cái áo khô.
+1408	Những con chó ướt.
+1409	Con mèo khô.
+1410	Những con ngựa ướt.
+1411	Những con ngựa khô.
+1412	Tóc của cô ấy ướt.
+1413	Tóc của em ấy khô.
+1414	Đôi tất bẩn.
+1415	Cái áo sạch.
+1416	Mặt của em ấy bẩn.
+1417	Mặt của anh ấy sạch.
+1418	Cái áo bẩn.
+1419	Cái áo ướt.
+1420	Cái áo sạch và khô.
+1421	Mẹ đang ở đâu, chị?
+1422	Mẹ đang ở trong phòng tắm.
+1423	Bố đang ở đâu, anh?
+1424	Bố đang ở trong bếp.
+1425	Tại sao mẹ rửa tay?
+1426	Mẹ rửa tay tại vì tay mẹ bẩn.
+1427	Tại sao chị mặc áo len?
+1428	Tôi mặc áo len tại vì tôi lạnh.
+1429	Tại sao bố ở trong bếp, chị?
+1430	Bố ở trong bếp tại vì bố đang nấu ăn.
+1431	Tại sao anh uống nước?
+1432	Tôi uống nước tại vì tôi khát nước.
+1433	Tại sao mẹ ở trong phòng tắm?
+1434	Mẹ ở trong phòng tắm tại vì mẹ đang rửa tay.
+1435	một cái bàn chải đánh răng một cái bàn chải đánh răng một cái bàn chải đánh răng kem đánh răng
+1436	kem đánh răng răng
+1437	một cái bàn chải tóc một cái bàn chải tóc một cái bàn chải tóc xà phòng
+1438	xà phòng
+1439	một cái khăn tắm
+1440	một cái bàn chải đánh răng kem đánh răng
+1441	răng
+1442	một cái bàn chải tóc xà phòng
+1443	Người đàn bà đang chải tóc.
+1444	Người đàn ông đang đánh răng.
+1445	Những đứa con gái đang chải tóc.
+1446	Những đứa con trai đang đánh răng.
+1447	Em đang đánh răng.
+1448	Em ấy đang chải tóc.
+1449	Họ đang rửa tay.
+1450	Em ấy đang đánh răng.
+1451	Cô ấy đang mua bàn chải tóc.
+1452	Họ đang rửa tay với xà phòng.
+1453	Em có một cái bàn chải đánh răng màu xanh.
+1454	Người mẹ đang đánh thức con gái.
+1455	Đứa con gái đang chải tóc.
+1456	Anh trai đang đánh răng.
+1457	Người bố đang rửa mặt.
+1458	Tôi rửa tay trước khi ăn trưa.
+1459	Tôi đánh răng sau khi ăn sáng.
+1460	Tôi uống cà phê sau khi ăn tối.
+1461	một cái gối một cái gối một cái gối
+1462	một cái khăn trải giường một cái khăn trải giường một cái chăn
+1463	một cái khăn trải giường một cái gối
+1464	một cái chăn một cái khăn tắm
+1465	Em đang ở dưới cái chăn.
+1466	Khăn trải giường ở trên giường.
+1467	Con mèo đang ở trên cái gối.
+1468	Khăn tắm ở trong phòng tắm.
+1469	Khăn trải giường màu hồng sạch.
+1470	Gối màu hồng sạch.
+1471	Chăn màu hồng sạch.
+1472	Khăn tắm màu hồng sạch.
+1473	Tại sao con chó hôi? Tại vì nó bẩn và ướt.
+1474	Tại sao khăn trải giường thơm? Tại vì nó sạch.
+1475	Tại sao họ ở trong phòng ăn? Tại vì họ đang ăn tối.
+1476	Tại sao họ ở trong bếp? Tại vì họ đang rửa bát.
+1477	Tại sao họ ở trong phòng khách? Tại vì họ đang xem tivi.
+1478	Bố mẹ đang đọc báo ở trong phòng khách.
+1479	Người đàn bà đang ngủ ở trong phòng ngủ.
+1480	Đứa con gái đang đọc sách ở trong phòng ngủ.
+1481	Đứa con trai đang ngủ ở trong phòng khách.
+1482	Cô đang mua gì? Tôi đang mua hoa.
+1483	Cô đang mua bao nhiêu bông hoa? Tôi đang mua chín bông hoa.
+1484	Tại sao cô đang mua hoa?
+1485	Tôi đang mua hoa tại vì trưa nay, tôi đi thăm bà ngoại tôi.
+1486	Bà ngoại của cô sống ở đâu? Bà ngoại tôi sống ở New York.
+1487	Chào Jane.
+1488	Chị có bao nhiêu cái bát? Tôi có hai cái bát.
+1489	Chúng ta ăn ở bên ngoài à? Không.
+1490	Chúng ta ăn ở bên trong.
+1491	Có thơm không? Thơm.
+1492	Có ngon không? Ngon!
+1493	Chào chị! Chào các chị!
+1494	Chào cô! Chào ông bà!
+1495	Ông có khỏe không? Tôi khỏe.
+1496	Đây là bạn tôi, chị Anna.
+1497	Chị ấy từ nước Nga đến.
+1498	Bà có biết nói tiếng Việt không? Có.
+1499	Rất vui được gặp bà.
+1500	Rất vui được gặp cô.
+1501	Bà làm việc ở đâu?
+1502	Cô làm việc ở đâu?
+1503	Chị có chơi bóng đá không? Có.
+1504	Tôi chơi bóng đá.
+1505	Anh có chơi bóng đá không? Có.
+1506	Khi nào anh chơi? Tôi chơi vào buổi tối.
+1507	Anh chơi ở đâu?
+1508	Tôi chơi ở trong công viên.
+1509	Chào ông bà.
+1510	Chị đang ở đâu?
+1511	Tôi đang ở trong bếp.
+1512	Chị đang làm gì? Tôi đang rửa bát.
+1513	Tại sao chị rửa bát?
+1514	Tôi rửa bát tại vì tôi là bạn của chị.
+1515	Những người đàn bà có ô.
+1516	Ông ấy có chiếc vé.
+1517	Bà ấy có cái kính mát.
+1518	Những người đàn ông có cái thang.
+1519	một cái ô một chiếc vé một cái kính mát một cái thang
+1520	Ông ấy cần cái thang.
+1521	Em ấy cần cái khăn tắm.
+1522	Cô ấy cần xà phòng.
+1523	Em ấy cần kính mát.
+1524	Cô ấy cần tiền.
+1525	Ông ấy có tiền.
+1526	Tiền ở trên bàn.
+1527	Ông ấy cần tiền.
+1528	Cô ấy có tiền.
+1529	Ông ấy cần cái ô.
+1530	Cô ấy có cái ô.
+1531	Tôi có kính mát.
+1532	Tôi cần kính mát.
+1533	Chị có vé.
+1534	Chị có cần vé không?
+1535	Anh có cần chìa khóa không? Ừ, anh cần chìa khóa.
+1536	Con có cần tiền không? Vâng, con cần tiền ạ.
+1537	đồ nữ trang đồ nữ trang đồ nữ trang quần áo quần áo đồ chơi
+1538	hoa quả hoa quả hoa quả rau rau thịt
+1539	thịt rau hoa quả đồ chơi quần áo
+1540	đồ nữ trang
+1541	Họ đang mua thịt.
+1542	Anh ấy đang mua quần áo.
+1543	Cô ấy đang mua đồ chơi.
+1544	Họ đang mua rau.
+1545	Chiếc xe ô tô màu xanh này mới.
+1546	Ngôi nhà màu trắng này cũ.
+1547	Ngôi nhà màu đỏ này mới.
+1548	Chiếc xe ô tô màu xanh này cũ.
+1549	một chiếc tivi cũ một chiếc tivi mới một cái điện thoại cũ một cái điện thoại mới
+1550	Ông ấy bán hoa quả.
+1551	Ông ấy bán xe ô tô.
+1552	Cô ấy bán hoa quả và rau.
+1553	Cô ấy bán hoa.
+1554	Cô ấy bán cái mũ cũ.
+1555	Cô ấy bán chiếc xe ô tô cũ.
+1556	Tôi bán cái ô mới.
+1557	Tôi bán chiếc xe ô tô mới.
+1558	Anh ấy đang mua một cái mũ cũ.
+1559	Ông ấy đang mua một chiếc xe ô tô cũ.
+1560	Tôi đang mua một cái ô mới.
+1561	Tôi đang mua một chiếc xe ô tô mới.
+1562	Cửa hàng này bán đồ nữ trang cũ.
+1563	Cửa hàng này bán đồ nữ trang mới.
+1564	Cửa hàng này bán sách cũ.
+1565	Cửa hàng này bán sách mới.
+1566	cửa hàng thực phẩm cửa hàng thực phẩm cửa hàng thực phẩm cửa hàng dụng cụ cửa hàng dụng cụ cửa hàng nữ trang
+1567	cửa hàng thực phẩm cửa hàng dụng cụ cửa hàng nữ trang
+1568	Họ đang mua sắm ở cửa hàng thực phẩm.
+1569	Cô ấy đang mua sắm ở cửa hàng dụng cụ.
+1570	Ông ấy đang mua sắm ở cửa hàng nữ trang.
+1571	Anh ấy đang mua thuốc.
+1572	Các em ấy đang ăn sôcôla.
+1573	Cô ấy đang bán bánh ngọt.
+1574	Họ đang mua rau ở cửa hàng thực phẩm.
+1575	Cô ấy đang mua thuốc ở hiệu thuốc.
+1576	Mẹ đang mua bánh ngọt ở cửa hàng bánh.
+1577	Cô ấy đang mua sách ở hiệu sách.
+1578	Anh ấy đang mua sách ở hiệu sách.
+1579	Tôi đang mua thang ở cửa hàng dụng cụ.
+1580	Chúng tôi đang bán đồ nữ trang ở cửa hàng nữ trang.
+1581	Bà ấy đang bán thuốc ở hiệu thuốc.
+1582	sôcôla
+1583	một cái bánh ngọt thuốc
+1584	một hiệu thuốc một hiệu sách một cửa hàng bánh
+1585	một chiếc tivi hỏng một đồ chơi hỏng một cái đài hỏng
+1586	một cái điện thoại hỏng
+1587	Tivi của tôi bị hỏng.
+1588	Đồ chơi của em bị hỏng.
+1589	Thang của tôi không bị hỏng.
+1590	Kính của tôi không bị hỏng.
+1591	Em ấy muốn sôcôla.
+1592	Em ấy muốn đồ chơi.
+1593	Bà ấy muốn đồ nữ trang.
+1594	Con chó muốn thịt.
+1595	Em ấy cần một cái áo khoác.
+1596	Cô ấy muốn cái áo khoác tím.
+1597	Ông ấy cần cái kính.
+1598	Anh ấy muốn cái kính đỏ.
+1599	Xin lỗi bà, cửa hàng thực phẩm ở đâu ạ? Cửa hàng thực phẩm ở gần cầu.
+1600	Xin lỗi bà, cửa hàng bánh ở đâu ạ?
+1601	Cửa hàng bánh ở phố Pine.
+1602	Xin lỗi bà, tôi cần thuốc.
+1603	Hiệu thuốc ở đâu ạ? Hiệu thuốc ở gần bệnh viện.
+1604	Xin lỗi cô, tôi muốn một quyển sách.
+1605	Hiệu sách ở đâu ạ?
+1606	Hiệu sách ở gần công viên.
+1607	Cô ấy muốn đồ nữ trang, nhưng cô ấy không cần đồ nữ trang.
+1608	Em ấy muốn bánh ngọt, nhưng em ấy không cần bánh ngọt.
+1609	Bà ấy cần kính, nhưng bà ấy không muốn kính.
+1610	Em ấy cần thuốc, nhưng em ấy không muốn thuốc.
+1611	Tôi cần một chiếc tivi mới.
+1612	Tại sao anh cần chiếc tivi mới?
+1613	Tại vì chiếc tivi cũ của tôi bị hỏng.
+1614	Tôi cần một cái ô mới.
+1615	Tại sao chị cần cái ô mới?
+1616	Tại vì cái ô cũ của tôi bị hỏng.
+1617	Chị đang mua gì?
+1618	Tôi đang mua hoa quả và sôcôla.
+1619	Tôi đang mua thịt và rau.
+1620	Xin lỗi cô, đây có phải là hiệu thuốc không? Không.
+1621	Đây là hiệu sách.
+1622	Hiệu thuốc ở trên phố Elm.
+1623	Xin lỗi cô, đây có phải là cửa hàng bánh không? Không.
+1624	Đây là cửa hàng thực phẩm.
+1625	Cửa hàng bánh ở gần công viên.
+1626	Cửa hàng dụng cụ ở đâu?
+1627	Cửa hàng dụng cụ ở gần hiệu sách.
+1628	Anh cần gì?
+1629	Tôi cần một cái thang mới.
+1630	Tại sao anh cần cái thang mới?
+1631	Tại vì cái thang cũ của tôi bị hỏng.
+1632	một vở kịch một vở kịch một vở kịch
+1633	một buổi hòa nhạc một buổi hòa nhạc một bộ phim
+1634	Đứa con trai và bố đang xem phim.
+1635	Họ đang xem kịch.
+1636	Người đàn ông và người đàn bà đang nghe hòa nhạc.
+1637	Họ đang nghe đài.
+1638	bóng đá bóng đá bóng đá gôn gôn quần vợt
+1639	một buổi hòa nhạc một vở kịch
+1640	một bộ phim bóng đá quần vợt gôn
+1641	những quả cam nước ép trà
+1642	những củ cà rốt
+1643	Người đàn ông và người đàn bà đang uống trà.
+1644	Người đàn ông đang ăn cà rốt.
+1645	Người đàn bà đang ăn cam.
+1646	Em ấy thích bóng đá.
+1647	Em ấy không thích cà rốt.
+1648	Em ấy thích ngựa.
+1649	Em ấy không thích nước ép.
+1650	Ông ấy thích chơi gôn.
+1651	Em ấy không thích chơi quần vợt.
+1652	Họ thích uống trà.
+1653	Em ấy không thích đi giày màu đỏ.
+1654	Anh ấy thích buổi hòa nhạc này.
+1655	Anh ấy không thích buổi hòa nhạc này.
+1656	Anh ấy thích cam.
+1657	Ông ấy không thích cam.
+1658	Em ấy thích chạy.
+1659	Cô ấy thích đọc sách.
+1660	Ông ấy thích nấu ăn.
+1661	Em ấy thích bơi.
+1662	Những người đàn bà đang chơi gôn.
+1663	Những người đàn bà đang chơi bóng đá.
+1664	Những người đàn bà đang chơi quần vợt.
+1665	Em ấy không thích chơi bóng đá.
+1666	Anh ấy thích chơi bóng đá.
+1667	Cô ấy thích chơi quần vợt.
+1668	Anh thích làm gì?
+1669	Tôi thích chơi bóng đá.
+1670	Chị thích làm gì?
+1671	Tôi thích đọc sách.
+1672	Chị thích làm gì? Tôi thích nghe đài.
+1673	Chị thích làm gì? Tôi thích nấu ăn.
+1674	Đứa con trai có nhiều nước ép hơn mẹ.
+1675	Đứa con gái có nhiều cam hơn mẹ.
+1676	Thầy giáo có nhiều sách hơn học sinh.
+1677	Đứa con gái có nhiều bánh ngọt hơn bố.
+1678	Người đàn ông có ít trà hơn vợ.
+1679	Đứa con gái có ít bánh mì hơn đứa con trai.
+1680	Người đàn ông có ít táo hơn đứa con gái.
+1681	Đứa con trai có ít sách hơn người đàn bà.
+1682	Người đàn bà có ít nước ép hơn con trai.
+1683	Đứa con trai có nhiều sữa hơn người đàn ông.
+1684	Người đàn bà có nhiều chó hơn người đàn ông.
+1685	Đứa con gái có ít đồ chơi hơn đứa con trai.
+1686	Người đàn ông có nhiều bánh mì hơn vợ.
+1687	Người đàn ông có ít bánh mì hơn vợ.
+1688	Người đàn bà có nhiều tiền hơn chồng.
+1689	Người đàn bà có ít tiền hơn chồng.
+1690	Con vật nào to? Con vật này to.
+1691	Con vật nào nhỏ? Con vật này nhỏ.
+1692	Hoa quả nào màu đỏ? Hoa quả này màu đỏ.
+1693	Hoa quả nào màu xanh? Hoa quả này màu xanh.
+1694	Đồ chơi nào to?
+1695	Đồ chơi màu xanh to.
+1696	Đồ chơi nào nhỏ?
+1697	Đồ chơi màu vàng nhỏ.
+1698	Cái áo nào màu nâu? Cái áo to màu nâu.
+1699	Cái áo nào màu hồng? Cái áo nhỏ màu hồng.
+1700	Tôi thích quần vợt hơn bóng đá.
+1701	Tôi thích táo hơn cam.
+1702	Tôi thích sữa hơn nước ép.
+1703	Tôi thích trà hơn cà phê.
+1704	Chị thích đôi giày nào hơn?
+1705	Tôi thích giày màu xanh da trời hơn giày màu xanh lá cây.
+1706	Chị thích cái áo nào hơn?
+1707	Tôi thích cái áo màu đen hơn cái áo màu xanh.
+1708	Chị thích chiếc xe đạp nào hơn?
+1709	Tôi thích chiếc xe đạp màu xanh hơn chiếc xe đạp màu hồng.
+1710	Anh thích cái áo đầm nào hơn?
+1711	Tôi thích cái áo đầm màu đỏ hơn cái áo đầm màu trắng.
+1712	Anh thích ngôi nhà nào hơn? Tôi thích nhà mới hơn nhà cũ.
+1713	Anh thích chiếc xe ô tô nào hơn?
+1714	Tôi thích chiếc xe ô tô cũ hơn chiếc xe ô tô mới.
+1715	năm đô la mười euro mười lăm bảng
+1716	Cái áo giá mười hai bảng.
+1717	Quyển sách giá mười lăm đô la.
+1718	Cái kính mát giá hai mươi euro.
+1719	Cà rốt giá bao nhiêu tiền?
+1720	Cà rốt giá ba đô la.
+1721	Trà giá bao nhiêu tiền?
+1722	Trà giá hai euro.
+1723	Vé xem phim giá bao nhiêu tiền?
+1724	Vé xem phim giá chín bảng.
+1725	Vé nghe hòa nhạc giá bao nhiêu tiền?
+1726	Giá bốn mươi euro.
+1727	Bánh sandwich giá bao nhiêu tiền?
+1728	Giá ba bảng.
+1729	Nước cam giá bao nhiêu tiền?
+1730	Giá một đô la.
+1731	Tivi giá đắt hơn kính mát.
+1732	Mũ giá rẻ hơn áo khoác.
+1733	Vé nghe hòa nhạc giá đắt hơn vé xem phim.
+1734	Báo giá rẻ hơn sách.
+1735	Quần màu xanh da trời giá đắt hơn quần màu xanh lá cây.
+1736	Xe đạp tím giá rẻ hơn xe đạp vàng.
+1737	Điện thoại đen giá đắt hơn điện thoại trắng.
+1738	Kính đen giá rẻ hơn kính đỏ.
+1739	Chị thích cái váy nào hơn?
+1740	Tôi thích cái váy xanh hơn cái váy trắng.
+1741	Cái áo sơ mi xanh giá bao nhiêu tiền? Giá bảy euro.
+1742	Chị thích cái áo len nào hơn?
+1743	Tôi thích cái áo len xám hơn cái áo len tím.
+1744	Cái áo len xám giá bao nhiêu tiền?
+1745	Giá hai mươi chín đô la.
+1746	Anh thích đôi giày nào? Tôi thích đôi giày đen.
+1747	Đôi giày giá bao nhiêu tiền? Giá sáu mươi euro.
+1748	kim loại kim loại kim loại gỗ
+1749	gỗ
+1750	giấy
+1751	nhựa
+1752	giấy kim loại nhựa
+1753	Cái bàn này làm bằng gỗ.
+1754	Cái ghế này làm bằng nhựa.
+1755	Chiếc vé này làm bằng giấy.
+1756	Cái thang này làm bằng kim loại.
+1757	một cái bát gỗ một cái đĩa nhựa một cái bát nhựa một cái đĩa gỗ
+1758	Cái này làm bằng gỗ.
+1759	Cái này làm bằng nhựa.
+1760	Cái này làm bằng giấy.
+1761	Cái này làm bằng kim loại.
+1762	Đồng xu làm bằng kim loại.
+1763	Thẻ tín dụng làm bằng nhựa.
+1764	Séc làm bằng giấy.
+1765	Các em ấy đang trả bằng những đồng xu.
+1766	Bà ấy đang trả bằng séc.
+1767	Ông ấy đang trả bằng thẻ tín dụng.
+1768	Tôi đang trả bằng tiền mặt.
+1769	Chị có muốn trả bằng séc không? Không.
+1770	Tôi muốn trả bằng tiền mặt.
+1771	Anh có muốn trả bằng thẻ tín dụng không? Không.
+1772	Tôi muốn trả bằng séc.
+1773	Chị có muốn trả bằng tiền mặt không? Không.
+1774	Tôi muốn trả bằng thẻ tín dụng.
+1775	Cái ghế gỗ giá bao nhiêu tiền? Cái ghế gỗ giá sáu mươi bảng.
+1776	Cái ghế nhựa giá bao nhiêu tiền? Cái ghế nhựa giá bốn bảng.
+1777	Cái ghế gỗ đắt.
+1778	Cái ghế nhựa rẻ.
+1779	Cái bát kim loại đắt.
+1780	Cái bát giấy rẻ.
+1781	Đồ nữ trang này đắt.
+1782	Đồ nữ trang này rẻ.
+1783	Cái máy ảnh này đắt.
+1784	Cái máy ảnh này rẻ.
+1785	Chiếc xe ô tô này rẻ.
+1786	Chiếc xe ô tô này đắt.
+1787	Cái áo đầm này rẻ.
+1788	Cái áo đầm này đắt.
+1789	Chiếc tivi này nặng.
+1790	Cái bàn này nặng.
+1791	Đồng xu này nhẹ.
+1792	Cái khăn trải giường này nhẹ.
+1793	Cái ghế này nhẹ.
+1794	Chiếc máy tính này nhẹ.
+1795	Cái giường này nặng.
+1796	Những cái này nhanh.
+1797	Những cái này chậm.
+1798	Con này nhanh.
+1799	Con này chậm.
+1800	Chiếc xe ô tô này nhanh.
+1801	Con vật này chậm.
+1802	Con ngựa nâu nhanh.
+1803	Xe đạp này chậm.
+1804	Cái này nhanh.
+1805	Cái này nhẹ.
+1806	Cái này nặng.
+1807	Con này nhanh hơn.
+1808	Con này chậm hơn.
+1809	Sách của tôi nặng.
+1810	Sách của anh ấy nặng hơn.
+1811	Cái bát nhựa này nhẹ.
+1812	Cái bát giấy này nhẹ hơn.
+1813	Cái máy ảnh này nhỏ.
+1814	Cái máy ảnh này nhỏ hơn.
+1815	Cái máy ảnh này nhỏ nhất.
+1816	Ngôi nhà này to.
+1817	Ngôi nhà này to hơn.
+1818	Ngôi nhà này to nhất.
+1819	Người đàn ông già có tóc bạc.
+1820	Người đàn bà già có tóc bạc.
+1821	Người đàn bà trẻ có tóc đen.
+1822	Người đàn ông trẻ có tóc xanh.
+1823	Người đàn ông già là thầy giáo.
+1824	Người đàn bà già là bác sĩ.
+1825	Người đàn bà trẻ là cô giáo.
+1826	Người đàn ông trẻ là bác sĩ.
+1827	Bác sĩ của em già.
+1828	Bác sĩ của tôi trẻ.
+1829	Tôi già.
+1830	Tôi trẻ.
+1831	Nhà của tôi to.
+1832	Nhà của tôi to hơn nhà của chị.
+1833	Máy tính của tôi nhỏ.
+1834	Máy tính của tôi nhỏ hơn máy tính của chị.
+1835	Chiếc tivi này đắt hơn.
+1836	Chiếc máy tính này đắt nhất.
+1837	Người đàn ông có một ít bánh ngọt.
+1838	Người đàn bà có nhiều bánh ngọt hơn.
+1839	Đứa con gái có nhiều bánh ngọt nhất.
+1840	Người đàn bà có một ít bánh mì.
+1841	Người đàn ông có nhiều bánh mì hơn.
+1842	Cậu con trai có nhiều bánh mì nhất.
+1843	Cô ấy có vài quyển sách.
+1844	Bà ấy có nhiều sách hơn.
+1845	Cô ấy có nhiều sách nhất.
+1846	Ông ấy có vài cái bút.
+1847	Ông ấy có nhiều bút hơn.
+1848	Anh ấy có nhiều bút nhất.
+1849	Em ấy có vài quả táo.
+1850	Anh ấy có nhiều táo hơn.
+1851	Anh ấy có nhiều táo nhất.
+1852	Em ấy có một ít tiền.
+1853	Cô ấy có ít tiền hơn.
+1854	Cô ấy có một ít bánh mì.
+1855	Anh ấy có ít bánh mì hơn.
+1856	Người đàn ông có một ít cơm.
+1857	Đứa con gái có ít cơm hơn.
+1858	Người đàn bà có ít cơm nhất.
+1859	Đứa con gái có một ít bánh ngọt.
+1860	Người đàn bà có ít bánh ngọt hơn.
+1861	Người đàn ông có ít bánh ngọt nhất.
+1862	Người đàn bà có một ít hoa quả.
+1863	Đứa con trai có nhiều hoa quả nhất.
+1864	Cô con gái có ít hoa quả hơn người đàn ông.
+1865	Đứa con gái có nhiều hoa quả hơn đứa con trai.
+1866	Những cái bút này giống nhau.
+1867	Những cái chén này khác nhau.
+1868	Những cái ghế này khác nhau.
+1869	Những đồ chơi này giống nhau.
+1870	Những cái cà vạt này giống nhau.
+1871	Những cái cà vạt này khác nhau.
+1872	Những đồng xu này giống nhau.
+1873	Những đồng xu này khác nhau.
+1874	Những áo này khác màu.
+1875	Những áo này cùng màu.
+1876	Những quả bóng này khác màu.
+1877	Những quả bóng này cùng màu.
+1878	Những cái đĩa này cùng màu.
+1879	Những cái bát này khác màu.
+1880	Những quyển sách này khác màu.
+1881	Những cái chén này cùng cỡ.
+1882	Những cái chén này khác cỡ.
+1883	Những cái mũ này cùng cỡ.
+1884	Những cái mũ này khác cỡ.
+1885	Những cái mũ này cùng màu.
+1886	Những cái mũ này khác màu.
+1887	Những cái chén này cùng màu.
+1888	Những cái chén này khác màu.
+1889	Những cái điện thoại này cùng cỡ, nhưng khác màu.
+1890	Những cái điện thoại này cùng màu, nhưng khác cỡ.
+1891	Những cái khăn tắm này cùng cỡ, nhưng khác màu.
+1892	Những cái khăn tắm này cùng màu, nhưng khác cỡ.
+1893	Cái ghế này quá nhỏ.
+1894	Anh ấy quá cao.
+1895	Em quá thấp.
+1896	Cái bát này quá to.
+1897	Cái bát này quá nhỏ.
+1898	Chiếc xe đạp này quá to.
+1899	Chiếc xe đạp này quá nhỏ.
+1900	Cái áo này quá rộng.
+1901	Cái áo này quá chật.
+1902	Cái quần này quá rộng.
+1903	Cái quần này quá chật.
+1904	Quần jean này quá rộng.
+1905	Quần jean này quá chật.
+1906	Quần jean này vừa.
+1907	Giày này quá rộng.
+1908	Giày này quá chật.
+1909	Giày này vừa.
+1910	Áo đầm có vừa không? Có.
+1911	Nó vừa.
+1912	Áo sơ mi có vừa không? Không.
+1913	Nó quá rộng.
+1914	Kính có vừa không? Không.
+1915	Nó quá nhỏ.
+1916	Mũ có vừa không?
+1917	Mũ của tôi quá rộng.
+1918	Kính của tôi quá nhỏ.
+1919	Kính của tôi quá to.
+1920	Mũ của tôi quá chật.
+1921	Anh có muốn áo phông này không? Không.
+1922	Tôi không muốn áo phông này.
+1923	Tại sao không?
+1924	Tại vì nó quá rộng.
+1925	Áo khoác có vừa không? Không.
+1926	Nó quá chật.
+1927	Áo khoác này rộng hơn.
+1928	Một vài quả bóng màu vàng.
+1929	Không có quả bóng nào màu vàng.
+1930	Tất cả các quả bóng đều màu vàng.
+1931	Một vài cái đĩa bằng nhựa.
+1932	Không có cái chén nào bằng giấy.
+1933	Tất cả các đồ chơi đều bằng kim loại.
+1934	Tất cả các đồ chơi đều bằng gỗ.
+1935	Một vài cái mũ màu đỏ.
+1936	Không có cái mũ nào màu đỏ.
+1937	Tất cả các cái mũ đều màu đỏ.
+1938	Không có bông hoa nào bằng nhựa.
+1939	Một vài bông hoa bằng nhựa.
+1940	Tất cả các bông hoa đều bằng giấy.
+1941	Một vài bông hoa bằng giấy.
+1942	Một vài đứa trẻ đang ngồi.
+1943	Tất cả những đứa trẻ đều đang ngồi.
+1944	Không có đứa trẻ nào đang ngồi.
+1945	Những đồng xu này cùng màu, nhưng khác cỡ.
+1946	Những đồng xu này cùng cỡ, nhưng khác màu.
+1947	Áo phông của chúng tôi cùng màu, nhưng khác cỡ.
+1948	Áo phông của chúng tôi cùng cỡ, nhưng khác màu.
+1949	Chị thích cái áo đầm nào hơn?
+1950	Tôi thích cái áo đầm màu đỏ hơn cái áo đầm màu xanh.
+1951	Chị thích cái áo đầm nào nhất?
+1952	Tôi thích cái áo đầm màu đen nhất.
+1953	Con thích con mèo nào? Con thích tất cả các con mèo.
+1954	Con thích đồ chơi nào?
+1955	Con thích tất cả các đồ chơi.
+1956	Cửa sổ mở.
+1957	Cửa đóng.
+1958	Cửa mở.
+1959	Cửa sổ đóng.
+1960	Cửa hàng nữ trang mở cửa.
+1961	Hiệu sách mở cửa.
+1962	Hiệu thuốc đóng cửa.
+1963	Cửa hàng đồ chơi đóng cửa.
+1964	Cửa hàng thực phẩm mở cửa.
+1965	Cửa hàng thực phẩm đóng cửa.
+1966	Cửa hàng bánh mở cửa.
+1967	Cửa hàng bánh đóng cửa.
+1968	Chị có muốn bánh ngọt không?
+1969	Không có gì ạ.
+1970	Cửa hàng thực phẩm có mở cửa không?
+1971	Hôm nay con bốn tuổi.
+1972	Con muốn một cái bánh ngọt.
+1973	Con muốn cái bánh ngọt màu gì?
+1974	Con muốn một cái bánh ngọt màu xanh.
+1975	Con muốn cái bánh ngọt cỡ nào?
+1976	Con muốn cái bánh ngọt to nhất.
+1977	Hôm nay, con trai tôi bốn tuổi.
+1978	Tôi cần một cái bánh ngọt.
+1979	Chị cần cái bánh ngọt màu gì?
+1980	Tôi cần cái bánh ngọt màu xanh.
+1981	Chị cần bánh ngọt cỡ nào?
+1982	Tôi cần cái bánh ngọt to nhất.
+1983	Đây là cái bánh ngọt màu xanh to nhất.
+1984	Cái bánh ngọt giá bao nhiêu tiền?
+1985	Giá hai mươi lăm đô la.
+1986	một bưu điện một khách sạn một ngân hàng một viện bảo tàng một quán cà phê một thư viện
+1987	Cô ấy làm việc ở ngân hàng.
+1988	Ông ấy làm việc ở bưu điện.
+1989	Họ làm việc ở quán cà phê.
+1990	Cô ấy đang đọc sách ở quán cà phê.
+1991	Họ đang đọc sách ở thư viện.
+1992	Anh ấy đang đọc sách ở viện bảo tàng.
+1993	Họ làm việc ở ngân hàng.
+1994	Cô ấy làm việc ở khách sạn.
+1995	Anh ấy làm việc ở viện bảo tàng.
+1996	Họ đang ở nhà.
+1997	Người đàn bà đang ở nhà.
+1998	Những người đàn ông đang ở nơi làm việc.
+1999	Những đứa trẻ đang ở trường học.
+2000	Những người đàn ông đang nấu ăn ở nơi làm việc.
+2001	Người đàn ông đang nấu ăn ở nhà.
+2002	Những đứa trẻ đang đọc sách ở trường học.
+2003	Đứa trẻ này đang đọc sách ở nhà.
+2004	Tôi đang ở nhà.
+2005	Tôi đang ở nơi làm việc.
+2006	Em đang ở trường học.
+2007	Cô ấy đang ở khách sạn.
+2008	Họ đang ở viện bảo tàng.
+2009	Cô ấy đang đi thư viện.
+2010	Bà ấy đang đi quán cà phê.
+2011	Anh ấy đang đi ngân hàng.
+2012	Chúng tôi đang đi công viên.
+2013	Họ đang đi viện bảo tàng.
+2014	Những đứa trẻ đang đi học.
+2015	Anh ấy đang đi làm.
+2016	Anh ấy đang ở nơi làm việc.
+2017	Em ấy đang đi học.
+2018	Cô ấy đang đi làm.
+2019	một nhà hát một nhà hát một nhà hát một sân vận động một sân vận động một cửa hàng xăng
+2020	Họ đang đứng ở trong sân vận động.
+2021	Cô ấy đang ngồi ở trong nhà hát.
+2022	Ông ấy đang làm việc ở cửa hàng xăng.
+2023	Anh ấy đang xem bản đồ.
+2024	Cô ấy đang mua xăng.
+2025	Những người đàn bà đang xem bản đồ.
+2026	Những người đàn ông cần xăng.
+2027	Chúng ta cần xăng.
+2028	Anh ấy đang mua xăng bằng thẻ tín dụng.
+2029	Cô ấy cần một cái bản đồ.
+2030	Cô ấy đang mua bản đồ bằng tiền mặt.
+2031	Cô ấy cần xăng.
+2032	Cô ấy cần cà phê.
+2033	Chị đang đi đâu?
+2034	Tôi đang đi hiệu thuốc.
+2035	Các chị đang đi đâu? Chúng tôi đang đi thư viện.
+2036	Anh đang đi đâu?
+2037	Tôi đang đi bệnh viện.
+2038	Các em đang đi đâu?
+2039	Chúng em đang đi sân vận động.
+2040	Anh ấy đang đi đâu?
+2041	Anh ấy đang đi học.
+2042	Họ đang đi đâu?
+2043	Họ đang đi quán cà phê.
+2044	Cháu cần thuốc.
+2045	Tôi đi hiệu thuốc.
+2046	Chúng ta cần sữa.
+2047	Tôi đi cửa hàng thực phẩm.
+2048	Chiếc xe ô tô cần xăng.
+2049	Tôi đi cửa hàng xăng.
+2050	Anh đang đi đâu? Tôi đang đi thư viện.
+2051	Anh chị đang đi đâu? Chúng tôi đang đi nhà hát.
+2052	Tôi đang đi sân vận động.
+2053	Tôi đang đi thư viện.
+2054	Chúng tôi đang đi viện bảo tàng.
+2055	Chúng tôi đang đi bưu điện.
+2056	Chúng tôi đang đi cửa hàng xăng.
+2057	Chúng em đang đi ngân hàng.
+2058	Người đàn ông ở đằng sau cái cây.
+2059	Đứa con trai ở đằng trước cái cây.
+2060	Đứa con gái ở đằng sau cái khăn trải giường.
+2061	Người đàn bà ở đằng trước cái khăn trải giường.
+2062	Chiếc xe đạp ở đằng trước ngôi nhà.
+2063	Chiếc xe đạp ở đằng sau ngôi nhà.
+2064	Con ngựa ở đằng trước viện bảo tàng.
+2065	Người đàn bà ở đằng sau người đàn ông.
+2066	Người đàn ông ở bên cạnh chiếc xe ô tô.
+2067	Chiếc xe ô tô xanh ở bên cạnh chiếc xe ô tô đỏ.
+2068	Người đàn ông ở bên cạnh vợ.
+2069	Người đàn bà ở bên cạnh con ngựa.
+2070	Người đàn ông ở đằng sau chiếc xe ô tô.
+2071	Người đàn ông ở đằng trước chiếc xe ô tô.
+2072	Người đàn bà ở trong chiếc xe ô tô.
+2073	Người đàn ông ở trên cái ghế.
+2074	Đứa con trai ở dưới gầm bàn.
+2075	Con vật ở đằng sau chiếc xe ô tô.
+2076	Con vật ở dưới ngôi nhà.
+2077	Con vật ở trên chiếc xe ô tô.
+2078	Con vật ở trong ngôi nhà.
+2079	Con vật ở đằng trước ngôi nhà.
+2080	Con vật ở bên cạnh chiếc xe ô tô.
+2081	Em ở đâu?
+2082	Em ở dưới gầm ghế.
+2083	Em ở đằng sau cái ghế.
+2084	Anh ở đâu?
+2085	Anh ở dưới gầm xe ô tô.
+2086	Em ở đằng sau chiếc xe ô tô.
+2087	Cái cây ở bên trái em ấy.
+2088	Những bông hoa ở bên phải cô ấy.
+2089	Chiếc xe ô tô ở bên phải anh ấy.
+2090	Cửa sổ ở bên trái ông ấy.
+2091	Đứa con gái ở bên trái em ấy.
+2092	Con chó ở bên phải em ấy.
+2093	Chiếc xe đạp ở bên trái cô ấy.
+2094	Bản đồ ở bên phải anh ấy.
+2095	Quán cà phê ở bên trái ông ấy.
+2096	Quán cà phê ở bên phải anh ấy.
+2097	Nhà hát ở bên trái anh ấy.
+2098	Nhà hát ở bên phải anh ấy.
+2099	Bưu điện ở đâu?
+2100	Tôi cần một cái bản đồ.
+2101	Họ có bán bản đồ ở hiệu sách không? Có, họ bán bản đồ ở hiệu sách.
+2102	Bản đồ ở đằng sau những tờ báo.
+2103	Tôi muốn mua bản đồ này.
+2104	Bản đồ giá bao nhiêu tiền? Giá năm đô la.
+2105	Ông có muốn trả bằng tiền mặt không? Không.
+2106	Ông bà muốn đi đâu? Chúng tôi muốn đi bưu điện.
+2107	Bưu điện ở bên cạnh hiệu sách.
+2108	Những đứa trẻ đang xếp hàng.
+2109	Những người đàn ông đang xếp hàng.
+2110	Những người đàn bà đang xếp hàng.
+2111	Người thứ nhất trong hàng cao.
+2112	Người thứ hai trong hàng có tóc vàng.
+2113	Người thứ ba trong hàng có tóc đen.
+2114	Người thứ tư trong hàng khát nước.
+2115	Đứa trẻ thứ nhất trong hàng mặc váy đỏ.
+2116	Đứa trẻ thứ hai trong hàng đeo kính mát.
+2117	Đứa trẻ thứ ba trong hàng mặc áo phông màu xanh.
+2118	Đứa trẻ thứ tư trong hàng đội mũ.
+2119	Số thứ nhất là số ba.
+2120	Số thứ hai là số chín.
+2121	Số thứ ba là số bảy.
+2122	Phòng vệ sinh ở đâu?
+2123	Phòng vệ sinh ở cửa thứ nhất bên phải.
+2124	Phòng vệ sinh ở cửa thứ hai bên trái.
+2125	Phòng vệ sinh ở cửa thứ nhất bên trái.
+2126	Áo khoác của cô là cái nào?
+2127	Áo khoác của tôi màu đỏ.
+2128	Nó là cái thứ tư bên phải.
+2129	Anh ấy đang ở nhà.
+2130	Anh ấy đang về nhà.
+2131	Tôi đang đi làm.
+2132	Tôi đang về nhà.
+2133	Những đứa trẻ đang ở nhà.
+2134	Những đứa trẻ đang về nhà.
+2135	Họ đang ở nơi làm việc.
+2136	Cô ấy đang ở nơi làm việc.
+2137	Họ đang đi nhà hát.
+2138	Anh ấy làm việc ở nhà hát.
+2139	Bà ấy đang ngồi ở trong nhà hát.
+2140	Cô muốn đi đâu?
+2141	Tôi muốn đi viện bảo tàng.
+2142	Anh chị muốn đi đâu? Chúng tôi muốn đi nhà hát.
+2143	Anh muốn đi đâu?
+2144	Tôi muốn đi sân vận động.
+2145	Cháu đi sân vận động à?
+2146	Vâng, cháu đi xem bóng đá ở đó ạ.
+2147	Con đi thư viện à?
+2148	Vâng, con đi đọc sách ở đó ạ.
+2149	Bố mẹ đi nhà hát ạ?
+2150	Ừ, bố mẹ đi xem kịch ở đó.
+2151	Mẹ đi cửa hàng thực phẩm ạ? Ừ, mẹ đi cửa hàng thực phẩm.
+2152	Em mua cái gì ở đó?
+2153	Em mua bánh mì và trứng ở đó.
+2154	một đoàn tàu điện ngầm một đoàn tàu điện ngầm một đoàn tàu điện ngầm một chiếc xe buýt
+2155	một chiếc xe buýt một chiếc xe taxi
+2156	Anh ấy đang đi xe buýt.
+2157	Cô ấy đang đi tàu điện ngầm.
+2158	Họ đang đi xe taxi.
+2159	Những người này đang đi tàu điện ngầm.
+2160	Những người này đang đi xe buýt.
+2161	Những người này đang đi xe taxi.
+2162	Xin lỗi chú, chỗ ngồi của cháu ở đâu? Chỗ ngồi của cháu ở bên phải.
+2163	Cảm ơn chú.
+2164	Không có gì.
+2165	Xin lỗi bà.
+2166	Bà có muốn ngồi chỗ này không? Cảm ơn anh.
+2167	Xin lỗi anh, chỗ ngồi của tôi ở đâu? Chỗ ngồi của chị là chỗ thứ ba.
+2168	Sarah đang ngồi ở đâu?
+2169	Sarah đang ngồi chỗ số tám.
+2170	Anh đi làm bằng gì?
+2171	Tôi đi làm bằng tàu điện ngầm.
+2172	Em đi học bằng gì?
+2173	Em đi bộ.
+2174	Anh đi làm bằng gì? Tôi lái xe.
+2175	Em đi học bằng gì? Em đi xe buýt.
+2176	Cô ấy đang xuống xe buýt.
+2177	Họ đang xuống khỏi tàu điện ngầm.
+2178	Chúng tôi đang đứng ở điểm dừng xe buýt.
+2179	Cô ấy đang ngồi ở điểm dừng xe buýt.
+2180	Anh ấy đang xuống khỏi xe buýt ở điểm dừng xe buýt.
+2181	Họ đang đi ga tàu điện ngầm.
+2182	Tôi đang ngồi ở ga tàu điện ngầm.
+2183	Ông ấy đang xuống khỏi tàu điện ngầm ở ga tàu điện ngầm.
+2184	Anh ấy đang xuống khỏi tàu điện ngầm.
+2185	Cô ấy đang lên xe buýt.
+2186	Họ đang lên tàu điện ngầm.
+2187	Em ấy đang xuống khỏi xe buýt.
+2188	Ông ấy đang lên xe buýt.
+2189	Điểm dừng xe buýt ở đằng trước công viên.
+2190	Viện bảo tàng ở đằng sau công viên.
+2191	Cửa hàng xăng ở xa thành phố.
+2192	Bưu điện ở gần nhà hàng.
+2193	Tôi đang đi ga tàu điện ngầm.
+2194	Ông đang đi đâu?
+2195	Chiếc xe taxi đang rẽ trái.
+2196	Chiếc xe taxi đang đi thẳng.
+2197	Chiếc xe taxi đang rẽ phải.
+2198	Chiếc xe buýt đang rẽ trái.
+2199	Chiếc xe ô tô đang rẽ phải.
+2200	Rẽ trái.
+2201	Đi thẳng.
+2202	Rẽ phải.
+2203	Xin lỗi chị, đến điểm dừng xe buýt đi như thế nào?
+2204	Anh đi thẳng.
+2205	Xin lỗi ông, đến khách sạn gần viện bảo tàng đi như thế nào?
+2206	Cô đi đến con phố thứ ba và rẽ trái.
+2207	Xin lỗi anh, đến thư viện đi như thế nào?
+2208	Chị đi đến viện bảo tàng và rẽ phải.
+2209	Xin lỗi anh, đến ngân hàng đi như thế nào? Chị đi thẳng đến công viên.
+2210	Ngân hàng ở bên phải.
+2211	Xin lỗi chị, đến viện bảo tàng đi như thế nào? Anh đi xe buýt đến điểm dừng xe buýt thứ tư.
+2212	Xuống xe buýt và đi bộ đến con phố thứ hai.
+2213	Viện bảo tàng ở bên trái.
+2214	một chiếc máy bay một đoàn tàu một chiếc xe buýt một sân bay một nhà ga
+2215	một bến xe buýt
+2216	Người đàn ông đang ăn ở trên máy bay.
+2217	Người đàn bà đang ngủ ở trên tàu.
+2218	Họ đang xuống xe buýt.
+2219	Tôi đang chờ máy bay.
+2220	Họ đang chờ tàu.
+2221	Cô ấy đang chờ xe buýt.
+2222	một sân bay vào buổi trưa một nhà ga vào buổi sáng một bến xe buýt vào ban đêm
+2223	Người đàn bà và con trai đang chờ ở sân bay.
+2224	Tôi đang chờ ở bến xe buýt.
+2225	Những người đàn ông đang chờ ở nhà ga.
+2226	Cô ấy đang chờ ở quán cà phê.
+2227	Người đàn ông đeo đồng hồ.
+2228	Đồng hồ này ở nhà ga.
+2229	Người đàn bà đeo đồng hồ.
+2230	Đồng hồ này ở sân bay.
+2231	Đồng hồ ở trên bàn.
+2232	Đồng hồ ở bên cạnh bồn rửa bát.
+2233	Bây giờ là một giờ.
+2234	Bây giờ là hai giờ.
+2235	Bây giờ là ba giờ.
+2236	Bây giờ là bốn giờ.
+2237	Bây giờ là chín giờ.
+2238	Bây giờ là mười hai giờ.
+2239	Bây giờ là năm giờ sáng.
+2240	Bây giờ là sáu giờ sáng.
+2241	Bây giờ là tám giờ sáng.
+2242	Bây giờ là ba giờ trưa.
+2243	Bây giờ là bảy giờ tối.
+2244	Bây giờ là mười một giờ đêm.
+2245	Bây giờ là một giờ trưa.
+2246	Bây giờ là tám giờ tối.
+2247	Bây giờ là một giờ đêm.
+2248	Tàu khởi hành lúc sáu giờ sáng.
+2249	Tàu đến lúc hai giờ trưa.
+2250	Xe buýt khởi hành lúc sáu giờ rưỡi tối.
+2251	Máy bay đến lúc hai giờ rưỡi sáng.
+2252	Tàu khởi hành lúc mười giờ rưỡi tối.
+2253	Tàu đến lúc mười một giờ rưỡi trưa.
+2254	Bây giờ mấy giờ rồi? Bây giờ là năm giờ.
+2255	Xin lỗi cô.
+2256	Bây giờ mấy giờ rồi? Bây giờ là tám giờ rưỡi.
+2257	Cảm ơn cô.
+2258	Xin lỗi ông.
+2259	Bây giờ mấy giờ rồi? Bây giờ là năm giờ mười lăm.
+2260	Bây giờ mấy giờ rồi? Bây giờ là sáu giờ kém mười lăm.
+2261	Bây giờ mấy giờ rồi? Bây giờ là một giờ mười lăm.
+2262	Bây giờ mấy giờ rồi?
+2263	Bây giờ là hai giờ kém mười lăm ạ.
+2264	Tôi đang mua vé.
+2265	Chúng tôi có vé.
+2266	Anh cần một chiếc vé.
+2267	Va li của anh ấy màu đỏ.
+2268	Va li của họ màu đen.
+2269	Va li của cô ấy màu xanh.
+2270	Hộ chiếu ở trong va li.
+2271	Hộ chiếu ở bên cạnh điện thoại.
+2272	Hộ chiếu ở trên bản đồ.
+2273	Hộ chiếu ở bên cạnh chiếc vé.
+2274	Cô ấy có va li.
+2275	Cô ấy có hộ chiếu.
+2276	Cô ấy có vé.
+2277	hai tiếng mười tám phút bốn mươi bảy giây ba tiếng
+2278	chín phút
+2279	năm mươi sáu giây
+2280	Mười phút nữa tàu đến.
+2281	Bây giờ là ba giờ rưỡi.
+2282	Mười lăm phút nữa tàu đến.
+2283	Bây giờ là hai giờ mười lăm.
+2284	Một tiếng nữa tàu đến.
+2285	Tôi cần mua hai vé.
+2286	Vé giá sáu mươi euro.
+2287	Mấy giờ tàu khởi hành?
+2288	Tàu khởi hành lúc một giờ rưỡi.
+2289	Tàu khởi hành trong ba mươi phút nữa.
+2290	Mấy giờ chuyến tàu của anh khởi hành? Chuyến tàu của tôi khởi hành lúc tám giờ ba mươi bảy phút sáng.
+2291	Mấy giờ xe buýt của cô đến?
+2292	Xe buýt của tôi đến lúc bảy giờ mười lăm phút tối.
+2293	Mấy giờ chuyến bay của cô khởi hành? Chuyến bay của tôi khởi hành lúc mười hai giờ bốn mươi lăm phút trưa.
+2294	Mấy giờ chuyến bay đến? Chuyến bay nào? Chuyến bay từ Pari.
+2295	Chuyến bay đến lúc ba giờ bốn mươi hai phút.
+2296	Bây giờ là hai giờ bốn mươi hai phút.
+2297	Chuyến bay đến trong một tiếng nữa.
+2298	Ông đang chờ chuyến bay năm mươi hai à? Vâng.
+2299	Khi nào chuyến bay đến?
+2300	Chuyến bay năm mươi hai đến lúc mười giờ.
+2301	Anh đang chờ chuyến tàu số bốn mươi bốn à? Không.
+2302	Tôi đang chờ chuyến tàu số ba mươi ba.
+2303	Chuyến tàu này đến lúc một giờ.
+2304	Chuyến tàu đến lúc bảy giờ mười lăm phút tối à?
+2305	Không, chuyến tàu này bị muộn một tiếng.
+2306	Chuyến tàu này đến lúc tám giờ mười lăm phút tối.
+2307	Chuyến bay này khởi hành lúc tám giờ năm mươi lăm phút sáng à?
+2308	Không, chuyến bay này bị muộn ba mươi phút.
+2309	Chuyến bay này khởi hành lúc chín giờ hai mươi lăm phút sáng.
+2310	Bây giờ là tám giờ hai mươi lăm phút tối.
+2311	Chuyến tàu có bị muộn không?
+2312	Không, chuyến tàu đúng giờ.
+2313	Chuyến tàu đến lúc chín giờ rưỡi.
+2314	Chị có va li không? Có, tôi có va li.
+2315	Chuyến bay có đúng giờ không?
+2316	Chuyến bay khởi hành lúc bốn giờ mười lăm.
+2317	Cô có vé không? Có, tôi có vé.
+2318	Cô có hộ chiếu không? Có, tôi có hộ chiếu.
+2319	Từ đây đến sân bay là hai mươi ki-lô-mét.
+2320	Từ đây đến khách sạn là mười ki-lô-mét.
+2321	Từ đây đến cửa hàng xăng là năm ki-lô-mét.
+2322	Từ đây đến nhà hàng là một ki-lô-mét.
+2323	Cô ấy đang ở trong phòng của cô ấy.
+2324	Số phòng của chúng ta là ba mươi mốt.
+2325	Đây là phòng của anh chị.
+2326	Chỗ ngồi của cô ấy là sáu mươi mốt.
+2327	Số phòng của anh ấy là sáu mươi hai.
+2328	Cái này giá sáu mươi ba euro.
+2329	Ông ấy sáu mươi tư tuổi.
+2330	Chỗ ngồi của cháu là số bảy mươi ba.
+2331	Đây là phòng số bảy mươi tư.
+2332	Cái này giá bảy mươi lăm đô la.
+2333	Từ đây đến Rôma là bảy mươi sáu ki-lô-mét.
+2334	Chỗ ngồi của chị số tám mươi lăm.
+2335	Phòng của chị số tám mươi sáu.
+2336	Cái này giá tám mươi bảy đô la.
+2337	Ông ấy tám mươi tám tuổi.
+2338	Máy ảnh này giá chín mươi chín đô la.
+2339	Điện thoại này giá chín mươi ba euro.
+2340	Áo khoác này giá chín mươi bảng.
+2341	Đôi giày này giá chín mươi sáu euro.
+2342	Máy ảnh này giá bao nhiêu tiền? Giá bảy mươi lăm euro.
+2343	Kính này giá bao nhiêu tiền? Giá tám mươi bảng.
+2344	Cái đài này giá bao nhiêu tiền? Giá sáu mươi tư đô la.
+2345	Chuyến bay có đúng giờ không? Không, chuyến bay bị muộn.
+2346	Chuyến bay có đúng giờ không? Có, chuyến bay đúng giờ.
+2347	Mấy giờ chuyến bay của anh đến?
+2348	Chuyến bay của anh đến lúc bảy giờ hai mươi ba phút sáng.
+2349	Mấy giờ chuyến tàu của cô đến?
+2350	Chuyến tàu của tôi đến lúc sáu giờ năm mươi bốn phút.
+2351	Con chó có thể bơi được.
+2352	Con chó không thể lái xe được.
+2353	Con mèo có thể chạy được.
+2354	Con mèo không thể đọc được.
+2355	Em ấy có thể bơi được.
+2356	Em bé không thể bơi được.
+2357	Con ngựa có thể đi bộ được.
+2358	Con cá không thể đi bộ được.
+2359	Con vật này có thể bơi được.
+2360	Con vật này không thể bơi được.
+2361	Người đàn ông này có thể đi bộ được.
+2362	Người đàn ông này không thể đi bộ được.
+2363	Anh ấy có thể lái xe được sáu mươi ki-lô-mét trong một ngày.
+2364	Anh ấy không thể đi bộ được sáu mươi ki-lô-mét trong một ngày.
+2365	Em ấy có thể đọc được quyển sách này trong mười phút.
+2366	Em ấy không thể đọc được quyển sách này trong mười phút.
+2367	Tôi có thể đi xe buýt này đến viện bảo tàng được không?
+2368	Vâng ạ.
+2369	Có một điểm dừng xe buýt đằng trước viện bảo tàng.
+2370	Tôi có thể đi bộ đến nhà hàng được không? Không.
+2371	Từ đây đến nhà hàng là mười ki-lô-mét.
+2372	Tôi có thể đi tàu đến Pari được không? Không ạ.
+2373	Chuyến tàu này không đi đến Pari.
+2374	Tôi có thể đi tàu đến Barcelona được không? Vâng ạ.
+2375	Chuyến tàu này khởi hành lúc bảy giờ kém mười lăm.
+2376	Em ấy đang ngủ ở trên bãi biển.
+2377	Họ đang chạy ở trong rừng.
+2378	Các em ấy đang bơi ở trong hồ.
+2379	Ông ấy đang đi bộ ở trên núi.
+2380	một bãi biển những ngọn núi rừng
+2381	một cái hồ
+2382	Họ đang ở bãi biển.
+2383	Họ đang ở trên núi.
+2384	Họ đang ở trong rừng.
+2385	Họ đang ở bên cạnh một cái hồ.
+2386	Trời đang mưa ở trong rừng.
+2387	Tuyết đang rơi ở trên núi.
+2388	Trời đang mưa ở trên hồ.
+2389	Tuyết đang rơi ở trong thành phố.
+2390	Hôm nay ở trên núi trời nắng.
+2391	Hôm nay ở trong công viên trời nhiều mây.
+2392	Hôm nay ở bãi biển trời nắng.
+2393	Hôm nay ở hồ trời nhiều mây.
+2394	Tại sao va li của chị ướt?
+2395	Va li của tôi ướt tại vì trời mưa.
+2396	Tại sao mẹ đeo kính mát?
+2397	Mẹ đeo kính mát tại vì trời nắng.
+2398	Chuyến bay số năm mươi lăm có đúng giờ không?
+2399	Không, chuyến bay bị muộn.
+2400	Tại sao chuyến bay bị muộn?
+2401	Chuyến bay bị muộn tại vì tuyết rơi.
+2402	Trời có mưa không? Có, trời đang mưa ạ.
+2403	Trời có nắng không? Có, trời đang nắng.
+2404	Hôm nay trời sẽ mưa.
+2405	Trời đang mưa.
+2406	Hôm nay tuyết sẽ rơi.
+2407	Tuyết đang rơi.
+2408	Hôm nay ở trên núi trời lạnh.
+2409	Hôm nay ở bãi biển trời lạnh.
+2410	Hôm nay ở trong rừng trời nóng.
+2411	Hôm nay ở trong thành phố trời nóng.
+2412	Nước Ai Cập nóng vào mùa hè.
+2413	Nước Nga lạnh vào mùa đông.
+2414	New York lạnh vào mùa đông.
+2415	Rôma nóng vào mùa hè.
+2416	Chào các bạn.
+2417	Hôm nay trời sẽ nóng.
+2418	Ngày mai trời sẽ lạnh.
+2419	Thứ tư, trời sẽ nhiều mây.
+2420	Thứ năm, trời sẽ nắng.
+2421	Hôm nay em đi bơi.
+2422	Ngày mai em sẽ đi học.
+2423	Thứ tư, em sẽ đi đá bóng.
+2424	Thứ năm, em sẽ xem tivi.
+2425	Anh đang mua vé.
+2426	Tại sao anh cần mua vé?
+2427	Anh cần mua vé tại vì anh sẽ đi nghe hòa nhạc vào ngày mai.
+2428	Hôm nay tôi lái xe ở trong rừng.
+2429	Ngày mai tôi sẽ rửa xe ô tô.
+2430	Hôm nay tôi đang mua một cái ô.
+2431	Ngày mai trời sẽ mưa.
+2432	Hôm nay tôi làm việc.
+2433	Ngày mai tôi sẽ chơi gôn.
+2434	Hôm nay trời mưa, nhưng ngày mai trời
+2435	sẽ nắng.
+2436	Hôm nay trời nhiều mây, nhưng ngày mai trời sẽ nóng.
+2437	Hôm nay tuyết rơi, nhưng ngày mai trời sẽ mưa.
+2438	Thời tiết như thế nào ạ? Trời đang mưa.
+2439	Thời tiết như thế nào ạ? Trời đang nắng.
+2440	Thời tiết như thế nào ạ? Tuyết đang rơi.
+2441	Thời tiết như thế nào?
+2442	Thời tiết lạnh.
+2443	Thời tiết nóng.
+2444	Trời nắng.
+2445	Cô ấy sẽ lái xe đi làm sau khi cô ấy ăn sáng.
+2446	Cô ấy sắp lái xe.
+2447	Cô ấy đang lái xe.
+2448	Anh ấy sắp chạy.
+2449	Bà ấy sắp đọc sách.
+2450	Họ sắp ăn tối.
+2451	Tôi sắp chơi quần vợt.
+2452	Chúng tôi sắp bơi.
+2453	Người chồng sắp hôn người vợ.
+2454	Bà ấy sắp đi bưu điện.
+2455	Chúng tôi sắp ăn tối.
+2456	Họ sắp chơi bóng đá.
+2457	Em sắp ăn trưa.
+2458	Em sắp chơi bóng đá.
+2459	Chúng ta có thể ăn tối ở bên ngoài được không ạ?
+2460	Không, chúng ta không thể ăn tối ở bên ngoài được.
+2461	Tại sao không được ạ?
+2462	Tại vì trời sắp mưa.
+2463	Anh ấy sẽ rửa tay.
+2464	Cô ấy sắp rửa tay.
+2465	Ngày mai chúng ta có thể đi biển được không ạ?
+2466	Hôm nay trời nhiều mây.
+2467	Thứ bảy chúng ta có thể đi được.
+2468	Khi nào chúng ta sẽ ăn trưa? Chúng ta sẽ ăn trưa sau khi bơi.
+2469	Khi nào chúng ta sẽ chơi bóng đá ạ? Chúng ta sẽ chơi bóng đá sau khi ăn.
+2470	Bây giờ là bốn giờ kém mười lăm.
+2471	Anh thích cái váy nào? Anh thích cái váy màu đen.
+2472	Anh thích đôi giày nào? Anh thích đôi giày màu đen.
+2473	Bây giờ là bốn giờ mười lăm.
+2474	Ông muốn đi đâu ạ?
+2475	Rẽ trái hay rẽ phải? Rẽ trái.
+2476	Đi thẳng hay rẽ phải? Đi thẳng.
+2477	Chúng ta có cần xăng không? Không.
+2478	Chúng ta không cần xăng.
+2479	Rẽ trái hay rẽ phải? Rẽ phải.
+2480	Chào ông Foster! Chào anh!
+2481	Hôm qua, em bơi ở hồ.
+2482	Ngày mai, em sẽ đi thăm bà nội.
+2483	Hôm qua tôi mua thịt và rau.
+2484	Hôm nay tôi nấu ăn.
+2485	Hôm qua tôi chạy mười ki-lô-mét.
+2486	Hôm nay tôi bơi.
+2487	Hôm qua cô ấy chơi quần vợt.
+2488	Hôm nay chúng tôi ở bãi biển.
+2489	Ngày mai các em ấy sẽ đi thăm ông ngoại.
+2490	Hôm qua tôi mua một tờ báo.
+2491	Hôm nay tôi đọc báo.
+2492	Hôm qua tôi mua một quyển sách.
+2493	Hôm nay tôi đọc sách.
+2494	Thứ tư tuần trước anh ấy mua vé tàu.
+2495	Hôm nay anh ấy đi tàu đến Pari.
+2496	Thứ hai tuần trước cô ấy mua giày mới.
+2497	Hôm nay cô ấy chạy.
+2498	Thứ năm tuần trước tôi mua một ngôi nhà.
+2499	Hôm nay tôi mua bàn và ghế.
+2500	Thứ hai tuần trước cô ấy bán xe ô tô.
+2501	Hôm nay cô ấy đi xe buýt.
+2502	Thứ sáu tuần trước tôi mua một cái mũ.
+2503	Thứ ba tuần trước tôi bơi một ki-lô-mét.
+2504	Tuần trước em đọc hai quyển sách.
+2505	Năm ngoái em ấy bốn tuổi.
+2506	Năm nay em ấy năm tuổi.
+2507	Năm tới em ấy sẽ sáu tuổi.
+2508	Năm ngoái em đi học.
+2509	Năm nay em về nước Ý.
+2510	Năm tới em sẽ đi làm.
+2511	Năm tới tôi sẽ đi tham quan Trung Quốc.
+2512	Năm ngoái anh ấy mua một chiếc xe ô tô mới.
+2513	Năm tới em sẽ đi học.
+2514	Năm ngoái cô ấy mua quyển sách này.
+2515	Tuần tới ông ấy sẽ đi hồ.
+2516	Tháng tới chúng tôi sẽ đi thăm bạn.
+2517	Năm tới em sẽ sáu tuổi.
+2518	Khi nào cô sẽ đi núi? Tuần tới tôi sẽ đi núi.
+2519	Khi nào chị sẽ đi Barcelona?
+2520	Tuần tới chúng tôi sẽ đi Barcelona.
+2521	Tuần trước chị có ăn ở nhà hàng này không? Không, tuần tới tôi sẽ ăn ở nhà hàng này.
+2522	Hôm qua anh có chơi bóng đá không? Không, tuần tới anh sẽ chơi bóng đá.
+2523	Thứ ba tuần trước tôi chơi gôn.
+2524	Thứ ba tuần tới tôi sẽ đi thăm bà nội tôi.
+2525	Thứ hai tuần trước tôi bán xe ô tô của tôi.
+2526	Thứ hai tuần tới tôi sẽ mua một chiếc xe ô tô mới.
+2527	Năm ngoái tôi đi nước Ý.
+2528	Năm tới tôi sẽ đi nước Nga.
+2529	Tuần trước tôi đọc một quyển sách.
+2530	Tuần trước tôi đã đọc bảy quyển sách! Hôm qua tôi mua hai cái áo sơ mi mới.
+2531	Hôm qua tôi đã mua mười cái áo sơ mi mới!
+2532	Con đã đọc ba quyển sách! Anh đã mua một con chó!
+2533	Chị đã ăn sáu cái bánh sandwich!
+2534	Chị đã chạy sáu ki-lô-mét! Chị đã viết một quyển sách!
+2535	Hôm nay anh đã bán hai chiếc xe ô tô!
+2536	Anh ấy chưa bơi.
+2537	Anh ấy bơi rồi.
+2538	Cô ấy chưa bơi.
+2539	Cô ấy bơi rồi.
+2540	Em ấy chưa rửa mặt.
+2541	Anh ấy rửa mặt rồi.
+2542	Cô ấy chưa về nhà.
+2543	Cô ấy về nhà rồi.
+2544	Em đọc sách này chưa?
+2545	Chưa, em chưa đọc.
+2546	Tuần tới em sẽ đọc.
+2547	Anh đang đọc sách.
+2548	Con đọc sách này chưa? Vâng, con đọc rồi ạ.
+2549	một quyển từ điển một quyển từ điển một quyển từ điển một quyển vở một quyển vở một cái bàn
+2550	những cái tem
+2551	một cái phong bì
+2552	một bức thư điện tử
+2553	một cái bàn
+2554	một quyển từ điển
+2555	một quyển vở
+2556	Quyển vở ở trên bàn.
+2557	Những cái tem ở trên bàn.
+2558	Cái phong bì ở dưới gầm bàn.
+2559	Anh có quyển từ điển không?
+2560	Không, nhưng thầy giáo có quyển từ điển.
+2561	Thầy có quyển từ điển không ạ?
+2562	Quyển từ điển ở trên bàn.
+2563	Em đang làm gì?
+2564	Em đang viết thư.
+2565	Em có cần tem không?
+2566	Không, hôm qua em mua tem rồi.
+2567	Em có phong bì chưa?
+2568	Tuần trước em mua phong bì rồi.
+2569	Cô con gái đang đọc sách cho hai em gái.
+2570	Cô ấy đang viết thư cho bố mẹ.
+2571	Cô ấy đang bán vở cho người đàn ông.
+2572	Anh ấy đang viết thư điện tử cho bạn.
+2573	Anh ấy đang đưa tiền cho em ấy.
+2574	Anh ấy đang đưa thẻ tín dụng cho cô ấy.
+2575	Cô ấy đang cho em ấy đồ chơi.
+2576	Anh ấy đang cho cô ấy một cái bánh ngọt.
+2577	Ông ấy đang đưa thư cho người đàn bà.
+2578	Thầy giáo đang đưa quyển từ điển cho em học sinh.
+2579	Bà ngoại đang cho con gái cái mũ.
+2580	Cô giáo đang cho em học sinh quả táo.
+2581	Thầy giáo đang đưa quyển sách cho em học sinh.
+2582	Đứa con gái đang cho em trai đồ chơi.
+2583	Tôi đang viết thư điện tử cho mẹ tôi.
+2584	Anh ấy đang bán cái mũ cho cô ấy.
+2585	môn khoa học môn khoa học môn khoa học môn mỹ thuật môn mỹ thuật môn toán
+2586	Tôi đang dạy âm nhạc.
+2587	Cô ấy đang học lịch sử.
+2588	Ông ấy đang dạy toán.
+2589	môn khoa học môn mỹ thuật môn toán môn âm nhạc môn lịch sử môn tiếng Việt
+2590	Hôm qua các con học môn gì? Hôm qua chúng con học âm nhạc.
+2591	Hôm nay các con học môn gì? Hôm nay chúng con học toán.
+2592	Ngày mai các con sẽ học môn gì? Ngày mai chúng con sẽ học khoa học.
+2593	Hôm qua con học môn gì?
+2594	Hôm qua con học lịch sử và mỹ thuật.
+2595	Hôm qua các em học môn gì?
+2596	Hôm qua chúng em học lịch sử và âm nhạc.
+2597	Anh chị chơi quần vợt khi nào? Chúng tôi chơi quần vợt sáng nay.
+2598	Sáng nay những đứa trẻ có chơi bóng đá không?
+2599	Không, hôm qua chúng nó chơi bóng đá rồi.
+2600	Hôm qua họ chạy ở bãi biển.
+2601	Hôm qua họ đi công viên.
+2602	Hôm qua họ chơi gôn.
+2603	Hôm qua họ đi thư viện.
+2604	Trưa nay tôi sẽ đi biển.
+2605	Hôm qua tôi đi biển.
+2606	Ngày mai họ sẽ đi Pari.
+2607	Tháng trước họ đi Pari.
+2608	Sáng nay chị đi làm lúc mấy giờ? Tôi đi làm lúc chín giờ.
+2609	Sáng nay các con đi học lúc mấy giờ? Chúng con đi học lúc tám giờ.
+2610	Hôm qua chị đi đâu? Tôi đi công viên.
+2611	Tuần trước các bạn đi đâu? Chúng tôi đi núi.
+2612	Thứ năm tôi đi ngân hàng.
+2613	Thứ sáu tôi đi thư viện.
+2614	Thứ bảy chúng em đi hồ.
+2615	Thứ sáu chúng tôi đi cửa hàng thực phẩm.
+2616	Bác sĩ đang đưa thuốc cho anh ấy.
+2617	Bác sĩ đưa thuốc cho tôi.
+2618	Anh ấy đang mua đồ nữ trang cho cô ấy.
+2619	Anh mua đồ nữ trang này cho em.
+2620	Cô ấy đang mua cà phê cho họ.
+2621	Tôi mua cà phê cho các anh chị.
+2622	Họ viết thư cho tôi.
+2623	Cô ấy mua sôcôla cho chúng em.
+2624	Ông nội cho chúng em con mèo.
+2625	Anh ấy đang bán mũ cho cô ấy.
+2626	Ông ấy đang đọc sách cho các em ấy.
+2627	Bố đang đưa chìa khóa cho tôi.
+2628	Có một từ.
+2629	Có hai từ.
+2630	Có ba từ.
+2631	Có bốn từ.
+2632	Biển hiệu này màu vàng.
+2633	Biển hiệu này có một từ.
+2634	Biển hiệu này có hai từ.
+2635	Biển hiệu này màu xanh da trời.
+2636	Xin lỗi chị, những từ này có nghĩa là gì? Nó có nghĩa là “hiệu thuốc”.
+2637	Xin lỗi anh, những từ này có nghĩa là gì? Nó có nghĩa là “thư viện”.
+2638	Xin lỗi anh, biển hiệu này có nghĩa là gì? Nó có nghĩa là “nhà hàng”.
+2639	Xin lỗi cô Jones.
+2640	Những từ này là gì?
+2641	Những từ này là “sân vận động”.
+2642	“Sân vận động” có nghĩa là gì? Đây là một sân vận động.
+2643	Ông ấy hiểu cái này.
+2644	Em ấy không hiểu cái này.
+2645	Em hiểu từ này.
+2646	Em không hiểu những từ này.
+2647	Cô ấy hiểu quyển sách này.
+2648	Các em ấy không hiểu quyển sách này.
+2649	Tôi không hiểu biển hiệu này.
+2650	Nó có nghĩa là gì?
+2651	Nó có nghĩa là “Sân bay ở bên phải”.
+2652	Nó có nghĩa là “khách sạn”.
+2653	Nó có nghĩa là “bãi biển”.
+2654	Cái này có nghĩa là gì ạ?
+2655	Nó có nghĩa là “cửa hàng xăng”.
+2656	Nó có nghĩa là “phòng vệ sinh”.
+2657	Xin lỗi anh, bây giờ mấy giờ rồi?
+2658	Tôi không hiểu.
+2659	Xin chị nhắc lại được không? Bây giờ mấy giờ rồi?
+2660	Bây giờ là ba giờ mười lăm.
+2661	Xin anh nhắc lại được không? Bây giờ là ba giờ mười lăm.
+2662	Vâng ?
+2663	Biển hiệu này có nghĩa là gì? Nó có nghĩa là “thư viện”.
+2664	Xin anh nhắc lại được không? Vâng.
+2665	Nó có nghĩa là “thư viện”.
+2666	Xin lỗi chị, ngân hàng ở đâu? Ngân hàng ở bên cạnh thư viện.
+2667	Xin chị nhắc lại được không? Vâng.
+2668	Ngân hàng ở bên cạnh thư viện.
+2669	Xin lỗi chị, biển hiệu này có nghĩa là gì? Nó có nghĩa là “hiệu thuốc”.
+2670	Nó có nghĩa là “hiệu thuốc”.
+2671	Ông ấy già rồi.
+2672	Anh ấy chưa già.
+2673	Anh ấy còn trẻ.
+2674	Những cái đĩa này sạch rồi.
+2675	Những cái đĩa này chưa sạch.
+2676	Chúng còn bẩn.
+2677	Cái áo này khô rồi.
+2678	Cái áo này còn ướt.
+2679	Đôi tất này hôi rồi.
+2680	Đôi tất này còn thơm.
+2681	Em sắp về nhà chưa?
+2682	Chưa.
+2683	Em còn đang làm việc.
+2684	Anh sắp ăn chưa?
+2685	Anh còn đang nấu ăn.
+2686	Trước đây cô ấy chạy chậm.
+2687	Bây giờ cô ấy chạy nhanh.
+2688	Trước đây tôi không thích học tiếng Việt.
+2689	Bây giờ tôi thích học tiếng Việt!
+2690	Trước đây em ấy không thích ăn rau.
+2691	Bây giờ em ấy thích ăn rau.
+2692	Trước đây em ấy không có tiền.
+2693	Bây giờ em ấy có tiền.
+2694	Hồi xưa tôi lái chiếc xe ô tô này.
+2695	Bây giờ tôi lái chiếc xe ô tô này.
+2696	Hồi xưa tôi thích mặc cái quần này.
+2697	Bây giờ tôi thích mặc cái quần này.
+2698	Hồi xưa tôi đọc những quyển sách này.
+2699	Bây giờ tôi đọc những quyển sách này.
+2700	Hồi xưa cây này nhỏ.
+2701	Bây giờ nó to.
+2702	Hồi xưa tôi là học sinh.
+2703	Bây giờ tôi là cô giáo.
+2704	Hồi xưa anh ấy là một đứa trẻ.
+2705	Bây giờ anh ấy là một người bố.
+2706	Hồi xưa tôi sống ở nước Ý.
+2707	Hồi tôi còn sống ở nước Ý, tôi thích đi tham quan Rôma với bố mẹ tôi.
+2708	Hồi xưa ông bà sống ở Pari.
+2709	Hồi ông bà còn sống ở Pari, ông bà có xe đạp.
+2710	Hồi chị còn sống ở Trung Quốc, chị có dạy tiếng Việt không?
+2711	Hồi anh còn nhỏ, anh có chơi bóng đá không?
+2712	Hồi chị còn nhỏ, mẹ chị có đọc quyển sách này cho chị không?
+2713	Có, và bây giờ tôi đọc quyển sách này cho con gái tôi.
+2714	Trước đây chúng bẩn.
+2715	Bây giờ chúng sạch.
+2716	Trước đây chúng màu xanh.
+2717	Bây giờ chúng màu vàng.
+2718	Trước đây đôi tất này màu trắng.
+2719	Bây giờ chúng màu hồng.
+2720	Trước đây tóc cô ấy màu nâu.
+2721	Bây giờ tóc cô ấy màu vàng.
+2722	Hồi xưa chúng tôi sống ở trong một căn hộ.
+2723	Bây giờ chúng tôi sống ở trong một ngôi nhà.
+2724	Hồi xưa tôi có xe đạp.
+2725	Bây giờ tôi có xe ô tô.
+2726	Hồi xưa anh có sống với các bạn không? Có, nhưng bây giờ tôi sống với vợ tôi.
+2727	Hồi xưa anh chị có con chó không?
+2728	Có, nhưng bây giờ chúng tôi có con mèo.
+2729	Trước đây anh ấy mặc áo phông.
+2730	Bây giờ anh ấy mặc com lê.
+2731	Hồi xưa họ chơi bóng đá.
+2732	Bây giờ họ chơi gôn.
+2733	Hồi xưa bà có đi núi không ạ?
+2734	Có, nhưng bây giờ bà đi công viên.
+2735	Trước đây chị có chơi quần vợt không? Có, nhưng bây giờ tôi bơi.
+2736	Trước đây chị có dạy mỹ thuật không? Không, tôi dạy âm nhạc.
+2737	Hồi xưa cô ấy viết thư tay.
+2738	Bây giờ cô ấy viết thư điện tử.
+2739	Trước đây cô ấy làm việc trong một cửa hàng bánh.
+2740	Bây giờ cô ấy làm việc trong một nhà hàng.
+2741	một trường đại học
+2742	một trường trung học
+2743	một trường tiểu học
+2744	Hồi em ấy còn học trường tiểu học, em ấy học mỹ thuật.
+2745	Hồi cô ấy còn học trường trung học, cô ấy học khoa học.
+2746	Bây giờ cô ấy đang học toán ở trường đại học.
+2747	Hồi xưa chúng tôi là học sinh cùng trường tiểu học.
+2748	Bây giờ chúng tôi là sinh viên cùng trường đại học.
+2749	Trước đây họ là học sinh cùng trường trung học.
+2750	Bây giờ họ là sinh viên cùng trường đại học.
+2751	Các con của chị có phải là học sinh tiểu học không?
+2752	Không, con gái tôi là sinh viên đại học.
+2753	Con trai tôi là học sinh trung học.
+2754	Con gái chị học môn gì?
+2755	Con gái tôi học mỹ thuật.
+2756	Con trai chị thích học môn gì?
+2757	Con trai tôi thích học khoa học.
+2758	Em học sinh tiểu học này thích khoa học.
+2759	Cậu học sinh trung học này thích lịch sử.
+2760	Cậu sinh viên đại học này thích âm nhạc.
+2761	một văn phòng một văn phòng một văn phòng một nhà máy một nhà máy một cửa hàng
+2762	Anh ấy là người quản lý ở trong một cửa hàng.
+2763	Cô ấy là nhân viên ở trong một cửa hàng.
+2764	Tôi là người quản lý ở trong một văn phòng.
+2765	Họ là nhân viên ở trong một văn phòng.
+2766	Người quản lý này làm việc trong văn phòng này.
+2767	Người quản lý này làm việc trong nhà máy này.
+2768	Người quản lý này làm việc trong cửa hàng này.
+2769	một văn phòng một người quản lý một nhà máy một nhân viên một cửa hàng
+2770	Tôi là nhân viên ở trong một văn phòng.
+2771	Em là học sinh ở trong trường tiểu học.
+2772	Tôi là người quản lý ở trong nhà máy.
+2773	Tôi là sinh viên ở trong trường đại học.
+2774	Chị làm gì?
+2775	Anh làm gì?
+2776	Tôi là người quản lý ở trong một nhà hàng.
+2777	Chị làm việc ở đâu?
+2778	Trước đây tôi làm việc ở một cửa hàng.
+2779	Bây giờ tôi làm việc ở một trường tiểu học.
+2780	Chị dạy môn gì? Tôi dạy âm nhạc.
+2781	Trước đây tôi làm việc trong một văn phòng.
+2782	Bây giờ tôi làm việc trong một trường trung học.
+2783	Chị dạy môn gì? Tôi dạy lịch sử.
+2784	Trước đây các anh chị là học sinh trung học.
+2785	Bây giờ các anh chị là sinh viên đại học.
+2786	Trước đây anh là nhân viên.
+2787	Bây giờ anh là người quản lý.
+2788	Trước đây cô ấy là cô giáo.
+2789	Bây giờ cô ấy là người quản lý.
+2790	Trước đây anh ấy là học sinh trung học.
+2791	Bây giờ anh ấy là sinh viên đại học.
+2792	Cô có phải là sinh viên không? Vâng, tôi là sinh viên đại học.
+2793	Cô học môn gì?
+2794	Tôi học khoa học.
+2795	Bố tôi thích khoa học.
+2796	Hồi xưa bố tôi là bác sĩ ở nước Ý.
+2797	Anh từ nước Ý đến à?
+2798	Tôi từ nước Pháp đến, nhưng hồi xưa gia đình tôi sống ở nước Ý.
+2799	Bây giờ tôi không làm việc, nhưng trước đây tôi là thầy giáo.
+2800	Anh dạy môn gì?
+2801	Hồi tôi ở Braxin, tôi dạy tiếng Anh.
+2802	Khi tôi ở Ai Cập, tôi dạy lịch sử.
+2803	Hồi tôi ở nước Nga, tôi mua cái này.
+2804	Hồi tôi ở nước Pháp, tôi ăn cái này.
+2805	Hồi tôi ở Trung Quốc, tôi xem cái này.
+2806	Khi chúng tôi ở bãi biển, trời nhiều mây.
+2807	Khi chúng tôi ở bãi biển, trời nắng.
+2808	Hồi mẹ còn nhỏ, mẹ chơi bóng đá.
+2809	Hồi tôi còn trẻ, tôi chơi quần vợt.
+2810	Khi tôi đang uống cà phê, tôi viết lá thư này.
+2811	Khi tôi ở trong công viên, cô ấy hôn tôi.
+2812	Khi anh ấy ở cửa hàng dụng cụ, anh ấy mua một cái thang.
+2813	Khi anh ấy đang ngủ, máy bay khởi hành.
+2814	Hồi bố còn nhỏ, bố chơi quần vợt.
+2815	Hồi bố còn nhỏ, bố chơi bóng đá.
+2816	Hồi tôi còn nhỏ, tôi chơi quần vợt.
+2817	Hồi tôi còn nhỏ, tôi chơi bóng đá.
+2818	Khi tôi ở nhà ga, tôi nghe đài.
+2819	Khi tôi ở nhà ga, tôi ăn bánh sandwich.
+2820	Khi tôi ở sân bay, tôi đọc báo.
+2821	Khi tôi ở sân bay, tôi ăn bánh sandwich.
+2822	Trước đây tôi làm việc ở bệnh viện.
+2823	Bây giờ tôi làm việc ở trường đại học.
+2824	Trước đây tôi có xe đạp.
+2825	Trước đây em có một con chó.
+2826	Bây giờ em có một con mèo.
+2827	Tôi mua táo ở cửa hàng thực phẩm.
+2828	Tôi mua một quyển từ điển ở hiệu sách.
+2829	Bà ấy mua thuốc ở hiệu thuốc.
+2830	Chúng tôi ăn cái này hồi chúng tôi ở Bắc Kinh.
+2831	Chúng tôi mua cái này hồi chúng tôi ở Pari.
+2832	Cô ấy viết thư khi cô ấy ở trên tàu.
+2833	Mẹ mua cho con đôi giày này hồi con còn là một em bé.
+2834	Con gái tôi viết những lá thư này cho tôi hồi cháu còn đang học ở Việt Nam.
+2835	Mẹ tôi đọc quyển sách này cho tôi hồi tôi còn là một đứa trẻ.
+2836	Anh mua những củ cà rốt này khi nào? Anh mua những củ cà rốt này khi anh ở cửa hàng thực phẩm.
+2837	Em mua những quả táo này khi nào?
+2838	Em mua những quả táo này khi em ở cửa hàng thực phẩm.
+2839	Chồng chị mua cái mũ này cho chị à?
+2840	Không, tôi mua.
+2841	Chị mua cái mũ này hồi nào?
+2842	Tôi mua cái mũ này hồi tôi còn sống ở nước Mỹ.
+2843	Chị viết sách này à?
+2844	Vâng, tôi viết.
+2845	Chị viết hồi nào?
+2846	Tôi viết hồi tôi còn làm việc ở nước Nga.
+2847	Đây là ai?
+2848	Đây là chồng tôi.
+2849	Anh chị đi Trung Quốc hồi nào?
+2850	Chúng tôi đi Trung Quốc hồi chúng tôi còn là sinh viên đại học.
+2851	Bà ngoại của bà cho bà cái mũ này hồi bà mười tuổi.
+2852	Cháu có thích nó không?
+2853	Có, cháu thích ạ.
+2854	Bà sẽ cho cháu.
+2855	Cảm ơn bà ạ.
+2856	Chị có muốn uống cà phê không? Vâng, cảm ơn chị.
+2857	Anh có muốn uống nước không? Vâng, cảm ơn anh.
+2858	Chị có cần bút không? Vâng, cảm ơn anh.
+2859	Anh có muốn chơi quần vợt không? Không, tôi muốn chơi gôn.
+2860	Chị có muốn uống cà phê không? Không, cảm ơn chị.
+2861	Ông bà có muốn ăn sôcôla không? Vâng, cảm ơn chị.
+2862	Chị có muốn ăn bánh ngọt không? Vâng, cảm ơn chị.
+2863	Các chị có muốn uống trà không? Vâng, cảm ơn chị.
+2864	Các chị có muốn uống cà phê không? Vâng, cảm ơn chị.
+2865	Rẽ trái hay rẽ phải? Táo hay cam?
+2866	Đen hay đỏ?
+2867	Anh muốn uống nước hay nước ép? Cháu muốn ăn bánh ngọt hay sôcôla? Chị muốn mua sách hay báo?
+2868	Anh chị muốn uống cà phê hay trà?
+2869	Anh muốn chơi quần vợt hay chơi gôn? Tôi muốn chơi gôn.
+2870	Chị muốn đi núi hay đi biển? Tôi muốn đi biển.
+2871	Anh chị muốn ăn sôcôla hay hoa quả? Tôi muốn ăn hoa quả.
+2872	Các chị muốn uống trà hay cà phê? Tôi muốn uống cà phê.
+2873	Chị muốn uống sữa hay nước cam?
+2874	Xin chị nhắc lại được không? Chị muốn uống sữa hay nước cam?
+2875	“Nước cam” là gì?
+2876	Tôi muốn uống nước cam.
+2877	Ông muốn trả bằng tiền mặt hay thẻ tín dụng? Tôi không hiểu.
+2878	Xin cô nhắc lại được không? Ông muốn trả bằng tiền mặt hay thẻ tín dụng? Tôi muốn trả bằng thẻ tín dụng.
+2879	Xin chị nhắc lại được không? Anh tên là gì?
+2880	Tôi tên là Robert.
+2881	Cái này giá bao nhiêu tiền?
+2882	Xin anh nhắc lại được không? Cái này giá bao nhiêu tiền?
+2883	Giá ba mươi đô la.
+2884	Chị học tiếng Ả Rập à? Vâng, tôi học tiếng Ả Rập.
+2885	Cái này có nghĩa là gì?
+2886	Nó có nghĩa là “bưu điện”.
+2887	Chị học mỹ thuật ở đại học à?
+2888	Vâng, tôi học mỹ thuật ở đại học ở Việt Nam.
+2889	Chị có biết nói tiếng Việt không?
+2890	Có, tôi biết nói tiếng Việt.
+2891	Xin lỗi chị, bây giờ mấy giờ rồi? Bây giờ là mười một giờ.
+2892	Xin chị nhắc lại được không? Bây giờ là mười một giờ.
+2893	Đây có phải là mũ của chị không? Vâng, đây là mũ của tôi.
+2894	Tại sao chị đi Việt Nam? Tôi sẽ đi học ở đó.
+2895	Chị dạy môn gì? Tôi dạy toán.
+2896	Anh chị có muốn ăn sôcôla không? Vâng, cảm ơn.
+2897	Chị có phải là sinh viên đại học không? Vâng, tôi là sinh viên đại học.
+2898	Chị sẽ học môn gì? Tôi sẽ học khoa học.
+2899	Những đứa trẻ đang hát.
+2900	Những người lớn đang nhảy.
+2901	Người đàn ông đang hát.
+2902	Đứa con gái đang nhảy.
+2903	Những người đàn bà đang nhảy.
+2904	Những người đàn bà đang hát.
+2905	Những đứa con trai đang hát.
+2906	Những đứa con trai đang nhảy.
+2907	Có cái gì ở trên bàn.
+2908	Không có cái gì ở trên bàn.
+2909	Có cái gì ở bên cạnh bàn chân của em ấy.
+2910	Không có cái gì ở bên cạnh bàn chân của anh ấy.
+2911	Có cái gì ở trong bát.
+2912	Không có cái gì ở trong bát.
+2913	Có cái gì ở trên đĩa.
+2914	Không có cái gì ở trên đĩa.
+2915	Cô ấy muốn cái gì để ăn.
+2916	Con chó muốn cái gì để uống.
+2917	Anh ấy muốn cái gì để đọc.
+2918	Anh ấy không được phép rẽ trái.
+2919	Con chó không được phép đi tàu.
+2920	Các em học sinh được phép chơi.
+2921	Họ được phép rẽ trái, rẽ phải hay đi thẳng.
+2922	Bây giờ họ không được phép đi.
+2923	Bây giờ họ được phép đi.
+2924	Cô ấy được phép bơi ở hồ này.
+2925	Cô ấy không được phép bơi ở hồ này.
+2926	Xin các anh chị hát.
+2927	Xin anh rẽ trái.
+2928	Xin anh chị viết vào đây.
+2929	Tôi đang để đĩa ở trong bồn rửa bát.
+2930	Họ đang để khăn tắm ở trên ghế.
+2931	Cô sinh viên đang để quyển vở ở trên bàn.
+2932	Chúng tôi đang để chăn ở trên giường.
+2933	Anh để chìa khóa ở đâu? Anh để chìa khóa ở trên bàn.
+2934	Anh để sách ở đâu?
+2935	Anh để sách ở trên ghế.
+2936	Con chó đang mang báo đến cho người đàn ông.
+2937	Hai đứa con gái đang mang nước cam và bánh mì đến cho bố mẹ.
+2938	Cô ấy đang mang khăn tắm đến cho anh ấy.
+2939	Em đang mang cà phê đến cho anh.
+2940	Em đang mang cá từ cửa hàng về nhà.
+2941	Em ấy đang mang một quả bóng đến công viên.
+2942	Chúng tôi đang mang sách từ thư viện về nhà.
+2943	Họ đang mang nước đến công viên.
+2944	Xin anh mang cho tôi tám cái đĩa.
+2945	Xin anh để những quyển sách ở trên bàn.
+2946	Xin các chị mang cho tôi một cái thang.
+2947	Xin chị đưa cho anh ấy cái bút.
+2948	Cô ấy đang đưa cho anh ấy cái bút.
+2949	Xin anh đưa cho tôi cái ô.
+2950	Anh ấy đang đưa cho cô ấy cái ô.
+2951	Xin chị mang cho cô ấy cái gì để uống.
+2952	Chị ấy đang mang cho cô ấy nước cam.
+2953	Bạn có thể cho mình cái gì để uống được không?
+2954	Em ấy đang cho bạn một ít trà để uống.
+2955	Bà ngoại có thể cho cháu cái gì để ăn được không?
+2956	Bà ấy đang cho em ấy một ít bánh ngọt để ăn.
+2957	Những đứa trẻ chơi trò chơi ở buổi tiệc.
+2958	Họ đang nhảy ở buổi tiệc.
+2959	Họ đang hát ở buổi tiệc.
+2960	Cô ấy đang mang bánh ngọt đến buổi tiệc.
+2961	Buổi tiệc đang kết thúc.
+2962	Công việc đang kết thúc.
+2963	Mùa xuân đang bắt đầu.
+2964	Buổi hòa nhạc đang bắt đầu.
+2965	Trận đấu đang bắt đầu.
+2966	Trận đấu đang kết thúc.
+2967	Vở kịch đang bắt đầu.
+2968	Vở kịch đang kết thúc.
+2969	Bộ phim đang bắt đầu.
+2970	Bộ phim đang kết thúc.
+2971	Họ đang rời buổi tiệc.
+2972	Cô ấy đang đến trận đấu.
+2973	Anh ấy đang rời văn phòng.
+2974	Họ đang đến buổi hòa nhạc.
+2975	Họ đang đến bệnh viện.
+2976	Họ đang rời bệnh viện.
+2977	Anh ấy đang đến sân bay.
+2978	Anh ấy đang rời sân bay.
+2979	Anh ấy đang đi bưu điện.
+2980	Họ đang từ bãi biển đến.
+2981	Cô ấy đang đi buổi tiệc.
+2982	Họ đang từ hiệu sách đến.
+2983	Hôm nay anh có đi làm không? Không, hôm nay tôi không đi làm.
+2984	Tối nay anh có đến buổi tiệc của tôi không?
+2985	Có, tối nay tôi sẽ đến buổi tiệc của chị.
+2986	Thứ sáu tuần tới, Sue có được phép đến buổi tiệc của con không?
+2987	Có, Sue được phép.
+2988	Mấy giờ buổi tiệc bắt đầu?
+2989	Buổi tiệc bắt đầu lúc tám giờ tối.
+2990	Mấy giờ buổi tiệc kết thúc?
+2991	Buổi tiệc kết thúc lúc mười một giờ rưỡi.
+2992	Một tuần có bảy ngày.
+2993	Tháng này có ba mươi ngày.
+2994	Một năm có mười hai tháng.
+2995	Một năm bắt đầu vào tháng một.
+2996	Trời mưa vào tháng hai ở Braxin.
+2997	Ở Nhật Bản, mùa xuân bắt đầu vào tháng ba.
+2998	Tháng tư là tháng thứ tư của năm.
+2999	Ở Bắc Kinh, tháng năm trời nắng.
+3000	Mùa đông bắt đầu vào tháng sáu ở nước Úc.
+3001	Ở nước Mỹ, các gia đình nấu ăn ở bên ngoài vào tháng bảy.
+3002	Tháng thứ tám của năm là tháng tám.
+3003	Ở nước Pháp, trường học bắt đầu vào tháng chín.
+3004	Tháng mười là tháng thứ mười của năm.
+3005	Nước Nga lạnh vào tháng mười một.
+3006	Ở nước Ý, tháng mười hai là tháng lạnh.
+3007	tháng một tháng hai tháng ba tháng tư tháng năm tháng sáu
+3008	tháng bảy tháng tám tháng chín tháng mười tháng mười một tháng mười hai
+3009	tháng một tháng hai tháng ba tháng tư tháng năm tháng sáu tháng bảy tháng tám tháng chín tháng mười tháng mười một tháng mười hai
+3010	Khi nào chị sẽ đi biển? Tháng hai chúng tôi sẽ đi.
+3011	Khi nào các chị sẽ đi núi? Tháng tám chúng tôi sẽ đi.
+3012	Đứa con trai đang giúp đứa con gái ở thư viện.
+3013	Hai đứa con trai đang giúp ông già.
+3014	Đứa con gái đang giúp bố.
+3015	Cô giáo này đang giúp học sinh.
+3016	Thầy giáo này không giúp học sinh.
+3017	Con chó này đang giúp người đàn ông.
+3018	Con chó này không giúp người đàn ông.
+3019	Người đàn ông đang gặp bạn ở bãi biển.
+3020	Người đàn bà đang gặp bố ở nhà hàng.
+3021	Người đàn bà đang gặp chồng ở công viên.
+3022	Người đàn bà đang gặp người quản lý trong văn phòng.
+3023	Ông ấy đang gặp người đàn ông trong nhà máy.
+3024	Người quản lý đang gặp những nhân viên ở nhà hàng.
+3025	Cô ấy đang gọi điện cho cảnh sát.
+3026	Cô ấy đang gọi điện cho bác sĩ.
+3027	Anh ấy đang gọi điện cho vợ.
+3028	Cô ấy đang gọi điện cho mẹ.
+3029	Người đàn bà đang nói chuyện với người đàn ông ở trong xe ô tô.
+3030	Người quản lý đang nói chuyện với nhân viên ở trong văn phòng.
+3031	Cô giáo đang nói chuyện với học sinh.
+3032	Người đàn ông đang nói chuyện với con ngựa.
+3033	Cô ấy đang gặp bạn ở nhà hàng.
+3034	Các em ấy đang giúp ông nội.
+3035	Bà ấy đang nói chuyện với chị gái.
+3036	Em ấy đang gọi điện cho mẹ.
+3037	Họ đang gặp các bạn của họ ở viện bảo tàng.
+3038	Người cảnh sát đang giúp người đàn bà.
+3039	Anh ấy đang gọi điện cho người quản lý.
+3040	Người quản lý đang gặp nhân viên ở văn phòng.
+3041	Em ấy đang nói chuyện với bạn.
+3042	Em ấy đang gặp bạn ở công viên.
+3043	Anh đang gọi điện cho ai? Anh đang gọi điện cho bác sĩ.
+3044	Bố đang nói chuyện với ai ạ? Bố đang nói chuyện với bác sĩ.
+3045	Anh đang gọi điện cho ai? Tôi đang gọi điện cho vợ tôi.
+3046	Anh đang nói chuyện với ai? Tôi đang nói chuyện với vợ tôi.
+3047	Anh ấy đến buổi tiệc sớm.
+3048	Họ đến buổi tiệc đúng giờ.
+3049	Cô ấy đến buổi tiệc muộn.
+3050	Người đàn ông đến muộn.
+3051	Vợ anh ấy đến muộn.
+3052	Những đứa trẻ đến muộn.
+3053	Em ấy đến trường học muộn.
+3054	Họ đến nhà ga sớm.
+3055	Anh ấy đến sân bay muộn.
+3056	Cô ấy đến nơi làm việc sớm.
+3057	Anh ấy đến nơi làm việc muộn.
+3058	Chúng ta đến buổi hòa nhạc đúng giờ.
+3059	Chiếc tivi này giá một trăm hai mươi euro.
+3060	Cái máy ảnh này giá hai trăm linh năm bảng.
+3061	Rau này giá ba trăm linh bảy yên.
+3062	Đôi giày này giá bốn trăm hai mươi yên.
+3063	Xà phòng này giá năm trăm yên.
+3064	Đôi tất này giá sáu trăm yên.
+3065	Cái chăn này giá bảy trăm yên.
+3066	Thịt này giá tám trăm yên.
+3067	Cái giường này giá bảy nghìn bốn trăm yên.
+3068	Bộ com lê này giá ba nghìn chín trăm yên.
+3069	Kính này giá một nghìn bảy trăm yên.
+3070	Quần jean này giá hai nghìn ba trăm yên.
+3071	một nghìn đồng năm nghìn đồng mười nghìn đồng hai mươi nghìn đồng
+3072	Chiếc xe ô tô này giá sáu nghìn bảy trăm đô la.
+3073	Chiếc xe đạp này giá năm nghìn yên.
+3074	Đồ nữ trang này giá một nghìn hai trăm euro.
+3075	Cái áo đầm này giá tám nghìn chín trăm yên.
+3076	Năm hai nghìn không trăm linh năm.
+3077	Số hai nghìn không trăm linh năm.
+3078	Năm một nghìn tám trăm chín mươi.
+3079	Số một nghìn tám trăm chín mươi.
+3080	Năm một nghìn chín trăm ba mươi mốt.
+3081	Số một nghìn chín trăm ba mươi mốt.
+3082	một địa chỉ một địa chỉ một địa chỉ một số điện thoại một số điện thoại một ngày tháng
+3083	một địa chỉ thư điện tử một địa chỉ thư điện tử một địa chỉ thư điện tử một ngày tháng
+3084	một ngày tháng một số điện thoại
+3085	Đây là một địa chỉ.
+3086	Đây là một số điện thoại.
+3087	Đây là một địa chỉ thư điện tử.
+3088	Đây là một ngày tháng.
+3089	Em gọi điện cho bác sĩ đi.
+3090	Anh gặp tôi ở quán cà phê đi.
+3091	Bố giúp con đi.
+3092	Con để cái bát ở trên bàn đi.
+3093	Các em nhảy đi.
+3094	Cháu chờ ở đây đi.
+3095	Con đọc sách của con đi.
+3096	Các con rửa tay đi.
+3097	Cháu ngồi xuống đi.
+3098	Em rẽ trái đi.
+3099	Bố mẹ xem con đi!
+3100	Em rẽ phải đi.
+3101	Con nghe mẹ đi.
+3102	Anh để chén của anh ở trong bồn rửa bát đi.
+3103	Bạn giúp mình đi.
+3104	Con rửa tay đi.
+3105	Các anh chị bơi đi! Các cháu đi đi.
+3106	Con giúp chị đi.
+3107	Chị giúp em đi.
+3108	Barcelona ở đâu?
+3109	Barcelona ở đó.
+3110	Viện bảo tàng ở đâu?
+3111	Tôi không biết.
+3112	Tất của bạn ở đâu?
+3113	Mình không biết.
+3114	Anh ấy biết số điện thoại của cô ấy.
+3115	Cô ấy không biết số điện thoại của anh ấy.
+3116	Cô ấy biết tên anh ấy.
+3117	Em muốn gọi điện cho bác sĩ.
+3118	Anh có biết số điện thoại của ông ấy không?
+3119	Không, anh không biết số điện thoại của ông ấy.
+3120	Anh có biết địa chỉ không?
+3121	Có, nó ở số ba mươi bốn phố Main.
+3122	Anh có đến buổi tiệc của tôi không?
+3123	Có, nhưng tôi sẽ đến muộn.
+3124	Anh có biết địa chỉ của tôi không?
+3125	Có, tôi biết địa chỉ của chị.
+3126	Đây là ngày hai mươi bốn tháng mười hai.
+3127	Đây là ngày hai mươi lăm tháng mười hai.
+3128	Đây là ngày ba mươi mốt tháng mười hai.
+3129	Hôm nay là ngày mười bốn tháng bảy.
+3130	Hôm nay là ngày mười ba tháng năm.
+3131	Hôm nay là thứ năm, ngày hai mươi hai tháng tư.
+3132	Hôm nay có phải là ngày hai mươi tháng ba không?
+3133	Vâng, hôm nay là ngày hai mươi tháng ba.
+3134	Hôm nay là ngày bao nhiêu?
+3135	Hôm nay là ngày mười chín tháng sáu năm hai nghìn không trăm mười một.
+3136	Hôm nay là ngày mười ba tháng một năm hai nghìn không trăm linh năm.
+3137	Ngày thứ nhất của năm học là ngày mười lăm tháng chín.
+3138	Chúng ta sẽ đi núi vào ngày mười ba tháng hai.
+3139	Người Mỹ mặc quần áo màu xanh lá cây vào ngày mười bảy tháng ba.
+3140	Những đứa trẻ đang chơi trò chơi ở buổi tiệc sinh nhật.
+3141	Hôm nay là ngày sinh nhật của ông ấy.
+3142	Ông ấy năm mươi tuổi.
+3143	Chúng em có cùng ngày sinh nhật.
+3144	Hôm nay là ngày sinh nhật của cô ấy.
+3145	Cô ấy mười lăm tuổi.
+3146	Họ đang nhảy ở buổi tiệc trên bãi biển.
+3147	Các em ấy đang ăn bánh ngọt ở buổi tiệc sinh nhật.
+3148	Họ đang ở một buổi tiệc hóa trang.
+3149	Đó sẽ là loại tiệc gì?
+3150	Đó sẽ là tiệc sinh nhật ạ.
+3151	Đây là loại tiệc gì?
+3152	Đây là tiệc hóa trang.
+3153	Đây là tiệc trên bãi biển.
+3154	Táo là một loại hoa quả.
+3155	Cam là một loại hoa quả.
+3156	Váy là một loại quần áo.
+3157	Quần là một loại quần áo.
+3158	một món tráng miệng một món tráng miệng một món tráng miệng một món salad
+3159	một món salad một món súp
+3160	Em ấy ăn món tráng miệng, nhưng em ấy không ăn món salad.
+3161	Món tráng miệng của cô ấy là sôcôla.
+3162	Bữa trưa của cô ấy là súp và bánh sandwich.
+3163	Bữa tối này kết thúc với món tráng miệng.
+3164	Bữa trưa của cô ấy là món salad.
+3165	Bữa tối này bắt đầu với món súp.
+3166	một món tráng miệng một món salad
+3167	một món súp
+3168	Em ấy đang làm món tráng miệng.
+3169	Cô ấy đang làm món salad.
+3170	Anh ấy đang làm bánh sandwich.
+3171	Cô ấy đang làm món súp.
+3172	Tôi đang làm bữa sáng.
+3173	Chúng tôi đang làm bữa tối.
+3174	Họ đang làm bữa trưa.
+3175	Cô ấy đang ăn món tráng miệng.
+3176	Anh ấy đang làm món salad.
+3177	Anh ấy đang ăn món salad.
+3178	Họ đang làm món súp.
+3179	Họ đang ăn món súp.
+3180	Chị phải trả bằng tiền mặt.
+3181	Chị phải mặc áo khoác.
+3182	Con phải ăn rau.
+3183	Anh chị phải có hộ chiếu để lên máy bay.
+3184	Em phải đi bộ ở bên trong trường học.
+3185	Con phải ăn món salad trước khi ăn món tráng miệng.
+3186	Cô đang ở đây.
+3187	Khách sạn của cô ở kia.
+3188	Tôi đang ở đây.
+3189	Điện thoại di động của tôi ở kia.
+3190	Người đàn bà ở đây.
+3191	Kính của bà ấy ở kia.
+3192	Để chiếc tivi ở đây.
+3193	Để cái bàn ở kia.
+3194	Món salad ở đây.
+3195	Món tráng miệng ở kia.
+3196	Món tráng miệng ở đây.
+3197	Món salad ở kia.
+3198	Món súp ở đây.
+3199	Cà phê ở kia.
+3200	Con chó không được phép đi bộ ở đây.
+3201	Bạn không được phép lái xe ở đây.
+3202	Bạn không được phép đi giày ở đây.
+3203	Anh không được phép đi thẳng ở đây.
+3204	Anh phải rẽ.
+3205	Anh không được phép ăn ở đây.
+3206	Anh phải ăn ở bên ngoài.
+3207	Anh không được phép nói chuyện điện thoại ở đây.
+3208	Anh phải nói chuyện điện thoại ở bên ngoài.
+3209	Bạn không được phép rẽ trái ở đây.
+3210	Bạn phải rẽ phải.
+3211	Đây là chìa khóa của bác sĩ.
+3212	Đây là xe ô tô của một người cảnh sát.
+3213	Đây là bàn của học sinh.
+3214	Đây là John.
+3215	Đây là xe ô tô của John.
+3216	Đây là Laura.
+3217	Đây là ngôi nhà của Laura.
+3218	Đây là ông Smith.
+3219	Đây là phòng khách của ông Smith.
+3220	Alô.
+3221	Ông có phải là ông Smith không?
+3222	Vâng, ai đó?
+3223	Tôi là John Wilson.
+3224	Tôi có thể nói chuyện với Laura được không?
+3225	Vâng, cô ấy đây.
+3226	Tôi có thể nói chuyện với John được không?
+3227	Xin lỗi, anh ấy không ở đây.
+3228	Chị mang gì đến?
+3229	Tôi mang món tráng miệng.
+3230	Tôi mang món salad.
+3231	Chị muốn món tráng miệng này hay món tráng miệng kia?
+3232	Tôi muốn món tráng miệng kia.
+3233	Tôi muốn món tráng miệng này.
+3234	Tôi mang món này.
+3235	Cô ấy mang món kia.
+3236	Tôi lái xe ô tô này.
+3237	Cô ấy lái xe ô tô kia.
+3238	Tôi muốn cái áo đầm này.
+3239	Tôi muốn cái áo sơ mi kia.
+3240	Tôi muốn cái quần jean này.
+3241	Tôi muốn đôi giày kia.
+3242	Đôi giày này của tôi.
+3243	Đôi giày kia của vợ tôi.
+3244	Chiếc xe đạp này của em.
+3245	Chiếc xe đạp kia của em gái em.
+3246	Những cái áo đầm này đắt.
+3247	Những cái áo đầm kia rẻ.
+3248	Cái đồng hồ này cũ.
+3249	Cái đồng hồ kia mới.
+3250	Những chiếc xe ô tô này màu trắng.
+3251	Những chiếc xe ô tô kia màu đỏ.
+3252	Chiếc xe ô tô ở đây.
+3253	Quả bóng ở kia.
+3254	Quả bóng ở đây.
+3255	Chiếc xe ô tô ở kia.
+3256	Quả bóng kia màu vàng.
+3257	Quả bóng kia màu đỏ.
+3258	Tôi cần một cái bút.
+3259	Bút đây.
+3260	Kính của tôi đâu?
+3261	Kính của chị đây.
+3262	Món súp của chị đây.
+3263	Giày của cháu đây.
+3264	Áo khoác của em đây.
+3265	Laura đây.
+3266	Chào Laura.
+3267	Tôi là Jen.
+3268	Chị có khỏe không?
+3269	Thứ năm chị có muốn đến buổi tiệc sinh nhật của tôi không?
+3270	Vâng, cảm ơn chị.
+3271	Tôi có thể mang cái gì được không?
+3272	Chị có thể mang món salad được.
+3273	Chị có thể đến lúc tám giờ được không? Vâng, tôi có thể đến lúc tám giờ được.
+3274	một ca sĩ một ca sĩ một ca sĩ một vũ công một vũ công một nhạc sĩ
+3275	Các nhạc sĩ đang chơi ở buổi hòa nhạc.
+3276	Các nhạc sĩ đang chơi ở quán cà phê.
+3277	Nhạc sĩ đang chơi đàn piano.
+3278	Hai vũ công đang nhảy ở trên phố.
+3279	Ca sĩ đang hát ở trong quán cà phê.
+3280	Đôi giày của vũ công màu đen.
+3281	Đôi giày của vũ công màu đỏ.
+3282	Đàn piano của nhạc sĩ màu đen.
+3283	Đàn piano của nhạc sĩ màu trắng.
+3284	Nhạc này hay.
+3285	Nhạc này dở.
+3286	Vở kịch này hay.
+3287	Vở kịch này dở.
+3288	Quyển sách này hay.
+3289	Quyển sách này dở.
+3290	Bộ phim này hay.
+3291	Bộ phim này dở.
+3292	Tháng trước, cô ấy đọc một quyển sách dở.
+3293	Tuần trước, cô ấy đọc một quyển sách hay.
+3294	Buổi hòa nhạc tối hôm qua dở.
+3295	Buổi hòa nhạc thứ sáu tuần trước hay.
+3296	Nhạc này hay hơn.
+3297	Nhạc này hay nhất.
+3298	Bộ phim này hay hơn.
+3299	Bộ phim này hay nhất.
+3300	Ở bãi biển thời tiết xấu.
+3301	hồ thời tiết đẹp.
+3302	núi thời tiết xấu.
+3303	công viên thời tiết đẹp.
+3304	Thời tiết này xấu.
+3305	Thời tiết này xấu hơn.
+3306	Thời tiết này xấu nhất.
+3307	Thời tiết này đẹp.
+3308	Thời tiết này đẹp hơn.
+3309	Thời tiết này đẹp nhất.
+3310	Anh ấy bơi giỏi.
+3311	Anh ấy bơi dở.
+3312	Cô ấy lái xe giỏi.
+3313	Cô ấy lái xe dở.
+3314	Họ nhảy giỏi.
+3315	Anh ấy nhảy dở.
+3316	Anh ấy chơi giỏi.
+3317	Em ấy chơi dở.
+3318	Anh ấy nấu ăn giỏi.
+3319	Cô ấy nấu ăn dở.
+3320	Anh ấy chơi quần vợt giỏi.
+3321	Anh ấy chơi quần vợt dở.
+3322	Em ấy nhảy giỏi.
+3323	Cô ấy nhảy giỏi hơn.
+3324	Anh ấy nhảy giỏi nhất.
+3325	Thứ hai họ chơi dở.
+3326	Thứ ba họ chơi dở hơn.
+3327	Thứ tư họ chơi dở nhất.
+3328	Chị của cô làm gì? Chị ấy là vũ công.
+3329	Chị ấy có nhảy giỏi không? Có, chị ấy nhảy giỏi.
+3330	Cô ấy bận.
+3331	Tôi rảnh.
+3332	Anh ấy bận.
+3333	Cô ấy rảnh.
+3334	Anh có rảnh lúc hai giờ trưa nay không? Không, tôi bận.
+3335	Bạn có rảnh tối thứ tư không? Có, mình rảnh.
+3336	Chị có thể đi nghe buổi hòa nhạc được không? Vâng.
+3337	Chị có thể đến văn phòng được không? Không, tôi bận.
+3338	Anh có thể giúp anh ấy được không? Không, tôi bận.
+3339	Chị có thể giúp cô ấy được không? Vâng, tôi rảnh.
+3340	Chị có muốn đến quán cà phê không?
+3341	Không, tôi bận.
+3342	Anh có muốn xem trận đấu không?
+3343	Tôi xin lỗi.
+3344	Không sao.
+3345	Con xin lỗi.
+3346	Cháu xin lỗi.
+3347	Cháu viết lên bàn.
+3348	Con lái xe ô tô của bố.
+3349	Con viết vào vở.
+3350	Ai ăn sôcôla của ông? Cháu xin lỗi ông.
+3351	Cháu ăn ạ.
+3352	Ai uống nước ép của ông?
+3353	Cháu xin lỗi ông.
+3354	Cháu uống ạ.
+3355	Tối nay chị có thể đến buổi tiệc của tôi được không?
+3356	Vâng, tôi rảnh.
+3357	Thứ năm chị có thể đi xem trận đấu được không?
+3358	Vâng, thứ năm tôi rảnh.
+3359	Chị có thể gặp tôi lúc hai giờ trưa được không? Vâng, tôi rảnh lúc hai giờ trưa.
+3360	Chị có thể đi nghe buổi hòa nhạc lúc tám giờ được không?
+3361	Tối nay tôi bận.
+3362	Thứ sáu anh chị có thể đến nhà của chúng tôi ăn tối được không?
+3363	Thứ sáu chúng tôi bận.
+3364	Hôm nay bố có muốn chơi bóng đá không? Bố xin lỗi.
+3365	Bố bận.
+3366	Bố phải làm việc.
+3367	Chị có biết cái này có nghĩa là gì không?
+3368	Tôi không biết cái đó có nghĩa là gì.
+3369	Thứ sáu, chị có muốn đến buổi tiệc sinh nhật của tôi không?
+3370	Tôi muốn đến, nhưng thứ sáu tôi bận.
+3371	Thứ bảy chị có rảnh không?
+3372	Có, thứ bảy tôi rảnh.
+3373	Chị có muốn đi công viên không?
+3374	Vâng, tôi muốn đi!
+3375	Cô có thể nói chuyện với bố cháu được không?
+3376	Bố cháu không ở đây.
+3377	Cô có thể nói chuyện với mẹ cháu được không?
+3378	Vâng, mẹ cháu đây.
+3379	Chào Jean.
+3380	Thứ bảy chị và gia đình có rảnh không? Có, chúng tôi rảnh.
+3381	Chị có muốn đi xem trận đấu không? Vâng, chúng tôi muốn đi xem trận đấu!
+3382	Chị tên là gì? Tôi tên là Elena.
+3383	Rất vui được gặp chị.
+3384	Thứ sáu chị có bận không? Không, thứ sáu tôi không bận.
+3385	Chị có muốn đến buổi tiệc của tôi không? Vâng, tôi muốn đến buổi tiệc của anh.
+3386	Anh đang nói chuyện với ai? Tôi đang nói chuyện với Elena.
+3387	Chào Bernard! Chào Elena!
+3388	Mấy giờ buổi tiệc bắt đầu? Buổi tiệc bắt đầu lúc bảy giờ.
+3389	Thứ sáu chị có rảnh không? Có, thứ sáu tôi rảnh.
+3390	Tại sao?
+3391	Chị có muốn đến buổi tiệc của tôi không?
+3392	Tôi không hiểu anh.
+3393	Xin anh nhắc lại được không?
+3394	Chị có muốn đến buổi tiệc của tôi không? Tôi chưa biết.
+3395	Thứ sáu trời có mưa không? Không, thứ sáu trời không mưa.
+3396	Anh sẽ làm món gì cho buổi tiệc? Tôi sẽ làm món salad.
+3397	Anh sẽ mang gì đến buổi tiệc?
+3398	Tôi sẽ mang món tráng miệng đến buổi tiệc.
+3399	Chúng tôi có đến sớm không? Không, anh chị không đến sớm.
+3400	Chị có muốn nhảy không? Vâng, tôi muốn nhảy.
+3401	Hồi xưa chúng tôi sống ở đây.
+3402	Bây giờ chúng tôi sống ở đây.
+3403	Năm tới chúng tôi sẽ sống ở đây.
+3404	Ngày mai mẹ sẽ mua cho con một đồ chơi mới.
+3405	Ngày mai mẹ sẽ mua sữa cho con.
+3406	Ngày mai mẹ sẽ mua cho con quần jean mới.
+3407	Hồi xưa tôi chơi bóng đá ở đây.
+3408	Bây giờ tôi chơi bóng đá ở đây.
+3409	Năm tới tôi sẽ chơi bóng đá ở đây.
+3410	Ngày mai chúng ta sẽ đi cửa hàng thực phẩm.
+3411	Tôi sẽ gọi điện cho anh trong hai tiếng nữa.
+3412	Tôi sẽ gặp chị ở công viên trong hai mươi phút nữa.
+3413	Năm tới em ấy sẽ bắt đầu đi học.
+3414	Cô ấy sẽ dạy toán sau khi học xong đại học.
+3415	Ông ấy sẽ học tiếng Việt khi ông ấy đi Việt Nam.
+3416	Em ấy sẽ lái xe ô tô trong mười năm nữa.
+3417	Mai mốt em sẽ làm việc ở trong ngân hàng.
+3418	Mai mốt em ấy sẽ đi bộ ở trên mặt trăng.
+3419	Mai mốt các em ấy sẽ làm việc ở trong nhà hàng.
+3420	Mai mốt em sẽ là người quản lý.
+3421	Mai mốt em ấy sẽ là bác sĩ.
+3422	Mai mốt em ấy sẽ là thầy giáo.
+3423	Mai mốt cái cây này sẽ to.
+3424	Mai mốt con sẽ cao.
+3425	Mai mốt em ấy sẽ là cảnh sát.
+3426	Bây giờ tôi bận.
+3427	Ngày mai tôi sẽ gọi điện thoại cho anh.
+3428	Hôm nay tôi rảnh.
+3429	Tối nay tôi sẽ đi làm.
+3430	Bây giờ mẹ bận.
+3431	Mẹ sẽ chơi với con sau bữa tối.
+3432	Con chó này rất nhỏ.
+3433	Em bé này rất nhỏ.
+3434	Những cái cây này rất cao.
+3435	Người đàn ông này rất già.
+3436	Đồ nữ trang này rất đắt.
+3437	Quả bóng này rất to.
+3438	Ngôi nhà này rất nhỏ.
+3439	Con vật này rất chậm.
+3440	Cái mũ này rất to.
+3441	Người đàn ông này rất nhanh.
+3442	Đây là một cái cửa rất nhỏ.
+3443	Đây là một cái đồng hồ rất to.
+3444	Đây là một quả bóng rất nhỏ.
+3445	Đây là một quả bóng rất to.
+3446	Mai mốt những cái cây này sẽ rất cao.
+3447	Những con vật này rất to.
+3448	Mai mốt những con vật này sẽ rất to.
+3449	Em có câu hỏi nào không?
+3450	Có, em có câu hỏi ạ.
+3451	Các em có câu hỏi nào không?
+3452	Có, chúng em có câu hỏi ạ.
+3453	Xin lỗi anh, tôi có câu hỏi.
+3454	Tôi có thể giúp gì cho anh chị được?
+3455	Món súp ngày hôm nay là gì?
+3456	Tôi có thể giúp gì cho chị được?
+3457	Cái đàn piano này giá bao nhiêu tiền?
+3458	Người đàn bà đang hỏi người cảnh sát một câu hỏi.
+3459	Người cảnh sát đang trả lời câu hỏi của cô ấy.
+3460	Người đàn ông đang hỏi bác sĩ một câu hỏi.
+3461	Bác sĩ đang trả lời câu hỏi của ông ấy.
+3462	Anh ấy là người phục vụ ở một nhà hàng.
+3463	Cô ấy là người phục vụ ở một quán cà phê.
+3464	Họ là những người phục vụ.
+3465	Chúng tôi là những người phục vụ.
+3466	Người đàn ông đang hỏi người phục vụ một câu hỏi.
+3467	Người phục vụ đang trả lời câu hỏi.
+3468	Người phục vụ đang mang bữa sáng của chúng ta.
+3469	Người phục vụ đang mang cà phê của họ.
+3470	Người đàn bà đang hỏi người phục vụ một câu hỏi.
+3471	Người phục vụ đang trả lời câu hỏi của cô ấy.
+3472	Cô sinh viên đang hỏi một câu hỏi.
+3473	Thầy giáo đang trả lời câu hỏi của cô ấy.
+3474	Nhạc sĩ đang hỏi ca sĩ một câu hỏi.
+3475	Ca sĩ đang trả lời câu hỏi.
+3476	Các anh chị có câu hỏi nào không? Có, tôi có một câu hỏi.
+3477	thịt bò thịt bò thịt bò thịt gà thịt gà cá
+3478	Bà ấy đang ăn thịt gà ở nhà.
+3479	Anh ấy đang ăn cá ở nhà.
+3480	Em ấy đang ăn khoai tây ở nhà hàng.
+3481	Họ đang ăn thịt bò ở nhà hàng.
+3482	Em ấy đang ăn thịt gà.
+3483	Ông ấy đang ăn thịt bò.
+3484	Cô ấy đang ăn cá.
+3485	Em ấy đang ăn khoai tây.
+3486	một đôi đũa một đôi đũa một đôi đũa một cái khăn ăn một cái khăn ăn một cái nĩa
+3487	một cái thìa một cái thìa một cái thìa một con dao một con dao một cái nĩa
+3488	một đôi đũa một cái nĩa một con dao một cái thìa một cái khăn ăn
+3489	Cái nĩa ở bên trái cái đĩa.
+3490	Cái thìa ở bên phải cái chén.
+3491	Con dao ở bên cạnh bánh mì.
+3492	Cái khăn ăn ở trên bàn.
+3493	Người đàn bà có khăn ăn trong tay trái.
+3494	Em ấy có con dao trong tay phải.
+3495	Em ấy đang ăn bằng thìa.
+3496	Người đàn bà đang ăn bằng đũa.
+3497	đậu
+3498	bơ
+3499	hạt tiêu
+3500	trà với đường bánh mì với bơ khoai tây với muối salad với hạt tiêu thịt bò với muối cà phê với đường
+3501	Chị có muối không? Có, muối đây.
+3502	Anh có hạt tiêu không? Có, hạt tiêu đây.
+3503	Chị có bơ không? Có, bơ đây.
+3504	hai quả chanh một bát chanh nước và chanh ba quả chanh
+3505	Chanh chua.
+3506	Thịt gà cay.
+3507	Đậu cay.
+3508	Đường ngọt.
+3509	Bánh ngọt ngọt.
+3510	Anh có muốn món súp trong ngày không? Trong súp có gì?
+3511	Khoai tây, đậu, muối và hạt tiêu.
+3512	Hôm nay anh chị có muốn món tráng miệng không?
+3513	Vâng.
+3514	Anh có gì?
+3515	Hôm nay, chúng tôi có bánh chanh.
+3516	Nó có chua không?
+3517	Không, nó ngọt.
+3518	Cái này rất chua.
+3519	Chị có thể cho tôi một ít đường được không?
+3520	Vâng, đường đây.
+3521	Cái này rất cay.
+3522	Anh có thể cho tôi một ít nước được không?
+3523	Vâng, nước đây.
+3524	Xin lỗi cô, cô có thể cho tôi cái khăn ăn được không?
+3525	Vâng, khăn ăn đây.
+3526	Xin lỗi cô, cô có thể cho tôi con dao được không?
+3527	Vâng, con dao đây.
+3528	một bức tượng một bức tượng một bức tượng một bức tranh một bức tranh một bức ảnh
+3529	Đây là một bức tranh bãi biển.
+3530	Đây là một bức tranh bầu trời.
+3531	Đây là một bức ảnh Pari.
+3532	Đây là một bức ảnh các con tôi.
+3533	Đây là một bức tượng một người đàn ông.
+3534	Đây là một bức tượng một con mèo.
+3535	Đây là một bức ảnh ông ngoại tôi.
+3536	Đây là một bức tranh ngôi nhà của bà nội tôi.
+3537	Em đang ngồi ở trên một bức tượng.
+3538	Họ đang đi bộ ở bên cạnh đài phun nước.
+3539	Người đàn ông đang đọc báo ở trên cầu thang.
+3540	Chúng tôi đang ăn trưa ở trên đồi.
+3541	Bức tượng ở bên cạnh đài phun nước.
+3542	Cầu thang ở trong công viên.
+3543	Bức tranh một đài phun nước.
+3544	Bức tượng ở trên đồi.
+3545	một bức tượng một bức ảnh một bức tranh một đài phun nước cầu thang
+3546	một ngọn đồi
+3547	Đây là bức tranh một đàn piano.
+3548	Đây là bức ảnh một đàn ghi ta.
+3549	Đây là bức tranh một người đàn ông với cái trống.
+3550	Đàn piano và ghi ta là những loại nhạc cụ.
+3551	Tranh và ảnh là những loại mỹ thuật.
+3552	Trống là một loại nhạc cụ.
+3553	Tượng là một loại mỹ thuật.
+3554	Người đàn ông đang chơi đàn ghi ta.
+3555	Đứa con trai đang chơi đàn piano với ông ngoại.
+3556	Những người đàn ông đang chơi trống.
+3557	Các em ấy đang chơi cùng loại nhạc cụ.
+3558	Họ đang chơi các loại nhạc cụ khác nhau.
+3559	Một vài người đang chơi đàn ghi ta.
+3560	Ban nhạc đang chơi ở công viên.
+3561	Ba người trong ban nhạc này chơi đàn ghi ta.
+3562	Ban nhạc đang chơi ở sân vận động.
+3563	một cái đàn ghi ta
+3564	một cái trống
+3565	một cái đàn piano
+3566	âm nhạc
+3567	nhạc cụ
+3568	một ban nhạc
+3569	Anh ấy đang chụp ảnh cô ấy.
+3570	Xin anh chụp ảnh chúng tôi.
+3571	Cô ấy đang chụp ảnh bức tượng.
+3572	Anh ấy đang chụp ảnh ban nhạc.
+3573	Cô ấy đang chụp ảnh đài phun nước.
+3574	Ông ấy đang chụp ảnh bức tranh.
+3575	một rạp chiếu phim
+3576	một vườn thú
+3577	một viện bảo tàng
+3578	Quán cà phê ở trong trung tâm thành phố.
+3579	Quán cà phê không ở trong trung tâm thành phố.
+3580	Họ sống ở trong trung tâm thành phố.
+3581	Họ không sống ở trong trung tâm thành phố.
+3582	Rạp chiếu phim này ở trong trung tâm thành phố.
+3583	Các em ấy đang xem phim ở rạp chiếu phim.
+3584	Con vật này sống ở vườn thú.
+3585	Con chó và con mèo này không sống ở vườn thú.
+3586	Ban nhạc đang chơi ở trong trung tâm thành phố.
+3587	Ban nhạc không chơi ở trong trung tâm thành phố.
+3588	Bức tượng ở trong trung tâm thành phố.
+3589	Bức tượng không ở trong trung tâm thành phố.
+3590	Tháng trước tôi chụp ảnh này ở trong rừng.
+3591	Anh ấy chụp ảnh những người bạn của anh ấy.
+3592	Cô ấy chụp ảnh ở vườn thú và ở trong trung tâm thành phố.
+3593	Chị chụp ảnh gia đình ở trong công viên.
+3594	Tòa nhà này ở Matxcơva.
+3595	Tòa nhà này ở New York.
+3596	Tòa nhà này ở Barcelona.
+3597	Tòa nhà này ở nước Úc.
+3598	đồ nữ trang cổ một bức tượng cổ một bức tranh hiện đại một tòa nhà hiện đại
+3599	một sân vận động cổ
+3600	một sân vận động hiện đại một bức tượng cổ
+3601	một bức tượng hiện đại
+3602	Bức tượng nổi tiếng này ở Braxin.
+3603	Tòa nhà nổi tiếng này ở Trung Quốc.
+3604	Đài phun nước nổi tiếng này ở Rôma.
+3605	Tòa nhà này nổi tiếng.
+3606	Cái cầu này nổi tiếng.
+3607	Núi này nổi tiếng.
+3608	Tòa nhà này không nổi tiếng.
+3609	Cái cầu này không nổi tiếng.
+3610	Núi này không nổi tiếng.
+3611	Cái này nổi tiếng.
+3612	Những cái này nổi tiếng.
+3613	Cô ấy nổi tiếng.
+3614	Họ nổi tiếng.
+3615	Họ đang tìm xe ô tô của họ.
+3616	Họ tìm thấy xe ô tô của họ rồi.
+3617	Cô ấy đang tìm chìa khóa của cô ấy.
+3618	Cô ấy tìm thấy chìa khóa của cô ấy rồi.
+3619	Ông ấy đang tìm kính của ông ấy.
+3620	Ông ấy tìm thấy kính của ông ấy rồi.
+3621	Tôi đang tìm áo khoác của tôi.
+3622	Tôi tìm thấy áo khoác của tôi rồi.
+3623	Em ấy đang tìm giày của em ấy.
+3624	Em ấy tìm thấy giày của em ấy rồi.
+3625	Em ấy đang tìm quả bóng của em ấy.
+3626	Em ấy tìm thấy quả bóng của em ấy rồi.
+3627	Cô ấy đang tìm tất của cô ấy.
+3628	Cô ấy tìm thấy tất của cô ấy rồi.
+3629	Họ đang tìm bức tượng người đàn ông và con chó.
+3630	Họ tìm thấy bức tượng rồi.
+3631	Họ đang tìm viện bảo tàng.
+3632	Họ tìm thấy viện bảo tàng rồi.
+3633	Tôi đang tìm kính của tôi.
+3634	Tôi tìm thấy kính của anh rồi.
+3635	Mình đang tìm con chó của mình.
+3636	Mình tìm thấy con chó của bạn rồi.
+3637	Chị đang tìm rạp chiếu phim à? Vâng, tôi đang tìm rạp chiếu phim.
+3638	Anh chị đang tìm sân vận động à? Vâng, chúng tôi đang tìm sân vận động.
+3639	Những đứa trẻ đang cười.
+3640	Người đàn ông đang mỉm cười.
+3641	Mẹ của em ấy không mỉm cười.
+3642	Đứa con trai không cười.
+3643	Bà ấy đang mỉm cười với chồng.
+3644	Đứa con gái đang cười.
+3645	Bác sĩ đang mỉm cười với đứa con gái.
+3646	Những đứa trẻ đang cười trong buổi tiệc sinh nhật.
+3647	Em bé đang khóc.
+3648	Những người đàn bà đang khóc.
+3649	Người đàn bà đang mỉm cười với chồng.
+3650	Người đàn ông đang cười.
+3651	Em học sinh đang mỉm cười với cô giáo.
+3652	Những nhân viên đang cười.
+3653	Đài phun nước ở đằng trước nhà thờ Hồi giáo.
+3654	Người đàn ông đang đọc sách ở trong nhà thờ Do thái.
+3655	Những bức tượng ở trong một ngôi đền.
+3656	Người đàn bà và người đàn ông đang mỉm cười
+3657	đằng trước nhà thờ.
+3658	Họ đang đứng đằng trước nhà thờ Hồi giáo.
+3659	Họ đang hát ở trong nhà thờ.
+3660	Người đàn ông này đang ngồi gần những ngôi đền.
+3661	Chúng tôi đang ở trong một nhà thờ Do thái.
+3662	một nhà thờ Hồi giáo một nhà thờ Do thái một ngôi đền
+3663	một nhà thờ
+3664	Anh nhìn thấy gì?
+3665	Tôi nhìn thấy các bức tượng ở trên đồi.
+3666	Tôi nhìn thấy một người đàn ông.
+3667	Con có nhìn thấy nhà thờ không? Không, con không nhìn thấy nhà thờ.
+3668	Bây giờ, con có nhìn thấy nhà thờ không? Có.
+3669	Bây giờ, con nhìn thấy nhà thờ.
+3670	Anh ấy bị lạc đường.
+3671	Cô ấy không bị lạc đường.
+3672	Chúng tôi bị lạc đường.
+3673	Tôi không bị lạc đường.
+3674	Tại sao cháu khóc?
+3675	Tại vì cháu bị lạc đường.
+3676	Chúng ta sẽ tìm thấy bố mẹ cháu.
+3677	Em ấy vui tại vì hôm nay là ngày sinh nhật em ấy.
+3678	Em vui tại vì trời nắng.
+3679	Các em ấy vui tại vì các em ấy đang chơi bóng đá.
+3680	Anh ấy tức giận tại vì anh ấy không tìm thấy chìa khóa.
+3681	Cô ấy tức giận tại vì áo sơ mi của cô ấy bẩn.
+3682	Anh ấy tức giận tại vì vợ anh ấy đến muộn.
+3683	Anh ấy tức giận.
+3684	Anh ấy vui.
+3685	Ông ấy buồn.
+3686	Bà ấy tức giận tại vì con chó đang ăn bánh sandwich của bà ấy.
+3687	Họ vui tại vì họ đang ở bãi biển.
+3688	Em ấy buồn tại vì em ấy không tìm thấy con chó.
+3689	Ban nhạc sẽ chơi bao lâu? Ban nhạc sẽ chơi hai tiếng.
+3690	Tôi chạy bao lâu?
+3691	Chị chạy ba mươi phút.
+3692	Chúng em được phép bơi bao lâu? Các em được phép bơi ba tiếng.
+3693	Anh ấy nói bao lâu?
+3694	Anh ấy nói bốn mươi lăm phút.
+3695	Chị sẽ ở nước này bao lâu? Tôi sẽ ở đây một tuần.
+3696	Ông bà sẽ ở nước Ý bao lâu? Chúng tôi sẽ ở nước Ý ba tháng.
+3697	Bethany sẽ ở Matxcơva bao lâu? Cô ấy sẽ ở Matxcơva hai tuần.
+3698	Anh sẽ ở Pari bao lâu?
+3699	Tôi sẽ ở Pari hai tuần.
+3700	Chúng ta sẽ ở đây hai ngày.
+3701	Em ấy sẽ ở nhà bà nội một tuần.
+3702	Họ đang ở bệnh viện.
+3703	Cô ấy có đặt phòng trước ở khách sạn.
+3704	Đêm nay, cô ấy có thể ở đây được.
+3705	Anh ấy không đặt phòng trước ở khách sạn.
+3706	Đêm nay, anh ấy phải ở đây.
+3707	Họ có đặt bàn trước ở nhà hàng.
+3708	Họ có thể ăn ở đây được.
+3709	Chúng ta không đặt bàn trước ở nhà hàng này.
+3710	Chúng ta không thể ăn ở đây được.
+3711	Tôi có thể đặt bàn trước được không? Vâng.
+3712	Mấy giờ anh sẽ đến?
+3713	Tôi sẽ đến lúc tám giờ tối nay.
+3714	Tôi muốn đặt phòng trước.
+3715	Chị sẽ đến ngày nào?
+3716	Tôi sẽ đến thứ tư.
+3717	Khách sạn Fairfield.
+3718	Khi nào anh sẽ đến?
+3719	Tôi sẽ đến ngày hai mươi hai tháng mười.
+3720	Anh sẽ ở bao lâu?
+3721	Tôi sẽ ở ba đêm.
+3722	Tôi muốn đặt bàn trước.
+3723	Mấy giờ chị sẽ đến?
+3724	Chúng tôi sẽ đến lúc bảy giờ.
+3725	Bao nhiêu người sẽ đến? Bốn người.
+3726	Anh ấy đang đi lên núi.
+3727	Họ đang chạy lên đồi.
+3728	Em ấy đang đi xuống cầu thang.
+3729	Tôi đang chạy xuống đồi.
+3730	Cô ấy đang đi xuống cầu thang.
+3731	Người đàn ông đang chạy lên cầu thang.
+3732	Họ đang đi xuống đồi.
+3733	Người đàn bà đang chạy xuống đồi.
+3734	Anh ấy đang đi lên cầu thang.
+3735	Các em ấy đang chạy xuống núi.
+3736	Họ đang đi xuống núi.
+3737	Anh ấy đang chạy lên cầu thang.
+3738	Họ đang xếp va li.
+3739	Tôi đang xếp va li.
+3740	Cô ấy đang mở va li.
+3741	Anh ấy đang mở va li.
+3742	Người đàn bà này xếp va li hôm qua rồi.
+3743	Người đàn bà này xếp va li sáng nay rồi.
+3744	Người đàn bà này đang xếp va li.
+3745	Đầu tiên, ông ấy xếp va li ở nhà.
+3746	Sau đó, ông ấy đến khách sạn.
+3747	Bây giờ, ông ấy đang mở va li trong phòng.
+3748	Hôm nay chị làm gì?
+3749	Đầu tiên, tôi chạy ba mươi phút.
+3750	Sau đó, tôi đi cửa hàng thực phẩm.
+3751	Cuối cùng, tôi nấu bữa tối.
+3752	Đầu tiên, cô ấy để đĩa ở trên bàn.
+3753	Sau đó, anh ấy để đĩa ở trên bàn.
+3754	Cuối cùng, các em ấy để đĩa ở trên bàn.
+3755	Đầu tiên, cô ấy nấu bữa tối.
+3756	Sau đó, cô ấy ăn tối.
+3757	Cuối cùng, cô ấy rửa đĩa.
+3758	Hôm nay, anh muốn xem gì?
+3759	Tôi muốn xem ngôi đền.
+3760	Xin lỗi anh, chúng tôi bị lạc đường.
+3761	Ngôi đền ở đâu?
+3762	Đầu tiên, đi đến công viên.
+3763	Sau đó, rẽ trái.
+3764	Người đàn ông đang trượt tuyết.
+3765	Người đàn bà đang đi thuyền.
+3766	Chúng tôi đang đi thuyền.
+3767	Những đứa trẻ đang trượt tuyết.
+3768	Cô ấy đang trượt tuyết ở trong thành phố.
+3769	Anh ấy đang trượt tuyết ở trên núi.
+3770	Họ đang đi thuyền gần thành phố.
+3771	Họ đang đi thuyền gần bãi biển.
+3772	Họ đang chơi ở biển.
+3773	Anh ấy đang đi thuyền ở biển.
+3774	Cô ấy đang bơi ở biển.
+3775	Chúng sống ở biển.
+3776	Nước này là một hòn đảo.
+3777	Bức tượng này ở trên một hòn đảo.
+3778	Nhà thờ ở trên một hòn đảo.
+3779	Tôi đang cắm trại ở trong rừng.
+3780	Cô ấy đang cắm trại gần biển.
+3781	Cô ấy đang đi thuyền gần hòn đảo.
+3782	Cô ấy đang cắm trại ở trên núi.
+3783	bốn cái lều
+3784	ba cái thuyền buồm hai cái ván trượt tuyết sáu người trượt tuyết
+3785	Họ đang cắm trại gần hồ.
+3786	Gia đình này đang ở bên cạnh những cái thuyền buồm.
+3787	Những cái ván trượt tuyết ở bên cạnh cái lều.
+3788	Gia đình này ở trên cái thuyền buồm.
+3789	Cái thuyền buồm này nhanh.
+3790	Những người trượt tuyết này nhanh.
+3791	Cái thuyền buồm này chậm.
+3792	Những người trượt tuyết này chậm.
+3793	Nhà thờ ở gần biển.
+3794	Nhà thờ Hồi giáo ở gần công viên.
+3795	Nhà thờ Do thái ở trong thành phố.
+3796	Ngôi đền ở trên một hòn đảo.
+3797	Anh ấy đang tìm một hòn đảo.
+3798	Ông ấy đang tìm quả bóng.
+3799	Anh ấy đang tìm biển.
+3800	Tôi đang cưỡi một con ngựa màu trắng.
+3801	Người đàn bà đang đạp xe đạp màu xám.
+3802	Người đàn ông đang cưỡi một con ngựa màu đen.
+3803	Con đang đạp xe đạp!
+3804	Họ đang cưỡi ngựa ở trong công viên.
+3805	Họ đang cưỡi ngựa ở bên cạnh biển.
+3806	Anh ấy đang đạp xe đạp ở bên cạnh biển.
+3807	Anh ấy đang đạp xe đạp ở trong rừng.
+3808	Những đứa trẻ đang chơi trên tuyết.
+3809	Em ấy viết trên tuyết.
+3810	Anh ấy đang đạp xe đạp trong mưa.
+3811	Họ đang đi bộ trong mưa.
+3812	Họ đang chơi bóng đá trong mưa.
+3813	Chúng đang chơi trên tuyết.
+3814	Anh ấy đang lái xe trong tuyết.
+3815	Chúng đang chạy trong tuyết.
+3816	Tôi đang cưỡi ngựa trên tuyết.
+3817	Tôi đang cắm trại trong lều mới của tôi.
+3818	Tôi đang đi thuyền trên biển.
+3819	Tôi đang trượt tuyết trên núi.
+3820	Chị sẽ làm gì sau khi trượt tuyết?
+3821	Tôi sẽ uống cà phê ở trong quán cà phê.
+3822	Họ sẽ làm gì sau khi bơi?
+3823	Họ sẽ đạp xe đạp và sau đó họ sẽ chạy.
+3824	Ông bà sẽ làm gì sau khi đi thuyền? Chúng tôi sẽ ăn tối trên một hòn đảo.
+3825	Có vài con mèo.
+3826	Có vài hòn đảo.
+3827	Có vài cái ván trượt tuyết.
+3828	Có nhiều cá.
+3829	Có nhiều xe đạp.
+3830	Có nhiều cái lều.
+3831	Có nhiều nước.
+3832	Có nhiều cây.
+3833	Có nhiều cỏ.
+3834	Có nhiều hoa.
+3835	Có vài cái thuyền buồm.
+3836	Có nhiều thuyền buồm.
+3837	Có một ít tuyết.
+3838	Có nhiều tuyết.
+3839	Hôm nay ở công viên trời gió.
+3840	Sáng nay ở bãi biển trời gió.
+3841	Trưa nay trời không gió ở trong thành phố.
+3842	Hôm nay trời không gió.
+3843	Hôm nay trời gió.
+3844	Ngày mai tuyết sẽ rơi.
+3845	Chúng ta sẽ làm gì?
+3846	Chúng ta sẽ có thể trượt tuyết.
+3847	Ngày mai trời sẽ không mưa.
+3848	Chúng ta sẽ có thể đạp xe đạp.
+3849	Tháng mười một chị sẽ có thể trượt tuyết.
+3850	Ngày mai chúng ta sẽ có thể chơi cái này.
+3851	Trời sẽ gió.
+3852	Tuần tới con sẽ có thể đạp xe đạp.
+3853	Con đừng ăn cái này.
+3854	Con ăn cái này đi.
+3855	Con đừng ngồi ở đây.
+3856	Con ngồi ở đây đi.
+3857	Con đừng chơi ở đây.
+3858	Con chơi ở đây đi.
+3859	Đừng trượt tuyết ở đây.
+3860	Trượt tuyết ở đây.
+3861	Bơi ở đây.
+3862	Đừng bơi ở đây.
+3863	Đừng lái xe ở đây.
+3864	Lái xe ở đây.
+3865	Cắm trại ở đây.
+3866	Đừng cắm trại ở đây.
+3867	Họ đang mặc quần áo tắm màu xanh.
+3868	Dép của cô ấy có bông hoa màu trắng.
+3869	Những đứa trẻ đang chơi với khăn tắm trong một ngày trời gió.
+3870	Nhạc sĩ đang mặc quần soóc.
+3871	một cái quần tắm đàn ông.
+3872	một cái áo tắm đàn bà dép đàn ông
+3873	dép đàn bà
+3874	một cái khăn tắm quần soóc
+3875	Hôm nay đừng mặc quần soóc.
+3876	Tại vì trời sẽ lạnh.
+3877	Hôm nay đừng đi dép.
+3878	Thuê ván trượt tuyết giá ba mươi đô la một ngày.
+3879	Mua ván trượt tuyết giá bốn trăm đô la.
+3880	Thuê một chiếc xe ô tô giá một trăm đô la một ngày.
+3881	Mua xe ô tô giá hai mươi lăm nghìn đô la.
+3882	Anh ấy đang thuê xe ô tô hai ngày.
+3883	Anh ấy đang trả xe ô tô.
+3884	Bây giờ là mười giờ.
+3885	Cô ấy đang thuê ván trượt tuyết một ngày.
+3886	Bây giờ là sáu giờ.
+3887	Cô ấy đang trả ván trượt tuyết.
+3888	Anh ấy sẽ trả xe đạp.
+3889	Anh ấy đang trả xe đạp.
+3890	Anh ấy trả xe đạp rồi.
+3891	Thuê một chiếc xe đạp một ngày giá bao nhiêu tiền?
+3892	Giá hai mươi bảng một ngày.
+3893	Tối mai tôi sẽ trả xe đạp.
+3894	Giá bốn mươi bảng.
+3895	Anh trả ván trượt tuyết chưa? Hôm qua anh trả rồi.
+3896	Anh trả xe ô tô chưa? Chưa, ngày mai anh sẽ trả.
+3897	Tôi muốn thuê ván trượt tuyết.
+3898	Chúng tôi muốn thuê ván trượt tuyết.
+3899	Tôi muốn thuê xe đạp.
+3900	Chúng tôi muốn thuê xe đạp.
+3901	Chào anh chị, anh chị có cần gì không? Chúng tôi muốn đi thuyền.
+3902	Ngày mai thời tiết như thế nào?
+3903	Trời sẽ mưa.
+3904	Ngày mai đừng đi thuyền.
+3905	Thứ sáu trời sẽ nắng và gió.
+3906	Thứ sáu, chúng tôi có thể thuê thuyền buồm được không?
+3907	Anh có thể thuê thuyền buồm cho ngày đó.
+3908	Chúng tôi có thể đi thuyền ở đâu được?
+3909	Anh chị có thể đi thuyền đến hòn đảo nhỏ này được.
+3910	Chúng tôi có cần mang áo tắm và khăn tắm không?
+3911	Vâng, anh chị cần mang áo tắm và khăn tắm.
+3912	Chào em! Chào anh!
+3913	Sáng nay em làm gì? Em đọc báo.
+3914	Sáng nay anh làm gì?
+3915	Anh đi viện bảo tàng ở trong trung tâm thành phố.
+3916	Anh mua gì?
+3917	Anh mua bức ảnh ngôi đền cổ này.
+3918	Hôm nay, em muốn đi thuyền hay em muốn
+3919	đi xem phim?
+3920	Hôm nay, em muốn đi thuyền.
+3921	Anh chị có cần gì không? Hôm nay anh chị có muốn đi thuyền không?
+3922	Chúng tôi muốn đi thuyền.
+3923	Trời có quá gió không? Không, trời không quá gió.
+3924	Tôi là nhạc sĩ.
+3925	Chị chơi nhạc cụ gì?
+3926	Tôi chơi đàn piano.
+3927	Ông có chơi nhạc cụ nào không?
+3928	Có, tôi chơi một nhạc cụ.
+3929	Ông chơi nhạc cụ gì?
+3930	Tôi chơi đàn ghi ta.
+3931	Anh đang tìm gì?
+3932	Anh đang tìm khăn tắm.
+3933	Ông có thể chụp ảnh cho chúng tôi được không?
+3934	Vâng, tôi sẽ chụp ảnh cho anh chị.
+3935	Anh chị muốn ăn tối ở trên thuyền buồm hay ở trên bãi biển?
+3936	Chúng tôi muốn ăn tối ở trên bãi biển.
+3937	Anh đang nấu gì?
+3938	Tôi đang nấu cá với chanh và khoai tây.
+3939	Ông có thể chơi đàn ghi ta cho chúng tôi được không?
+3940	Vâng, tôi có thể chơi đàn ghi ta cho anh chị.
+3941	một cái hàng rào một cái hàng rào một cái hàng rào một khu vườn một khu vườn một bể bơi
+3942	Hai đứa trẻ đang ngồi ở trên hàng rào. Cái hàng rào này bị hỏng.
+3943	Anh ấy đang ăn trưa ở trong vườn. Ông ấy đang đọc báo ở trong vườn. Bể bơi này ở bên trong.
+3944	Bể bơi này ở bên ngoài.
+3945	Có một khu vườn ở bên cạnh bể bơi. Khu vườn ở đằng sau ngôi nhà.
+3946	Có những bông hoa ở bên cạnh hàng rào. Bể bơi ở đằng sau hàng rào.
+3947	Em đang trèo hàng rào.
+3948	Em ấy đang nhảy khỏi hàng rào. Cô ấy đang trèo thang.
+3949	Anh ấy đang nhảy khỏi cái thang.
+3950	Em ấy đang trèo cây. Các em ấy đang trèo cây. Em sẽ nhảy khỏi cái giường. Em đã nhảy khỏi cái giường!
+3951	Em ấy đang nhảy.
+3952	Con ngựa đang nhảy qua hàng rào. Anh ấy đang ném bóng.
+3953	Bà ấy đang ném bóng qua cái lều.
+3954	Em ấy đang ném bóng qua xe ô tô. Anh ấy đang nhảy qua nước.
+3955	Em ấy đang ném bóng qua hàng rào.
+3956	Em ấy đang trèo lên bàn.
+3957	Em ấy đang nhảy khỏi cái bàn.
+3958	Cô ấy đang trèo lên thuyền buồm. Em ấy đang nhảy khỏi thuyền buồm.
+3959	Con mèo đang nhảy lên giường. Em ấy đang nhảy khỏi hàng rào. Em ấy đang trèo lên bàn.
+3960	Đứa con gái đang ném bóng. Đứa con trai đang bắt bóng. Người đàn bà đang ném hoa. Người đàn ông đang bắt hoa.
+3961	Cậu con trai đang bắt chìa khóa.
+3962	Cậu con trai đang bắt bóng.
+3963	Cô ấy đang bắt quả cam.
+3964	Đừng ném bóng ở trong vườn!
+3965	Đừng nhảy qua hàng rào!
+3966	Đừng trèo cây!
+3967	Tivi này đang hoạt động.
+3968	Tivi này không hoạt động.
+3969	Điện thoại này đang hoạt động.
+3970	Điện thoại này không hoạt động.
+3971	Đồng hồ này đang chạy.
+3972	Đồng hồ này không chạy.
+3973	Xe ô tô này đang chạy.
+3974	Xe ô tô này không chạy.
+3975	Cái điện thoại di động này đang hoạt động.
+3976	Cái đài này đang hoạt động.
+3977	Cái đồng hồ này đang chạy.
+3978	Chiếc xe ô tô này đang chạy.
+3979	Máy tính này có hoạt động không? Không, máy tính này không hoạt động. Cái đồng hồ này có chạy không?
+3980	Có, nó đang chạy.
+3981	Người bố đang sửa đồ chơi của đứa con.
+3982	Người đàn bà đang sửa hàng rào.
+3983	Người đàn ông đang sửa máy bay.
+3984	Tôi đang sửa xe đạp.
+3985	Tôi không thể gọi điện được tại vì điện thoại của tôi không hoạt động.
+3986	Máy tính của chúng tôi không hoạt động. Anh ấy đang sửa.
+3987	Đồ chơi của em ấy bị hỏng. Ông ngoại của em ấy đang sửa.
+3988	Đài của tôi bị hỏng. Anh có thể sửa được không?
+3989	Cái này dễ. Cái này khó. Cái này dễ. Cái này khó.
+3990	Ném quả bóng này dễ. Ném cái va li này khó. Trèo hàng rào này dễ. Trèo cây này khó.
+3991	Trượt tuyết ở đây dễ. Trượt tuyết ở đây khó. Bơi ở đây dễ.
+3992	Bơi ở đây khó.
+3993	Sửa xe đạp này dễ. Sửa máy tính này khó. Sửa hàng rào này dễ. Sửa xe ô tô này khó.
+3994	Tại sao em trèo cây? Tại vì em muốn ăn táo.
+3995	Tại sao con không bắt bóng? Tại vì con quá thấp.
+3996	Tại sao con không đọc sách này? Tại vì sách này quá khó.
+3997	Tại sao Sue không đến buổi tiệc?
+3998	Tại vì cô ấy đang tham quan New York.
+3999	Mai mốt chúng ta sẽ trượt tuyết như họ. Mai mốt em sẽ nhảy như cô ấy.
+4000	Mai mốt em sẽ chơi đàn ghi ta như bố em. Mai mốt em sẽ chơi bóng đá như anh ấy.
+4001	Nhảy như họ rất khó.
+4002	Lái xe như anh ấy rất khó. Nhảy như anh ấy rất khó.
+4003	Cái bánh ngọt này trông giống như xe ô tô. Cái khăn ăn này trông giống như bông hoa. Cái này trông giống như cái mặt.
+4004	Đứa con trai trông giống như bố.
+4005	Hai người đàn bà này trông giống nhau. Hai người đàn ông này trông giống nhau. Hai đứa con gái này trông không giống nhau.
+4006	Họ đang gặp nhau ở rạp chiếu phim. Họ yêu nhau.
+4007	Người đàn ông và người đàn bà đang viết thư cho nhau.
+4008	Người mẹ và đứa con gái đang ôm nhau.
+4009	Hai em học sinh đang nói chuyện với nhau.
+4010	Những người đàn ông đang giúp nhau.
+4011	Họ làm việc với nhau.
+4012	Họ đang nhảy với nhau.
+4013	Chị có muốn cái áo đầm màu đỏ không?
+4014	Không, tôi muốn cái màu xanh.
+4015	Anh có thích cái mũ màu nâu không?
+4016	Không, tôi thích cái màu đen.
+4017	Tại sao anh không mua cái áo sơ mi màu trắng này?
+4018	Tại vì tôi thích cái màu xám này hơn.
+4019	Anh thích cái nào?
+4020	Anh thích cái màu đỏ.
+4021	Chị thích chiếc nào?
+4022	Tôi thích chiếc màu xanh.
+4023	Có hai cái khăn tắm. Cái nhỏ ở bên phải và cái to ở bên trái.
+4024	Có hai chiếc xe đạp. Chiếc màu vàng đắt hơn. Có nhiều cái bánh ngọt. Em ấy muốn cái to nhất.
+4025	Chị có cần khăn ăn không? Vâng, cảm ơn anh.
+4026	Anh có cần khăn ăn không? Không, cảm ơn anh. Tôi có rồi.
+4027	Anh có cần bút không? Vâng, cảm ơn anh.
+4028	Anh có muốn ăn salad không? Không, cảm ơn chị. Tôi có rồi.
+4029	Bạn có muốn ăn táo không? Không, cảm ơn bạn. Mình có rồi. Bà có cần thuê xe đạp không? Không, cảm ơn anh. Tôi có rồi.
+4030	Máy tính của anh có hoạt động không? Không, nó không hoạt động. Nó bị hỏng. Tại sao hôm qua anh không sửa?
+4031	Tại vì hôm qua anh đang sửa xe đạp.
+4032	một cái bếp một cái bếp một cái bếp
+4033	một cái máy rửa bát một cái máy rửa bát một cái tủ lạnh
+4034	Thịt gà ở trên cái bếp. Nước cam ở trong tủ lạnh.
+4035	Những cái cốc ở trong máy rửa bát.
+4036	Những cái chén là một loại bát đĩa. Những cái bát là một loại bát đĩa. Những cái đĩa là một loại bát đĩa. Những cái cốc là một loại bát đĩa.
+4037	Chị có muốn uống một cốc nước không? Cảm ơn ông. Tôi có rồi.
+4038	Cháu có muốn uống một cốc sữa không? Cảm ơn cô. Cháu có rồi ạ.
+4039	Cốc nước cam ở trên cái quầy. Tủ lạnh ở bên cạnh cái quầy. Máy rửa bát ở dưới cái quầy.
+4040	Bát đĩa ở trong bồn rửa bát này bẩn. Bát đĩa ở trong máy rửa bát này sạch.
+4041	Những cái đĩa và những cái cốc ở trên quầy này bẩn.
+4042	Cốc này đầy sữa.
+4043	Bồn rửa bát này đầy bát đĩa. Máy rửa bát này trống rỗng. Tủ lạnh này trống rỗng.
+4044	Thùng rác này hôi.
+4045	Khăn trải giường sạch này thơm. Thùng rác này đầy.
+4046	Bát này trống rỗng.
+4047	Cốc này đầy.
+4048	Cốc này trống rỗng. Thùng rác này đầy. Thùng rác này trống rỗng.
+4049	Có những cái cửa sổ ở trên trần nhà.
+4050	Trần nhà màu trắng.
+4051	Sàn nhà làm bằng gỗ.
+4052	Thùng rác ở trên sàn nhà.
+4053	Người đàn ông đang sửa sàn nhà.
+4054	Họ đang sửa trần nhà.
+4055	Con quét sàn nhà cho mẹ đi.
+4056	Anh ấy đang quét bếp.
+4057	Cô ấy đang quét ở gần cửa hàng thực phẩm.
+4058	Tôi đang quét cầu thang.
+4059	Cô ấy sẽ quét sàn nhà.
+4060	Chúng tôi đang quét sàn nhà.
+4061	Tôi quét sàn nhà rồi.
+4062	Tôi đang đổ rác.
+4063	Anh đổ rác cho em đi.
+4064	Cô ấy đang đổ rác.
+4065	Anh ấy sẽ rửa bát đĩa.
+4066	Em ấy đang rửa bát đĩa.
+4067	Em rửa bát đĩa rồi.
+4068	Cháu rửa bát đĩa đi.
+4069	Con rửa mặt đi.
+4070	Các con giặt quần áo đi.
+4071	Con quét cầu thang cho mẹ đi.
+4072	Con đổ rác cho mẹ đi.
+4073	Anh sửa cái ghế này cho tôi đi.
+4074	Con giặt quần áo cho bố đi.
+4075	Người đàn ông đang bán thảm.
+4076	Cái đi văng ở bên ngoài.
+4077	Cái thảm đỏ ở trên sàn nhà.
+4078	Có ba người ở trên đi văng.
+4079	Con mèo ở trên đi văng và người đàn bà ở bên cạnh đi văng.
+4080	Em bé đang ngồi ở trên sàn nhà và người mẹ đang ngồi ở trên đi văng.
+4081	Người đàn bà đang ngồi ở trên đi văng và người đàn ông ở đằng sau đi văng.
+4082	Tôi đang hút bụi trên trần nhà. Tôi đang hút bụi ở trên thảm. Con hút bụi ở trên cầu thang đi. Anh ấy đang hút bụi ở trên đi văng.
+4083	Anh đang hút bụi ở dưới gầm đi văng. Con đang làm gì?
+4084	Con đang hút bụi ở dưới cái thảm.
+4085	Người đàn bà đang dọn dẹp xe ô tô. Tôi đang dọn dẹp phòng khách. Em học sinh đang dọn dẹp thư viện. Chúng em dọn dẹp phòng ngủ rồi.
+4086	Em dọn dẹp bếp đi. Em đang dọn dẹp bếp.
+4087	Con dọn dẹp phòng ngủ của con đi. Con đang dọn dẹp phòng ngủ của con.
+4088	Bồn tắm đầy nước. Bồn tắm trống rỗng.
+4089	Bồn rửa mặt ở bên cạnh bồn vệ sinh. Phòng tắm màu xanh.
+4090	Người đàn bà đang lau sàn nhà. Người đàn ông đang lau bồn vệ sinh. Anh lau bồn rửa mặt cho tôi đi.
+4091	Tôi đang lau cửa kính.
+4092	Con mèo ở trong bồn rửa mặt. Em ấy ở trong phòng tắm.
+4093	Tôi đang lau bồn rửa mặt. Tôi đang lau phòng tắm.
+4094	Họ đang lau bồn tắm. Tôi đang lau quầy.
+4095	Em ấy đang lau sàn nhà.
+4096	Tôi sắp tắm.
+4097	Hai em ấy đang tắm. Em ấy tắm rồi.
+4098	Cô con gái sắp tắm.
+4099	Em ấy đang tắm ở bên ngoài. Em tắm rồi.
+4100	Người đàn bà đang tắm. Người đàn bà đang tắm. Tôi sắp tắm.
+4101	Tôi đổ rác rồi.
+4102	Bây giờ tôi phải lau sàn nhà. Tôi rửa bát đĩa rồi.
+4103	Bây giờ, tôi phải quét sàn nhà.
+4104	Hôm nay chúng ta phải làm gì? Chúng ta phải lau phòng tắm. Em sẽ lau bồn rửa mặt.
+4105	Anh sẽ lau bồn tắm.
+4106	Em có thể lau bồn vệ sinh được không?
+4107	Em sẽ lau bồn vệ sinh sau khi anh quét sàn nhà.
+4108	Các con đi đâu?
+4109	Chúng con đi công viên.
+4110	Con dọn dẹp phòng ngủ của con chưa? Vâng, con dọn dẹp phòng ngủ của con rồi ạ. Con hút bụi sàn nhà chưa?
+4111	Chưa ạ. Con sẽ hút bụi sàn nhà tối nay.
+4112	Người đàn ông này khỏe. Người đàn ông này khỏe hơn. Người đàn bà này khỏe. Người đàn bà này khỏe hơn.
+4113	Anh ấy khỏe.
+4114	Anh ấy không khỏe. Cô ấy khỏe.
+4115	Em ấy không khỏe.
+4116	Ai khỏe hơn?
+4117	Người đàn bà khỏe hơn người đàn ông. Ai khỏe hơn?
+4118	Người đàn ông khỏe hơn người đàn bà.
+4119	Cậu con trai đang tập thể dục.
+4120	Người đàn ông không tập thể dục. Ông ấy đang đọc báo.
+4121	Những cô con gái không tập thể dục. Các cô ấy đang nói chuyện.
+4122	Người đàn bà đang tập thể dục.
+4123	Anh ấy khỏe tại vì anh ấy tập thể dục.
+4124	Thứ hai, thứ tư và thứ năm tôi tập thể dục. Chúng tôi tập thể dục ở trên bãi biển.
+4125	Họ đang tập luyện bóng đá.
+4126	Người đàn ông đang tập luyện gôn ở trong văn phòng.
+4127	Em đang tập luyện quần vợt.
+4128	Đội Braxin mặc áo vàng. Đội Pháp mặc áo xanh.
+4129	Có sáu cậu con trai trong đội này.
+4130	Có mười một cô con gái trong đội này.
+4131	Đội bóng đá đang tập luyện. Đội quần vợt đang tập luyện. Cô ấy đang chụp ảnh đội gôn.
+4132	Bạn chơi cho đội nào? Mình chơi cho đội bóng đá. Tại sao hôm nay bạn tập luyện?
+4133	Tại vì ngày mai đội bóng đá của mình có một trận đấu.
+4134	Đứa con gái đang tập luyện đàn piano. Đứa con trai đang tập luyện đàn vĩ cầm. Người đàn bà đang tập luyện đàn ghi ta ở trong phòng khách.
+4135	Người đàn ông đang tập luyện đàn vĩ cầm ở trong nhà hát.
+4136	Tôi đang tập luyện đàn vĩ cầm ở bên trong.
+4137	Tôi đang tập luyện đàn ghi ta ở bên ngoài.
+4138	Tôi đang tập luyện bóng đá ở bên trong.
+4139	Tôi đang tập luyện bóng đá ở bên ngoài.
+4140	Chị nên đi xe buýt này. Nó nhanh hơn.
+4141	Em nên uống cái này. Trời lạnh ở bên ngoài.
+4142	Chị nên nghe cái này. Nó rất hay.
+4143	Em muốn ăn sôcôla, nhưng em không nên.
+4144	Tôi muốn xem tivi, nhưng tôi nên tập thể dục.
+4145	Tôi muốn nhảy, nhưng tôi nên quét sàn nhà.
+4146	Tôi muốn về nhà sớm, nhưng tôi không nên.
+4147	Cô ấy nên dọn dẹp phòng ngủ.
+4148	Anh không nên mua cái này. Nó quá đắt.
+4149	Chị không nên mặc cái này. Nó không vừa.
+4150	Anh nên mặc bộ com lê màu đen hay bộ com lê màu xám?
+4151	Anh nên mặc bộ com lê màu xám.
+4152	Em nên mặc áo đầm màu xanh hay áo đầm màu đen?
+4153	Em nên mặc áo đầm màu xanh.
+4154	Con có nên tập luyện không? Có, con nên tập luyện.
+4155	Con có nên để đàn vĩ cầm ở trên sàn nhà không?
+4156	Không. Con nên để đàn vĩ cầm ở trên bàn.
+4157	Có người ở cửa.
+4158	Có người muốn nói chuyện với bạn. Có người ở trong văn phòng.
+4159	Có người đang tập thể dục. Có người đang rửa bát đĩa. Có người ở trong xe ô tô.
+4160	Có người ở trong phòng tắm. Có người đang chụp ảnh.
+4161	Có người đang tập luyện đàn ghi ta.
+4162	Chúng ta cần tìm một nơi để chơi bóng đá. Chúng ta cần tìm một nơi để tập luyện nhạc cụ.
+4163	Anh ấy đang tìm một nơi để ăn. Họ đang tìm một nơi để cắm trại.
+4164	Đây là một nơi để bơi.
+4165	Đây là một nơi để tập luyện bóng đá.
+4166	Đây là một nơi để tập thể dục.
+4167	Đây là một nơi để trượt tuyết.
+4168	Họ đang tìm một nơi để đọc sách.
+4169	Họ tìm thấy một nơi để đọc sách rồi.
+4170	Chúng tôi đang tìm một nơi để tập thể dục.
+4171	Chúng tôi tìm thấy một nơi để tập thể dục rồi.
+4172	Có người viết thư cho tôi! Anh ấy đang tìm cái gì để ăn.
+4173	Mai mốt em sẽ là một ca sĩ nổi tiếng.
+4174	Đôi khi những con chó sống ở bên trong, nhưng đôi khi chúng sống ở bên ngoài. Môn toán đôi khi dễ và đôi khi khó.
+4175	Đôi khi tôi chụp ảnh người và đôi khi tôi chụp ảnh những con vật.
+4176	Đôi khi chúng em mặc váy đến trường học, và đôi khi chúng em mặc quần.
+4177	Chúng em luôn mặc váy đến trường học.
+4178	Buổi sáng, đôi khi tôi uống cà phê và đôi khi tôi uống trà.
+4179	Buổi sáng, tôi luôn uống cà phê.
+4180	Ở đây, đôi khi trời lạnh. Đôi khi trời nóng.
+4181	đây, trời luôn lạnh.
+4182	đây, trời không bao giờ lạnh.
+4183	Chanh luôn chua.
+4184	Sôcôla không bao giờ chua. Đường luôn ngọt.
+4185	Hạt tiêu không bao giờ ngọt.
+4186	Tôi luôn tắm trước khi tôi đi làm. Tôi không bao giờ ăn thịt.
+4187	Đôi khi em ấy đói và đôi khi em ấy khát nước. Có người luôn đứng ở đây.
+4188	Chúng tôi không bao giờ đi trượt tuyết vào mùa hè.
+4189	Đôi khi tôi rời nơi làm việc sớm.
+4190	Anh tập luyện ở đâu?
+4191	Đôi khi chúng tôi tập luyện ở đây. Đôi khi chúng tôi tập luyện ở trường học.
+4192	Khi nào anh tập luyện ở đây?
+4193	Chúng tôi tập luyện ở đây vào mùa thu. Khi nào anh tập luyện ở trường học? Vào mùa đông.
+4194	đôi mắt một cái tai một cái mũi một cái miệng
+4195	Đây là cái chân của một đứa con trai. Đây là cái gì?
+4196	Đây là cánh tay của một đứa con gái.
+4197	một cánh tay một cái chân một con mắt một cái tai một cái mũi một cái miệng
+4198	Đây là đôi chân của em. Đây là cánh tay của em. Đây là đôi mắt của em. Đây là đôi tai của em.
+4199	Đây là cái mũi của em. Đây là cái miệng của em.
+4200	Em ấy bị đau tay. Tôi bị đau mũi. Anh ấy bị đau mắt. Tôi bị đau chân.
+4201	Em ấy bị đau đầu gối. Em bị đau khuỷu tay.
+4202	Hai tay của anh ấy ở trên đầu gối. Hai khuỷu tay của cô ấy ở trên bàn.
+4203	Cháu cần một cái băng dán ở trên đầu gối. Anh ấy có một cái băng dán ở trên ngón tay. Em ấy có một cái băng dán ở trên cánh tay.
+4204	Em có băng dán ở trên khuỷu tay. Các em ấy có băng dán ở trên đầu gối. Em ấy có băng dán ở trên chân.
+4205	Em ấy có băng dán ở trên đầu gối.
+4206	Anh ấy đang trượt tuyết. Anh ấy đang ngã.
+4207	Bà ấy đang đạp xe đạp. Em ấy đang ngã.
+4208	Anh ấy đang cưỡi ngựa. Anh ấy đang ngã.
+4209	Người đàn ông đang ngã xe đạp. Người đàn ông bị ngã xe đạp. Đứa con gái đang ngã hàng rào. Đứa con gái bị ngã hàng rào.
+4210	Cháu bị ngã xe đạp. Chú có băng dán không? Em bị đau khuỷu tay.
+4211	Tôi khát nước. Chị có nước không? Tôi bị ốm. Anh có thuốc không?
+4212	Kính của anh bị làm sao vậy?
+4213	Tôi đi ở bên ngoài khi trời đang mưa. Cháu bị làm sao vậy?
+4214	Cháu trèo cây và cháu bị ngã.
+4215	Con bị làm sao vậy?
+4216	Con bị ngã và con bị đau tay. Họ bị làm sao vậy?
+4217	Họ bị ngã và bị đau chân.
+4218	Áo len của anh bị làm sao vậy? Mẹ giặt áo len của anh.
+4219	Chị bị làm sao vậy?
+4220	Tối hôm qua tôi nhảy ba tiếng. Em bị làm sao vậy?
+4221	Em đi biển và trời rất nắng.
+4222	Cô bị làm sao vậy? Tôi bị ngã ngựa. Cháu bị làm sao vậy? Cháu nhảy khỏi hàng rào.
+4223	Cháu bị làm sao vậy? Cháu bị ngã xe đạp.
+4224	Cháu có bị đau đầu gối không? Không. Cháu bị đau khuỷu tay. Cháu có muốn băng dán không? Vâng, cảm ơn cô ạ.
+4225	cái đầu cái đầu cái đầu cái bụng cái bụng cánh tay
+4226	Cậu con trai bị đau đầu. Đứa con gái bị đau bụng. Tôi bị đau tai.
+4227	Cậu con trai bị đau mũi.
+4228	Tôi bị đau đầu.
+4229	Con trai tôi bị đau bụng. Người đàn bà bị đau tay. Tôi bị đau mắt.
+4230	Người đàn bà bị đau mũi. Ông ấy bị đau miệng.
+4231	Cháu bị làm sao vậy? Cháu bị đau tai. Cháu bị làm sao vậy? Cháu bị ốm.
+4232	Anh bị làm sao vậy? Tôi bị đau đầu. Anh bị làm sao vậy? Tôi bị đau mắt.
+4233	Nhiệt độ ở bên ngoài là bao nhiêu? Hai độ. Chị nên mặc áo khoác. Nhiệt độ ở bên ngoài là bao nhiêu? Ba mươi độ. Chúng ta nên đi biển.
+4234	Nhiệt độ của em bé là bao nhiêu? Ba mươi bảy độ.
+4235	Nhiệt độ của cháu là bao nhiêu? Ba mươi tám độ.
+4236	Nhiệt độ của con là ba mươi chín độ. Anh sẽ gọi điện cho bác sĩ.
+4237	Số điện thoại của bác sĩ ở trên tủ lạnh.
+4238	Cô ấy đang uống thuốc với nước. Con phải uống thuốc sau bữa tối. Tôi mang thuốc đến cho ông.
+4239	Anh ấy ăn sáng một ngày một lần.
+4240	Tàu khởi hành đi Pari một ngày hai lần. Anh phải uống thuốc này một ngày hai lần. Tôi uống cà phê một ngày một lần.
+4241	Con nên đánh răng một ngày hai lần. Chuyến bay đi Barcelona khởi hành một ngày một lần.
+4242	Bà phải uống thuốc này một ngày bốn lần.
+4243	Xe buýt đi trung tâm thành phố khởi hành một ngày sáu lần.
+4244	Chị có chơi quần vợt không?
+4245	Có. Tôi chơi quần vợt một tuần ba lần. Chị có uống thuốc không?
+4246	Có. Tôi uống thuốc một ngày một lần.
+4247	Cháu bị làm sao vậy? Cháu bị đau bụng.
+4248	Nhiệt độ của chị là ba mươi tám độ.
+4249	Chị nên uống thuốc này một tuần ba lần.
+4250	Cẩn thận. Sàn nhà ướt.
+4251	Cẩn thận. Một chiếc xe ô tô đang đến. Cẩn thận. Cây này rất cao.
+4252	Con phải cẩn thận khi con đạp xe đạp. Chị phải cẩn thận khi chị sửa xe ô tô.
+4253	Anh phải cẩn thận khi anh lái xe ở trên tuyết. Con phải cẩn thận khi con chơi với em bé.
+4254	Ngày mai, anh và con có trượt tuyết không? Có. Ngày mai, anh và con sẽ trượt tuyết. Anh phải cẩn thận!
+4255	Chào anh John. Chào bác sĩ Stone. Anh bị làm sao vậy? Tôi bị đau đầu.
+4256	Anh bị làm sao vậy? Tôi bị ngã thang.
+4257	Anh phải uống thuốc này một ngày hai lần. Cảm ơn bác sĩ.
+4258	Anh nên cẩn thận khi anh trèo thang. Chào anh.
+4259	Chào bác sĩ.
+4260	Anh có thể mang cho tôi cái thang được không?
+4261	Vâng. Tôi sẽ mang cho anh cái thang.
+4262	Thang bị hỏng à? Vâng, thang bị hỏng.
+4263	Anh có cần tôi giúp gì không?
+4264	Không, cảm ơn anh. Tôi không cần giúp gì.
+4265	Anh bị làm sao vậy? Tôi bị đau đầu gối.
+4266	Anh bị làm sao vậy? Tôi bị ngã.
+4267	Anh có cần băng dán không?
+4268	Không, cảm ơn anh. Tôi không cần băng dán.
+4269	Anh có muốn ăn táo không? Không, cảm ơn anh. Tôi có rồi.
+4270	Ai sẽ sống ở đây ạ?
+4271	Một gia đình từ Việt Nam đến. Họ có hai đứa con.
+4272	Các cháu cùng đội bóng đá à? Vâng, chúng cháu cùng đội bóng đá.
+4273	Hôm nay các cháu có tập luyện không? Không ạ. Hôm nay chúng cháu không tập luyện. Ba giờ chúng cháu có trận đấu.
+4274	Tôi có nên hút bụi sàn nhà không? Có, anh nên hút bụi sàn nhà.
+4275	Nó có hoạt động không? Không, nó không hoạt động.
+4276	Tôi có nên quét sàn nhà không? Có, anh nên quét sàn nhà.
+4277	Mấy giờ họ sẽ đến? Họ sẽ đến lúc ba giờ.
+4278	Những người đàn ông này thắng. Người đàn bà này thắng.
+4279	Đứa con gái này thắng. Cậu con trai này thắng.
+4280	Xe ô tô xanh đang thua. Xe ô tô đỏ đang thắng. Đội áo đỏ đang thua.
+4281	Đội áo xanh đang thắng. Chúng em đã thắng! Tôi đã thua.
+4282	Đứa con gái thắng và đứa con trai thua. Họ vui tại vì họ thắng.
+4283	Người đàn ông buồn tại vì anh ấy thua. Người đàn ông áo xanh thắng.
+4284	Không có ai ăn.
+4285	Mọi người đang chạy.
+4286	Mọi người đang nói chuyện. Không có ai chơi.
+4287	Không có ai nhảy. Mọi người đang nhảy. Không có ai ngồi. Mọi người đang ngồi.
+4288	Không có cái gì ở dưới gầm giường. Mọi thứ ở trên bàn đều màu xanh. Không có cái gì ở trong văn phòng.
+4289	Mọi thứ ở trong bồn rửa bát đều bẩn.
+4290	Không có cái gì ở trên thảm. Có cái gì ở trên cỏ.
+4291	Mọi thứ đều ở trên sàn nhà.
+4292	Không có cái gì mới ở trong phòng này. Có cái gì màu cam ở trong phòng khách. Mọi thứ ở trong nhà này đều nhỏ.
+4293	Không có cái gì ở trong tủ lạnh. Mọi thứ ở trên quầy.
+4294	Không có cái gì ở trên quầy. Mọi thứ ở trong tủ lạnh.
+4295	Không có cái gì ở trong bồn rửa bát. Mọi thứ ở trên bàn.
+4296	Không có cái gì ở trên bàn. Mọi thứ ở trong bồn rửa bát.
+4297	Có đủ bút cho mọi người.
+4298	Không có đủ ghế cho mọi người.
+4299	Không có đủ cà phê cho mọi người.
+4300	Có đủ món tráng miệng cho mọi người.
+4301	Có đủ cốc cho mọi người không? Có. Có đủ cốc cho mọi người. Có đủ nĩa cho mọi người không? Không. Không có đủ nĩa cho mọi người.
+4302	Đội này mặc áo xanh.
+4303	Tôi chơi trong đội mà mặc áo xanh.
+4304	Đội mà mặc áo xanh sắp thắng.
+4305	Đội mà mặc áo xanh đã thua.
+4306	Một trong những con chó này mặc áo len màu đỏ.
+4307	Em ấy đang chơi với con chó mà mặc áo len màu đỏ.
+4308	Em ấy đang chạy với con chó mà mặc áo len màu đỏ.
+4309	Đứa con trai sắp thắng.
+4310	Đứa con trai mà thắng rất vui.
+4311	Đứa con gái sắp ngã.
+4312	Đứa con gái mà bị ngã bị đau tay.
+4313	Người đàn ông sắp thua.
+4314	Người đàn ông mà thua rất buồn.
+4315	Người đàn bà này dạy mỹ thuật.
+4316	Người đàn bà mà dạy mỹ thuật đang nói chuyện với đứa con gái.
+4317	Người đàn bà mà dạy mỹ thuật đang mua một bức tranh.
+4318	Nhạc sĩ nào là bạn của anh?
+4319	Nhạc sĩ mà đang chơi đàn ghi ta là bạn của tôi. Cháu đi chuyến bay nào?
+4320	Cháu đi chuyến bay mà khởi hành lúc năm giờ rưỡi.
+4321	Tôi cần một người mà có thể sửa được máy rửa bát của tôi!
+4322	Em ấy cần một người mà có thể chơi với em ấy được.
+4323	Các em ấy cần một người mà có thể trèo cây này được.
+4324	Chúng tôi cần một người mà có thể giúp chúng tôi mua một ngôi nhà được.
+4325	Tôi cần một người mà nói tiếng Việt.
+4326	Tôi có rất nhiều bạn mà hát hay.
+4327	Tôi cần một người mà nhảy giỏi.
+4328	Chúng tôi làm việc ở trong một văn phòng mà có nhiều cửa sổ.
+4329	Chúng tôi muốn làm việc ở trong một văn phòng mà có nhiều cửa sổ.
+4330	Em có một chị gái mà biết chơi đàn piano.
+4331	Tôi cần một người mà biết chơi đàn ghi ta.
+4332	Chị có cần gì không?
+4333	Tôi đang tìm một người mà biết nói tiếng Trung Quốc.
+4334	Chúng tôi đang tìm cái gì mà cô ấy có thể mặc đến buổi tiệc hóa trang được.
+4335	Chị có biết tên của anh ấy không? Có, anh ấy tên là John.
+4336	Em có biết chúng ta đang ở đâu không? Có, chúng ta đang ở đây.
+4337	Em biết em có bao nhiêu tiền. Em không biết có bao nhiêu.
+4338	Cô ấy biết cái này giá bao nhiêu tiền. Không có ai biết ở biển có bao nhiêu cá.
+4339	Anh ấy không biết là họ đang ở trong nhà. Tôi không biết chìa khóa của tôi ở đâu. Các em ấy không biết đây là cái gì.
+4340	Cô ấy không biết là anh ấy mua hoa cho cô ấy.
+4341	Chị có biết cô ấy là ai không? Không, tôi không biết cô ấy là ai.
+4342	Anh có biết bao nhiêu người sắp đến không? Bốn người sắp đến.
+4343	Anh ấy biết là trời lạnh ở bên ngoài.
+4344	Bố mẹ không biết là các con họ đang nhìn. Các em ấy biết là mẹ các em đang xem.
+4345	Họ biết nơi nào có cá.
+4346	Cô ấy không biết xe ô tô của cô ấy ở đâu. Các em ấy không biết là em bé đang ngủ. Cô ấy biết là em bé đang ngủ.
+4347	Anh có biết là anh có đủ tiền hay không? Có, tôi có đủ tiền.
+4348	Anh có biết là đội áo đỏ sẽ thua hay không? Không, tôi không biết là đội áo đỏ sẽ thua hay không.
+4349	Chị có biết là anh ấy sẽ đến viện bảo tàng hay không?
+4350	Không, tôi không biết là anh ấy sẽ đến viện bảo tàng hay không.
+4351	Chị có biết là cô ấy chơi đàn piano hay không? Không, tôi không biết là cô ấy chơi đàn piano hay không.
+4352	Chắc hôm nay trời sẽ nắng.
+4353	Chắc đêm nay tuyết sẽ rơi.
+4354	Chắc ngày mai trời sẽ mưa.
+4355	Tháng trước, đội áo đỏ thắng năm trận đấu và thua một trận đấu.
+4356	Chắc đội áo đỏ sẽ thắng trận đấu này.
+4357	Tháng trước, đội áo vàng thua nhiều trận đấu hơn đội áo xanh.
+4358	Chắc đội áo vàng sẽ thua trận đấu này.
+4359	Chị sẽ mua cái áo đầm nào?
+4360	Chắc tôi sẽ mua cái áo đầm đỏ mặc dù cái áo đầm xanh rất vừa.
+4361	Tại vì cái áo đầm đỏ rẻ hơn.
+4362	Anh chị sẽ đi Rôma hay Pari?
+4363	Chắc chúng tôi sẽ đi Pari mặc dù chúng tôi muốn đi Rôma.
+4364	Tại sao anh chị đi Pari?
+4365	Tại vì chúng tôi muốn đi viện bảo tàng mỹ thuật ở Pari.
+4366	Đội nào sẽ thắng?
+4367	Chắc đội áo xanh sẽ thắng mặc dù đội áo vàng chơi rất hay.
+4368	Tại vì bây giờ đội áo xanh đang thắng.
+4369	Chị thích mùa hè hay mùa đông hơn?
+4370	Tôi thích mùa đông hơn mặc dù vào mùa hè trời nắng.
+4371	Tại sao chị thích mùa đông hơn? Tại vì tôi thích trượt tuyết.
+4372	Không có ai mang món tráng miệng.
+4373	Anh có biết là chúng ta có đủ bánh ngọt cho tất cả khách mời hay không?
+4374	Chắc chúng ta không có đủ. Chúng ta nên mua một cái bánh ngọt.
+4375	Ai Cập ở lục địa Châu Phi. Nước Ý ở lục địa Châu Âu. Braxin ở lục địa Nam Mỹ.
+4376	Nước Mỹ ở lục địa Bắc Mỹ.
+4377	Nước Úc là một nước và là một lục địa. Trung Quốc ở lục địa Châu Á.
+4378	Lục địa này là Châu Phi. Lục địa này là Châu Âu. Lục địa này là Nam Mỹ. Lục địa này là Bắc Mỹ.
+4379	Lục địa này là Châu Á.
+4380	Lục địa này là Châu Nam Cực. Lục địa này là nước Úc.
+4381	Đây là một đám cưới ở Châu Phi. Đây là một đám cưới ở Nam Mỹ. Đây là một đám cưới ở Châu Âu.
+4382	Đây là một đám tang ở Châu Á. Đây là một đám tang ở Bắc Mỹ. Đây là một đám tang ở Châu Phi.
+4383	Đây là một đám cưới ở Châu Á. Đây là một đám tang ở Châu Âu. Đây là một đám tang ở Châu Á. Đây là một đám cưới ở Châu Âu.
+4384	Quyển sách này viết về những con vật ở Châu Nam Cực.
+4385	Bà ấy đang xem phim về những người sống ở Châu Phi.
+4386	Quyển sách này viết về thuyền buồm.
+4387	Bộ phim này nói về lịch sử Châu Á.
+4388	Cô ấy đang làm việc, nhưng cô ấy đang nghĩ đến gia đình.
+4389	Em ấy đang nghĩ đến ông bà nội.
+4390	Tôi đang nghĩ đến vợ.
+4391	Con đang nghĩ đến gì?
+4392	Con đang nghĩ đến trận đấu bóng đá tuần tới. Con đang nghĩ đến gì?
+4393	Con đang nghĩ đến đám cưới của con tháng tới.
+4394	Ông ngoại tôi sinh vào năm 1901.
+4395	Ông ngoại kết hôn với bà ngoại vào năm 1922. Ông ngoại sống ở nước Pháp năm mươi hai năm.
+4396	Ông ngoại mất vào năm 1983.
+4397	Người đàn bà này sẽ kết hôn ở Châu Á.
+4398	Con vật này sinh ở nước Úc.
+4399	Người đàn ông này mất ở Châu Nam Cực.
+4400	Chúc mừng chị có em bé! Chúc mừng anh chị có nhà mới! Xin chia buồn cùng chị.
+4401	Xin chia buồn cùng chị.
+4402	Hôm nay tôi sẽ kết hôn. Chúc mừng đám cưới chị! Hôm qua vợ tôi sinh con trai. Chúc mừng anh chị có em bé! Tuần trước bố tôi mất.
+4403	Tháng trước bà nội tôi mất.
+4404	Mười một giờ đêm hôm qua, tôi sinh con gái!
+4405	Chúc mừng chị!
+4406	Em hy vọng nó là đồ chơi.
+4407	Nó là đồ chơi!
+4408	Nó không phải là đồ chơi. Nó là cái áo.
+4409	Tôi hy vọng tôi tìm thấy quyển sách của tôi.
+4410	Tôi đã tìm thấy quyển sách của tôi.
+4411	Em hy vọng em có thể bắt được quả bóng này.
+4412	Em đã không bắt được quả bóng.
+4413	Tôi hy vọng trời sẽ không mưa trong ngày đám cưới của tôi.
+4414	Trời đã mưa trong ngày đám cưới của tôi.
+4415	Tôi hy vọng tôi sẽ có một đứa con gái.
+4416	Chị có con trai!
+4417	Chúng tôi hy vọng đội của chúng tôi sẽ thắng. Đội của chúng tôi đã thua.
+4418	Anh ấy hy vọng cô ấy sẽ kết hôn với anh ấy. Cô ấy sẽ kết hôn với anh ấy!
+4419	Chúng tôi vui. Các em ấy sợ. Em buồn.
+4420	Họ vui tại vì họ đang chơi với nhau. Cô ấy buồn tại vì cô ấy sắp đi.
+4421	Anh ấy sợ tại vì anh ấy đang học lái xe.
+4422	Những người trong đám tang này buồn.
+4423	Những người trong đám cưới này vui.
+4424	Bà ấy sợ tại vì bà ấy bị lạc đường.
+4425	Bà ngoại tôi kết hôn ở Châu Phi cách đây một trăm năm.
+4426	Tôi sinh ở Nam Mỹ cách đây mười lăm năm.
+4427	Tôi sống ở Châu Á cách đây mười năm.
+4428	Em bé sinh ở Châu Âu cách đây bốn ngày.
+4429	Chúng tôi kết hôn cách đây hai mươi năm. Chúng tôi đã kết hôn hai mươi năm rồi. Người đàn ông này mất cách đây ba nghìn năm.
+4430	Ông ấy đã mất ba nghìn năm rồi.
+4431	Chúng tôi kết hôn cách đây năm mươi năm. Người Châu Âu đi thuyền đến Bắc Mỹ cách đây năm trăm năm.
+4432	Cháu bị ngã xe đạp cách đây hai tiếng.
+4433	Người đàn ông này đã mất nhiều năm rồi.
+4434	Họ đã kết hôn hai mươi lăm năm rồi.
+4435	Họ đã kết hôn một năm rồi.
+4436	Tôi đã học nhạc mười lăm năm rồi.
+4437	Anh ấy đã chơi gôn mười năm rồi.
+4438	Họ đã sống ở nước Úc năm năm rồi.
+4439	Anh đã học tiếng Việt bao lâu rồi? Tôi đã học tiếng Việt bảy tháng rồi.
+4440	Họ đang xây một ngôi nhà.
+4441	Họ đang xây một sân vận động.
+4442	Họ đang xây một ngôi đền.
+4443	Họ đang xây một cái cầu.
+4444	Họ xây bệnh viện này ở Châu Phi.
+4445	Họ đang xây bệnh viện này ở Nam Mỹ.
+4446	Họ sẽ xây bệnh viện này ở Châu Á.
+4447	Các anh đã bắt đầu xây trường học này bao lâu rồi?
+4448	Chúng tôi đã bắt đầu xây trường học này một năm rồi.
+4449	Anh ấy đã bắt đầu xây cái này bao lâu rồi? Anh ấy đã bắt đầu xây cái này một tuần rồi.
+4450	Tối hôm qua tôi đọc xong một quyển sách. Bây giờ tôi cần một quyển mới.
+4451	Chúng tôi xây xong ngôi nhà này cách đây một tháng. Bây giờ chúng tôi sống ở đây.
+4452	Em ấy dọn dẹp phòng xong cách đây mười phút. Bây giờ em ấy đang chơi đồ chơi.
+4453	Anh chị đã bắt đầu xây ngôi nhà này bao lâu rồi?
+4454	Chúng tôi đã bắt đầu xây ngôi nhà này hai năm rồi.
+4455	Khi nào anh chị sẽ xây xong?
+4456	Chúng tôi hy vọng chúng tôi sẽ xây xong trước khi em bé sinh.
+4457	Chào mừng anh đến nhà mới của chúng tôi.
+4458	Chúc mừng anh chị!
+4459	Chắc em bé sắp sinh. Em bé của họ sinh rồi. Họ sắp kết hôn.
+4460	Họ kết hôn rồi.
+4461	Trời có sắp mưa không ạ? Không, trời không sắp mưa. Con ăn rau đi.
+4462	Con ăn rau rồi!
+4463	Các con sắp dọn dẹp bếp xong chưa? Chúng con dọn dẹp bếp xong rồi ạ! Các anh sắp sửa xong cầu chưa? Chúng tôi sửa xong cầu rồi.
+4464	Châu Âu ở phía bắc Châu Phi. Nước Úc ở phía đông Châu Phi. Châu Nam Cực ở phía nam Châu Phi. Nam Mỹ ở phía tây Châu Phi.
+4465	Trung Quốc ở phía tây Nhật Bản. Nước Nga ở phía bắc Trung Quốc. Nước Ý ở phía đông nước Pháp. Nước Úc ở phía nam nước Nga.
+4466	Cái cây ở giữa đứa con gái và người đàn ông. Đứa con gái ở giữa hai người đàn bà.
+4467	Con chó ở giữa hai người.
+4468	Cái cốc trống rỗng ở giữa hai cái cốc đầy.
+4469	Đây là Thái Bình Dương. Đây là Bắc Băng Dương. Đây là Đại Tây Dương.
+4470	Đây là Ấn Độ Dương.
+4471	Ấn Độ Dương ở đâu?
+4472	Ấn Độ Dương ở phía đông Châu Phi. Bắc Băng Dương ở đâu?
+4473	Bắc Băng Dương ở phía bắc của tất cả các lục địa.
+4474	Đại Tây Dương ở đâu?
+4475	Đại Tây Dương ở giữa Nam Mỹ và Châu Phi.
+4476	Người đàn ông đang đi thuyền ở Đại Tây Dương. Con vật này đang bơi ở Bắc Băng Dương.
+4477	Tôi đang đi bộ ở bên cạnh Ấn Độ Dương. Họ đang bơi ở Thái Bình Dương.
+4478	Tây Ban Nha ở phía nam nước Pháp. Mêhicô ở phía đông Thái Bình Dương. Nước Pháp ở giữa nước Đức và Tây Ban Nha. Nước Anh ở phía bắc nước Pháp.
+4479	Đầu tiên, chuyến bay của tôi khởi hành từ Mêhicô.
+4480	Sau đó, chuyến bay của tôi đến nước Anh. Sau đó, tôi đi tàu xuống phía nam đến nước Pháp.
+4481	Cuối cùng, tôi lái xe về phía đông, đến nước Đức.
+4482	Thứ tư, chuyến bay của tôi sẽ khởi hành từ nước Úc.
+4483	Thứ năm, chuyến bay này sẽ đến Tây Ban Nha.
+4484	Tôi sẽ ở Tây Ban Nha một tuần.
+4485	Cuối cùng, tôi sẽ đi tàu đến nước Đức.
+4486	Người đàn ông đang đi bộ ở trên sa mạc. Con vật này sống ở sa mạc.
+4487	Những bông hoa này ở trong rừng nhiệt đới. Rừng nhiệt đới ở bên cạnh bãi biển.
+4488	Anh chụp bức ảnh này ở đâu?
+4489	Tôi chụp bức ảnh này ở sa mạc ở Mêhicô. Anh chụp bức ảnh này ở đâu?
+4490	Tôi chụp bức ảnh này ở trong rừng nhiệt đới ở Braxin.
+4491	cây
+4492	những con vật những con vật người
+4493	Đây là những cây cao. Đây là một cây nhỏ.
+4494	Có những loại cây có hoa.
+4495	Có những loại cây không có hoa.
+4496	Những loại cây này mọc ở đâu?
+4497	Những loại cây này mọc ở rừng nhiệt đới. Những loại cây này mọc ở đâu?
+4498	Những loại cây này mọc ở sa mạc.
+4499	Đây là cây táo. Đây là cây thông. Đây là cây cam.
+4500	Loại cây gì mọc ở đây? Cỏ.
+4501	Loại cây gì mọc ở đây? Cây thông.
+4502	Loại cây gì mọc ở đây? Cây cam.
+4503	Đây là cây gì? Đây là cây táo. Đây là cây gì?
+4504	Đây là cây thông.
+4505	Anh ấy nói gì?
+4506	Anh ấy nói là chuyến tàu đi nước Đức bị muộn. Anh ấy nói gì?
+4507	Anh ấy nói là bà phải uống thuốc.
+4508	Xin lỗi chị, chị nói gì?
+4509	Tôi nói là tôi thích cái áo sơ mi của anh. Xin lỗi anh, anh nói gì?
+4510	Tôi nói là tôi cần một cái va li to hơn.
+4511	Cô giáo nói gì?
+4512	Cô giáo nói là loại cây này mọc ở rừng nhiệt đới.
+4513	Bác sĩ nói gì?
+4514	Bác sĩ nói là tôi nên uống thuốc này một ngày hai lần.
+4515	Người cảnh sát nói gì?
+4516	Người cảnh sát nói là công viên ở phía tây.
+4517	Thầy giáo nói gì?
+4518	Thầy giáo nói là nước Anh ở Châu Âu. Cô giáo nói gì?
+4519	Cô giáo nói là Ai Cập ở Châu Phi.
+4520	Người mẹ đang bế em bé. Người bố đang bế con gái.
+4521	Cô giáo đang cầm một cái máy tính xách tay. Họ đang cầm một cái bản đồ.
+4522	Em đang bế em trai em.
+4523	Em ấy đang cầm những bông hoa. Tôi đang bế con tôi.
+4524	Chúng tôi đang cầm những bức ảnh của nhau.
+4525	Bà ấy đang cầm đồ chơi à? Không, bà ấy không cầm đồ chơi. Anh ấy đang bế con à?
+4526	Vâng, anh ấy đang bế con.
+4527	lửa
+4528	băng
+4529	cát
+4530	Có nhiều cát ở sa mạc. Có nhiều cát ở bãi biển.
+4531	Có nhiều băng ở Châu Nam Cực.
+4532	Bức tượng này làm bằng băng.
+4533	Cái này trông giống như lửa, nhưng nó làm bằng giấy.
+4534	Tòa nhà này làm bằng cát.
+4535	Đây là nhà của anh ấy.
+4536	Đây có phải là nhà của anh ấy không? Vâng, của anh ấy.
+4537	Đây là con chó của cô ấy.
+4538	Đây có phải là con chó của anh ấy không? Không, của cô ấy.
+4539	Đây là thuyền buồm của ai? Của anh ấy.
+4540	Đây là tay của ai? Của cô ấy.
+4541	Đây là đồ chơi của ai?
+4542	Những chiếc xe ô tô này là của chúng em. Quả bóng này là của chúng em.
+4543	Những nhạc cụ này của ai? Những cái trống này là của cháu. Đàn ghi ta này là của cháu.
+4544	Con chó kia là của anh ấy. Con chó kia là của cô ấy. Con chó này là của tôi.
+4545	Con chó này là của chúng tôi.
+4546	Con mèo này của ai? Của chị ấy.
+4547	Không, của em ấy.
+4548	Xin lỗi chú. Nó là của cháu. Nó có đói không?
+4549	Có. Nó đói.
+4550	Lạc đà sống ở sa mạc. Cá voi sống ở biển.
+4551	Khỉ sống ở trong rừng nhiệt đới.
+4552	Chim cánh cụt sống ở Châu Nam Cực. Hổ sống ở Châu Á.
+4553	Voi sống ở Châu Á và Châu Phi.
+4554	Con voi đang ở dưới nước. Con hổ đang chạy.
+4555	Những con chim cánh cụt sắp bơi. Con cá voi đang bơi.
+4556	Có người đang cưỡi lạc đà. Con khỉ đang ở trên cây.
+4557	một con lạc đà một con cá voi một con khỉ một con hổ một con voi
+4558	một con chim cánh cụt
+4559	Con chim này màu vàng. Con chim này màu đỏ.
+4560	Con chim này đang đứng ở trên bông hoa. Con chim này đang đứng ở trên cây.
+4561	Những con chim này màu xanh. Con chim này sắp ăn.
+4562	Con chim của anh ấy biết nói.
+4563	Một trong những con cừu này màu nâu. Những con bò này màu đen và màu trắng. Những con vịt này màu trắng.
+4564	Những con gà này màu nâu.
+4565	một con cừu một con bò một con vịt một con gà
+4566	Chim cánh cụt là loài chim.
+4567	Gà là loài chim.
+4568	Vịt là loài chim.
+4569	Những con chim cánh cụt không thể bay được, nhưng chúng bơi giỏi.
+4570	Những con chim này đang bay về phía bắc. Những con chim này không thể bay được, nhưng chúng chạy rất nhanh.
+4571	Con vịt này đang bay qua hồ.
+4572	Con chim màu trắng đang bay.
+4573	Con chim cánh cụt này đang ở dưới nước. Những con cá voi đang bơi.
+4574	Những con vịt đang bay.
+4575	Con chim này đẹp. Những con chim này xấu. Đây là một con phố đẹp. Đây là một con phố xấu.
+4576	Con mèo của em xấu. Con chó của em xấu.
+4577	Những con ngựa của chị đẹp. Những con bò của tôi đẹp.
+4578	Bức tượng này đẹp. Bức tượng này xấu. Áo đầm của tôi đẹp. Áo đầm của tôi xấu.
+4579	Có người đang sờ tay vào con chim. Có người đang sờ tay vào băng.
+4580	Có người đang sờ tay vào quyển sách.
+4581	Con có thể sờ tay vào cây này.
+4582	Con có thể sờ tay vào con vật này nhưng con phải cẩn thận.
+4583	Con có muốn sờ tay vào con ngựa không?
+4584	một con côn trùng một con côn trùng một con côn trùng một con rắn một con rắn một con ếch
+4585	Uống cái này nguy hiểm.
+4586	Uống cái này không nguy hiểm. Sờ tay vào con rắn này nguy hiểm.
+4587	Sờ tay vào con rắn này không nguy hiểm.
+4588	Đừng sờ tay vào cái bếp đó. Nó nóng. Đừng sờ tay vào con vật đó. Nó bẩn.
+4589	Đừng sờ tay vào con ếch đó. Nó nguy hiểm.
+4590	Cưỡi con ngựa này nguy hiểm.
+4591	Cưỡi những con ngựa này không nguy hiểm. Cắm trại ở đây nguy hiểm.
+4592	Cắm trại ở đây không nguy hiểm.
+4593	Con ếch này đẹp nhưng nguy hiểm. Đừng sờ tay vào nó.
+4594	Con ếch này xấu nhưng không nguy hiểm. Bạn có thể sờ tay vào nó.
+4595	Con côn trùng này đẹp và nó không nguy hiểm.
+4596	Bạn có thể sờ tay vào nó.
+4597	Con côn trùng này xấu và nguy hiểm. Đừng sờ tay vào nó.
+4598	Mình hy vọng chúng mình có thể tìm thấy được một con ếch.
+4599	Em hy vọng chúng em có thể cưỡi lạc đà được.
+4600	Bơi với cá mập rất nguy hiểm.
+4601	Sờ tay vào con hổ rất nguy hiểm.
+4602	Anh ấy hy vọng anh ấy có thể chụp ảnh những con voi được.
+4603	Cô ấy hy vọng cô ấy có thể chụp ảnh những con chim cánh cụt được.
+4604	Họ hy vọng họ có thể chụp ảnh cá mập được.
+4605	Em ấy không sợ côn trùng.
+4606	Con mèo không sợ con chó.
+4607	Em ấy sợ những con cá mập.
+4608	Họ sợ con rắn.
+4609	Em sợ sờ tay vào côn trùng nhưng bố em nói nó không nguy hiểm.
+4610	Mẹ em nói là những con vật này từ Châu Phi đến.
+4611	Em sợ sờ tay vào con cừu nhưng cô giáo em nói nó không nguy hiểm.
+4612	Ông nội em nói là những con rắn này từ nước Úc đến.
+4613	Con khỉ này của chúng ta. Con vịt kia của họ.
+4614	Những con gà này của chúng em. Những con bò kia của họ.
+4615	Chìa khóa này có phải của anh chị không? Vâng, chìa khóa của chúng tôi.
+4616	Con chó kia có phải của cháu không? Không, con chó của họ.
+4617	Cái cốc nào của cháu? Cái này của cháu. Chỗ nào của tôi?
+4618	Chỗ kia của chị.
+4619	Xin lỗi chị, cái này có phải của chị không? Vâng, cảm ơn anh. Cái này của tôi.
+4620	Cái va li này của anh.
+4621	Những quả bóng này của cháu.
+4622	Xin lỗi chị, cái ô này có phải của chị không?
+4623	Những cái áo khoác này của anh chị.
+4624	Tôi thích những quả của chị. Của chị to hơn của tôi.
+4625	Những cái bánh của bạn ngon nhưng của bà ngon hơn.
+4626	Chiếc xe ô tô của họ bẩn hơn của chúng ta. Anh ấy đang chơi đàn vĩ cầm. Đàn vĩ cầm của anh ấy mới hơn của bạn.
+4627	Con chim của cô rất đẹp. Nó từ đâu đến ạ? Nó từ rừng nhiệt đới ở Châu Phi đến.
+4628	Nó bị làm sao vậy? Nó bị đau.
+4629	Nó có thể bay được không ạ?
+4630	Bây giờ nó không thể bay được, nhưng hai tuần nữa nó sẽ có thể bay được.
+4631	Anh có biết sửa xe ô tô không? Không. Tôi không biết sửa xe ô tô.
+4632	Chào anh chị. Chào chị.
+4633	Tôi tên là Will Norton. Đây là vợ tôi, Julia.
+4634	Rất vui được gặp anh chị. Tôi tên là Catherine. Anh chị có cần gì không?
+4635	Xe ô tô của chúng tôi không chạy. Chị có thể giúp chúng tôi được không?
+4636	Chắc chồng tôi biết sửa.
+4637	Anh ấy có ở đây không?
+4638	Không, anh ấy không có ở đây. Anh ấy đang làm việc, nhưng anh ấy sắp về.
+4639	Anh chị có muốn chờ ở bên trong không? Vâng, cảm ơn chị.
+4640	Chào mừng anh chị đến nhà chúng tôi! Cảm ơn chị!
+4641	Đây có phải là con gái của anh chị không? Vâng, đây là con gái chúng tôi.
+4642	Cháu sinh khi nào?
+4643	Cháu sinh cách đây hai tháng.
+4644	Anh có muốn bế cháu không?
+4645	Vâng, tôi muốn bế cháu.
+4646	Gia đình của chị đã sống ở đây bao lâu rồi? Gia đình tôi đã sống ở đây nhiều năm rồi.
+4647	Ông ngoại tôi xây ngôi nhà này cách đây bảy mươi lăm năm.
+4648	Ngôi nhà rất đẹp.
+4649	Anh chị kết hôn hồi nào?
+4650	Chúng tôi kết hôn cách đây bảy năm.
+4651	Chị đang nghĩ đến gì?
+4652	Tôi đang nghĩ đến đám cưới của tôi.
+4653	Anh chị có muốn ăn trưa với chúng tôi không? Vâng, cảm ơn chị.
+4654	Có đủ cốc cho mọi người không? Có, có đủ.
+4655	Xe ô tô kia có phải của anh chị không? Vâng, xe ô tô kia của chúng tôi.
+4656	Anh có thể sửa được không? Vâng, tôi có thể sửa được.
+4657	Cảm ơn anh. Không có gì.
+4658	Xe ô tô có chạy không? Có, xe ô tô đang chạy.
+4659	Ông ấy đang đi thuyền với vợ.
+4660	Anh ấy đang đi bộ ở trong công viên với bạn gái. Bà ấy đang mua sắm với chồng.
+4661	Cô ấy đang trượt tuyết với bạn trai. Người chồng và vợ đang dọn dẹp nhà. Người đàn ông đang gặp bạn gái để ăn sáng.
+4662	Đây là Thomas, bạn trai của tôi. Rất vui được gặp anh.
+4663	Đây là Rebecca, bạn gái của tôi. Rất vui được gặp chị.
+4664	Tôi nghĩ là đội Việt Nam sẽ thắng trận đấu này. Tôi nghĩ là tối hôm nay trời sẽ mưa.
+4665	Anh ấy nghĩ là không có ai ở nhà. Tôi nghĩ là áo khoác của tôi ở đây.
+4666	Tôi nghĩ là bạn gái của tôi ở trong thư viện. Họ nghĩ là con gái của họ đang ngủ.
+4667	Tôi nghĩ là xe ô tô của chúng ta ở gần nhà hàng kia.
+4668	Tôi nghĩ là tôi có thể sửa được cái này. Tôi không nghĩ là hôm nay trời sẽ mưa.
+4669	Tôi nghĩ là đây là một nhà hàng ăn rất ngon. Tôi nghĩ là tuyết sắp rơi.
+4670	Anh có nghĩ là đội của chúng ta sẽ thua không? Có, tôi nghĩ là chúng ta sẽ thua.
+4671	Anh có nghĩ là đội của chúng ta sẽ thắng không? Có, tôi nghĩ là chúng ta sẽ thắng.
+4672	Anh có biết Nicholas, bạn trai của tôi không? Có. Trước đây chúng tôi làm việc ở cùng một văn phòng.
+4673	Anh có biết Maria, bạn gái của tôi không? Không. Rất vui được gặp chị.
+4674	Đây là Louis, bạn của tôi. Anh chị có biết nhau không?
+4675	Không, chúng tôi không biết nhau.
+4676	Tôi tên là Suzanne.
+4677	Anh John! Anh đang làm gì ở New York? Bây giờ tôi sống ở đây.
+4678	Anh có biết Julia, vợ tôi không? Không, tôi không biết. Tôi tên là John. Rất vui được gặp anh.
+4679	Cô ấy nghĩ là bạn trai của cô ấy nấu ăn dở.
+4680	Em nghĩ là giày đỏ xấu.
+4681	Cô ấy nghĩ là anh ấy hát dở.
+4682	Chúng em nghĩ là bánh ngọt rất ngon.
+4683	Các em ấy nghĩ là học toán rất thú vị.
+4684	Các em ấy nghĩ là học lịch sử rất chán.
+4685	Cô ấy có một quyển sách rất thú vị.
+4686	Anh ấy có một quyển sách rất chán.
+4687	Cô ấy nghĩ là viện bảo tàng này rất chán.
+4688	Anh ấy nghĩ là học khoa học rất thú vị.
+4689	Em ấy nghĩ là đọc sách rất thú vị nhưng xem tivi rất chán.
+4690	Xem trận đấu rất thú vị với những người đàn ông này, nhưng rất chán với bạn gái của họ.
+4691	Xem phim này rất thú vị.
+4692	Xem phim này rất chán.
+4693	Đọc quyển sách này rất thú vị.
+4694	Đọc quyển sách này rất chán.
+4695	Kia có phải là bạn trai của cô ấy không? Vâng. Tôi nghĩ là năm tới họ sẽ kết hôn. Anh có nghĩ kia là vợ anh ấy không?
+4696	Không. Anh ấy chưa kết hôn. Đó là bạn gái của anh ấy.
+4697	Chị có biết Peter không?
+4698	Có, tôi biết Peter. Em ấy là một trong những học sinh của tôi.
+4699	Chị gặp em ấy khi nào?
+4700	Tôi gặp em ấy cách đây ba tháng.
+4701	Anh gặp Daniel ở đâu?
+4702	Hồi xưa chúng tôi là sinh viên cùng trường đại học.
+4703	Chị gặp Daniel khi nào?
+4704	Tôi gặp anh ấy cách đây hai năm.
+4705	Mẹ gặp bố khi nào?
+4706	Bố mẹ gặp nhau khi bố đang tham quan Rôma và mẹ đang làm việc ở đó.
+4707	Bố mẹ gặp nhau ở đâu?
+4708	Bố mẹ gặp nhau ở quán cà phê.
+4709	Cô ấy bắt đầu dạy mỹ thuật cách đây hai mươi lăm năm.
+4710	Cô ấy đã dạy mỹ thuật hai mươi lăm năm rồi.
+4711	Tôi gặp anh ấy cách đây năm mươi năm.
+4712	Chúng tôi đã biết nhau năm mươi năm rồi.
+4713	Bạn gái của anh đọc quyển sách này chưa? Vâng, cô ấy đọc rồi.
+4714	Bạn trai của chị sửa máy rửa bát chưa? Chưa, anh ấy chưa sửa.
+4715	Năm nay cháu đọc bao nhiêu quyển sách? Cháu đã đọc mười quyển sách và có hai quyển rất thú vị!
+4716	Tuần này con đã dọn dẹp phòng hai lần rồi! Tháng này bố mẹ tôi đã viết cho tôi bốn lá thư rồi.
+4717	Hôm nay con đã tập đàn piano rồi.
+4718	Không, cảm ơn chị. Hôm nay tôi đã ăn trưa rồi.
+4719	Bơi ở đây rất nguy hiểm.
+4720	Trượt tuyết ở đây không nguy hiểm. Anh ấy thích tập thể dục.
+4721	Tôi thích nhảy hơn chơi gôn.
+4722	Ở sa mạc, uống nước nhiều là quan trọng. Uống thuốc là quan trọng.
+4723	Rửa tay trước khi nấu ăn là quan trọng. Đến sân bay sớm là quan trọng.
+4724	Tại sao học là quan trọng ạ?
+4725	Tại vì con sẽ có thể học ở một trường đại học nổi tiếng.
+4726	Tại sao đánh răng là quan trọng ạ? Tại vì răng sẽ sạch hơn và trắng hơn. Những giấy tờ này có quan trọng không? Không, chúng không quan trọng.
+4727	Em nghĩ là học toán rất thú vị và quan trọng. Tôi biết là tập thể dục rất quan trọng nhưng tôi nghĩ là nó rất chán.
+4728	Em biết là ăn rau rất quan trọng nhưng em không thích rau.
+4729	Em nghĩ là học tiếng Việt rất quan trọng và thú vị.
+4730	Màu này sai. Màu này đúng.
+4731	Số điện thoại này sai. Số điện thoại này đúng.
+4732	Quần áo này không phù hợp để trượt tuyết. Quần áo này phù hợp để bơi.
+4733	Quả bóng này không phù hợp để chơi gôn. Quả bóng này phù hợp để chơi bóng đá. Cái bàn này có cỡ không phù hợp với người đàn ông này.
+4734	Cái bàn này có cỡ phù hợp với đứa con gái này.
+4735	Tôi nghĩ là tòa nhà này sai. Kia là tòa nhà đúng.
+4736	Cái áo khoác này phù hợp cho thời tiết hôm nay.
+4737	Nhưng cái mũ này không phù hợp cho thời tiết hôm nay.
+4738	Anh đặt bàn trước ở nhà hàng mới rồi. Em nghĩ là nhà hàng này sai.
+4739	Nhà hàng này đúng.
+4740	Những cái đĩa này không phù hợp. Những cái đĩa này có phù hợp không? Có. Cảm ơn con.
+4741	Nếu em có đủ tiền thì em sẽ mua cái này. Nếu trời nắng thì tôi sẽ bơi ở biển.
+4742	Tại sao tập luyện là quan trọng ạ?
+4743	Nếu con tập luyện thì con sẽ chơi giỏi hơn. Tại sao học tiếng Việt là quan trọng ạ? Nếu em học tiếng Việt thì em sẽ có thể nói được tiếng Việt.
+4744	Nếu nó là số mười thì tôi sẽ thắng. Tôi thua tại vì nó là số bảy.
+4745	Nếu tuyết rơi thì chúng ta sẽ đi trượt tuyết. Chúng tôi sẽ đi trượt tuyết tại vì tuyết rơi. Nếu các con dọn dẹp phòng thì mẹ sẽ chơi trò chơi với các con.
+4746	Chúng ta sẽ chơi trò chơi tại vì các con dọn dẹp phòng.
+4747	Con không tìm thấy giày của con.
+4748	Nếu con dọn dẹp phòng của con thì chắc con sẽ tìm thấy chúng.
+4749	Chị có biết bức tượng nổi tiếng này ở đâu không?
+4750	Nếu chị đi đến trung tâm thành phố thì chị sẽ tìm thấy nó.
+4751	Bố gặp mẹ ở đâu ạ?
+4752	Hồi bố đi học ở Trung Quốc, mẹ con đang sống ở đó.
+4753	Học tiếng Trung Quốc có thú vị không ạ? Có. Mẹ con giúp bố học.
+4754	Học tiếng Trung Quốc có quan trọng không ạ? Có. Nếu con nói tiếng Trung Quốc thì con có thể nói chuyện với rất nhiều người.
+4755	Ông ấy sống ở rừng nhiệt đới. Họ đang đi nghỉ ở rừng nhiệt đới. Người đàn ông này sống ở sa mạc. Gia đình này đang đi nghỉ ở sa mạc.
+4756	Gia đình của bạn có đi nghỉ vào mùa hè này không?
+4757	Có. Gia đình mình sẽ đi biển ở Mêhicô.
+4758	Anh nói tiếng Việt rất giỏi. Anh sống ở đây à?
+4759	Không. Tôi đang đi nghỉ ở đây.
+4760	Họ có tiền đô la nhưng tôi chỉ có tiền yên thôi. Cô ấy đang ăn salad và bánh sandwich nhưng tôi chỉ ăn salad thôi.
+4761	Em ấy có một con dao và cái nĩa nhưng em chỉ có một cái nĩa thôi.
+4762	Em ấy có bốn quyển sách nhưng em chỉ có ba quyển thôi.
+4763	Con chỉ có một chiếc giày thôi. Em chỉ cần một cái thìa thôi.
+4764	Chúng ta chỉ mang một cái khăn tắm thôi à?
+4765	Em thích rất nhiều loại rau nhưng em trai em chỉ thích cà rốt thôi.
+4766	Bố em luôn đeo đồng hồ nhưng mẹ em chỉ đeo đồng hồ khi mẹ tập thể dục thôi.
+4767	Khi gia đình em đi nghỉ, gia đình em không bao giờ đi núi. Gia đình em chỉ đi biển thôi.
+4768	Anh có bán rau không?
+4769	Không. Tôi chỉ bán hoa quả thôi. Chị có bán hoa quả không? Không. Tôi chỉ bán rau thôi.
+4770	Đô la là một loại tiền. Euro là một loại tiền. Yên là một loại tiền.
+4771	Tôi chỉ có tiền euro thôi. Ở Nhật Bản, tôi sẽ phải đổi sang tiền yên.
+4772	Ông có thể đổi tiền euro của ông ở sân bay được.
+4773	Tôi cần tiền bảng nhưng tôi chỉ có tiền đô la thôi.
+4774	Chị có thể đổi tiền ở ngân hàng được.
+4775	Tôi có thể đổi tiền ở đâu được?
+4776	Chị có thể đổi tiền ở nhà ga được.
+4777	Tôi có thể đổi tiền euro sang tiền đô la ở đây được không?
+4778	Vâng, ông có thể đổi tiền euro sang tiền đô la được.
+4779	Tôi có thể đổi tiền yên sang tiền đồng ở đây được không?
+4780	Vâng, ông có thể đổi tiền yên sang tiền đồng được.
+4781	Bố có thể dạy con đổi tiền euro sang tiền đô la được không?
+4782	Ừ. Đầu tiên, con đi gặp người mà đang đứng ở đằng sau quầy.
+4783	Sau đó, đưa cho anh ấy năm euro.
+4784	Sau đó, anh ấy sẽ đưa cho con tiền đô la.
+4785	Em đã đổi năm euro sang bảy đô la!
+4786	Bây giờ chúng ta có thể đi ăn trưa ở nhà hàng.
+4787	ba lô ba lô ba lô cặp cặp máy ATM
+4788	một cái ba lô một cái cặp một cái máy ATM các loại tiền
+4789	Xin lỗi chị. Có máy ATM ở gần đây không? Có. Có một cái ở bên cạnh ngân hàng ở trên phố kia.
+4790	Xin lỗi anh. Có máy ATM ở gần đây không? Tôi xin lỗi. Tôi nghĩ là không có.
+4791	Người đàn bà đang xách cặp. Các em học sinh đang đeo ba lô. Người đàn bà đang xách va li. Người đàn ông đang đeo ba lô.
+4792	Những đứa trẻ đang đeo ba lô. Người đàn bà đang xách cặp. Người đàn ông đang xách cặp. Người đàn bà đang đeo ba lô.
+4793	Ba lô trống rỗng.
+4794	Em ấy đang để sách vào ba lô. Cái cặp này đầy.
+4795	Anh ấy đang lấy bút ra khỏi cái cặp. Tôi đang để thẻ vào máy ATM.
+4796	Tôi đang lấy tiền ra khỏi máy ATM.
+4797	Anh ấy đang lấy bát đĩa ra khỏi hộp.
+4798	Em ấy đã lấy áo sơ mi ra khỏi hộp.
+4799	Em đã để đồ chơi vào hộp rồi.
+4800	Đừng xách cặp như vậy.
+4801	Xách cặp như thế này.
+4802	Đừng đeo ba lô như vậy.
+4803	Đeo ba lô như thế này.
+4804	Người ta không bao giờ nên cưỡi ngựa như vậy.
+4805	Người ta luôn nên cưỡi ngựa như thế này. Người ta không bao giờ nên sửa xe đạp như vậy.
+4806	Người ta nên sửa xe đạp như thế này.
+4807	Người ta không nên xếp va li như vậy.
+4808	Người ta nên lau cặp như thế này.
+4809	Người ta không nên đọc sách như vậy.
+4810	Người ta nên lau sàn nhà như thế này.
+4811	Không có chỗ trong tủ lạnh.
+4812	Va li của anh ấy trống rỗng. Có rất nhiều chỗ ở bên trong.
+4813	Không còn chỗ trong hộp.
+4814	Có đủ chỗ ở trên xe buýt cho gia đình này.
+4815	Có đủ chỗ ở trong ba lô cho từ điển của chị không?
+4816	Không, em xin lỗi. Không đủ. Chị sẽ phải cầm nó.
+4817	Có đủ chỗ ở trong va li cho giày của em không? Có. Em để vào đi.
+4818	Có chỗ ở trong ba lô không? Có, nhưng chỉ có một ít chỗ thôi. Chị có muốn đi mua sắm không?
+4819	Tôi muốn đi, nhưng tôi chỉ có một ít tiền thôi.
+4820	Tôi cần tìm máy ATM.
+4821	Con có được phép ăn sôcôla không?
+4822	Có, nhưng con chỉ được phép ăn một ít sôcôla thôi.
+4823	Không có đủ ghế cho mọi người. Họ cần thêm một cái ghế nữa.
+4824	Không có đủ đĩa cho mọi người. Họ cần thêm hai cái đĩa nữa.
+4825	Anh ấy không có đủ tiền. Anh ấy cần thêm năm đô la nữa.
+4826	Em ấy muốn uống thêm một ít nước nữa. Em ấy muốn ăn thêm một ít bánh nữa. Cô ấy muốn uống thêm một ít trà nữa.
+4827	Con có muốn uống thêm sữa nữa không? Vâng, con muốn uống thêm sữa nữa ạ. Ông có muốn ăn thêm cơm nữa không? Cảm ơn bà. Tôi muốn ăn thêm cơm nữa.
+4828	Anh ăn đủ bánh ngọt chưa?
+4829	Chưa. Tôi muốn ăn thêm một ít bánh ngọt nữa. Chị có muốn uống thêm nước nữa không?
+4830	Tôi chỉ muốn uống thêm một ít nước nữa thôi.
+4831	Xin lỗi ông. Ông có biết nói tiếng Anh không? Có, nhưng tôi chỉ nói một ít tiếng Anh thôi. Ông có biết nói tiếng Trung Quốc không? Có, nhưng tôi chỉ nói một ít tiếng Trung Quốc thôi.
+4832	Cái cặp này giá bao nhiêu tiền?
+4833	Một trăm đô la, nhưng nó đang được giảm giá. Hôm nay giá chỉ là tám mươi đô la thôi. Những cái quần jean này có được giảm giá không?
+4834	Không, những cái quần jean này không được giảm giá. Giá là tám mươi euro.
+4835	Cái kính mát này có được giảm giá không? Có. Giá trước đây là tám trăm yên nhưng bây giờ giá chỉ là năm trăm yên thôi.
+4836	Cái áo sơ mi này có được giảm giá không? Không, cái áo sơ mi này không được giảm giá.
+4837	Cô ấy đói.
+4838	Nếu cô ấy có bánh sandwich thì cô ấy sẽ không bị đói.
+4839	Ngồi đây rất chán.
+4840	Nếu tôi có quyển sách thì sẽ thú vị hơn.
+4841	Họ có ô. Họ không bị ướt.
+4842	Nếu họ có ô thì họ sẽ không bị ướt.
+4843	Ba lô còn chỗ. Anh có thể để máy ảnh của anh vào.
+4844	Nếu ba lô của tôi còn chỗ thì anh sẽ có thể để máy ảnh của anh vào.
+4845	Nếu tôi có bánh sandwich thì tôi sẽ không bị đói.
+4846	Nếu có máy ATM ở gần đây thì tôi sẽ có tiền mặt.
+4847	Nếu trời mưa nhiều hơn thì vườn của em sẽ mọc nhanh hơn.
+4848	Nếu anh ấy có xe ô tô thì anh ấy sẽ không phải đi bộ.
+4849	Nếu chúng ta có vé thì chúng ta sẽ có thể xem trận đấu.
+4850	Nếu cô ấy có nhiều tiền hơn thì cô ấy sẽ mua cho chồng một cái đồng hồ.
+4851	Nếu có nhiều chỗ ở trong va li hơn thì anh sẽ để cái áo đầm của em vào.
+4852	Khi người ta cho mình cái gì, mình nên nói “cảm ơn”.
+4853	Nếu một người già lên xe buýt, mình nên cho họ chỗ ngồi của mình.
+4854	Nếu mình đang ở thư viện, mình không nên nói chuyện điện thoại.
+4855	Mình nên mở cửa cho những người đằng sau mình.
+4856	Mình nên mang hoa khi đi thăm người ta ở bệnh viện.
+4857	Mình không nên nói chuyện ở trong rạp chiếu phim.
+4858	Tôi muốn mua một bức tượng khi chúng ta đi nghỉ.
+4859	Bức tượng này quá đắt nhưng nếu nó được giảm giá, tôi sẽ mua.
+4860	Xin lỗi ông. Bức tượng này có được giảm giá không?
+4861	Tôi không biết. Tôi sẽ hỏi người quản lý.
+4862	Có, nó đang được giảm giá.
+4863	Tôi muốn mua nó.
+4864	Nó rất to. Không có đủ chỗ ở trong ba lô của tôi.
+4865	Nếu tôi có một cái ba lô to hơn thì tôi sẽ có thể để nó vào được.
+4866	Tôi nên mua một cái ba lô to hơn.
+4867	Không. Anh có thể để nó vào va li của tôi được.
+4868	Tôi nghĩ là có đủ chỗ ở bên trong.
+4869	Có đủ chỗ không?
+4870	Có, đủ chỗ.
+4871	Những đứa trẻ vui tại vì chúng đang ăn bánh pizza.
+4872	Bánh nướng ở trên cái bếp.
+4873	Người đàn ông đang làm bánh pizza.
+4874	Bánh nướng mẹ làm rất ngon.
+4875	một phần ba cái bánh nướng. một phần ba cái bánh nướng một phần ba cái bánh nướng một nửa cái bánh nướng một nửa cái bánh nướng
+4876	cả cái bánh nướng
+4877	Đây là một nửa cái bánh pizza. Đây là một phần ba cái bánh pizza. Đây là một phần tư cái bánh pizza. Đây là cả cái bánh pizza.
+4878	Họ sắp cắt bánh ngọt.
+4879	Người đàn bà cắt bánh nướng. Người đàn ông cắt bánh pizza.
+4880	Người đàn ông cắt cam làm hai. Người phục vụ cắt chanh làm bốn. Cậu con trai cắt bánh nướng làm ba.
+4881	Em ấy uống một phần ba cốc sữa rồi. Có người đã ăn một nửa cái bánh ngọt! Thầy giáo cắt giấy làm hai.
+4882	Bà nội em cắt quả táo làm bốn.
+4883	Bạn gái của anh ấy đang ăn một nửa quả cam. Cô ấy đang đưa cho bạn trai nửa kia.
+4884	Em đang chơi với quả bóng này. Bạn em đang chơi với quả bóng kia.
+4885	Em có muốn cắt cái bánh pizza này không? Không, em muốn cắt cái kia.
+4886	Con có muốn để đồ chơi của con vào hộp này không?
+4887	Vâng, con muốn để chúng vào hộp này.
+4888	một lát bánh mì một miếng bánh mì một lát pho mát một miếng pho mát
+4889	Đây là một miếng bánh pizza. Đây là cả cái bánh pizza.
+4890	Đây là một miếng bánh nướng. Đây là cả cái bánh nướng.
+4891	Người đàn ông có một lát bánh mì.
+4892	Người đàn bà có cả một cái bánh ngọt.
+4893	Đứa con trai có một lát pho mát.
+4894	Đứa con gái có cả một cái bánh nướng.
+4895	Quả bóng này hình tròn.
+4896	Ngôi nhà này hình vuông.
+4897	Lát pho mát này hình vuông.
+4898	Đồng hồ này hình tròn.
+4899	Quả cam này hình tròn.
+4900	Lát bánh mì này hình vuông.
+4901	Chị muốn loại đồng hồ nào?
+4902	Tôi muốn một cái đồng hồ giống như cái này, nhưng hình tròn.
+4903	Bức tranh nào là của chị?
+4904	Bức hình vuông là của tôi.
+4905	Cái đĩa này hình tròn.
+4906	Cái đĩa này hình vuông.
+4907	Pho mát này hình tròn.
+4908	Pho mát này hình vuông.
+4909	Cái bàn này hình tròn.
+4910	Cái bàn này hình vuông.
+4911	Người này nặng sáu mươi lăm ki-lô-gam.
+4912	Em bé này nặng ba ki-lô-gam.
+4913	Va li của anh nặng mười ki-lô-gam.
+4914	Con chó này nặng bốn ki-lô-gam.
+4915	Miếng bánh nướng này nhẹ hơn miếng pho mát.
+4916	Cà rốt nặng hơn đậu.
+4917	Miếng bánh ngọt này nặng hơn miếng bánh ngọt kia.
+4918	Quả chanh này nặng bằng quả chanh kia.
+4919	Cái bánh ngọt này giá bằng cái bánh nướng này.
+4920	Thịt gà này giá đắt hơn bánh pizza.
+4921	Món salad giá rẻ hơn bánh sandwich.
+4922	Con muốn bao nhiêu sữa?
+4923	Con muốn uống nhiều sữa bằng bố. Con muốn bao nhiêu miếng bánh pizza? Con muốn hai miếng bánh pizza.
+4924	Tôi muốn mua một ít pho mát. Chị muốn mua bao nhiêu?
+4925	Tôi muốn mua một nửa ki-lô-gam. Tôi muốn mua một ít cá.
+4926	Chị muốn mua bao nhiêu? Tôi muốn mua một ki-lô-gam.
+4927	Người đàn ông đang đo cái đi văng. Người đàn bà đang đo cái quầy. Người đàn bà đang đếm hoa.
+4928	Đứa con gái đang đếm táo.
+4929	Chị đếm sách chưa?
+4930	Vâng, tôi đếm rồi. Tôi có bốn trăm linh hai quyển.
+4931	Tại sao anh đo tường?
+4932	Tại vì anh muốn để một cái bàn gần bức tường này.
+4933	Tôi đang đếm những con cừu của tôi.
+4934	Em cao một mét rưỡi.
+4935	Tòa nhà này cao hai mươi mét. Con phố này dài hai ki-lô-mét. Bức tường này rộng bốn mét.
+4936	Cái thảm này to bao nhiêu? Nó dài ba mét và rộng hai mét. Con phố này rộng bao nhiêu? Nó rộng hai mươi mét.
+4937	Cái cây này cao bao nhiêu? Nó cao mười mét.
+4938	Khoai tây nặng bao nhiêu? Khoai tây nặng năm ki-lô-gam.
+4939	Cái bàn của chúng ta to bao nhiêu?
+4940	Cái bàn của chúng ta rộng một mét và dài một trăm năm mươi cen-ti-mét.
+4941	Tòa nhà này cao bao nhiêu? Tòa nhà này cao một trăm mét. Cái cây này cao bao nhiêu?
+4942	Cái cây này cao năm mươi mét.
+4943	Vé giá bao nhiêu tiền?
+4944	Tôi nghĩ là giá vé ít nhất mười đô la. Giá vé bao nhiêu tiền?
+4945	Giá vé mười hai đô la.
+4946	Có bao nhiêu quả cam ở trên cây này?
+4947	Cô không biết nhưng cô nghĩ là có ít nhất năm mươi quả.
+4948	Chúng ta cần bao nhiêu cái đĩa? Chúng ta cần ít nhất mười cái đĩa.
+4949	Trời nóng quá. Tôi nghĩ là nhiệt độ ít nhất là ba mươi độ.
+4950	Vâng, nhiệt độ là ba mươi mốt độ.
+4951	Bức tường này rộng bao nhiêu? Nó rộng ít nhất bốn mét.
+4952	Chị có nghĩ là con trai tôi nặng mười lăm ki-lô-gam không?
+4953	Không. Tôi nghĩ là con trai chị nặng ít nhất hai mươi ki-lô-gam.
+4954	Cái bút này dài gần chín cen-ti-mét. Cái áo đầm này giá gần chín mươi đô la. Quả táo này nặng gần bằng quả cam. Em gái cao gần bằng anh trai.
+4955	Cháu cao bao nhiêu? Cháu cao gần một mét. Con cá voi dài bao nhiêu? Nó dài gần ba mươi mét.
+4956	Em gần đủ cao để đạp xe đạp. Khoai tây nặng gần bốn ki-lô-gam.
+4957	Chúng tôi có gần đủ nước ép cho mọi người.
+4958	Chị đo sàn nhà cho tôi đi.
+4959	Nó dài năm mét và rộng bốn mét. Anh đo tường cho tôi đi.
+4960	Nó cao ba mét và rộng bốn mét rưỡi.
+4961	Bố đo con đi. Đứng ở đây.
+4962	Con cao bao nhiêu ạ?
+4963	Con cao một trăm cen-ti-mét.
+4964	một cái tua vít một cái cờ lê một cái kìm một cái búa
+4965	Họ đang dùng búa.
+4966	Cô ấy đang dùng tua vít. Tôi đang dùng cờ lê. Anh ấy đang dùng kìm.
+4967	Người đàn ông đang dùng dao, không phải thìa.
+4968	Người đàn bà đang dùng búa, không phải kìm. Đứa con gái đang dùng bàn chải tóc, không phải bàn chải đánh răng.
+4969	Đứa con trai đang dùng tua vít, không phải cờ lê.
+4970	Tôi đang dùng tua vít để sửa kính.
+4971	Anh ấy đang dùng cờ lê để sửa bồn rửa mặt. Tôi đang dùng búa để sửa đi văng.
+4972	Cô ấy đang dùng kìm để sửa đồ nữ trang.
+4973	Ông cần kìm hay tua vít ạ? Ông cần kìm.
+4974	Ông cần cờ lê hay búa? Ông cần búa.
+4975	một cái đèn pin một cái đèn pin một cái đèn pin một tờ giấy một tờ giấy một cái kéo
+4976	một cái bút chì một cái bút chì một cái bút chì băng dính băng dính kéo
+4977	Em đang cầm một tờ giấy.
+4978	Anh ấy đang dùng kéo để cắt báo. Tôi dùng băng dính để sửa kính. Em đang viết bằng bút chì.
+4979	Bác sĩ đang dùng đèn pin.
+4980	Hai đứa con trai đang dùng đèn pin để đọc.
+4981	Cái cân này ở cửa hàng thực phẩm. Cái cân này ở trong phòng tắm của tôi.
+4982	Em học sinh này đang dùng thước kẻ để đo một tờ giấy.
+4983	Mẹ em đang dùng thước kẻ để đo cửa sổ. Cái nhiệt kế này ở bên ngoài.
+4984	Cái nhiệt kế này ở trong miệng em ấy.
+4985	Cô giáo cắt tờ giấy.
+4986	Đứa con gái đang đứng ở trên cái cân.
+4987	Đứa con trai có một cái bút chì và một tờ giấy. Bác sĩ đang cầm nhiệt kế.
+4988	Họ đang dùng kéo và băng dính để sửa bản đồ. Anh ấy đang dùng thước kẻ để đo cửa.
+4989	Tôi đang cân hoa quả.
+4990	Người đàn bà đang cân đứa con gái. Người đàn ông đang cân táo.
+4991	Con nặng bao nhiêu ạ?
+4992	Con nặng ít nhất ba mươi ki-lô-gam. Mẹ cân con đi.
+4993	Con nặng gần ba mươi lăm ki-lô-gam!
+4994	Xin cô đứng lên cân. Tôi nặng bao nhiêu?
+4995	Cô nặng năm mươi lăm ki-lô-gam.
+4996	Cửa sổ rộng bao nhiêu?
+4997	Tôi dùng thước kẻ để đo và nó rộng chín mươi cen-ti-mét.
+4998	Anh đang làm gì ở bên ngoài? Tôi đang đọc nhiệt kế.
+4999	một cái búa một cái đinh một cái tua vít một cái đinh vít
+5000	Cô ấy đang mua những cái đinh vít. Anh ấy đang tìm cái đinh.
+5001	Anh ấy có rất nhiều đinh nhưng anh ấy cần một cái búa.
+5002	Tôi có một cái đinh vít nhưng tôi cần một cái tua vít.
+5003	Bố có thể giúp con xây cái này được không? Ừ, bố sẽ giúp con xây cái này.
+5004	Đầu tiên, đo cái này bằng một cái thước kẻ. Sau đó, dùng búa và đinh.
+5005	Sau đó, dùng tua vít và đinh vít. Cuối cùng, để nó trong vườn.
+5006	Con cá này đông lạnh. Quả cam này tươi.
+5007	Bánh pizza này đông lạnh. Những quả chanh này tươi.
+5008	Anh có cá tươi không?
+5009	Tôi xin lỗi. Chúng tôi chỉ có cá đông lạnh thôi. Anh có rau tươi không?
+5010	Có. Rau tươi đây.
+5011	Ông ấy đang cắt cà chua.
+5012	Cô ấy đang cân chuối ở trên cân.
+5013	Anh ấy đang để cà chua tươi ở trên bánh pizza. Con vật này thích chuối.
+5014	Quả chuối này bị hư.
+5015	Quả cà chua này chưa chín. Những quả táo này chín.
+5016	Đừng ăn những cái này! Chúng bị hư rồi. Chúng ta sẽ ăn những quả này nhưng bây giờ chúng chưa chín.
+5017	Nếu anh chờ một ngày thì những quả chuối này sẽ chín.
+5018	Đây là một ít cà chua tươi ở trong vườn.
+5019	Những quả cà chua này chưa chín. Những quả cà chua này chín. Những quả cà chua này bị hư. Quả chuối này chưa chín.
+5020	Quả chuối này chín. Quả chuối này bị hư.
+5021	Cà phê rất nóng. Em thích súp nóng. Em thích thịt gà lạnh. Nước này rất lạnh.
+5022	nước ép lạnh.
+5023	Trà nóng.
+5024	Thịt đông lạnh.
+5025	Cam bị hư.
+5026	Những quả cà chua tươi.
+5027	Quả chuối chín.
+5028	Cô ấy đang cho hạt tiêu vào súp.
+5029	Tôi đang cho đường vào trà.
+5030	Anh ấy đang làm bánh mì.
+5031	Em đang làm bánh nướng.
+5032	Mẹ đã làm một cái bánh ngọt cho ngày sinh nhật của con.
+5033	Mẹ đã cho đường rồi!
+5034	Cho một ít muối vào súp.
+5035	Chúng em và mẹ đang làm bánh nướng.
+5036	Bánh ngọt ở trong lò nướng.
+5037	Anh ấy đang để bánh pizza vào lò nướng. Em ấy đang để bánh nướng vào lò nướng. Bánh pizza ở trong lò nướng.
+5038	Chúng em đang làm bánh mì. Cô ấy đang cho đường vào trà.
+5039	Anh ấy đang để bánh pizza vào lò nướng.
+5040	mì
+5041	mì bột mì bột mì
+5042	một quả cà chua
+5043	Người đàn bà đang cân ba trăm gam bột mì. Đứa con trai đang cho vào bốn trăm mi-li-lít nước.
+5044	Người đàn ông đang cân sáu trăm gam mì.
+5045	Cô con gái đang cho vào chín trăm mi-li-lít sữa.
+5046	Đầu tiên, cho vào bốn trăm gam đường. Sau đó, cho vào hai trăm năm mươi mi-li-lít sữa lạnh.
+5047	Sau đó, cho vào năm gam muối.
+5048	Cuối cùng, cho vào một trăm hai mươi mi-li-lít nước.
+5049	Anh ấy đang chọn cà vạt màu xanh. Cô ấy đang chọn mì cho bữa trưa. Tôi đang chọn dép để đi ở bãi biển. Anh ấy đang chọn xe đạp để thuê.
+5050	Cô ấy chọn cái hộp nhỏ nhất để để sách. Họ đang chọn một bộ phim cho tối nay. Anh ấy đang chọn một bộ com lê cho đám cưới của anh ấy.
+5051	Cô ấy chọn mua mì.
+5052	Tôi đang nấu mì.
+5053	Chúng tôi đang chọn nhạc. Họ đang ăn mì.
+5054	Tôi sẽ chọn giày màu đỏ.
+5055	Mẹ có thể dạy con làm bánh ngọt được không? Đầu tiên, cân bốn trăm gam bột mì và ba trăm gam đường.
+5056	Sau đó, cho vào một trăm hai mươi mi-li-lít sữa và hai quả trứng.
+5057	Sau đó, cho vào một trăm năm mươi gam bơ và một gam muối.
+5058	Cuối cùng, để bánh ngọt vào lò nướng một tiếng ở nhiệt độ một trăm tám mươi độ. Bánh ngon!
+5059	Chào chị. Chào chị.
+5060	Chị có khỏe không? Tôi khỏe, cảm ơn chị.
+5061	Chị đã gặp con trai tôi, Johann, chưa?
+5062	Vâng, tôi đã gặp cháu rồi. Cháu có khỏe không Johann?
+5063	Cháu nói tiếng Việt rất giỏi. Cháu đang học tiếng Việt à?
+5064	Vâng, cháu đang học.
+5065	Tôi hy vọng chị thích sống ở đây vào mùa thu này.
+5066	Mẹ nghĩ là sống trong ngôi nhà này rất thú vị. Con nghĩ là sống trong ngôi nhà này rất chán.
+5067	Con tìm thấy nó ở đâu?
+5068	Ở trong phòng ngủ của con.
+5069	Mẹ nghĩ là chìa khóa này để làm gì? Mẹ không biết. Chúng ta sẽ tìm cửa.
+5070	Cái cửa này có đúng không? Không, cái cửa này không đúng.
+5071	Có cái gì ở trong hộp đó không? Không, không có cái gì ở trong hộp này.
+5072	Có đủ chỗ cho chúng ta không? Có, có đủ chỗ cho chúng ta.
+5073	Mẹ có đèn pin không? Có, mẹ có đèn pin.
+5074	Loài côn trùng này có nguy hiểm không? Không, loài côn trùng này không nguy hiểm.
+5075	Chìa khóa có vừa không? Có, chìa khóa vừa ạ!
+5076	Ấn Độ ở Châu Á.
+5077	Đây là một người đàn bà Ấn Độ. Mêhicô ở Bắc Mỹ.
+5078	Đây là một người đàn ông Mêhicô. Nhật Bản ở Châu Á.
+5079	Đây là một đứa con gái Nhật Bản.
+5080	mì Ý
+5081	xe ô tô Đức
+5082	đồ nữ trang Mêhicô
+5083	đồ chơi Nga
+5084	một bức tượng Ai Cập quần áo Ấn Độ
+5085	xe ô tô Mỹ
+5086	một món tráng miệng Pháp những bức tranh Trung Quốc một ngọn núi Nhật Bản một nhà thờ Nga
+5087	một nhà hàng Mỹ một ngôi đền Ấn Độ một nhà hàng Nhật Bản một nhà thờ Nga quần áo Ai Cập
+5088	quần áo Trung Quốc
+5089	Anh ấy đang nấu đồ ăn Đức. Tôi mua đồ ăn Ý.
+5090	Đồ ăn Ai Cập ở trên bàn. Họ sắp ăn đồ ăn Mêhicô.
+5091	Chị mang gì đến buổi tiệc? Tôi mang đồ ăn Pháp. Anh mang gì?
+5092	Tôi mang đồ ăn Trung Quốc.
+5093	Chị mang đồ ăn Pháp đến à? Vâng, tôi mang đồ ăn Pháp đến. Anh mang đồ ăn Trung Quốc đến à? Vâng, tôi mang đồ ăn Trung Quốc đến.
+5094	Chị thích loại đồ ăn nào?
+5095	Tôi thích đồ ăn Ý và đồ ăn Đức.
+5096	Đồ ăn Đức ngon nhưng tôi thích đồ ăn Ý hơn. Chúng ta có thể ăn tối ở nhà hàng Ý này được.
+5097	những người lính
+5098	một nữ hoàng
+5099	một ông vua
+5100	Người lính này đang gặp nữ hoàng.
+5101	Bà ấy là nữ hoàng nước Anh.
+5102	Ông vua ngồi ở đây.
+5103	Ông vua đội cái này.
+5104	Hồi xưa có một ông vua Pháp sống ở đây.
+5105	Người lính này đang viết thư cho gia đình.
+5106	Cách đây bốn mươi năm, ông ấy là một người lính.
+5107	Những người lính này đang trèo tường.
+5108	Những người lính này đang chạy.
+5109	Người lính này đang nói chuyện với đứa trẻ.
+5110	Đây là bức tượng một người lính Trung Quốc.
+5111	Đây là bức tượng một ông vua Ai Cập.
+5112	Đây là bức tranh một người lính.
+5113	Đây là bức tranh một nữ hoàng.
+5114	Những người lớn đang bỏ phiếu.
+5115	Có người đang bỏ phiếu.
+5116	Các em học sinh đang bỏ phiếu.
+5117	Bây giờ không có ai bỏ phiếu.
+5118	Họ đang xếp hàng để bỏ phiếu.
+5119	Ông ấy đang bỏ phiếu.
+5120	Bà ấy bỏ phiếu rồi.
+5121	Hôm nay có một cuộc bầu cử. Tất cả mọi người đang bỏ phiếu.
+5122	Rất nhiều người bỏ phiếu cho ông ấy. Tôi nghĩ là ông ấy sẽ thắng trong cuộc bầu cử.
+5123	Cuộc bầu cử đã kết thúc. Mọi người đã bỏ phiếu xong rồi.
+5124	Hôm qua có cuộc bầu cử.
+5125	Ông ấy thua trong cuộc bầu cử.
+5126	Ông ấy thắng trong cuộc bầu cử.
+5127	Tháng trước ông ấy đã thắng trong cuộc bầu cử.
+5128	Bây giờ ông ấy là tổng thống.
+5129	Tháng tới ông ấy sẽ đi thăm Châu Âu.
+5130	Ở đó, ông ấy sẽ gặp thủ tướng Anh.
+5131	Thủ tướng Ấn Độ đang nói chuyện với người lính.
+5132	Tổng thống Mỹ sống ở đây.
+5133	Thủ tướng Anh đang đi thăm nước Đức.
+5134	Tổng thống Mêhicô đang trả lời câu hỏi.
+5135	Lá cờ Mỹ ở đằng trước tòa nhà.
+5136	Ông già đang cầm lá cờ Mêhicô.
+5137	Mọi người đang cầm cờ Đức.
+5138	Có rất nhiều lá cờ ở trong tòa nhà này.
+5139	Những người Mêhicô đang nhảy. Những người Đức đang xem trận đấu. Những người Nga đang bỏ phiếu bầu cử tổng thống.
+5140	Những người Mỹ đang cầm cờ.
+5141	Những người Ý đang chơi đá bóng.
+5142	Anh ấy muốn đội Pháp thắng trận đấu này.
+5143	Chị đi đâu?
+5144	Tôi đi bỏ phiếu.
+5145	Chị sẽ bỏ phiếu cho ai?
+5146	Tôi sẽ bỏ phiếu cho tổng thống.
+5147	Chị có nghĩ là ông Jones sẽ thắng không?
+5148	Có, tôi nghĩ là ông Jones sẽ thắng. Tôi bỏ phiếu cho ông ấy.
+5149	Thủ tướng Ấn Độ đang gặp tổng thống Mỹ.
+5150	Mai mốt em muốn là tổng thống.
+5151	Thủ tướng Nga đang thăm một trường học.
+5152	Họ đang viết thư điện tử cho nhau trên internet.
+5153	Cô ấy đang đặt phòng trước ở khách sạn trên internet.
+5154	Anh ấy đang mua một cái gì ở trên internet.
+5155	Tôi đang đọc tạp chí về Ấn Độ.
+5156	Họ đang đọc tạp chí.
+5157	Cô ấy đang mua một quyển tạp chí.
+5158	Em đang xem gì? Em đang xem tin tức. Tin tức tối nay có gì?
+5159	Họ nói về cuộc bầu cử, và bây giờ họ đang nói về thời tiết.
+5160	Họ có nói ai thắng trận đấu bóng đá không? Không, nhưng họ sắp nói.
+5161	Cô ấy đang đọc tin tức trong tạp chí. Tôi đang đọc tin tức trên internet.
+5162	Hôm nay có tin tức quan trọng ở trên báo!
+5163	Có tin tức gì về cuộc bầu cử không?
+5164	Rất nhiều người đang xếp hàng để bỏ phiếu.
+5165	Có tin tức gì về trận đấu không?
+5166	Đội Braxin đã thắng!
+5167	Những người đàn ông đang xem trận đấu ở trên tivi.
+5168	Người đàn bà đang xem tin tức trên tivi. Những đứa trẻ đang xem một bộ phim thú vị trên tivi.
+5169	Chúng tôi đang nghe tin tức trên đài.
+5170	Họ đang xem tin tức trên tivi.
+5171	Em đang đọc tin tức trên internet.
+5172	Cô ấy đang đọc tin tức trong tạp chí.
+5173	Anh đọc tin tức về cuộc bầu cử ở nước Úc chưa?
+5174	Chưa. Ai thắng?
+5175	Ông Smith thắng.
+5176	Bà đọc tin tức về nữ hoàng chưa?
+5177	Chưa. Bà ấy đang làm gì?
+5178	Bà ấy đang đi thăm Ấn Độ.
+5179	Trên tivi đang có ai?
+5180	Trên tivi đang có thủ tướng. Trên tivi đang có gì?
+5181	Trên tivi đang có trận đấu. Trên tivi đang có gì?
+5182	Trên tivi đang có tin tức về thời tiết.
+5183	Hôm nay tin tức có gì không? Ông vua kết hôn.
+5184	Hôm nay tin tức có gì không? Nữ hoàng đến thăm bệnh viện. Hôm nay tin tức có gì không?
+5185	Tổng thống Pháp gặp vua Tây Ban Nha.
+5186	Biển hiệu này có nhiều thứ tiếng. Quyển sách này có hai thứ tiếng. Đây là một thứ tiếng cổ.
+5187	Anh biết nói bao nhiêu thứ tiếng?
+5188	Tôi nói ba thứ tiếng: tiếng Anh, tiếng Tây Ban Nha và tiếng Việt.
+5189	Anh ấy đang nói thứ tiếng gì?
+5190	Anh ấy đang nói tiếng Trung Quốc.
+5191	Tôi không hiểu anh ấy nói gì. Anh ấy đang nói thứ tiếng gì?
+5192	Anh ấy đang nói tiếng Tây Ban Nha. Anh có hiểu anh ấy nói gì không? Tôi chỉ hiểu một ít thôi.
+5193	Cái này tiếng Việt gọi là gì?
+5194	Cái này tiếng Việt gọi là cái bàn. Con này tiếng Việt gọi là gì?
+5195	Con này tiếng Việt gọi là con ếch.
+5196	Cái này tiếng Việt gọi là gì? Cái này tiếng Việt gọi là cái tất. Cái này tiếng Việt gọi là gì?
+5197	Cái này tiếng Việt gọi là cái thìa. Cái này tiếng Việt gọi là gì?
+5198	Cái này tiếng Việt gọi là quyển sách.
+5199	Những người đàn ông này làm việc cho cùng một công ty.
+5200	Hai người đàn bà này làm việc cho hai công ty khác nhau.
+5201	Số điện thoại của công ty này là 555-1234.
+5202	Công ty của chúng tôi đã mua tòa nhà này. Có một buổi tiệc ở công ty.
+5203	Công ty này nổi tiếng.
+5204	Anh làm việc cho công ty nào?
+5205	Tôi làm việc cho một công ty gọi là Wheeler and Sons.
+5206	Anh làm ở đó bao lâu rồi?
+5207	Tôi làm ở đó mười hai năm rồi.
+5208	Các em ấy muốn là doanh nhân. Mẹ em ấy là doanh nhân.
+5209	Bố em ấy là doanh nhân. Vợ anh ấy là doanh nhân.
+5210	Doanh nhân người Ai Cập đang uống trà. Những doanh nhân người Trung Quốc đang nói chuyện điện thoại.
+5211	Doanh nhân người Pháp có máy tính xách tay. Những doanh nhân người Mỹ đang gặp nhau ở văn phòng.
+5212	Tôi là một doanh nhân. Tôi cũng là một người bố.
+5213	Người đàn ông này là nhạc sĩ. Ông ấy cũng là một thầy giáo.
+5214	Cô ấy là một doanh nhân. Cô ấy cũng là một người mẹ.
+5215	Đây là một nước. Nước này cũng là một lục địa.
+5216	Tôi là một người mẹ. Tôi cũng là một người con.
+5217	Người đàn ông này đang tập thể dục. Anh ấy cũng đang xem tivi.
+5218	Anh chơi đàn ghi ta rất hay. Anh có chơi nhạc cụ khác không?
+5219	Có, tôi cũng chơi đàn piano.
+5220	Cô nói tiếng Anh và tiếng Nga. Cô có biết nói thứ tiếng khác không?
+5221	Có, tôi cũng nói tiếng Tây Ban Nha.
+5222	Bạn có con chó không?
+5223	Có, mình có một con chó. Mình cũng có một con mèo.
+5224	Em phải làm gì trước bữa ăn tối?
+5225	Em phải nấu mì. Em cũng phải làm món salad.
+5226	Bức ảnh này được chụp khi nào?
+5227	Bức ảnh này được chụp mùa đông năm ngoái. Ai chụp bức ảnh này?
+5228	Anh trai tôi chụp.
+5229	Tôi đang làm bánh ngọt cho sinh nhật của chị. Cái bánh ngọt này được làm sáng nay.
+5230	Những người này đang xây nhà. Ngôi nhà này được xây năm ngoái.
+5231	Tiếng Tây Ban Nha được nói ở đâu?
+5232	Tiếng Tây Ban Nha được nói ở Tây Ban Nha, Mêhicô và Nam Mỹ.
+5233	Nhà thờ Hồi giáo này được xây khi nào?
+5234	Nhà thờ Hồi giáo này được xây vào năm 1287.
+5235	Quyển sách này được viết khi nào? Quyển sách này được viết vào năm 1998. Ai viết quyển sách này?
+5236	Jane Taylor viết.
+5237	Châu Nam Cực được khám phá vào năm 1820. Ngôi đền này được khám phá ở Mêhicô. Những bức tượng này được khám phá ở trên một hòn đảo.
+5238	Thành phố này được khám phá ở Nam Mỹ.
+5239	Những bức tượng cổ này được khám phá vào năm 1974.
+5240	Cái bánh ngọt này được làm cho đám cưới của chúng tôi.
+5241	Chiếc xe ô tô này được lái chỉ hai lần thôi.
+5242	Quyển sách này được viết vào năm 1985.
+5243	Bức ảnh này được chụp vào năm 1961.
+5244	Nhà thờ này được xây vào năm 1250.
+5245	Bà ấy sinh ở Bắc Kinh vào năm 1950.
+5246	Bức tượng này được làm ở Rôma cổ. Quyển sách này được viết vào năm 1920. Những cái ván trượt tuyết này được trả lại sáng nay.
+5247	Bức ảnh này được chụp vào năm 1923.
+5248	Ai chụp bức ảnh này?
+5249	Bà ngoại tôi chụp bức ảnh này.
+5250	Những người này đồng ý về người mà họ sẽ bỏ phiếu.
+5251	Những người này không đồng ý về người mà họ sẽ bỏ phiếu.
+5252	Người bạn trai và người bạn gái đồng ý về bộ phim mà họ sẽ xem.
+5253	Em trai và chị gái không đồng ý về người nào thắng.
+5254	Họ không đồng ý về màu nào để dùng.
+5255	Những người đàn ông đồng ý với nhau về chiếc xe ô tô nào nhanh nhất.
+5256	Tôi nghĩ là đây là bức tranh đẹp nhất của anh ấy.
+5257	Tôi không đồng ý. Tôi nghĩ là bức này là bức tranh đẹp nhất của anh ấy.
+5258	Tôi nghĩ là đội của tôi sẽ thắng.
+5259	Tôi không đồng ý. Tôi nghĩ là đội của tôi sẽ thắng.
+5260	Chị bỏ phiếu cho ai?
+5261	Tôi bỏ phiếu cho Louise Parker. Tại sao chị bỏ phiếu cho bà ấy? Tôi đồng ý với bà ấy.
+5262	Tôi đã bỏ phiếu cho Steve Dodd. Tôi không bỏ phiếu cho ông ấy. Tại sao không?
+5263	Tôi không đồng ý với ông ấy.
+5264	Buổi tiệc bắt đầu lúc bảy giờ rưỡi. Vậy à? Không phải là lúc tám rưỡi à? Chúng ta sẽ đến muộn.
+5265	Hôm qua là sinh nhật của cô ấy.
+5266	Vậy à? Không phải là hôm nay à?
+5267	Tôi nên gọi điện cho cô ấy bây giờ.
+5268	Anh có biết là tôi biết nói tiếng Ả Rập không?
+5269	Vậy à?
+5270	Vâng. Hồi tôi còn nhỏ, tôi sống ở Ai Cập. Đây là Lynn, vợ chú. Cô ấy là nhạc sĩ. Vậy à, chú?
+5271	Cháu cũng là nhạc sĩ.
+5272	Chú có biết là Rosetta Stone được khám phá vào năm 1799 không?
+5273	Vậy à? Chú không biết.
+5274	Vâng. Nó được khám phá ở Ai Cập và bây giờ nó đang ở trong một viện bảo tàng.
+5275	Tôi sắp kết hôn.
+5276	Vậy à? Chúc mừng chị! Con đã thắng!
+5277	Vậy à? Chúc mừng con!
+5278	Đứa con của chúng tôi sinh hôm qua. Vậy à? Chúc mừng anh!
+5279	Có quá nhiều người trong tàu điện ngầm. Không có đủ ghế cho các em ấy.
+5280	Tôi phải mang quá nhiều sách. Không có đủ máy tính cho các em ấy.
+5281	Có quá nhiều người ở trên xe buýt. Có quá nhiều cá.
+5282	Có quá nhiều xe ô tô ở trên phố.
+5283	Chúng ta không thể bơi ở đây được. Không có đủ nước.
+5284	Chúng ta không thể lái xe ở đây được. Có quá nhiều tuyết.
+5285	Em ăn quá nhiều bánh ngọt. Em không muốn chơi bóng đá.
+5286	Chúng ta không thể đi xa được. Không có đủ xăng.
+5287	Tôi ăn chưa đủ. Tôi đói. Con ăn đủ rồi. Cảm ơn mẹ.
+5288	Em bị đau bụng tại vì em ăn quá nhiều bánh.
+5289	Con xem tivi quá nhiều. Con nên đọc sách. Tôi không có đủ trứng để làm bánh ngọt. Anh có thể đi cửa hàng thực phẩm được không? Có quá nhiều người ở trong phòng.
+5290	Không có đủ cốc.
+5291	Tôi có thể chụp ảnh anh được không? Vâng. Chị muốn tôi ngồi ở đâu?
+5292	Chị có muốn đi ăn ở nhà hàng không? Vâng. Chúng tôi sẽ gặp nhau lúc tám giờ tối.
+5293	Bức tranh này rất đẹp.
+5294	Bức tranh này giá bao nhiêu tiền? Bức tranh này giá ba trăm đô la.
+5295	Quá đắt. Ông có thể bán rẻ hơn được không? Tôi có thể bán cho chị với giá hai trăm tám mươi đô la được.
+5296	Vâng. Tôi sẽ mua bức tranh.
+5297	Bạn trai của chị gọi điện. Anh ấy muốn chị gọi điện cho anh ấy tối nay.
+5298	Vâng. Tôi sẽ gọi điện cho anh ấy.
+5299	Em gái chị gọi điện. Cô ấy muốn chị gọi điện cho cô ấy lúc bốn giờ.
+5300	Vâng. Tôi sẽ gọi điện cho cô ấy.
+5301	Em ấy có một cái đàn vĩ cầm. Em ấy quên mang cái đàn vĩ cầm. Em ấy có cái mũ.
+5302	Em ấy quên mang cái mũ.
+5303	Cô ấy quên mang ô. Em ấy quên mang sách. Con quên đi tất!
+5304	Con quên mang đồ ăn của con!
+5305	Anh ấy quên mang chìa khóa. Anh ấy có nhớ mang chìa khóa. Cô ấy quên mang cà phê.
+5306	Cô ấy có nhớ mang cà phê.
+5307	Chị có nhớ địa chỉ của Maria không? Không, tôi xin lỗi. Tôi quên rồi.
+5308	Chị có nhớ số điện thoại của cô ấy không? Có. Số điện thoại là 555-2468.
+5309	Con có nhớ hồi chúng ta sống ở đó không? Không. Con không nhớ hồi chúng ta sống ở đó. Con còn nhỏ.
+5310	Em không nhớ chúng ta mua cái này ở đâu. Em quên rồi à? Chúng ta mua cái này ở nước Đức.
+5311	Chào Frank! Tôi là Alex. Anh có nhớ tôi không? Có, tôi nhớ anh! Đây là Jennifer, vợ tôi.
+5312	Rất vui được gặp chị. Frank và tôi là bạn ở trường đại học.
+5313	Sáng nay chị có nhớ bỏ phiếu không? Không, tôi quên.
+5314	Hôm nay đừng quên bỏ phiếu!
+5315	Vâng. Tôi sẽ đi bỏ phiếu sau khi làm việc xong.
+5316	Con đang học về gì ở trường?
+5317	Con đang học về những con vật sống ở biển. Con có thích không?
+5318	Có ạ. Con nghĩ là học về cá voi và cá mập rất thú vị.
+5319	Những người đàn bà đang học về bức tranh. Những đứa trẻ này đang học về con vật. Con gái của anh ấy đang học về Braxin.
+5320	Bà nội của cô ấy đang học dùng máy tính. Em ấy đang học làm bánh ngọt.
+5321	Những người đàn bà đang học nấu ăn. Em ấy đang học bơi.
+5322	Con đang học về gì ở trường? Con đang học về Việt Nam ạ. Con đang học nói tiếng Việt à? Vâng, con đang học nói tiếng Việt ạ.
+5323	Con có muốn học dùng máy tính không? Vâng, con muốn học dùng máy tính ạ. Con có muốn học bơi không?
+5324	Vâng, con muốn học bơi ạ.
+5325	Chúng tôi đã xem tin tức từ lúc chín giờ. Em đã tập luyện từ lúc ba giờ.
+5326	Cô ấy đã viết cho tạp chí này từ năm 1992. Họ đã sống ở ngôi nhà này từ năm 1975.
+5327	Bà ấy đã là nữ hoàng bao lâu rồi? Bà ấy đã là nữ hoàng từ năm 1952. Anh đã chờ ở đây bao lâu rồi?
+5328	Tôi đã chờ ở đây từ lúc 12 giờ.
+5329	Tôi đã sống ở Nhật Bản từ khi tôi còn nhỏ. Tôi và vợ tôi đã kết hôn ba mươi lăm năm rồi. Họ đã làm bánh từ lúc năm giờ sáng nay. Chúng tôi sinh ở Ấn Độ nhưng chúng tôi đã sống ở nước Anh ba năm rồi.
+5330	Chị đã bao giờ đi miền Bắc nước Ý chưa? Chưa, tôi chưa bao giờ đi miền Bắc nước Ý. Anh đã bao giờ đi chưa?
+5331	Tôi đã đi miền Bắc nước Ý năm 1982 rồi.
+5332	Các em ấy đang học về miền Nam Châu Phi. Cô ấy đang dạy các em ấy về miền Tây Châu Phi.
+5333	Các em ấy đang học về miền Đông Châu Phi. Cô ấy đang dạy các em ấy về miền Bắc Châu Phi.
+5334	Tôi sống ở miền Nam nước Ý.
+5335	Chúng tôi đang đi thăm miền Đông Trung Quốc.
+5336	Cô ấy sống ở miền Tây nước Mỹ.
+5337	Những con vật này sống ở miền Bắc nước Nga.
+5338	Chị đã bao giờ ăn đồ ăn Ấn Độ chưa? Chưa, chưa bao giờ.
+5339	Anh đã bao giờ ăn đồ ăn Ấn Độ chưa? Tôi đã ăn rồi, và tôi rất thích.
+5340	Anh đã bao giờ đi nước Nga chưa?
+5341	Vâng, tôi đã đi nước Nga rồi. Hồi xưa tôi sống ở Matxcơva.
+5342	Vậy à? Hồi xưa tôi sống gần Matxcơva.
+5343	Tôi chưa bao giờ đi nước Nga nhưng mai mốt tôi sẽ đi.
+5344	Tôi phải nấu lại bữa tối.
+5345	Tôi phải lau lại sàn nhà.
+5346	Tôi phải rửa lại bát đĩa.
+5347	Tuần trước xe đạp của tôi không chạy.
+5348	Chồng tôi dùng cờ lê và kìm để sửa nó.
+5349	Hôm nay xe đạp của tôi lại bị hỏng.
+5350	Tôi nghĩ là tôi sẽ mua xe đạp mới.
+5351	Các em có thắng không? Có, chúng em lại thắng. Sách của em ở đâu?
+5352	Em lại quên ạ.
+5353	Anh có hiểu tôi nói gì không?
+5354	Không. Anh có thể nói lại được không?
+5355	Anh đã bao giờ đi Trung Quốc chưa?
+5356	Có. Năm ngoái tôi đi rồi và tháng tới tôi lại đi.
+5357	Khi nào anh sẽ đến New York?
+5358	Anh không biết. Chuyến bay của anh lại bị muộn.
+5359	Sáng nay con có tập luyện không?
+5360	Có, và trưa nay chúng con lại tập luyện cho trận đấu ngày mai ạ.
+5361	Anh Tom, anh có mang sách không?
+5362	Tôi xin lỗi. Tôi lại quên rồi!
+5363	Ngày mai anh đừng quên mang sách!
+5364	Vâng. Tôi sẽ nhớ.
+5365	Thứ sáu chị có muốn đi ăn ở nhà hàng Pháp với tôi không?
+5366	Tôi xin lỗi, tôi không thể đi được. Thứ sáu tôi sẽ ăn tối với bà ngoại tôi.
+5367	Có, tôi rảnh.
+5368	Chị có muốn đi xem phim không?
+5369	Vâng. Tôi sẽ gặp anh ở đây lúc một giờ trưa thứ bảy.
+5370	Không có ai ở trong văn phòng đang ăn mừng. Những người đàn bà đang ăn mừng.
+5371	Những doanh nhân đang ăn mừng. Các em ấy không ăn mừng.
+5372	Các em ấy đang ăn mừng tại vì các em ấy đã thắng trận đấu.
+5373	Họ đang ăn mừng tại vì hôm này là sinh nhật của ông ấy.
+5374	Họ đang ăn mừng tại vì họ đã học xong đại học.
+5375	Họ đang ăn mừng tại vì họ đã kết hôn bốn mươi năm.
+5376	Năm ngoái tôi đi nghỉ ở miền Nam nước Ý một tháng.
+5377	Tôi đi thăm rất nhiều nhà thờ và viện bảo tàng ở đó.
+5378	Tuần trước tôi đi công tác ở Pari.
+5379	Tôi gặp rất nhiều doanh nhân ở đó.
+5380	Anh đang đi nghỉ ở đây à? Không. Tôi đi công tác ở đây. Chị đi công tác ở nước Úc à? Không. Tôi đi nghỉ ở đó.
+5381	Cô ấy đi nghỉ ở thành phố này.
+5382	Cô ấy đi công tác ở thành phố này. Họ sẽ đi nghỉ ở Mêhicô.
+5383	Họ sẽ đi công tác ở Mêhicô.
+5384	Tại sao cháu không ở trường học? Hôm nay là ngày lễ. Trường đóng cửa. Tại sao hôm nay các cháu đi công viên? Hôm nay là ngày lễ.
+5385	Vào ngày lễ này, họ đi tiệc hóa trang.
+5386	Vào ngày lễ này, họ mặc quần áo màu đỏ, màu trắng và màu xanh.
+5387	Vào ngày lễ này, họ ăn mừng Năm Mới.
+5388	Con có phải đi học không?
+5389	Có. Hôm nay không phải là ngày lễ. Con có phải đi học không?
+5390	Không. Hôm nay là ngày lễ.
+5391	Họ đang chơi nhạc trong cuộc diễu hành này. Những người đàn bà đang nhảy trong cuộc diễu hành này.
+5392	Những người đàn bà đang đội hoa quả ở trên đầu trong cuộc diễu hành này.
+5393	Tại sao hôm nay có cuộc diễu hành? Tại vì chúng ta đang ăn mừng Năm Mới. Tại sao hôm nay có cuộc diễu hành?
+5394	Tại vì đội bóng đá của chúng ta đã thắng tất cả các trận đấu!
+5395	Đây là những bức tượng đạo Hindu.
+5396	Đây là nhà thờ đạo Cơ đốc.
+5397	Họ đang xem tranh Phật Giáo trên tường.
+5398	Người đàn ông đạo Do Thái đang hát cho con trai nghe.
+5399	Người đàn ông đạo Hồi đang ở trong nhà thờ Hồi giáo.
+5400	Người đạo Hindu đang mừng lễ.
+5401	Người Phật giáo đang mừng lễ.
+5402	Người Mêhicô đang mừng lễ.
+5403	Khi nào những người đạo Do Thái ăn mừng ngày lễ này?
+5404	Những người đạo Do Thái ăn mừng ngày lễ này vào mùa xuân.
+5405	Khi nào những người đạo Hồi ăn mừng ngày lễ này?
+5406	Những người đạo Hồi ăn mừng ngày lễ này vào mùa thu.
+5407	Đây là đám cưới đạo Cơ đốc. Đây là đám cưới đạo Do Thái. Đây là đám cưới đạo Hindu.
+5408	Tại sao cô mừng lễ này?
+5409	Tại vì cô là người đạo Cơ đốc. Tại sao anh chị ăn mừng?
+5410	Tại vì con trai tôi và bạn gái sắp kết hôn.
+5411	Cháu đang đọc gì?
+5412	Cháu đang đọc sách về những ngày lễ của đạo Do Thái.
+5413	Tại sao cháu đọc về những ngày lễ của đạo Do Thái?
+5414	Tại vì cháu sẽ ăn tối với một gia đình đạo Do Thái.
+5415	Những nhạc sĩ sẵn sàng chơi rồi. Ca sĩ chưa sẵn sàng hát.
+5416	Con sẵn sàng ăn tối chưa?
+5417	Những người đàn ông này sẵn sàng chạy rồi. Em sẵn sàng cưỡi ngựa chưa?
+5418	Đến giờ đi đám cưới rồi. Em sẵn sàng đi chưa? Chưa, em chưa sẵn sàng đi, nhưng em sắp xong rồi.
+5419	Con sẵn sàng đi xem cuộc diễu hành rồi. Đến giờ đi chưa ạ?
+5420	Ừ, đến giờ đi rồi.
+5421	Đến giờ đi buổi tiệc rồi. Anh sẵn sàng chưa? Anh chưa sẵn sàng. Năm phút nữa anh sẽ xong. Vâng. Em sẽ chờ anh ở bên ngoài.
+5422	Đến giờ đi rồi. Em sẵn sàng chưa?
+5423	Em chưa sẵn sàng. Em chưa xếp va li xong.
+5424	Ừ, nhưng chúng ta sắp phải đi.
+5425	Chúng ta hãy đi công viên.
+5426	Tháng tới, chúng ta hãy đi nước Nga. Vâng. Chúng ta có thể đi Matxcơva được. Anh sẵn sàng đi nghe nhạc ở nhà hát chưa? Anh sẵn sàng rồi. Chúng ta đi thôi!
+5427	Chúng ta hãy đi vườn thú.
+5428	Ừ. Chúng ta có thể đi trưa nay được.
+5429	Em sẵn sàng đi nhà ga chưa?
+5430	Em sẵn sàng rồi. Chúng ta đi thôi!
+5431	Chị sẵn sàng đi công viên chưa?
+5432	Vâng. Chúng ta đi thôi.
+5433	Đến giờ đi xem cuộc diễu hành chưa?
+5434	Đến giờ rồi. Chúng ta đi thôi!
+5435	Anh sẵn sàng đi nhà hàng chưa? Anh sẵn sàng rồi. Chúng ta đi thôi.
+5436	Cháu sẵn sàng đi xem trận đấu chưa? Cháu sẵn sàng rồi ạ. Chúng ta đi thôi! Anh sẵn sàng đi nhà hát chưa?
+5437	Anh sẵn sàng rồi. Chúng ta đi thôi!
+5438	Chào chị! Chào mừng chị về nhà! Chị có khỏe không?
+5439	Chị đi nghỉ bao lâu?
+5440	Tôi đi nghỉ một tháng.
+5441	Chị đã đi đâu?
+5442	Tôi đã đi miền Bắc nước Nhật và Ấn Độ. Chị đã thăm gì ở Nhật Bản?
+5443	Vào mùa đông ở trong thành phố này, người Nhật xây những ngôi nhà rất to bằng tuyết. Vậy à? Chúng rất đẹp. Chị có thích đồ ăn ở đó không?
+5444	Có. Món cá rất ngon.
+5445	Sau khi tôi rời Nhật Bản, tôi đã đi Ấn Độ. Những chiếc xe taxi ở đó trông rất khác xe ở đây.
+5446	Nhiều người Ấn Độ thích nhảy và hát trong ngày lễ của họ.
+5447	Joel, bạn của tôi, đã cưỡi voi ở trong thành phố!
+5448	Chúng tôi cũng đã nhìn thấy một ngôi đền ở trên một cái hồ.
+5449	Chúng tôi đã ăn trưa với một gia đình đạo Hindu.
+5450	Chị nghĩ là cái gì thú vị nhất?
+5451	Tôi nghĩ là gặp những người khác thú vị nhất.
+5452	Tôi cũng rất thích đồ ăn cay của Ấn Độ.
+5453	Tôi cũng nhìn thấy nhiều núi rất đẹp.
+5454	Tôi rất thích những bức ảnh của chị.
+5455	Chị có biết là tôi sẽ đi Việt Nam không? Vậy à? Chị sẽ đi công tác à?
+5456	Tôi sẽ đi nghỉ.
+5457	Khi nào chị sẽ đi? Tháng tới tôi sẽ đi.
+5458	Tôi đã học tiếng Việt ba tháng rồi.
+5459	Tôi có hộ chiếu.
+5460	Tôi đã xếp va li xong rồi.
+5461	Chị sẵn sàng chưa?
+5462	Tôi sẵn sàng rồi.
+5463	Chúng ta đi thôi!
+5464	Anh sẵn sàng chưa? Chưa, anh chưa sẵn sàng.
+5465	Anh chị đến đây để ăn mừng Năm Mới à? Vâng, chúng tôi đến đây để ăn mừng Năm Mới.
+5466	Anh chị từ nước Mỹ đến à? Vâng, chúng tôi từ nước Mỹ đến.
+5467	Anh chị đi công tác ở Việt Nam à? Không.
+5468	Chúng tôi đi nghỉ ở đây.
+5469	Anh chị nói tiếng Việt rất giỏi.
+5470	Chị biết nói bao nhiêu thứ tiếng?
+5471	Tôi biết nói ba thứ tiếng: tiếng Việt, tiếng Ý và một ít tiếng Trung Quốc.
+5472	Anh có nhớ đám cưới của ông vua đó không? Có, anh nhớ đám cưới của ông vua đó.
+5473	Rất đẹp.
+5474	Người ta đang xem gì trên tivi?
+5475	Người ta đang xem đám cưới của vua trên tivi.
+5476	Các ông bà đang xem tin tức à? Vâng, chúng tôi đang xem tin tức.
+5477	Đội áo đỏ thắng à?
+5478	Vâng, đội áo đỏ thắng.
+5479	Những lá cờ này giá bao nhiêu tiền? Những lá cờ này giá mười hai euro.
+5480	Tôi muốn mua một cái.
+5481	Ông có thể bán với giá rẻ hơn được không?
+5482	Tôi không biết là tôi có thể bán một cái với giá rẻ hơn được hay không.
+5483	Tôi sẽ bán cho cô hai lá cờ với giá hai mươi euro.
+5484	Cô có muốn mua không?
+5485	Vâng, tôi muốn mua.
+5486	Em sẵn sàng chưa? Em sẵn sàng rồi!

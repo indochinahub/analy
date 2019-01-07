@@ -1,0 +1,4486 @@
+1001	Where are you from? You are from Brazil.
+1002	Are you hungry Is not.
+1003	I'm not hungry.
+1004	Are you hungry Have.
+1005	I'm hungry.
+1006	Hi everyone.
+1007	Is this your book? Yes.
+1008	This is my book.
+1009	Is this my family? Yes.
+1010	This is my family.
+1011	Where does your family live?
+1012	My family lives in Beijing.
+1013	The women are working.
+1014	Boys playing.
+1015	The man is working.
+1016	The girl is playing.
+1017	a school a hospital a restaurant a park
+1018	The doctor works at the hospital.
+1019	The men work at the park.
+1020	The women work at the restaurant.
+1021	The teacher works at school.
+1022	I'm playing at the park.
+1023	I'm playing at school.
+1024	I work at the hospital.
+1025	I work at school.
+1026	They are eating rice inside.
+1027	They are eating sandwiches outside.
+1028	He is running inside.
+1029	She is running outside.
+1030	This man works inside.
+1031	These men work outside.
+1032	These women work inside.
+1033	This woman works outside.
+1034	morning in the evening at night
+1035	It is morning now.
+1036	It is noon now.
+1037	Now is the evening.
+1038	Now, it is night.
+1039	The children are eating breakfast.
+1040	The men are having lunch.
+1041	They are having dinner.
+1042	They are eating breakfast inside.
+1043	They are eating breakfast outside.
+1044	She is eating lunch inside.
+1045	She is eating lunch outside.
+1046	We are eating breakfast inside.
+1047	We are having dinner outside.
+1048	We are eating breakfast outside.
+1049	We are having dinner inside.
+1050	He works in the morning.
+1051	He works at night.
+1052	They play at noon.
+1053	She watches television in the evening.
+1054	Where do you work? I work at the park.
+1055	I work in a restaurant.
+1056	When do you work? I work in the morning.
+1057	When do you work? I work at noon.
+1058	When do you work? I work at night.
+1059	When do you work? I work in the morning.
+1060	Where do you work I work in a restaurant.
+1061	He wears shoes and socks.
+1062	He wears shoes but he doesn't wear socks.
+1063	I wear a suit and tie.
+1064	I wear a suit but I don't wear a tie.
+1065	She has an egg and she is eating.
+1066	He has an egg but he does not eat.
+1067	She has a book and she is reading it.
+1068	She has a book but she doesn't read it.
+1069	Do you have socks and shoes?
+1070	I have socks, but I don't have shoes.
+1071	Do you have brothers and sisters?
+1072	Have.
+1073	I have two brothers and two sisters.
+1074	Do you have a jacket and a hat?
+1075	I have a jacket, but I don't have a hat.
+1076	He read books before sleeping.
+1077	She read books after lunch.
+1078	He drinks coffee before work.
+1079	They drink coffee after dinner.
+1080	When do you eat breakfast?
+1081	I eat breakfast before work.
+1082	When do you have dinner?
+1083	I have dinner after work.
+1084	thirteen eggs fourteen cups fifteen tie sixteen belts
+1085	seventeen plates of eighteen balls of nineteen flowers twenty books
+1086	thirteen fourteen fifteen sixteen seventeen and nineteen twenty
+1087	Fourteen went after thirteen.
+1088	Fifteen went after fourteen.
+1089	Nineteen before twenty.
+1090	Fifteen went before sixteen.
+1091	Seventeen went after sixteen.
+1092	Seventeen went before eighteen.
+1093	How old are you? I'm fourteen years old.
+1094	How old are you? I'm nineteen years old.
+1095	Hi kids.
+1096	Good night.
+1097	Hi, how are you? I'm fine.
+1098	Hi everyone, how are you guys? We are fine.
+1099	How are you?
+1100	I'm fine.
+1101	How are you? I am cold.
+1102	Good night.
+1103	Good night.
+1104	Hello guys.
+1105	I'm Dan Parker.
+1106	This is Jane Taylor.
+1107	This is her book.
+1108	Hello Miss Taylor.
+1109	How are you? I'm fine.
+1110	When do you write a book?
+1111	In the morning and evening I write books.
+1112	What do you do at noon?
+1113	I and my child play.
+1114	Where do you write books?
+1115	In the morning, I write books in the park.
+1116	In the evening, I write books in the living room.
+1117	seven days
+1118	This baby is one day old.
+1119	two days
+1120	This cat is twenty days old.
+1121	There are seven days in a week.
+1122	There are four weeks in a month.
+1123	There are twelve months in a year.
+1124	a day a week a month a year
+1125	This baby is eighteen days old.
+1126	This baby is eighteen weeks old.
+1127	This baby is eighteen months old.
+1128	He is eighteen years old.
+1129	This day is Friday.
+1130	This day is Saturday.
+1131	This day is Sunday.
+1132	Today is Friday.
+1133	I'm working.
+1134	Today is Saturday.
+1135	I'm running.
+1136	Today is Sunday.
+1137	I am watching television.
+1138	They are walking in the park.
+1139	Today is Monday.
+1140	We are having lunch.
+1141	Today is Tuesday.
+1142	I am buying fish.
+1143	Today is Wednesday.
+1144	I'm reading a book.
+1145	Today is Thursday.
+1146	I'm listening to the radio.
+1147	They are playing.
+1148	He is swimming.
+1149	Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+1150	a daughter a son a daughter a son
+1151	Girls playing games.
+1152	The girls are playing games.
+1153	The boys are playing games.
+1154	The boys are playing games.
+1155	A boy is playing football.
+1156	Two boys and a daughter are playing football.
+1157	Two boys are playing football.
+1158	Do they play football? Yes, the two of them play football.
+1159	Do you play football? Yes, we play football.
+1160	They are playing games with their children.
+1161	The girl is eating with you.
+1162	The girl is reading with her grandfather.
+1163	The boy is swimming with you.
+1164	Two boys are playing football with Dad.
+1165	Who are you having lunch with?
+1166	I'm having lunch with my sister.
+1167	Who are you having dinner with?
+1168	I'm having dinner with my husband.
+1169	The son is visiting his grandmother.
+1170	The daughter is visiting you.
+1171	The woman is visiting Paris.
+1172	The man is visiting Moscow.
+1173	What are you doing?
+1174	I'm playing a game with you.
+1175	What are you doing?
+1176	I am visiting my grandmother in the hospital.
+1177	I'm visiting you.
+1178	This family is visiting Rome.
+1179	The husband and wife are visiting Beijing.
+1180	The son is visiting his grandfather.
+1181	Parents and two children are visiting New York.
+1182	The women are visiting Japan.
+1183	She is visiting her parents.
+1184	We are visiting grandpa.
+1185	This is my family.
+1186	This is our house.
+1187	These are our guests.
+1188	They are inn guests.
+1189	I am not a guest.
+1190	He is an inn guest.
+1191	Our guests are outside the door.
+1192	Our guests are sitting in the living room.
+1193	We are having dinner with the guests.
+1194	We are playing games with guests.
+1195	Welcome to our home! Welcome to our restaurant!
+1196	Welcome to Vietnam!
+1197	Welcome to our restaurant.
+1198	Thank you.
+1199	Welcome to our home.
+1200	Thank you.
+1201	Welcome to Vietnam.
+1202	The guests are outside the door.
+1203	Hi brother and sister!
+1204	Welcome to our home! Thank you.
+1205	The woman is smelling the coffee.
+1206	The man is smelling the flower.
+1207	The woman is tasting the rice.
+1208	They are tasting bread.
+1209	The boy is tasting the apple.
+1210	The man is smelling the milk.
+1211	The girl is smelling the flower.
+1212	The woman is tasting the bread.
+1213	They are tasting rice.
+1214	Delicious rice.
+1215	The man is tasting coffee.
+1216	Bad coffee.
+1217	Delicious bread.
+1218	Bad sandwich.
+1219	Apples delicious.
+1220	Bad eggs.
+1221	Fragrant flowers.
+1222	All bad.
+1223	Aromatic tea.
+1224	Bad fish.
+1225	This is bad.
+1226	This is fragrant.
+1227	This is delicious.
+1228	This is bad.
+1229	This shirt is fragrant.
+1230	This aromatic coffee.
+1231	This shirt is foul.
+1232	This coffee is foul.
+1233	Four fingers three hands ten toes one foot
+1234	one hand fingers one foot to the toes
+1235	Feet in the grass.
+1236	The toes are under water.
+1237	Two hands on the window.
+1238	The fingers are on the table.
+1239	a house in winter a park in the spring a city in the summer a tree in the fall
+1240	spring
+1241	summer
+1242	autumn
+1243	winter
+1244	This is a tree in the winter.
+1245	This is a tree in the spring.
+1246	This is a summer tree.
+1247	This is a tree in the fall.
+1248	This is my home in the winter.
+1249	This is my home in the summer.
+1250	This is my hat in winter.
+1251	This is my hat in the summer.
+1252	My name is David Brown.
+1253	My name is Michael Levy.
+1254	I live in a red house.
+1255	Where do you work
+1256	When do you work?
+1257	Monday, Tuesday and Thursday, I work.
+1258	How old is your child? My child is nine weeks old.
+1259	How old is your son? My son is eighteen months old.
+1260	He is writing a letter.
+1261	She is reading the newspaper.
+1262	He is talking.
+1263	She is talking.
+1264	The man is reading Chinese.
+1265	The woman is reading English.
+1266	The son is writing Arabic.
+1267	The girl is writing Vietnamese.
+1268	He is writing Arabic.
+1269	He is reading Arabic.
+1270	He is speaking Arabic.
+1271	She is writing Chinese.
+1272	She is reading Chinese.
+1273	She is speaking Chinese.
+1274	The daughter is speaking English.
+1275	The son is speaking Vietnamese.
+1276	The man is speaking English.
+1277	The woman is speaking Vietnamese.
+1278	He is writing Vietnamese.
+1279	He is reading Vietnamese.
+1280	He is speaking Vietnamese.
+1281	I am reading Chinese.
+1282	I am writing Chinese.
+1283	I am reading Vietnamese.
+1284	I am writing Vietnamese.
+1285	The man from Australia came.
+1286	The woman comes from Russia.
+1287	The daughter from Japan came.
+1288	The son from Vietnam came.
+1289	Dogs, cats and horses are animals.
+1290	Men, women, girls and boys are people.
+1291	This is an animal.
+1292	This is a person.
+1293	These are animals.
+1294	This is the person.
+1295	The Egyptians speak Arabic.
+1296	Chinese people speak Chinese.
+1297	Vietnamese people speak Vietnamese.
+1298	Australians speak English.
+1299	This woman comes from China.
+1300	She speaks Chinese.
+1301	This animal is in China.
+1302	It does not speak Chinese.
+1303	This man is from Australia.
+1304	He speaks English.
+1305	This animal is in Australia.
+1306	It does not speak English.
+1307	This person speaks Chinese.
+1308	This person speaks Arabic.
+1309	This person speaks English.
+1310	This person speaks Vietnamese.
+1311	I speak Chinese.
+1312	I speak Arabic.
+1313	I speak English.
+1314	I speak Vietnamese.
+1315	Do you speak Arabic?
+1316	I can speak Arabic.
+1317	Do you speak Chinese? Is not.
+1318	I don't speak Chinese.
+1319	Sorry, do you speak Chinese?
+1320	I do not speak Chinese.
+1321	I know speak Chinese.
+1322	Sorry.
+1323	Do you speak English? Have.
+1324	I can speak English.
+1325	Sorry.
+1326	Do you speak Vietnamese? Have.
+1327	I can speak Vietnamese.
+1328	ten belts twenty cups thirty balls forty plates fifty fifty hat ties
+1329	Twenty-thirty and forty and fifty sixty
+1330	twenty cups
+1331	twenty-one cups twenty-two cups twenty-three plates twenty-four plates twenty-five plates
+1332	thirty-four bowls thirty-five bowls thirty-six bowls thirty-seven plates thirty-eight plates thirty-nine plates
+1333	forty four forty five forty six forty seven forty eight forty nine
+1334	forty forty forty forty forty forty forty four forty four forty five forty six forty seven forty eight forty nine
+1335	How old are you? I'm forty-five years old.
+1336	How old is he? He is thirty years old.
+1337	How old are you? I'm thirty-five years old.
+1338	How many discs do we have? We have ten plates.
+1339	How many plates do you have? We have ten discs.
+1340	How many bowls do we have? We have twenty bowls.
+1341	How many bowls do you have? We have twenty bowls.
+1342	How many discs do we have? We have twenty-four plates.
+1343	How many bowls do we have? We have forty-five bowls.
+1344	How many guests?
+1345	There are thirty guests.
+1346	We are teachers.
+1347	We are teachers.
+1348	I am teaching English.
+1349	He is teaching Arabic.
+1350	She is teaching Chinese.
+1351	Are you teaching Vietnamese?
+1352	He is teaching Arabic.
+1353	He is teaching English.
+1354	He is teaching Vietnamese.
+1355	I'm learning Chinese.
+1356	He is learning Arabic.
+1357	They are learning English.
+1358	We are learning Vietnamese.
+1359	She is learning English.
+1360	You are teaching Arabic.
+1361	We are learning Arabic.
+1362	Who is my teacher?
+1363	Ms. Li is my teacher.
+1364	Who is your teacher?
+1365	Mr. Hadad is my teacher.
+1366	I am teaching Chinese.
+1367	We are learning Chinese.
+1368	I am teaching Vietnamese.
+1369	I am learning Vietnamese.
+1370	My name is Reem.
+1371	I speak Arabic, but I am learning English.
+1372	This is my teacher.
+1373	The teacher named Haddad.
+1374	My parents came from China.
+1375	We live in New York.
+1376	My parents do not speak English.
+1377	I speak English and Chinese.
+1378	The boy just woke up.
+1379	The husband is waking up his wife.
+1380	The man is waking you up.
+1381	The girl has just woken up.
+1382	The woman just woke up.
+1383	The man just woke up.
+1384	The woman is waking her daughter.
+1385	The man is waking up his son.
+1386	She is washing dishes.
+1387	He is washing cars.
+1388	They are washing cars.
+1389	The girl is washing her face.
+1390	The woman is washing her face.
+1391	The man is washing his face.
+1392	The man is washing the pants.
+1393	The woman is washing the sweater.
+1394	The boy is washing the T-shirt.
+1395	I'm washing socks.
+1396	They are washing dishes.
+1397	He is washing the T-shirt.
+1398	I am washing my hands.
+1399	She is washing the skirt.
+1400	She is washing her hands.
+1401	I am washing clothes.
+1402	She is washing her face.
+1403	The ball is on his foot.
+1404	The ball is on his finger.
+1405	The ball is on his face.
+1406	The street is wet.
+1407	Dry shirts.
+1408	The dogs are wet.
+1409	The cat is dry.
+1410	Wet horses.
+1411	The horses are dry.
+1412	Her hair is wet.
+1413	Her hair is dry.
+1414	Dirty socks.
+1415	The shirt is clean.
+1416	Her face is dirty.
+1417	His face is clean.
+1418	Dirty shirt.
+1419	Wet shirt.
+1420	The shirt is clean and dry.
+1421	Where is my mother, sister?
+1422	Mom is in the bathroom.
+1423	Where are you, Dad?
+1424	Dad is in the kitchen.
+1425	Why do you wash your hands?
+1426	I wash my hands because my mother's hands are dirty.
+1427	Why do you wear a sweater?
+1428	I wear a sweater because I'm cold.
+1429	Why are you in the kitchen, sister?
+1430	Dad is in the kitchen because he is cooking.
+1431	Why do you drink water?
+1432	I drink water because I am thirsty.
+1433	Why is Mom in the bathroom?
+1434	Mom was in the bathroom because she was washing her hands.
+1435	a toothbrush a toothbrush a toothpaste toothbrush
+1436	toothpaste tooth
+1437	a hair brush with a hair brush a soap hair brush
+1438	soap
+1439	a towel
+1440	a toothpaste toothbrush
+1441	teeth
+1442	a soap hair brush
+1443	The woman is combing her hair.
+1444	The man is brushing his teeth.
+1445	The girls are combing their hair.
+1446	The boys are brushing their teeth.
+1447	I'm brushing my teeth.
+1448	She is combing her hair.
+1449	They are washing their hands.
+1450	She is brushing her teeth.
+1451	She is buying a hair brush.
+1452	They are washing their hands with soap.
+1453	I have a blue toothbrush.
+1454	The mother is waking her daughter.
+1455	The girl is combing her hair.
+1456	My brother is brushing his teeth.
+1457	The father is washing his face.
+1458	I wash my hands before lunch.
+1459	I brush my teeth after breakfast.
+1460	I drink coffee after dinner.
+1461	a pillow a pillow a pillow
+1462	a bed linen a sheet of a blanket
+1463	a bed linen a pillow
+1464	a blanket a towel
+1465	I am under the blanket.
+1466	Bed sheets are on the bed.
+1467	The cat is on the pillow.
+1468	Bath towels are in the bathroom.
+1469	Pink sheets are clean.
+1470	Pink pillow is clean.
+1471	Pink blanket is clean.
+1472	Clean pink towels.
+1473	Why does the dog stink? Because it's dirty and wet.
+1474	Why scented sheets? Because it's clean.
+1475	Why are they in the dining room? Because they are having dinner.
+1476	Why are they in the kitchen? Because they're washing dishes.
+1477	Why are they in the living room? Because they're watching TV.
+1478	Parents reading newspapers in the living room.
+1479	The woman is sleeping in the bedroom.
+1480	The girl is reading in the bedroom.
+1481	The boy is sleeping in the living room.
+1482	What are you buying? I am buying flowers.
+1483	How many flowers are you buying? I am buying nine flowers.
+1484	Why are you buying flowers?
+1485	I am buying flowers because this afternoon, I went to visit my grandmother.
+1486	Where does her grandmother live? My grandmother lived in New York.
+1487	Hi Jane.
+1488	How many bowls do you have? I have two bowls.
+1489	Do we eat outside? Is not.
+1490	We eat inside.
+1491	Is it fragrant? Fragrant.
+1492	Is it delicious? Tasty!
+1493	Hello! Hello girls!
+1494	Hi there! Hello grandparents!
+1495	How are you? I'm fine.
+1496	This is my friend Anna.
+1497	She came from Russia.
+1498	Do you speak Vietnamese? Have.
+1499	Nice to meet you.
+1500	Nice to meet you.
+1501	Where do you work?
+1502	Where do you work?
+1503	Do you play soccer? Have.
+1504	I play football.
+1505	Do you play football? Have.
+1506	When do you play? I play in the evening.
+1507	Where do you play?
+1508	I play in the park.
+1509	Hello grandparents.
+1510	Where are you?
+1511	I am in the kitchen.
+1512	What are you doing? I'm washing dishes.
+1513	Why do you wash dishes?
+1514	I wash dishes because I'm my friend.
+1515	The women have umbrellas.
+1516	He has a ticket.
+1517	She has sunglasses.
+1518	Men have ladders.
+1519	an umbrella a ticket a sunglasses a ladder
+1520	He needs a ladder.
+1521	She needs a towel.
+1522	She needs soap.
+1523	She needs sunglasses.
+1524	She needs money.
+1525	He has money.
+1526	Money on the table.
+1527	He needs money.
+1528	She has money.
+1529	He needs an umbrella.
+1530	She has an umbrella.
+1531	I have sunglasses.
+1532	I need sunglasses.
+1533	I have a ticket.
+1534	Do you need a ticket?
+1535	Do you need a key? Yes, I need the key.
+1536	Do you need money? Yes, I need money.
+1537	jewelry jewelry jewelry jewelry clothes toy
+1538	fruits and vegetables fruit vegetables vegetables
+1539	Meat vegetable fruit toy clothes
+1540	bijou
+1541	They are buying meat.
+1542	He is buying clothes.
+1543	She is buying toys.
+1544	They are buying vegetables.
+1545	This blue car is new.
+1546	This white house is old.
+1547	This new red house.
+1548	This blue car is old.
+1549	an old television a new TV an old phone a new phone
+1550	He sells fruits.
+1551	He sells cars.
+1552	She sells fruits and vegetables.
+1553	She sells flowers.
+1554	She sold the old hat.
+1555	She sells an old car.
+1556	I sell a new umbrella.
+1557	I sell a new car.
+1558	He is buying an old hat.
+1559	He is buying an old car.
+1560	I am buying a new umbrella.
+1561	I am buying a new car.
+1562	This shop sells old jewelry.
+1563	This shop sells new jewelery.
+1564	This shop sells second hand books.
+1565	This shop sells new books.
+1566	Food store Food store Food store Tool shop store Jewelry store
+1567	Jewelry store food store jewelry store
+1568	They are shopping at the grocery store.
+1569	She is shopping at the tool shop.
+1570	He is shopping at the jewelry store.
+1571	He is buying medicine.
+1572	They are eating chocolate.
+1573	She is selling pastries.
+1574	They are buying vegetables at the food store.
+1575	She is buying medicine at the pharmacy.
+1576	Mom is buying pastries at the bakery.
+1577	She is buying books at the bookstore.
+1578	He is buying books at the bookstore.
+1579	I am buying a ladder at the tool shop.
+1580	We are selling jewelry in jewelry stores.
+1581	She is selling medicine at the pharmacy.
+1582	chocolate
+1583	a sweet pastry
+1584	a pharmacy a bookstore a bakery
+1585	a broken TV a broken toy with a broken radio
+1586	a broken phone
+1587	My TV is broken.
+1588	My toys are broken.
+1589	My ladder is not broken.
+1590	My glasses are not broken.
+1591	She wants chocolate.
+1592	She wants toys.
+1593	She wants jewelry.
+1594	The dog wants meat.
+1595	She needs a jacket.
+1596	She wants a purple jacket.
+1597	He needs glasses.
+1598	He wants red glasses.
+1599	Excuse me, where's the food store? Food store near the bridge.
+1600	Sorry, where's the bakery?
+1601	Cake shop on Pine Street.
+1602	Sorry, I need medicine.
+1603	Where is the pharmacy? The pharmacy is near the hospital.
+1604	Sorry, I want a book.
+1605	Where is the bookstore?
+1606	Bookstore is near the park.
+1607	She wants jewelry, but she doesn't need jewelry.
+1608	She wants cakes, but she doesn't need cakes.
+1609	She needs glasses, but she doesn't want glasses.
+1610	She needs medicine, but she doesn't want medicine.
+1611	I need a new TV.
+1612	Why do you need a new TV?
+1613	Because my old TV is broken.
+1614	I need a new umbrella.
+1615	Why do you need a new umbrella?
+1616	Because my old umbrella is broken.
+1617	What are you buying?
+1618	I am buying fruits and chocolates.
+1619	I am buying meat and vegetables.
+1620	Sorry, is this a pharmacy? Is not.
+1621	This is a bookstore.
+1622	The pharmacy is on Elm Street.
+1623	Sorry, is this a bakery? Is not.
+1624	This is a grocery store.
+1625	Bakery shop near the park.
+1626	Where is the tool shop?
+1627	Tool shop near the bookstore.
+1628	What do you need?
+1629	I need a new ladder.
+1630	Why do you need a new ladder?
+1631	Because my old ladder is broken.
+1632	a play a play a play
+1633	a concert a concert a movie
+1634	The son and father are watching the movie.
+1635	They are watching drama.
+1636	The man and the woman are listening to the concert.
+1637	They are listening to the radio.
+1638	football soccer football golf golf ball
+1639	a concert a play
+1640	a golf ball soccer movie
+1641	orange juice tea
+1642	carrots
+1643	The man and the woman are drinking tea.
+1644	The man is eating carrots.
+1645	The woman is eating oranges.
+1646	She likes soccer.
+1647	She doesn't like carrots.
+1648	She likes horses.
+1649	She doesn't like juice.
+1650	He likes to play golf.
+1651	She doesn't like to play tennis.
+1652	They like to drink tea.
+1653	She doesn't like to wear red shoes.
+1654	He likes this concert.
+1655	He doesn't like this concert.
+1656	He likes oranges.
+1657	He doesn't like oranges.
+1658	She likes to run.
+1659	She likes to read.
+1660	He likes to cook.
+1661	She likes to swim.
+1662	The women are playing golf.
+1663	The women are playing football.
+1664	The women are playing tennis.
+1665	She doesn't like to play soccer.
+1666	He likes to play football.
+1667	She likes to play tennis.
+1668	What do you like to do?
+1669	I like to play soccer.
+1670	What do you like to do?
+1671	I like reading.
+1672	What do you like to do? I like listening to the radio.
+1673	What do you like to do? I like cooking.
+1674	The boy has more juice than his mother.
+1675	The girl has more oranges than her mother.
+1676	Teachers have more books than students.
+1677	The girl has more cakes than her father.
+1678	The man has less tea than his wife.
+1679	The girl has less bread than her son.
+1680	The man has fewer apples than the girl.
+1681	The boy has fewer books than the woman.
+1682	The woman has less juice than her son.
+1683	The boy has more milk than the man.
+1684	The woman has more dogs than the man.
+1685	The girl has fewer toys than her son.
+1686	The man has more bread than his wife.
+1687	The man has less bread than his wife.
+1688	The woman has more money than her husband.
+1689	The woman has less money than her husband.
+1690	Which animal is big? This animal is big.
+1691	Which animal is small? This animal is small.
+1692	Which fruit is red? This fruit is red.
+1693	Which fruits are green? This fruit is green.
+1694	Which toy is big?
+1695	Big blue toys.
+1696	Which toy is small?
+1697	Small yellow toy.
+1698	Which shirt is brown? Big brown shirt.
+1699	Which shirt is pink? Small pink shirt.
+1700	I like tennis more than football.
+1701	I like apples more than oranges.
+1702	I like milk more than juice.
+1703	I like tea more than coffee.
+1704	Which shoes do you like more?
+1705	I like blue shoes more than green shoes.
+1706	Which shirt do you like more?
+1707	I like the black shirt more than the blue shirt.
+1708	Which bike do you like more?
+1709	I like the bike more green than the pink bike.
+1710	Which dress do you like more?
+1711	I like the red dress more than the white dress.
+1712	Which house do you like more? I like the new house more than the old one.
+1713	Which car do you like more?
+1714	I like a car older than a new car.
+1715	five dollars ten euros fifteen pounds
+1716	The shirt costs twelve pounds.
+1717	The book costs fifteen dollars.
+1718	The sunglasses cost twenty euros.
+1719	How much does the carrot cost?
+1720	Carrots cost three dollars.
+1721	How much does tea cost?
+1722	Tea costs two euros.
+1723	How much does a movie ticket cost?
+1724	Movie tickets cost nine pounds.
+1725	How much does a concert ticket cost?
+1726	Price of forty euros.
+1727	How much does the sandwich cost?
+1728	Price of three tables.
+1729	How much does orange juice cost?
+1730	One dollar price.
+1731	TVs cost more than sunglasses.
+1732	Hats are cheaper than coats.
+1733	Concert tickets are more expensive than movie tickets.
+1734	Prices are cheaper than books.
+1735	Blue pants cost more than green pants.
+1736	Purple bicycles cost less than gold bicycles.
+1737	Black phones cost more than white phones.
+1738	Black glasses cost less than red glasses.
+1739	Which dress do you like more?
+1740	I like the blue dress more than the white dress.
+1741	How much does the blue shirt cost? Price of seven euros.
+1742	Which sweater do you like more?
+1743	I like the gray sweater more than the purple sweater.
+1744	How much does the gray sweater cost?
+1745	Price twenty-nine dollars.
+1746	What shoes do you like? I like black shoes.
+1747	How much does the shoe cost? Price of sixty euros.
+1748	metal metal metal wood
+1749	the wood
+1750	paper
+1751	plastic
+1752	Plastic metal paper
+1753	This table is made of wood.
+1754	This chair is made of plastic.
+1755	This ticket is made of paper.
+1756	This ladder is made of metal.
+1757	a wooden bowl a plastic plate with a plastic bowl a wooden plate
+1758	This is made of wood.
+1759	This is made of plastic.
+1760	This is made of paper.
+1761	This is made of metal.
+1762	Coins made of metal.
+1763	Credit card made of plastic.
+1764	Czech made of paper.
+1765	They are paying with coins.
+1766	She is paying by check.
+1767	He is paying by credit card.
+1768	I am paying in cash.
+1769	Do you want to pay by check? Is not.
+1770	I want to pay in cash.
+1771	Do you want to pay with a credit card? Is not.
+1772	I want to pay by check.
+1773	Do you want to pay in cash? Is not.
+1774	I want to pay by credit card.
+1775	How much does the wooden chair cost? The wooden chair costs sixty pounds.
+1776	How much does the plastic chair cost? The plastic chair costs four pounds.
+1777	The wooden chair is expensive.
+1778	Cheap plastic chair.
+1779	The metal bowl is expensive.
+1780	Cheap paper bowl.
+1781	This jewelry is expensive.
+1782	This jewelry is cheap.
+1783	This camera is expensive.
+1784	This camera is cheap.
+1785	This car is cheap.
+1786	This car is expensive.
+1787	This dress is cheap.
+1788	This dress is expensive.
+1789	This TV is heavy.
+1790	This table is heavy.
+1791	This coin is light.
+1792	This bed linen is light.
+1793	This chair is light.
+1794	This computer is light.
+1795	This bed is heavy.
+1796	These are fast.
+1797	These are slow.
+1798	This one is fast.
+1799	This child is slow.
+1800	This car is fast.
+1801	This animal is slow.
+1802	The brown horse is fast.
+1803	This bike is slow.
+1804	This is fast.
+1805	This is light.
+1806	This is heavy.
+1807	This child is faster.
+1808	This child is slower.
+1809	My books are heavy.
+1810	His book is heavier.
+1811	This plastic bowl is light.
+1812	This paper bowl is lighter.
+1813	This camera is small.
+1814	This camera is smaller.
+1815	This camera is the smallest.
+1816	This house is big.
+1817	This house is bigger.
+1818	This house is the biggest.
+1819	The old man has gray hair.
+1820	The old woman has gray hair.
+1821	The young woman has dark hair.
+1822	Young man with blue hair.
+1823	The old man is a teacher.
+1824	The old woman is a doctor.
+1825	The young woman is the teacher.
+1826	Young man is a doctor.
+1827	My doctor is old.
+1828	My doctor is young.
+1829	IM old.
+1830	I'm young.
+1831	My house is big.
+1832	My house is bigger than your house.
+1833	My computer is small.
+1834	My computer is smaller than your computer.
+1835	This TV is more expensive.
+1836	This computer is the most expensive.
+1837	The man has some cake.
+1838	The woman has more cakes.
+1839	The girl has the most sweet cakes.
+1840	The woman has some bread.
+1841	The man has more bread.
+1842	The son has the most bread.
+1843	She has several books.
+1844	She has more books.
+1845	She has the most books.
+1846	He has several pens.
+1847	He has more pens.
+1848	He has the most pens.
+1849	She has some apples.
+1850	He has more apples.
+1851	He has the most apples.
+1852	She has some money.
+1853	She has less money.
+1854	She has some bread.
+1855	He has less bread.
+1856	The man has some rice.
+1857	The girl has less rice.
+1858	The woman has the least rice.
+1859	The girl has some cake.
+1860	The woman has fewer cakes.
+1861	The man has the least cake.
+1862	The woman has a little fruit.
+1863	The son has the most fruit.
+1864	The girl has less fruit than the man.
+1865	The girl has more fruit than her son.
+1866	These pens are the same.
+1867	These cups are different.
+1868	These chairs are different.
+1869	These toys are the same.
+1870	These ties are the same.
+1871	These ties are different.
+1872	These coins are the same.
+1873	These coins are different.
+1874	These shirts are different colors.
+1875	These shirts are the same color.
+1876	These balls are different colors.
+1877	These balls are the same color.
+1878	These disks are the same color.
+1879	These bowls are different colors.
+1880	These books are different colors.
+1881	These cups are the same size.
+1882	These cups are different sizes.
+1883	These hats are the same size.
+1884	These hats are different sizes.
+1885	These hats are the same color.
+1886	These hats are different colors.
+1887	These cups are the same color.
+1888	These cups are different colors.
+1889	These phones are the same size, but different colors.
+1890	These phones are the same color, but different sizes.
+1891	These towels are the same size, but different colors.
+1892	These towels are the same color, but different sizes.
+1893	This chair is too small.
+1894	He is too tall.
+1895	You are too low.
+1896	This bowl is too big.
+1897	This bowl is too small.
+1898	This bike is too big.
+1899	This bike is too small.
+1900	This shirt is too wide.
+1901	This shirt is too tight.
+1902	These pants are too wide.
+1903	These pants are too tight.
+1904	These jeans are too wide.
+1905	These jeans are too tight.
+1906	This jeans fit.
+1907	This shoe is too wide.
+1908	This shoe is too tight.
+1909	This shoe fits.
+1910	Is the dress moderate? Have.
+1911	It fits.
+1912	Does the shirt fit? Is not.
+1913	It is too wide.
+1914	Is the glass moderate? Is not.
+1915	It is too small.
+1916	Is the hat fit?
+1917	My hat is too wide.
+1918	My glasses are too small.
+1919	My glasses are too big.
+1920	My hat is too tight.
+1921	Do you want this T-shirt? Is not.
+1922	I don't want this T-shirt.
+1923	Why not?
+1924	Because it's so wide.
+1925	Does the jacket fit? Is not.
+1926	It is too tight.
+1927	This jacket is wider.
+1928	A few yellow balls.
+1929	There are no yellow balls.
+1930	All balls are yellow.
+1931	A few plastic plates.
+1932	There is no cup of paper.
+1933	All toys are metal.
+1934	All toys are wooden.
+1935	A few red hats.
+1936	There are no red hats.
+1937	All hats are red.
+1938	There are no plastic flowers.
+1939	A few plastic flowers.
+1940	All flowers are paper.
+1941	A few paper flowers.
+1942	A few children are sitting.
+1943	All the children are sitting.
+1944	No child is sitting.
+1945	These coins are the same color, but different sizes.
+1946	These coins are the same size, but different colors.
+1947	Our T-shirts are the same color, but different sizes.
+1948	Our T-shirts are the same size, but different colors.
+1949	Which dress do you like more?
+1950	I like the red dress more than the blue dress.
+1951	Which dress do you like best?
+1952	I like the black dress the most.
+1953	Which cat do you like? I like all cats.
+1954	Which toy do you like?
+1955	I like all the toys.
+1956	Window open.
+1957	Door closed.
+1958	Open door.
+1959	Close window.
+1960	Jewelry store opened.
+1961	Bookstore open.
+1962	The pharmacy is closed.
+1963	Toy store closed.
+1964	Food store open.
+1965	Food store closed.
+1966	The bakery is open.
+1967	Cake shop closed.
+1968	Do you want a cake?
+1969	No problem.
+1970	Is the grocery store open?
+1971	I'm four years old today.
+1972	I want a sweet cake.
+1973	What color cake do you want?
+1974	I want a blue pastry.
+1975	What size cake do you want?
+1976	I want the biggest cake.
+1977	Today, my son is four years old.
+1978	I need a sweet cake.
+1979	What color cake do you need?
+1980	I need the blue pastry.
+1981	What size cake do you need?
+1982	I need the biggest cake.
+1983	This is the biggest blue pastry.
+1984	How much does the pastry cost?
+1985	Price twenty-five dollars.
+1986	a post office a hotel a bank a museum a cafe a library
+1987	She works at the bank.
+1988	He works at the post office.
+1989	They work at a cafe.
+1990	She is reading a book at a cafe.
+1991	They are reading books at the library.
+1992	He is reading a book at the museum.
+1993	They work at the bank.
+1994	She works at the hotel.
+1995	He works at the museum.
+1996	They are at home.
+1997	The woman is at home.
+1998	The men are at work.
+1999	The children are at school.
+2000	Men are cooking at work.
+2001	The man is cooking at home.
+2002	Children reading books at school.
+2003	This child is reading books at home.
+2004	I'm at home.
+2005	I am at work.
+2006	I am at school.
+2007	She is at the hotel.
+2008	They are at the museum.
+2009	She is going to the library.
+2010	She is going to the cafe.
+2011	He is going to the bank.
+2012	We are going to the park.
+2013	They are going to the museum.
+2014	The children are going to school.
+2015	He is working.
+2016	He is at work.
+2017	She is going to school.
+2018	She is working.
+2019	A theater a theater a theater a stadium a stadium a gasoline shop
+2020	They are standing in the stadium.
+2021	She is sitting in the theater.
+2022	He is working at the gas shop.
+2023	He is watching the map.
+2024	She is buying gasoline.
+2025	The women are watching the map.
+2026	Men need gasoline.
+2027	We need gasoline.
+2028	He is buying gasoline with a credit card.
+2029	She needs a map.
+2030	She is buying a map in cash.
+2031	She needs gasoline.
+2032	She needs coffee.
+2033	Where are you going?
+2034	I'm going to the pharmacy.
+2035	Where are you going? We are going to the library.
+2036	Where are you going?
+2037	I am going to the hospital.
+2038	Where are you going?
+2039	We are going to the stadium.
+2040	Where is he going
+2041	He is going to school.
+2042	Where are they going?
+2043	They are going to the cafe.
+2044	I need medicine.
+2045	I go to the pharmacy.
+2046	We need milk.
+2047	I went to the food store.
+2048	The car needs gasoline.
+2049	I go to the gas store.
+2050	Where are you going? I'm going to the library.
+2051	Where are you going? We are going to the theater.
+2052	I am going to the stadium.
+2053	I'm going to the library.
+2054	We are going to the museum.
+2055	We are going to the post office.
+2056	We are going to the gas store.
+2057	We are going to the bank.
+2058	The man is behind the tree.
+2059	The boy is in front of the tree.
+2060	The girl is behind the bed linen.
+2061	The woman in front of the bed linen.
+2062	The bike is in front of the house.
+2063	The bike is behind the house.
+2064	The horse is in front of the museum.
+2065	The woman is behind the man.
+2066	The man is next to the car.
+2067	The green car is next to the red car.
+2068	The man is next to his wife.
+2069	The woman is beside the horse.
+2070	The man is behind the car.
+2071	The man is in front of the car.
+2072	The woman is in the car.
+2073	The man is on the chair.
+2074	The boy is under the table.
+2075	The animal is behind the car.
+2076	The animal is under the house.
+2077	The animal is on the car.
+2078	The animal is in the house.
+2079	The animal is in front of the house.
+2080	The animal is next to the car.
+2081	Where are you?
+2082	I was under the chair.
+2083	I am behind the chair.
+2084	Where are you
+2085	You are under the car.
+2086	I am behind the car.
+2087	The tree is on her left.
+2088	The flowers are on her right.
+2089	The car is on his right.
+2090	The window is on his left.
+2091	The girl is on her left.
+2092	The dog is on her right.
+2093	The bike is on her left.
+2094	The map is on his right.
+2095	The cafe is on his left.
+2096	The cafe is on his right.
+2097	The theater is on his left.
+2098	The theater is on his right.
+2099	Where is the post office?
+2100	I need a map.
+2101	Do they sell maps at bookstores? Yes, they sell maps in bookstores.
+2102	The map is behind the newspapers.
+2103	I want to buy this map.
+2104	How much does the map cost? Price of five dollars.
+2105	Do you want to pay in cash? Is not.
+2106	Where do you want to go? We want to go to the post office.
+2107	Post office is next to the bookstore.
+2108	The children are lining up.
+2109	The men are lined up.
+2110	The women are lining up.
+2111	The first one in the row is high.
+2112	The second person in the row has blond hair.
+2113	The third person in the row has black hair.
+2114	The fourth person is thirsty.
+2115	The first child in a row wears a red skirt.
+2116	The second child was in sunglasses.
+2117	The third child in the row wore a blue T-shirt.
+2118	The fourth child in the row wears a hat.
+2119	The first number is number three.
+2120	The second number is nine.
+2121	The third number is number seven.
+2122	Where's the toilet?
+2123	Restroom at the first door on the right.
+2124	Toilet room on the second door on the left.
+2125	Restroom in the first door on the left.
+2126	What is your jacket?
+2127	My coat is red.
+2128	It is the fourth on the right.
+2129	He is at home.
+2130	He is going home.
+2131	I'm working.
+2132	I'm back home.
+2133	The children are at home.
+2134	The children are going home.
+2135	They are at work.
+2136	She is at work.
+2137	They are going to the theater.
+2138	He works at the theater.
+2139	She is sitting in the theater.
+2140	Where do you want to go?
+2141	I want to go to the museum.
+2142	Where do you want to go? We want to go to the theater.
+2143	Where do you want to go?
+2144	I want to go to the stadium.
+2145	Did you go to the stadium?
+2146	Yes, I went to see the football there.
+2147	Did you go to the library?
+2148	Yes, I read it there.
+2149	Did you go to the theater?
+2150	Yes, parents go to the theater there.
+2151	Mom going to the food store? Yes, mom goes to the food store.
+2152	What did you buy there?
+2153	I bought bread and eggs there.
+2154	a subway train a metro train a subway train a bus
+2155	a bus a taxi
+2156	He is taking the bus.
+2157	She is taking the subway.
+2158	They are taking a taxi.
+2159	These people are taking the subway.
+2160	These people are taking the bus.
+2161	These people are taking a taxi.
+2162	Sorry, where is your seat? Your seat is on the right.
+2163	Thanks you.
+2164	Nothing.
+2165	Sorry Mrs.
+2166	Would you like to sit here? Thank you.
+2167	Sorry, where is my seat? Your seat is the third place.
+2168	Where is Sarah sitting?
+2169	Sarah is sitting at number eight.
+2170	What do you go to do?
+2171	I go to work by subway.
+2172	What do you go to school?
+2173	I walk.
+2174	What do you go to do? I drive.
+2175	What do you go to school? I take the bus.
+2176	She is getting off the bus.
+2177	They are coming down the subway.
+2178	We are standing at the bus stop.
+2179	She is sitting at the bus stop.
+2180	He is getting off the bus at the bus stop.
+2181	They are going to the subway station.
+2182	I was sitting at the subway station.
+2183	He is getting off the subway at the subway station.
+2184	He is getting off the subway.
+2185	She is on the bus.
+2186	They are on the subway.
+2187	She is getting off the bus.
+2188	He is on the bus.
+2189	Bus stop in front of the park.
+2190	The museum is behind the park.
+2191	Gasoline store is far from the city.
+2192	Post office near the restaurant.
+2193	I am going to the subway station.
+2194	Where are you going?
+2195	The taxi is turning left.
+2196	The taxi is going straight.
+2197	The taxi is turning right.
+2198	The bus is turning left.
+2199	The car is turning right.
+2200	Turn left.
+2201	Go straight.
+2202	Turn right.
+2203	Sorry, how do you get to the bus stop?
+2204	You go straight.
+2205	Sorry, how did you get to the hotel near the museum?
+2206	She went to the third street and turned left.
+2207	Sorry, how do you go to the library?
+2208	She went to the museum and turned right.
+2209	Sorry, how do you go to the bank? She went straight to the park.
+2210	Bank on the right.
+2211	Sorry, how did you go to the museum? He took the bus to the fourth bus stop.
+2212	Get off the bus and walk to the second street.
+2213	Museum on the left.
+2214	A plane a train a one airport bus a station
+2215	a bus stop
+2216	The man is eating on the plane.
+2217	The woman is sleeping on the train.
+2218	They are getting off the bus.
+2219	I am waiting for the plane.
+2220	They are waiting for the train.
+2221	She is waiting for the bus.
+2222	an airport at noon a station in the morning a bus stop at night
+2223	The woman and son are waiting at the airport.
+2224	I am waiting at the bus stop.
+2225	The men are waiting at the station.
+2226	She is waiting at the cafe.
+2227	The man wearing the watch.
+2228	This clock is in the station.
+2229	The woman wears the watch.
+2230	This clock is at the airport.
+2231	Clock on the table.
+2232	The clock is next to the sink.
+2233	It is one o'clock.
+2234	It is two o'clock.
+2235	It's three o'clock.
+2236	It is four o'clock.
+2237	It is nine o'clock.
+2238	It is twelve o'clock.
+2239	It is five o'clock in the morning.
+2240	It is six in the morning.
+2241	It is eight o'clock in the morning.
+2242	It is now noon.
+2243	It is seven o'clock.
+2244	It is eleven o'clock at night.
+2245	It is one noon.
+2246	It is eight o'clock.
+2247	It is one o'clock at night.
+2248	The train departs at six in the morning.
+2249	The train arrived at noon.
+2250	Buses depart at half past six in the evening.
+2251	The plane arrived at half past two in the morning.
+2252	The train departs at 10:30 pm.
+2253	The train arrived at half past eleven.
+2254	What time is it? It is five o'clock.
+2255	Sorry
+2256	What time is it? It is half past eight.
+2257	Thank you.
+2258	Sorry sir.
+2259	What time is it? It is fifteen o'clock.
+2260	What time is it? It is a quarter to six.
+2261	What time is it? It is a quarter past one.
+2262	What time is it?
+2263	It's fifteen hours now.
+2264	I am buying a ticket.
+2265	We have tickets.
+2266	I need a ticket.
+2267	His suitcase is red.
+2268	Their suitcases are black.
+2269	Her suitcase is blue.
+2270	Passport in the suitcase.
+2271	Passport is on the side of the phone.
+2272	Passport is on the map.
+2273	Passport is beside the ticket.
+2274	She has suitcases.
+2275	She has a passport.
+2276	She has tickets.
+2277	two hours eighteen minutes forty seven seconds three hours
+2278	nine minutes
+2279	fifty six seconds
+2280	Ten minutes to arrive.
+2281	It is half past three.
+2282	Fifteen minutes to arrive.
+2283	It is fifteen o'clock.
+2284	One hour later the ship arrived.
+2285	I need to buy two tickets.
+2286	Tickets cost sixty euros.
+2287	What time does the train depart?
+2288	The train departs at half past one.
+2289	The train departs in thirty minutes.
+2290	What time does your train depart? My train departs at eight thirty seven minutes in the morning.
+2291	What time does your bus arrive?
+2292	My bus arrived at 7:15 PM.
+2293	What time does your flight depart? My flight departs at twelve forty-five at noon.
+2294	What time does the flight arrive? Which flight? Flights from Paris.
+2295	The flight arrived at three forty-two minutes.
+2296	It is now two forty-two minutes.
+2297	The flight arrives in an hour.
+2298	Are you waiting for the fifty-two flight? Yes.
+2299	When does the flight arrive?
+2300	Flight fifty-two to ten o'clock.
+2301	Are you waiting for the train number forty-four? Is not.
+2302	I'm waiting for the thirty-three train.
+2303	This train arrived at one o'clock.
+2304	The train arrived at seven fifteen minutes dark?
+2305	No, this train was delayed by an hour.
+2306	This train arrived at about fifteen at night.
+2307	Did this flight depart at eight fifty-five in the morning?
+2308	No, this flight is thirty minutes late.
+2309	This flight departs at nine-twenty-five in the morning.
+2310	It is now twenty-twenty-five minutes in the evening.
+2311	Was the train late?
+2312	No, the train is on time.
+2313	The train arrived at nine-thirty.
+2314	Do you have a suitcase? Yes, I have suitcases.
+2315	Is the flight on time?
+2316	The flight departs at four fifteen.
+2317	Do you have a ticket? Yes, I have a ticket.
+2318	Do you have a passport? Yes, I have a passport.
+2319	It is twenty kilometers from here to the airport.
+2320	It is ten kilometers from here.
+2321	From here to the gas store is five kilometers.
+2322	From here to the restaurant is a kilometer.
+2323	She is in her room.
+2324	Our room number is thirty-one.
+2325	This is your room.
+2326	Her seat is sixty-one.
+2327	His room number is sixty-two.
+2328	This cost sixty-three euros.
+2329	He is sixty-four years old.
+2330	My seat is seventy-three.
+2331	This is room number seventy-four.
+2332	This cost seventy five dollars.
+2333	From here to Rome is seventy-six kilometers.
+2334	Her seat is eighty-five.
+2335	Her room is eighty-six.
+2336	This costs eighty-seven dollars.
+2337	He is eighty-eight years old.
+2338	This camera costs ninety-nine dollars.
+2339	This phone costs ninety-three euros.
+2340	This jacket costs ninety pounds.
+2341	These shoes cost ninety-six euros.
+2342	How much does this camera cost? Price seventy five euros.
+2343	How much does this glass cost? Price of eighty pounds.
+2344	How much does this station cost? Price of sixty-four dollars.
+2345	Is the flight on time? No, the flight is late.
+2346	Is the flight on time? Yes, flight on time.
+2347	What time does your flight arrive?
+2348	His flight arrived at seven-twenty-three in the morning.
+2349	What time does your train arrive?
+2350	My train arrived at six fifty-four minutes.
+2351	The dog can swim.
+2352	The dog cannot drive.
+2353	The cat can run.
+2354	The cat cannot read.
+2355	She can swim.
+2356	The baby cannot swim.
+2357	The horse can walk.
+2358	The fish cannot walk.
+2359	This animal can swim.
+2360	This animal cannot swim.
+2361	This man can walk.
+2362	This man cannot walk.
+2363	He can drive sixty kilometers in a day.
+2364	He could not walk for sixty kilometers in a day.
+2365	She can read this book in ten minutes.
+2366	She could not read this book for ten minutes.
+2367	Can I take this bus to the museum?
+2368	Yes.
+2369	There is a bus stop in front of the museum.
+2370	Can I walk to the restaurant? Is not.
+2371	It is ten kilometers from here to the restaurant.
+2372	Can I take a train to Paris? No.
+2373	This train does not go to Paris.
+2374	Can I take a train to Barcelona? Yes.
+2375	This train departs at fifteen at seven.
+2376	She is sleeping on the beach.
+2377	They are running in the forest.
+2378	They are swimming in the lake.
+2379	He is walking in the mountains.
+2380	A beach of forest mountains
+2381	a lake
+2382	They are at the beach.
+2383	They are in the mountains.
+2384	They are in the forest.
+2385	They are beside a lake.
+2386	It is raining in the forest.
+2387	Snow is falling in the mountains.
+2388	It is raining on the lake.
+2389	Snow is falling in the city.
+2390	Today in the sunny mountain.
+2391	Today is in a cloudy park.
+2392	Today in the sunny beach.
+2393	Today in the cloudy sky.
+2394	Why is her suitcase wet?
+2395	My suitcase was wet because it was raining.
+2396	Why do moms wear sunglasses?
+2397	Mother wears sunglasses because it's sunny.
+2398	Is the fifty-five flight on time?
+2399	No, the flight is late.
+2400	Why is the flight late?
+2401	The flight was late because of the snowfall.
+2402	Is it raining? Yes, it is raining.
+2403	Is it sunny? Yes, it is sunny.
+2404	It will rain today.
+2405	It's raining.
+2406	Today snow will fall.
+2407	Snowing.
+2408	Today in the cold mountain.
+2409	Today in the beach it is cold.
+2410	Today is in the hot forest.
+2411	Today is in the hot city.
+2412	Egypt is hot in summer.
+2413	Russia is cold in the winter.
+2414	New York is cold in winter.
+2415	Rome is hot in the summer.
+2416	Hello friends.
+2417	It will be hot today.
+2418	Tomorrow it will be cold.
+2419	Wednesday, it will be cloudy.
+2420	Fifth, it will be sunny.
+2421	I go swimming today.
+2422	I will go to school tomorrow.
+2423	Wednesday, I will go to play football.
+2424	Thursday, I will watch TV.
+2425	You are buying tickets.
+2426	Why do you need to buy a ticket?
+2427	I need to buy a ticket because I will go to a concert tomorrow.
+2428	Today I drive in the forest.
+2429	I'll wash the car tomorrow.
+2430	I'm buying an umbrella today.
+2431	Tomorrow it will rain.
+2432	Today I work.
+2433	Tomorrow I will play golf.
+2434	Today it rains, but tomorrow morning
+2435	will be sunny.
+2436	Today is cloudy, but tomorrow will be hot.
+2437	Today it snowed, but tomorrow it will rain.
+2438	What is the weather like? It's raining.
+2439	What is the weather like? It's sunny.
+2440	What is the weather like? Snowing.
+2441	How's the weather?
+2442	Cold weather.
+2443	Hot weather.
+2444	Sunny.
+2445	She will drive to work after she has breakfast.
+2446	She is about to drive.
+2447	She is driving.
+2448	He is about to run.
+2449	She is about to read.
+2450	They are going to dinner.
+2451	I'm going to play tennis.
+2452	We are about to swim.
+2453	The husband is about to kiss his wife.
+2454	She is going to the post office.
+2455	We are going to dinner.
+2456	They are going to play football.
+2457	I'm going to have lunch.
+2458	I'm going to play soccer.
+2459	Can we have dinner outside?
+2460	No, we can't have dinner outside.
+2461	Why not?
+2462	Because it's about to rain.
+2463	He will wash his hands.
+2464	She is going to wash her hands.
+2465	Can we go to the beach tomorrow?
+2466	It's cloudy today.
+2467	Saturday we can go.
+2468	When will we have lunch? We will have lunch after swimming.
+2469	When will we play football? We will play football after eating.
+2470	It is a quarter to four.
+2471	Which dress do you like? He liked the black dress.
+2472	What shoes do you like? He likes black shoes.
+2473	It is four fifteen.
+2474	Where do you want to go?
+2475	Turn left or turn right? Turn left.
+2476	Go straight or turn right? Go straight.
+2477	Do we need gasoline? Is not.
+2478	We don't need gasoline.
+2479	Turn left or turn right? Turn right.
+2480	Hello Mr. Foster! Hello!
+2481	Yesterday, I swam at the lake.
+2482	Tomorrow, I will visit my grandmother.
+2483	Yesterday I bought meat and vegetables.
+2484	I cook today.
+2485	I ran ten kilometers yesterday.
+2486	I swim today.
+2487	Yesterday she played tennis.
+2488	Today we are at the beach.
+2489	Tomorrow they will visit grandpa.
+2490	Yesterday I bought a newspaper.
+2491	Today I read the newspaper.
+2492	Yesterday I bought a book.
+2493	I read books today.
+2494	Last Wednesday he bought a train ticket.
+2495	Today he took a train to Paris.
+2496	Last Monday she bought new shoes.
+2497	Today she ran.
+2498	Last Thursday I bought a house.
+2499	Today I bought tables and chairs.
+2500	Last Monday she sold cars.
+2501	Today she took the bus.
+2502	Last Friday I bought a hat.
+2503	Last Tuesday I swam for a kilometer.
+2504	Last week I read two books.
+2505	Last year she was four years old.
+2506	This year she is five years old.
+2507	Next year he will be six years old.
+2508	Last year I went to school.
+2509	I came back to Italy this year.
+2510	Next year I will go to work.
+2511	Next year I will visit China.
+2512	Last year he bought a new car.
+2513	Next year I will go to school.
+2514	Last year she bought this book.
+2515	Next week he will go to the lake.
+2516	Next month we will visit you.
+2517	Next year I'll be six years old.
+2518	When will she go to the mountain? Next week I will go to the mountain.
+2519	When will you go to Barcelona?
+2520	Next week we will go to Barcelona.
+2521	Did you eat at this restaurant last week? No, next week I will eat at this restaurant.
+2522	Did you play football yesterday? No, next week you will play football.
+2523	Last Tuesday I played golf.
+2524	Next Tuesday I will visit my grandmother.
+2525	Last Monday I sold my car.
+2526	Next Monday I will buy a new car.
+2527	Last year I went to Italy.
+2528	Next year I will go to Russia.
+2529	Last week I read a book.
+2530	Last week I read seven books! Yesterday I bought two new shirts.
+2531	Yesterday I bought ten new shirts!
+2532	I have read three books! You bought a dog!
+2533	You ate six sandwiches!
+2534	She ran six kilometers! I wrote a book!
+2535	Today he sold two cars!
+2536	He has not yet swim.
+2537	He is swimming.
+2538	She didn't swim yet.
+2539	She swims.
+2540	She hasn't washed her face yet.
+2541	He washed his face.
+2542	She hasn't come home yet.
+2543	She is home already.
+2544	Have you read this book?
+2545	No, I haven't read it yet.
+2546	Next week I will read.
+2547	I'm reading a book.
+2548	Have you read this book? Yes, I read it.
+2549	a dictionary of a dictionary, a dictionary, a notebook, a notebook, a table
+2550	stamps
+2551	an envelope
+2552	an email
+2553	a table
+2554	a dictionary
+2555	a notebook
+2556	The notebook is on the table.
+2557	Stamps on the table.
+2558	The envelope is under the table.
+2559	Do you have a dictionary?
+2560	No, but the teacher has a dictionary.
+2561	Do you have a dictionary?
+2562	The dictionary is on the table.
+2563	What are you doing?
+2564	I am writing a letter.
+2565	Do you need a stamp?
+2566	No, I bought stamps yesterday.
+2567	Do you have an envelope?
+2568	Last week I bought an envelope.
+2569	The daughter is reading a book to her two sisters.
+2570	She is writing to her parents.
+2571	She is selling notebooks to men.
+2572	He is writing to you.
+2573	He is giving him money.
+2574	He is giving her a credit card.
+2575	She is giving her toys.
+2576	He is giving her a sweet cake.
+2577	He is giving a letter to the woman.
+2578	The teacher is giving the dictionary to the students.
+2579	Grandmother is giving her hat.
+2580	The teacher is giving the apple student.
+2581	The teacher is giving the book to the student.
+2582	The girl is giving her toy brother.
+2583	I am writing an email to my mother.
+2584	He is selling the hat to her.
+2585	science subject science science arts fine arts math
+2586	I am teaching music.
+2587	She is studying history.
+2588	He is teaching math.
+2589	Science subject in the subject of music subject in the subject of Vietnamese language subject
+2590	What subjects did you learn yesterday? Yesterday we learned music.
+2591	What subjects did you learn today? Today we study math.
+2592	What subject will you learn tomorrow? Tomorrow we will study science.
+2593	What subject did you study yesterday?
+2594	Yesterday I learned history and art.
+2595	What subjects did you learn yesterday?
+2596	Yesterday we studied history and music.
+2597	When do you play tennis? We play tennis this morning.
+2598	Did the kids play football this morning?
+2599	No, they played football yesterday.
+2600	Yesterday they ran at the beach.
+2601	Yesterday they went to the park.
+2602	Yesterday they played golf.
+2603	Yesterday they went to the library.
+2604	I will go to the beach this afternoon.
+2605	Yesterday I went to the beach.
+2606	Tomorrow they will go to Paris.
+2607	Last month they went to Paris.
+2608	What time did you go to work this morning? I went to work at nine o'clock.
+2609	What time do you go to school this morning? We went to school at eight o'clock.
+2610	Where did you go yesterday? I go to the park.
+2611	Where did you go last week? We go to the mountains.
+2612	Thursday I went to the bank.
+2613	Friday I went to the library.
+2614	Saturday we went to the lake.
+2615	Friday we went to the food store.
+2616	The doctor is giving him medicine.
+2617	The doctor gave me the medicine.
+2618	He is buying jewelry for her.
+2619	I bought this jewelry for you.
+2620	She is buying coffee for them.
+2621	I buy coffee for you.
+2622	They write to me.
+2623	She bought chocolate for us.
+2624	Grandfather gave us a cat.
+2625	He is selling hats to her.
+2626	He is reading to them.
+2627	Dad is giving me the key.
+2628	There is a word.
+2629	There are two words.
+2630	There are three words.
+2631	There are four words.
+2632	This sign is yellow.
+2633	This sign has a word.
+2634	This sign has two words.
+2635	This sign is blue.
+2636	Sorry, what do these words mean? It means "pharmacy".
+2637	Sorry, what do these words mean? It means "library".
+2638	Sorry, what does this sign mean? It means "restaurant".
+2639	Sorry Miss Jones.
+2640	What are these words?
+2641	These words are "stadiums".
+2642	What does "stadium" mean? This is a stadium.
+2643	He understands this.
+2644	She doesn't understand this.
+2645	I understand this word.
+2646	I don't understand these words.
+2647	She understands this book.
+2648	They do not understand this book.
+2649	I do not understand this sign.
+2650	What does it mean?
+2651	It means "Airport on the right".
+2652	It means "hotel".
+2653	It means "beach".
+2654	What does this mean?
+2655	It means "gas store."
+2656	It means "restroom".
+2657	Sorry, what time is it now?
+2658	I do not understand.
+2659	Can you repeat it? What time is it?
+2660	It is fifteen o'clock.
+2661	Can you repeat it? It is fifteen o'clock.
+2662	Yes ?
+2663	What does this sign mean? It means "library".
+2664	Can you repeat it? Yes.
+2665	It means "library".
+2666	Sorry, where is the bank? The bank is next to the library.
+2667	Can you repeat it? Yes.
+2668	The bank is next to the library.
+2669	Sorry, what does this sign mean? It means "pharmacy".
+2670	It means "pharmacy".
+2671	He is old.
+2672	He is not old.
+2673	He is young.
+2674	These disks are clean.
+2675	These disks are not clean.
+2676	They are dirty.
+2677	This shirt is dry.
+2678	This shirt is still wet.
+2679	This pair is bad.
+2680	The socks are fragrant.
+2681	Are you going home?
+2682	Not yet.
+2683	I'm still working.
+2684	Are you going to eat?
+2685	I'm still cooking.
+2686	She used to run slowly.
+2687	Now she runs fast.
+2688	I didn't like to learn Vietnamese before.
+2689	Now I like learning Vietnamese!
+2690	She didn't like to eat vegetables before.
+2691	Now she likes to eat vegetables.
+2692	She didn't have money before.
+2693	Now she has money.
+2694	In the past, I drove this car.
+2695	Now I drive this car.
+2696	I used to wear these pants in the past.
+2697	Now I like to wear this pants.
+2698	In the past I read these books.
+2699	Now I read these books.
+2700	In the past this tree was small.
+2701	It is big now.
+2702	In the past, I was a student.
+2703	I am a teacher now.
+2704	In the past he was a child.
+2705	Now he is a father.
+2706	In the past I lived in Italy.
+2707	When I was living in Italy, I liked going to Rome with my parents.
+2708	In the past, grandparents lived in Paris.
+2709	When grandparents lived in Paris, grandparents had bicycles.
+2710	When you lived in China, did you teach Vietnamese?
+2711	When you were young, did you play football?
+2712	When you were young, did your mother read this book to you?
+2713	Yes, and now I read this book for my daughter.
+2714	They were dirty before.
+2715	Now they are clean.
+2716	They were blue before.
+2717	Now they are yellow.
+2718	Previously this pair of white socks.
+2719	Now they are pink.
+2720	Previously her hair was brown.
+2721	Now her hair is yellow.
+2722	In the past, we lived in an apartment.
+2723	Now we live in a house.
+2724	In the past, I had a bicycle.
+2725	Now I have a car.
+2726	Do you live with friends in the past? Yes, but now I live with my wife.
+2727	Do you have a dog in the past?
+2728	Yes, but now we have cats.
+2729	Previously he wore a T-shirt.
+2730	Now he is wearing a suit.
+2731	In the past they played football.
+2732	Now they play golf.
+2733	Did you go to the mountain in the past?
+2734	Yes, but now she goes to the park.
+2735	Did you play tennis before? Yes, but now I swim.
+2736	Did you teach art before? No, I teach music.
+2737	In the past, she wrote letters.
+2738	Now she writes an email.
+2739	Previously she worked in a bakery.
+2740	Now she works in a restaurant.
+2741	a university
+2742	a high school
+2743	an elementary school
+2744	When she was in elementary school, she studied art.
+2745	When she was in high school, she studied science.
+2746	Now she is studying math at university.
+2747	In the past, we were students at the primary school.
+2748	Now we are students with university.
+2749	Previously they were students of the same high school.
+2750	They are now students with the same university.
+2751	Are your children a primary school student?
+2752	No, my daughter is a university student.
+2753	My son is a high school student.
+2754	What is your daughter learning?
+2755	My daughter learns art.
+2756	What subject does your son like to study?
+2757	My son likes to study science.
+2758	This elementary school student likes science.
+2759	This high school student likes history.
+2760	This college student likes music.
+2761	an office an office an office a factory a shop
+2762	He is a manager in a store.
+2763	She is an employee in a shop.
+2764	I am a manager in an office.
+2765	They are employees in an office.
+2766	This manager works in this office.
+2767	This manager works in this factory.
+2768	This manager works in this store.
+2769	an office a person who manages a factory an employee a shop
+2770	I am an employee in an office.
+2771	I am a student in elementary school.
+2772	I am the manager in the factory.
+2773	I am a student in university.
+2774	What do you do?
+2775	What do you do?
+2776	I am a manager in a restaurant.
+2777	Where do you work?
+2778	I used to work at a store.
+2779	Now I work at an elementary school.
+2780	What subject do you teach? I teach music.
+2781	I used to work in an office.
+2782	Now I work in a high school.
+2783	What subject do you teach? I teach history.
+2784	Before, you were high school students.
+2785	Now you are college students.
+2786	Previously he was an employee.
+2787	Now he is the manager.
+2788	She was a teacher before.
+2789	Now she is the manager.
+2790	Previously he was a high school student.
+2791	Now he is a university student.
+2792	Are you a student? Yes, I am a college student.
+2793	What subject did you study?
+2794	I study science.
+2795	My father likes science.
+2796	In the past my father was a doctor in Italy.
+2797	Did you come from Italy?
+2798	I came from France, but in the past my family lived in Italy.
+2799	Now I do not work, but before I was a teacher.
+2800	What subject do you teach?
+2801	When I was in Brazil, I taught English.
+2802	When I was in Egypt, I taught history.
+2803	When I was in Russia, I bought this.
+2804	When I was in France, I ate this.
+2805	When I was in China, I saw this.
+2806	When we were at the beach, it was cloudy.
+2807	When we were at the beach, it was sunny.
+2808	When my mother was young, she played soccer.
+2809	When I was young, I played tennis.
+2810	When I was drinking coffee, I wrote this letter.
+2811	When I was in the park, she kissed me.
+2812	When he was at the tool shop, he bought a ladder.
+2813	When he is sleeping, the plane departs.
+2814	Dad was a kid, he played tennis.
+2815	When I was young, my father played football.
+2816	When I was young, I played tennis.
+2817	When I was young, I played football.
+2818	When I was at the station, I listened to the radio.
+2819	When I was at the station, I ate a sandwich.
+2820	When I was at the airport, I read the newspaper.
+2821	When I was at the airport, I ate a sandwich.
+2822	I used to work at the hospital.
+2823	Now I work at university.
+2824	I used to have a bicycle.
+2825	I had a dog before.
+2826	I have a cat now.
+2827	I bought apples at the grocery store.
+2828	I bought a dictionary at the bookstore.
+2829	She bought medicine at the pharmacy.
+2830	We ate this when we were in Beijing.
+2831	We bought this when we were in Paris.
+2832	She wrote the letter when she was on the ship.
+2833	Mom bought me these shoes when I was a baby.
+2834	My daughter wrote these letters to me when she was studying in Vietnam.
+2835	My mother read this book to me when I was a child.
+2836	When did you buy these carrots? He bought these carrots when he was at the grocery store.
+2837	When did you buy these apples?
+2838	I bought these apples when I was at the grocery store.
+2839	Your husband bought this hat for you?
+2840	No, I bought.
+2841	When did you buy this hat?
+2842	I bought this hat when I was living in the United States.
+2843	Did you write this book?
+2844	Yes, I write.
+2845	When did you write?
+2846	I wrote when I was working in Russia.
+2847	Who is this?
+2848	This is my husband.
+2849	When did you go to China?
+2850	We went to China when we were a university student.
+2851	Her grandmother gave her this hat when she was ten years old.
+2852	Do you like it?
+2853	Yes, I like it.
+2854	She will give you.
+2855	Thank you, lady.
+2856	Do you want coffee? Yes, thank you.
+2857	Do you want some drink? Yes thank you.
+2858	Do you need a pen? Yes thank you.
+2859	Do you want to play tennis? No, I want to play golf.
+2860	Do you want coffee? No thanks.
+2861	Do you want to eat chocolate? Yes, thank you.
+2862	Do you want to eat sweet cake? Yes, thank you.
+2863	Do you want to drink tea? Yes, thank you.
+2864	Do you want coffee? Yes, thank you.
+2865	Turn left or turn right? Apples or oranges?
+2866	Black or red?
+2867	You want to drink water or juice? Do you want to eat cake or chocolate? Do you want to buy books or newspapers?
+2868	Do you want coffee or tea?
+2869	Do you want to play tennis or play golf? I want to play golf.
+2870	Do you want to go to the mountains or go to the beach? I want to go to the beach.
+2871	Do you want chocolate or fruit? I want to eat fruit.
+2872	Do you want tea or coffee? I want to drink coffee.
+2873	Do you want to drink milk or orange juice?
+2874	Can you repeat it? Do you want to drink milk or orange juice?
+2875	What is "orange juice"?
+2876	I want to drink orange juice.
+2877	You want to pay with cash or credit card? I do not understand.
+2878	Can you repeat it? You want to pay with cash or credit card? I want to pay by credit card.
+2879	Can you repeat it? What's your name?
+2880	My name is Robert.
+2881	How much does this cost?
+2882	Can you repeat it? How much does this cost?
+2883	Price thirty dollars.
+2884	Do you learn Arabic? Yes, I study Arabic.
+2885	What does this mean?
+2886	It means "post office".
+2887	Did you study art in college?
+2888	Yes, I study art at university in Vietnam.
+2889	Do you speak Vietnamese?
+2890	Yes, I speak Vietnamese.
+2891	Sorry, what time is it now? It is eleven o'clock.
+2892	Can you repeat it? It is eleven o'clock.
+2893	Is this your hat? Yes, this is my hat.
+2894	Why did you go to Vietnam? I will go to school there.
+2895	What subject do you teach? I teach math.
+2896	Do you want to eat chocolate? Yes, thank you.
+2897	Are you a university student? Yes, I am a college student.
+2898	What subject will you study? I will study science.
+2899	The children are singing.
+2900	The adults are dancing.
+2901	The man is singing.
+2902	The girl is dancing.
+2903	The women are dancing.
+2904	The women are singing.
+2905	The boys are singing.
+2906	The boys are dancing.
+2907	There is something on the table.
+2908	Nothing on the table.
+2909	There is something beside her feet.
+2910	There is nothing on the side of his foot.
+2911	There is something in the bowl.
+2912	Nothing is in the bowl.
+2913	There is something on the disk.
+2914	Nothing on the disk.
+2915	She wants something to eat.
+2916	The dog wants something to drink.
+2917	He wants something to read.
+2918	He is not allowed to turn left.
+2919	The dog is not allowed to take the train.
+2920	Students are allowed to play.
+2921	They were allowed to turn left, turn right or go straight.
+2922	Now they are not allowed to go.
+2923	Now they are allowed to go.
+2924	She is allowed to swim in this lake.
+2925	She is not allowed to swim in this lake.
+2926	Please sing.
+2927	Please turn left.
+2928	Please write here.
+2929	I'm putting the disc in the sink.
+2930	They are putting towels on the chair.
+2931	The student is putting the notebook on the table.
+2932	We are putting blankets on the bed.
+2933	Where do you leave the key? He put the key on the table.
+2934	Where do you put the book?
+2935	He put the book on the chair.
+2936	The dog is bringing newspapers to the man.
+2937	Two girls are bringing orange juice and bread to their parents.
+2938	She is bringing a towel to him.
+2939	I'm bringing coffee for you.
+2940	I'm bringing fish from the shop home.
+2941	She is carrying a ball to the park.
+2942	We are carrying books from the library home.
+2943	They are bringing water to the park.
+2944	Please bring me eight plates.
+2945	Please leave the books on the table.
+2946	Please bring me a ladder, please.
+2947	Please give him a pen.
+2948	She is giving him a pen.
+2949	Please give me the umbrella.
+2950	He is giving her the umbrella.
+2951	Please bring her something to drink.
+2952	She's bringing her orange juice.
+2953	Can you give me something to drink?
+2954	She is giving you some tea to drink.
+2955	Can grandma give you something to eat?
+2956	She is giving her some pastries to eat.
+2957	Children play games at the party.
+2958	They are dancing at the party.
+2959	They are singing at the party.
+2960	She is bringing pastries to the party.
+2961	The party is ending.
+2962	The work is ending.
+2963	Spring is starting.
+2964	The concert is starting.
+2965	The match is starting.
+2966	The match is ending.
+2967	The play is beginning.
+2968	The play is ending.
+2969	The movie is starting.
+2970	The movie is ending.
+2971	They are leaving the party.
+2972	She is coming to the match.
+2973	He is leaving the office.
+2974	They are coming to the concert.
+2975	They are going to the hospital.
+2976	They are leaving the hospital.
+2977	He is going to the airport.
+2978	He is leaving the airport.
+2979	He is going to the post office.
+2980	They are from the beach.
+2981	She is going to the party.
+2982	They are coming from the bookstore.
+2983	Do you go to work today? No, I'm not working today.
+2984	Do you come to my party tonight?
+2985	Yes, I will go to your party tonight.
+2986	Next Friday, will Sue be allowed to go to your party?
+2987	Yes, Sue is allowed.
+2988	What time does the party start?
+2989	The party started at 8pm.
+2990	What time does the party end?
+2991	The party ended at half past eleven.
+2992	A week has seven days.
+2993	This month has thirty days.
+2994	One year has twelve months.
+2995	One year begins in January.
+2996	It rained in February in Brazil.
+2997	In Japan, spring begins in March.
+2998	April is the fourth month of the year.
+2999	In Beijing, May is sunny.
+3000	Winter begins in June in Australia.
+3001	In the United States, families cook outside in July.
+3002	The eighth month of the year is August.
+3003	In France, schools started in September.
+3004	October is the tenth month of the year.
+3005	Russia was cold in November.
+3006	In Italy, December is a cold month.
+3007	January February March April May June
+3008	July August September October November November
+3009	January January February March April May June July August September October November December
+3010	When will you go to the beach? February we will go.
+3011	When will you go to the mountains? August we will go.
+3012	The boy is helping the daughter at the library.
+3013	Two boys are helping the old man.
+3014	The girl is helping Dad.
+3015	This teacher is helping students.
+3016	This teacher does not help students.
+3017	This dog is helping the man.
+3018	This dog does not help men.
+3019	The man is meeting you at the beach.
+3020	The woman is meeting her father at the restaurant.
+3021	The woman is meeting her husband at the park.
+3022	The woman is meeting the manager in the office.
+3023	He is meeting the man in the factory.
+3024	The manager is meeting with the staff at the restaurant.
+3025	She is calling the police.
+3026	She is calling the doctor.
+3027	He is calling his wife.
+3028	She is calling her mother.
+3029	The woman is talking to the man in the car.
+3030	The manager is talking to the staff in the office.
+3031	The teacher is talking to the students.
+3032	The man is talking to the horse.
+3033	She is meeting you at the restaurant.
+3034	They are helping grandpa.
+3035	She is talking to her sister.
+3036	She is calling my mom.
+3037	They are meeting their friends at the museum.
+3038	The policeman is helping the woman.
+3039	He is calling the manager.
+3040	The manager is meeting with the staff at the office.
+3041	She is talking to you.
+3042	She is meeting you at the park.
+3043	Who are you calling for? You are calling the doctor.
+3044	Who are you talking to? Dad is talking to the doctor.
+3045	Who are you calling for? I am calling my wife.
+3046	Who are you talking to? I am talking to my wife.
+3047	He came to the party early.
+3048	They came to the party on time.
+3049	She came to the party late.
+3050	The man is late.
+3051	His wife is late.
+3052	The children are late.
+3053	She came to school late.
+3054	They arrived at the station early.
+3055	He arrived late at the airport.
+3056	She came to work early.
+3057	He came to work late.
+3058	We go to the concert on time.
+3059	This TV costs one hundred and twenty euros.
+3060	This camera costs two hundred and five boards.
+3061	This vegetable costs three hundred and seven yen.
+3062	These shoes cost four hundred and twenty yen.
+3063	This soap costs five hundred yen.
+3064	These socks cost six hundred yen.
+3065	This blanket costs seven hundred yen.
+3066	This meat costs eight hundred yen.
+3067	This bed costs seven thousand four hundred yen.
+3068	This suit costs three thousand nine hundred yen.
+3069	This glass costs one thousand seven hundred yen.
+3070	This jeans cost two thousand and three hundred yen.
+3071	one thousand dong five thousand dong ten thousand dong twenty thousand dong
+3072	This car costs six thousand and seven hundred dollars.
+3073	This bike costs five thousand yen.
+3074	This jewelry costs one thousand and two hundred euros.
+3075	This dress cost eight thousand nine hundred yen.
+3076	The year of two thousand and hundreds of years.
+3077	Number two thousand and hundreds of years.
+3078	One thousand eight hundred and ninety years.
+3079	Number one thousand eight hundred and ninety.
+3080	Year one thousand nine hundred thirty one.
+3081	Number one thousand nine hundred thirty one.
+3082	an address one address one phone number one phone number a day
+3083	an email address an e-mail address a day's email address
+3084	a date a phone number
+3085	This is an address.
+3086	This is a phone number.
+3087	This is an email address.
+3088	This is a date.
+3089	I call the doctor.
+3090	You meet me at the cafe.
+3091	Dad help me.
+3092	You leave the bowl on the table.
+3093	You dance.
+3094	Wait here.
+3095	I read your book.
+3096	You wash your hands.
+3097	Please sit down.
+3098	I turn left.
+3099	Parents see me!
+3100	I turn right.
+3101	Listen to me.
+3102	You leave your cup in the sink.
+3103	You help me.
+3104	I wash my hands.
+3105	You swim! You go.
+3106	I help you.
+3107	Please help me.
+3108	Where is Barcelona?
+3109	Barcelona there.
+3110	Where is the museum?
+3111	I do not know.
+3112	Where is your socks?
+3113	I do not know.
+3114	He knows her phone number.
+3115	She doesn't know his phone number.
+3116	She knows his name.
+3117	I want to call the doctor.
+3118	Do you know his phone number?
+3119	No, I don't know his phone number.
+3120	Do you know the address?
+3121	Yes, it's at thirty-four Main Street.
+3122	Do you come to my party?
+3123	Yes, but I will be late.
+3124	Do you know my address?
+3125	Yes, I know your address.
+3126	This is the twenty-fourth day of December.
+3127	This is the twenty-fifth day of December.
+3128	This is the thirty-first day of December.
+3129	Today is the fourteenth day of July.
+3130	Today is the thirteenth day of the fifth month.
+3131	Today is Thursday, April twenty-two.
+3132	Is today the twenty-third day of March?
+3133	Yes, today is March 20th.
+3134	What's today? Which day is this today?
+3135	Today is the nineteenth day of June in the year two thousand and eleven.
+3136	Today is the thirteenth day of a year two thousand and hundreds of years.
+3137	The first day of the school year is September fifteen.
+3138	We will go to the mountain on February thirteen.
+3139	Americans wear green clothes on the seventeenth day of March.
+3140	The kids are playing games at the birthday party.
+3141	Today is his birthday.
+3142	He is fifty years old.
+3143	We have the same birthday.
+3144	Today is her birthday.
+3145	She is fifteen years old.
+3146	They are dancing at the beach party.
+3147	They are eating pastries at a birthday party.
+3148	They are at a costume party.
+3149	What kind of party will that be?
+3150	It will be a birthday party.
+3151	What kind of party is this?
+3152	This is a costume party.
+3153	This is a party on the beach.
+3154	Apples are a fruit.
+3155	Orange is a fruit.
+3156	Skirt is a type of clothing.
+3157	Pants are a kind of clothes.
+3158	A dessert a dessert a dessert
+3159	a salad with a soup
+3160	She eats desserts, but she doesn't eat salad.
+3161	Her dessert is chocolate.
+3162	Her lunch is soup and sandwich.
+3163	This dinner ends with dessert.
+3164	Her lunch is a salad.
+3165	This dinner begins with soup.
+3166	a dessert a salad
+3167	a soup
+3168	She is making dessert.
+3169	She is making a salad.
+3170	He is making sandwiches.
+3171	She is making soup.
+3172	I'm making breakfast.
+3173	We are making dinner.
+3174	They are making lunch.
+3175	She is eating dessert.
+3176	He is making salad.
+3177	He is eating a salad.
+3178	They are making soup.
+3179	They are eating soup.
+3180	You have to pay in cash.
+3181	I have to wear a jacket.
+3182	I have to eat vegetables.
+3183	You must have a passport to board the plane.
+3184	I have to walk inside the school.
+3185	I have to eat salad before eating dessert.
+3186	She is here.
+3187	Her hotel is there.
+3188	I am here.
+3189	My mobile phone is there.
+3190	The woman is here.
+3191	Her glasses are there.
+3192	Leave the television here.
+3193	Leave the table over there.
+3194	The salad is here.
+3195	The dessert is there.
+3196	Dessert here.
+3197	The salad there.
+3198	Soup here.
+3199	Coffee there.
+3200	The dog is not allowed to walk here.
+3201	You are not allowed to drive here.
+3202	You are not allowed to wear shoes here.
+3203	You are not allowed to go straight here.
+3204	He had to turn.
+3205	You are not allowed to eat here.
+3206	You have to eat outside.
+3207	You are not allowed to talk on the phone here.
+3208	You have to talk on the phone outside.
+3209	You are not allowed to turn left here.
+3210	You must turn right.
+3211	This is the doctor's key.
+3212	This is a police car.
+3213	This is the student's desk.
+3214	This is John.
+3215	This is John's car.
+3216	This is Laura.
+3217	This is Laura's house.
+3218	This is Mr. Smith.
+3219	This is Mr. Smith's living room.
+3220	Hello.
+3221	Are you Mr. Smith?
+3222	Yes, someone?
+3223	I'm John Wilson.
+3224	Can I talk to Laura?
+3225	Yes, here she is.
+3226	Can I talk to John?
+3227	Sorry, he is not here.
+3228	What do you bring?
+3229	I bring dessert.
+3230	I bring a salad.
+3231	Do you want this dessert or that dessert?
+3232	I want that dessert.
+3233	I want this dessert.
+3234	I bring this.
+3235	She carries that.
+3236	I drive this car.
+3237	She drives the other car.
+3238	I want this dress.
+3239	I want that shirt.
+3240	I want this jeans.
+3241	I want the other shoes.
+3242	My shoes.
+3243	My wife's other shoes.
+3244	This bike is yours.
+3245	The other bike of my sister.
+3246	These dresses are expensive.
+3247	The other dresses are cheap.
+3248	This watch is old.
+3249	The other watch is new.
+3250	These cars are white.
+3251	The other cars are red.
+3252	The car is here.
+3253	The ball is there.
+3254	The ball is here.
+3255	The car is there.
+3256	The other ball is yellow.
+3257	The other ball is red.
+3258	I need a pen.
+3259	Pen here.
+3260	Where is my glasses
+3261	Here you go.
+3262	Here is your soup.
+3263	Here are your shoes.
+3264	Here is my jacket.
+3265	Laura here.
+3266	Hi Laura.
+3267	I'm Jen.
+3268	How are you?
+3269	Thursday, do you want to come to my birthday party?
+3270	Yes, thank you.
+3271	Can I bring anything?
+3272	You can bring a salad.
+3273	Can you come at eight o'clock? Yes, I can come at eight o'clock.
+3274	a singer a singer a singer a dancer a musician
+3275	Musicians are playing at the concert.
+3276	Musicians are playing at the cafe.
+3277	Musicians are playing the piano.
+3278	Two dancers are dancing in the street.
+3279	The singer is singing in the cafe.
+3280	Black dancer's shoes.
+3281	Red dancer's shoes.
+3282	Musician's piano is black.
+3283	Musician piano is white.
+3284	This music is good.
+3285	This music is bad.
+3286	This play is good.
+3287	This play is bad.
+3288	This book is good.
+3289	This book is bad.
+3290	This movie is good.
+3291	This movie is bad.
+3292	Last month, she read a bad book.
+3293	Last week, she read a good book.
+3294	The concert last night was bad.
+3295	Concert last Friday good.
+3296	This music is better.
+3297	This music is the best.
+3298	This movie is better.
+3299	This movie is the best.
+3300	At the beach bad weather.
+3301	Beautiful weather lake.
+3302	Bad weather mountains.
+3303	Beautiful weather park.
+3304	This weather is bad.
+3305	This weather is worse.
+3306	This weather is the worst.
+3307	This weather is beautiful.
+3308	This weather is more beautiful.
+3309	This weather is the most beautiful.
+3310	He is good at swimming.
+3311	He swam.
+3312	She is a good driver.
+3313	She drove badly.
+3314	They dance well.
+3315	He danced badly.
+3316	He plays well.
+3317	She played badly.
+3318	He cooks well.
+3319	She cooks badly.
+3320	He plays good tennis.
+3321	He plays bad tennis.
+3322	She danced well.
+3323	She danced better.
+3324	He dances best.
+3325	Monday they played bad.
+3326	Thirdly, they played worse.
+3327	The fourth they played the worst.
+3328	What does your sister do? She is a dancer.
+3329	Does she dance well? Yes, she danced well.
+3330	She is busy.
+3331	I am free.
+3332	He is busy.
+3333	She is free.
+3334	Are you free at two o'clock this afternoon? No, I'm busy.
+3335	Are you free Wednesday night? Yes, I'm free.
+3336	Can you go listen to the concert? Yes.
+3337	Can you come to the office? No, I'm busy.
+3338	Can you help him? No, I'm busy.
+3339	Can you help her? Yes I am free.
+3340	Do you want to go to the cafe?
+3341	No, I'm busy.
+3342	Do you want to watch the match?
+3343	I'm sorry.
+3344	No problem.
+3345	I'm sorry.
+3346	I am sorry.
+3347	I write on the table.
+3348	I drive my dad's car.
+3349	I write in my notebook.
+3350	Who eats his chocolates? I apologize to you.
+3351	I eat it.
+3352	Who drinks your juice?
+3353	I apologize to you.
+3354	I drink it.
+3355	Can you come to my party tonight?
+3356	Yes I am free.
+3357	Can you go see the game on Thursday?
+3358	Yes, Thursday I am free.
+3359	Can you meet me at 2pm? Yes, I'm free at noon.
+3360	Can you listen to the concert at eight o'clock?
+3361	I'm busy tonight.
+3362	Friday can you come to our house for dinner?
+3363	Friday we are busy.
+3364	Do you want to play football today? I'm sorry.
+3365	Dad is busy.
+3366	Dad must work.
+3367	Do you know what this means?
+3368	I don't know what that means.
+3369	Friday, do you want to come to my birthday party?
+3370	I want to come, but Friday is busy.
+3371	Are you free on Saturday?
+3372	Yes, I'm free on Saturday.
+3373	Do you want to go to the park?
+3374	Yes, I want to go!
+3375	Can you talk to your father?
+3376	My father is not here.
+3377	Can you talk to your mother?
+3378	Yes, my mom.
+3379	Hi Jean.
+3380	Do you and your family have free time on Saturday? Yes, we are free.
+3381	Do you want to go see the match? Yes, we want to go see the match!
+3382	What your name? My name is Elena.
+3383	Nice to meet you.
+3384	Friday is she busy? No, Friday I'm not busy.
+3385	Do you want to come to my party? Yes, I want to go to your party.
+3386	Who are you talking to? I'm talking to Elena.
+3387	Hi Bernard! Hi Elena!
+3388	What time does the party start? The party started at seven o'clock.
+3389	Are you free on Friday? Yes, Friday I'm free.
+3390	Why?
+3391	Do you want to come to my party?
+3392	I do not understand him.
+3393	Can you repeat it?
+3394	Do you want to come to my party? I do not know.
+3395	Friday is it raining? No, Friday is not raining.
+3396	What will you do for the party? I will make a salad.
+3397	What will you bring to the party?
+3398	I will bring dessert to the party.
+3399	Do we arrive early? No, you did not come early.
+3400	Do you want to dance? Yes, I want to dance.
+3401	In the past we lived here.
+3402	Now we live here.
+3403	Next year we will live here.
+3404	Tomorrow I will buy you a new toy.
+3405	Tomorrow I will buy milk for you.
+3406	Tomorrow I will buy you a new jeans.
+3407	In the past I played football here.
+3408	Now I play football here.
+3409	Next year I will play football here.
+3410	Tomorrow we will go to the food store.
+3411	I will call you in two hours.
+3412	I will meet you at the park in twenty minutes.
+3413	Next year he will start school.
+3414	She will teach math after finishing college.
+3415	He will learn Vietnamese when he goes to Vietnam.
+3416	She will drive a car for ten years.
+3417	I will work in the bank tomorrow.
+3418	Tomorrow she will walk on the moon.
+3419	Tomorrow they will work in the restaurant.
+3420	I will be the manager tomorrow.
+3421	Tomorrow she will be a doctor.
+3422	Tomorrow she will be a teacher.
+3423	Tomorrow one tree will be big.
+3424	Mai will be tall.
+3425	Tomorrow she will be a police officer.
+3426	I am busy now.
+3427	I'll call you tomorrow.
+3428	I'm free today.
+3429	I'm going to work tonight.
+3430	Mother is busy now.
+3431	Mom will play with me after dinner.
+3432	This dog is very small.
+3433	This baby is very small.
+3434	These trees are very tall.
+3435	This man is very old.
+3436	This jewelry is very expensive.
+3437	This ball is very big.
+3438	This house is very small.
+3439	This animal is very slow.
+3440	This hat is very big.
+3441	This man is very fast.
+3442	This is a very small door.
+3443	This is a very big watch.
+3444	This is a very small ball.
+3445	This is a very big ball.
+3446	Tomorrow one of these trees will be very tall.
+3447	These animals are very big.
+3448	Tomorrow these animals will be very big.
+3449	Do you have any questions?
+3450	Yes, I have a question.
+3451	Do you have any questions?
+3452	Yes, we have questions.
+3453	Sorry, I have a question.
+3454	Can I help you?
+3455	What is the soup today?
+3456	Can I help you?
+3457	How much does this piano cost?
+3458	The woman was asking the police a question.
+3459	The policeman is answering her question.
+3460	The man is asking the doctor a question.
+3461	The doctor is answering his question.
+3462	He is a waiter at a restaurant.
+3463	She is a waiter at a cafe.
+3464	They are servants.
+3465	We are the servants.
+3466	The man is asking the waiter a question.
+3467	The waiter is answering the question.
+3468	The waiter is bringing our breakfast.
+3469	The waiter is carrying their coffee.
+3470	The woman is asking the waiter a question.
+3471	The waiter is answering her question.
+3472	The student is asking a question.
+3473	The teacher is answering her question.
+3474	Musicians are asking singers a question.
+3475	The singer is answering the question.
+3476	Do you have any questions? Yes, I have a question.
+3477	Chicken beef beef chicken meat
+3478	She is eating chicken at home.
+3479	He is eating fish at home.
+3480	She is eating potatoes at the restaurant.
+3481	They are eating beef at the restaurant.
+3482	He is eating chicken.
+3483	He is eating beef.
+3484	She is eating fish.
+3485	She is eating potatoes.
+3486	a pair of chopsticks with a pair of chopsticks and a napkin, a napkin, a fork
+3487	a spoon a spoon a spoon a knife a knife a fork
+3488	a pair of chopsticks a fork a knife and a spoon a napkin
+3489	The fork is on the left of the disk.
+3490	The spoon is on the right side of the cup.
+3491	The knife is next to the bread.
+3492	The napkin on the table.
+3493	The woman has a napkin in her left hand.
+3494	She has a knife in her right hand.
+3495	She is eating with a spoon.
+3496	The woman is eating with chopsticks.
+3497	bean
+3498	butter
+3499	pepper
+3500	Tea with sugar bread with potato butter with salt salad with beef pepper with coffee salt with sugar
+3501	Do you have salt? Yes, salt.
+3502	Do you have pepper? Yes, pepper here.
+3503	Do you have butter? Yes, butter.
+3504	two lemons one bowl of lemon juice and three lemons lemon
+3505	Lemon.
+3506	Spicy chicken.
+3507	Spicy beans.
+3508	Sweet sugar.
+3509	Sweet pastry.
+3510	Do you want soup during the day? What's in the soup?
+3511	Potatoes, beans, salt and pepper.
+3512	Do you want a dessert today?
+3513	Yes.
+3514	What do you have?
+3515	Today, we have lemon cake.
+3516	Is it sour?
+3517	No, it's sweet.
+3518	This is very sour.
+3519	Can you give me some sugar?
+3520	Yes, here.
+3521	This is very spicy.
+3522	Can you give me some water?
+3523	Yes, this country.
+3524	Sorry, can you give me a napkin?
+3525	Yes, napkin here.
+3526	Sorry, can you give me a knife?
+3527	Yes, this knife.
+3528	A statue a statue a statue a picture a picture a picture
+3529	This is a beach picture.
+3530	This is a picture of the sky.
+3531	This is a picture of Paris.
+3532	This is a picture of my children.
+3533	This is a statue of a man.
+3534	This is a statue of a cat.
+3535	This is a picture of my grandfather.
+3536	This is a picture of my grandmother's house.
+3537	I'm sitting on a statue.
+3538	They are walking at the side of the fountain.
+3539	The man is reading the newspaper on the stairs.
+3540	We are having lunch on the hill.
+3541	The statue is next to the fountain.
+3542	Stairs in the park.
+3543	Painting a fountain.
+3544	The statue is on the hill.
+3545	A statue of a photo a picture of a stair fountain
+3546	a hill
+3547	This is a picture of a piano.
+3548	This is a picture of a guitar.
+3549	This is a picture of a man with a drum.
+3550	Piano and guitar are musical instruments.
+3551	Pictures and pictures are artistic.
+3552	The drum is an instrument.
+3553	Statues are a type of art.
+3554	The man is playing the guitar.
+3555	The son is playing the piano with his grandfather.
+3556	The men are playing drums.
+3557	They are playing the same instrument.
+3558	They are playing different instruments.
+3559	Some people are playing the guitar.
+3560	The band is playing in the park.
+3561	Three people in this band play the guitar.
+3562	The band is playing in the stadium.
+3563	a guitar
+3564	a drum
+3565	a piano
+3566	music
+3567	musical instrument
+3568	a band
+3569	He is taking a picture of her.
+3570	Please take a picture of us.
+3571	She is taking a picture of the statue.
+3572	He is taking photos of the band.
+3573	She is taking a photo of the fountain.
+3574	He is taking a picture of the painting.
+3575	a cinema
+3576	a zoo
+3577	a museum
+3578	Coffee shop is in the city center.
+3579	The cafe is not in the city center.
+3580	They live in the city center.
+3581	They do not live in the city center.
+3582	This cinema is in the city center.
+3583	They are watching movies at the cinema.
+3584	This animal lives in a zoo.
+3585	This dog and cat does not live in a zoo.
+3586	The band is playing in the city center.
+3587	The band does not play in the city center.
+3588	The statue is in the city center.
+3589	The statue is not in the city center.
+3590	Last month I took this picture in the forest.
+3591	He took pictures of his friends.
+3592	She took pictures at the zoo and stayed in the city center.
+3593	She took a picture of her family in the park.
+3594	This building is in Moscow.
+3595	This building is in New York.
+3596	This building is in Barcelona.
+3597	This building is in Australia.
+3598	Antique jewelry an ancient statue of a modern picture of a modern building
+3599	an ancient stadium
+3600	a modern stadium an ancient statue
+3601	a modern statue
+3602	This famous statue in Brazil.
+3603	This famous building is in China.
+3604	This famous fountain in Rome.
+3605	This building is famous.
+3606	This bridge is famous.
+3607	This mountain is famous.
+3608	This building is not famous.
+3609	This bridge is not famous.
+3610	This mountain is not famous.
+3611	This is famous.
+3612	These are famous.
+3613	She is famous.
+3614	They are famous.
+3615	They are looking for their cars.
+3616	They found their cars.
+3617	She is looking for her key.
+3618	She found her key.
+3619	He is looking for his glasses.
+3620	He found his glasses.
+3621	I am looking for my jacket.
+3622	I found my jacket.
+3623	She is looking for her shoes.
+3624	She found her shoes.
+3625	She is looking for her ball.
+3626	She found her ball.
+3627	She is looking for her socks.
+3628	She found her socks.
+3629	They are looking for a statue of a man and a dog.
+3630	They found the statue.
+3631	They are looking for a museum.
+3632	They found the museum.
+3633	I am looking for my glasses.
+3634	I found your glasses.
+3635	I'm looking for my dog.
+3636	I found your dog.
+3637	Are you looking for a cinema? Yes, I'm looking for a movie theater.
+3638	Are you looking for a stadium? Yes, we are looking for a stadium.
+3639	The children are laughing.
+3640	The man is smiling.
+3641	Her mother did not smile.
+3642	The son does not smile.
+3643	She is smiling at her husband.
+3644	The girl is laughing.
+3645	The doctor is smiling at his daughter.
+3646	The children are laughing at the birthday party.
+3647	The baby is crying.
+3648	The women are crying.
+3649	The woman is smiling at her husband.
+3650	The man is laughing.
+3651	The student is smiling at the teacher.
+3652	The employees are laughing.
+3653	The fountain is in front of the mosque.
+3654	The man reading a book is in the synagogue.
+3655	The statues are in a temple.
+3656	The woman and the man are smiling
+3657	in front of the church.
+3658	They are standing in front of the mosque.
+3659	They are singing in the church.
+3660	This man is sitting near the temples.
+3661	We are in a Jewish church.
+3662	a mosque a Jewish church a temple
+3663	a church
+3664	What do you see?
+3665	I saw the statues on the hill.
+3666	I saw a man.
+3667	Do you see the church? No, I can't see the church.
+3668	Do you see the church now? Have.
+3669	Now, I see the church.
+3670	He got lost.
+3671	She is not lost.
+3672	We got lost.
+3673	I am not lost.
+3674	Why do you cry?
+3675	Because I'm lost.
+3676	We will find your parents.
+3677	She is happy because today is her birthday.
+3678	I'm happy because it's sunny.
+3679	They are happy because they are playing football.
+3680	He was angry because he couldn't find the key.
+3681	She was angry because her shirt was dirty.
+3682	He is angry because his wife is late.
+3683	He is angry.
+3684	He is happy.
+3685	He is sad.
+3686	She was angry because the dog was eating her sandwich.
+3687	They are happy because they are at the beach.
+3688	She is sad because she can't find the dog.
+3689	How long will the band play? The band will play for two hours.
+3690	How long do I run?
+3691	She ran for thirty minutes.
+3692	How long are we allowed to swim? You are allowed to swim for three hours.
+3693	How long does he say?
+3694	He said forty-five minutes.
+3695	How long will you be in this country? I will be here for a week.
+3696	How long will you live in Italy? We will be in Italy for three months.
+3697	How long will Bethany stay in Moscow? She will be in Moscow for two weeks.
+3698	How long will you be in Paris?
+3699	I will stay in Paris for two weeks.
+3700	We will be here for two days.
+3701	She will stay at Grandma's house for a week.
+3702	They are in the hospital.
+3703	She has a reservation in advance at the hotel.
+3704	Tonight, she can stay here.
+3705	He does not book in advance at the hotel.
+3706	Tonight, he must be here.
+3707	They have reservations in front of the restaurant.
+3708	They can eat here.
+3709	We do not reserve a table in this restaurant.
+3710	We can't eat here.
+3711	Can I reserve a table in advance? Yes.
+3712	What time will you come?
+3713	I will arrive at eight o'clock tonight.
+3714	I want to book in advance.
+3715	Which day will you come?
+3716	I will come Wednesday.
+3717	Fairfield Hotel.
+3718	When will you come?
+3719	I will arrive on October twenty-second.
+3720	How long will you stay?
+3721	I will stay three nights.
+3722	I want to book a table first.
+3723	What time will you come?
+3724	We will arrive at seven o'clock.
+3725	How many people will come? Four people.
+3726	He is going up the mountain.
+3727	They are running up the hill.
+3728	She is going down the stairs.
+3729	I am running down the hill.
+3730	She is going down the stairs.
+3731	The man is running up the stairs.
+3732	They are going down the hill.
+3733	The woman is running down the hill.
+3734	He is going up the stairs.
+3735	They are running down the mountain.
+3736	They are going down the mountain.
+3737	He is running up the stairs.
+3738	They are packing suitcases.
+3739	I am loading suitcases.
+3740	She is opening the suitcase.
+3741	He is opening the suitcase.
+3742	This woman put the suitcase yesterday.
+3743	This woman put suitcases this morning.
+3744	This woman is packing suitcases.
+3745	First, he put suitcases at home.
+3746	After that, he went to the hotel.
+3747	Now, he is opening a suitcase in the room.
+3748	What do you do today?
+3749	First, I ran thirty minutes.
+3750	After that, I went to the food store.
+3751	Finally, I cook dinner.
+3752	First, she put the disc on the table.
+3753	After that, he put the disc on the table.
+3754	Finally, they put the disc on the table.
+3755	First, she cooks dinner.
+3756	After that, she had dinner.
+3757	Finally, she washed the dishes.
+3758	What do you want to see today?
+3759	I want to see the temple.
+3760	Sorry, we got lost.
+3761	Where is the temple?
+3762	First, go to the park.
+3763	Then turn left.
+3764	The man is skiing.
+3765	The woman is sailing.
+3766	We are sailing.
+3767	Children are skiing.
+3768	She is skiing in the city.
+3769	He is skiing in the mountains.
+3770	They are sailing near the city.
+3771	They are sailing near the beach.
+3772	They are playing in the sea.
+3773	He is sailing in the sea.
+3774	She is swimming in the sea.
+3775	They live in the sea.
+3776	The country is an island.
+3777	This statue is on an island.
+3778	The church is on an island.
+3779	I am camping in the forest.
+3780	She is camping near the sea.
+3781	She is sailing near the island.
+3782	She is camping in the mountains.
+3783	four tents
+3784	three sailboats two snowboarders six people ski
+3785	They are camping near the lake.
+3786	This family is next to the sailboats.
+3787	Snowboards are beside the tent.
+3788	This family is on a sailboat.
+3789	This sailboat is fast.
+3790	These skiers are fast.
+3791	This sailboat is slow.
+3792	These skiers are slow.
+3793	The church is near the sea.
+3794	Mosque near the park.
+3795	Jewish Church in the city.
+3796	The temple is on an island.
+3797	He is looking for an island.
+3798	He is looking for a ball.
+3799	He is looking for the sea.
+3800	I'm riding a white horse.
+3801	The woman is riding a gray bike.
+3802	The man is riding a black horse.
+3803	I'm riding a bike!
+3804	They are riding horses in the park.
+3805	They are riding horses by the sea.
+3806	He is riding a bicycle by the sea.
+3807	He is cycling in the forest.
+3808	Children playing in the snow.
+3809	She wrote in the snow.
+3810	He is cycling in the rain.
+3811	They are walking in the rain.
+3812	They are playing football in the rain.
+3813	They are playing on the snow.
+3814	He is driving in the snow.
+3815	They are running in the snow.
+3816	I am riding on the snow.
+3817	I am camping in my new tent.
+3818	I am sailing on the sea.
+3819	I am skiing in the mountains.
+3820	What will you do after skiing?
+3821	I will drink coffee in the cafe.
+3822	What will they do after swimming?
+3823	They will bike and then they will run.
+3824	What will you do after sailing? We will have dinner on an island.
+3825	There are several cats.
+3826	There are several islands.
+3827	There are several snowboards.
+3828	Fishy.
+3829	There are many bicycles.
+3830	There are many tents.
+3831	Have much water.
+3832	Shrubby.
+3833	Grassy.
+3834	Many flowers.
+3835	There are several sailboats.
+3836	There are many sailing boats.
+3837	There is a little snow.
+3838	There is a lot of snow.
+3839	Today in the windy park.
+3840	This morning at the beach windy.
+3841	Noon no wind in the city today.
+3842	Today is not windy.
+3843	It is windy today.
+3844	Tomorrow snow will fall.
+3845	What we will do?
+3846	We will be able to ski.
+3847	Tomorrow it will not rain.
+3848	We will be able to cycle.
+3849	November sister will be able to ski.
+3850	Tomorrow we will be able to play this.
+3851	It will wind.
+3852	Next week I will be able to cycle.
+3853	Don't eat this.
+3854	Please eat this.
+3855	Don't sit here.
+3856	I sit here.
+3857	Don't play here.
+3858	I play here.
+3859	Do not ski here.
+3860	Skiing here.
+3861	Swim here.
+3862	Don't swim here.
+3863	Don't drive here.
+3864	Drive here.
+3865	Camp here.
+3866	Don't camp here.
+3867	They are wearing blue bathing suits.
+3868	Her sandals have white flowers.
+3869	Children playing with towels in a windy day.
+3870	Musicians are wearing shorts.
+3871	a man's bathing suit.
+3872	a men's sandals
+3873	Women's sandals
+3874	a shorts towel
+3875	Don't wear shorts today.
+3876	Because it will be cold.
+3877	Don't wear sandals today.
+3878	Rent snowboards for thirty dollars a day.
+3879	Buy snowboards costing four hundred dollars.
+3880	Rent a car for a hundred dollars a day.
+3881	Buy a car for twenty-five thousand dollars.
+3882	He is renting a car for two days.
+3883	He is paying the car.
+3884	It is ten o'clock.
+3885	She is renting a snowboard for a day.
+3886	It is six o'clock.
+3887	She is paying the snowboard.
+3888	He will pay the bike.
+3889	He is paying the bike.
+3890	He paid the bike.
+3891	How much does it cost to rent a bike a day?
+3892	Twenty pounds a day.
+3893	Tomorrow night I will pay my bike.
+3894	Price forty pounds.
+3895	Have you paid the snowboard yet? Yesterday you paid.
+3896	Have you paid the car? No, I'll pay tomorrow.
+3897	I want to rent snowboards.
+3898	We want to rent snowboards.
+3899	I want to rent a bicycle.
+3900	We want to rent a bicycle.
+3901	Hi, do you need anything? We want to sail.
+3902	Tomorrow what is the weather like?
+3903	It will rain.
+3904	Don't go sailing tomorrow.
+3905	Friday will be sunny and windy.
+3906	Friday, can we rent a sailboat?
+3907	You can rent a sailboat for that day.
+3908	Where can we sail?
+3909	You can take a boat to this small island.
+3910	Do we need to wear bathing suits and towels?
+3911	Yes, you need to bring a swimsuit and a towel.
+3912	Hello Hello!
+3913	What did you do this morning? I read the newspaper.
+3914	What did you do this morning?
+3915	You go to the museum in the city center.
+3916	What do you buy?
+3917	He bought this ancient temple photo.
+3918	Today, I want to take a boat or I want to
+3919	go to the cinema?
+3920	Today, I want to take a boat.
+3921	Do you need anything? Do you want to take a boat today?
+3922	We want to sail.
+3923	Is it too windy? No, it's not too windy.
+3924	I am a musician.
+3925	What instrument do you play?
+3926	I play the piano.
+3927	Do you play any instruments?
+3928	Yes, I play an instrument.
+3929	What instrument do you play?
+3930	I play the guitar.
+3931	What are you looking for?
+3932	He was looking for a towel.
+3933	Can you take a picture for us?
+3934	Yes, I will take photos for you.
+3935	Do you want to have dinner on a sailboat or on the beach?
+3936	We want to have dinner on the beach.
+3937	What are you cooking
+3938	I'm cooking fish with lemon and potatoes.
+3939	Can you play the guitar for us?
+3940	Yes, I can play the guitar for you.
+3941	a fence a fence a fence a garden a pool garden
+3942	Two children are sitting on the fence. This fence is broken.
+3943	He is having lunch in the garden. He is reading a newspaper in the garden. This pool is inside.
+3944	This pool is outside.
+3945	There is a garden beside the pool. The garden is behind the house.
+3946	There are flowers on the side of the fence. Swimming pool behind the fence.
+3947	I am climbing the fence.
+3948	She is jumping off the fence. She is climbing the ladder.
+3949	He is jumping off the ladder.
+3950	She is climbing a tree. They are climbing trees. I will jump off the bed. I jumped off the bed!
+3951	She is dancing.
+3952	The horse is jumping over the fence. He is throwing the ball.
+3953	She is throwing the ball over the tent.
+3954	She is throwing the ball over the car. He is jumping over the water.
+3955	She was throwing the ball over the fence.
+3956	She is climbing the table.
+3957	She is jumping off the table.
+3958	She is climbing a sailboat. She is jumping from the sailboat.
+3959	The cat is jumping on the bed. She is jumping off the fence. She is climbing the table.
+3960	The girl is throwing the ball. The boy is catching the ball. The woman is throwing flowers. The man is catching flowers.
+3961	The boy is catching the key.
+3962	The boy is catching the ball.
+3963	She is catching oranges.
+3964	Don't throw the ball in the garden!
+3965	Do not jump over the fence!
+3966	Don't climb trees!
+3967	This TV is active.
+3968	This TV does not work.
+3969	This phone is active.
+3970	This phone is not working.
+3971	This clock is running.
+3972	This watch is not running.
+3973	This car is running.
+3974	This car does not run.
+3975	This mobile phone is working.
+3976	This station is active.
+3977	This watch is running.
+3978	This car is running.
+3979	Does this computer work? No, this computer is not working. Does this watch run?
+3980	Yes, it is running.
+3981	The father is repairing the child's toy.
+3982	The woman is fixing the fence.
+3983	The man is fixing the plane.
+3984	I am fixing a bike.
+3985	I can't call because my phone is not working.
+3986	Our computer is not working. He is fixing.
+3987	Her toy is broken. Her grandfather is fixing.
+3988	My radio is broken. Can you fix it?
+3989	This is easy. This is hard. This is easy. This is hard.
+3990	Throw this ball easy. Throw this suitcase hard. Climb this fence easily. Climbing this tree is difficult.
+3991	Skiing is easy here. Skiing here is difficult. Swimming here is easy.
+3992	Swimming here is hard.
+3993	This bike is easy to fix. Fix this computer hard. Fix this fence easily. Fixing this car is difficult.
+3994	Why do you climb trees? Because I want to eat apples.
+3995	Why don't you catch the ball? Because you are too low.
+3996	Why don't you read this book? Because this book is too hard.
+3997	Why didn't Sue come to the party?
+3998	Because she's visiting New York.
+3999	Tomorrow we will ski like they do. Tomorrow I will dance like her.
+4000	Tomorrow I will play the guitar like my father. Tomorrow I will play football like him.
+4001	Dance like them very hard.
+4002	Driving like him is difficult. Jumping like him is hard.
+4003	This sweet cake looks like a car. This napkin looks like a flower. This looks like a face.
+4004	The boy looks like his father.
+4005	These two women look the same. These two men look the same. These two girls don't look the same.
+4006	They are meeting at the cinema. They love each other.
+4007	The man and the woman are writing to each other.
+4008	Mother and daughter are hugging each other.
+4009	Two students are talking to each other.
+4010	Men are helping each other.
+4011	They work together.
+4012	They are dancing together.
+4013	Do you want a red dress?
+4014	No, I want the blue one.
+4015	Do you like the brown hat?
+4016	No, I like the black one.
+4017	Why don't you buy this white shirt?
+4018	Because I like this gray more.
+4019	Which one do you like?
+4020	I like the red one.
+4021	Which one do you like?
+4022	I like the blue one.
+4023	There are two towels. The small one on the right and the big one on the left.
+4024	There are two bicycles. The yellow is more expensive. There are many cakes. She wants the biggest one.
+4025	Do you need a napkin? Yes thank you.
+4026	Do you need a napkin? No thanks. I have it.
+4027	Do you need a pen? Yes thank you.
+4028	Do you want to eat salad? No thanks. I have it.
+4029	Would you like to eat an apple? No, thanks. Yes, I have. Do you need to rent a bike? No thanks. I have it.
+4030	Does your computer work? No, it does not work. It's broken. Why didn't you fix it yesterday?
+4031	Because he was repairing a bicycle yesterday.
+4032	a kitchen a kitchen a kitchen
+4033	a dishwasher a dishwasher with a refrigerator
+4034	Chicken on the kitchen. Orange juice is in the refrigerator.
+4035	The cups are in the dishwasher.
+4036	Cups are a dish. The bowls are a kind of dish. The discs are a type of dish. Cups are a dish.
+4037	Would you like a glass of water? Thank you, sir. I have it.
+4038	Would you like a cup of milk? Thank you. I have it.
+4039	The orange juice is on the counter. The refrigerator is beside the counter. Dishwashers are under the counter.
+4040	The dishes in this sink are dirty. The dishes in this dishwasher are clean.
+4041	The plates and cups on the counter are dirty.
+4042	This cup is full of milk.
+4043	This bowl sink is full of dishes. This dishwasher is empty. This refrigerator is empty.
+4044	This trash is bad.
+4045	This clean sheets are fragrant. This trash is full.
+4046	This bowl is empty.
+4047	This cup is full.
+4048	This cup is empty. This trash is full. This trash is empty.
+4049	There are windows on the ceiling.
+4050	White ceiling.
+4051	Floors are made of wood.
+4052	Trash on the floor.
+4053	The man is fixing the floor.
+4054	They are fixing the ceiling.
+4055	I swept the floor for my mother.
+4056	He is sweeping the kitchen.
+4057	She was scanning near the food store.
+4058	I am sweeping the stairs.
+4059	She will sweep the floor.
+4060	We are sweeping the floor.
+4061	I scanned the floor.
+4062	I'm dumping garbage.
+4063	You dump the garbage for me.
+4064	She is dumping garbage.
+4065	He will wash the dishes.
+4066	She is washing dishes.
+4067	I washed the dishes.
+4068	I wash the dishes.
+4069	I wash my face.
+4070	You wash your clothes.
+4071	I sweep the stairs for my mother.
+4072	I dump garbage for my mother.
+4073	You fix this chair for me.
+4074	I wash your clothes.
+4075	The man is selling carpet.
+4076	The couch is outside.
+4077	The red carpet is on the floor.
+4078	There are three people on the couch.
+4079	The cat is on the couch and the woman is next to the couch.
+4080	The baby is sitting on the floor and the mother is sitting on the couch.
+4081	The woman is sitting on the couch and the man is behind the couch.
+4082	I am vacuuming on the ceiling. I am vacuuming on the carpet. I sucked dust on the stairs. He is vacuuming on the couch.
+4083	He was vacuuming under the couch. What are you doing?
+4084	I'm vacuuming under the carpet.
+4085	The woman is cleaning the car. I am cleaning the living room. The student is cleaning the library. We have cleaned the bedroom.
+4086	I clean the kitchen. I'm cleaning the kitchen.
+4087	I clean up your bedroom. I'm cleaning your bedroom.
+4088	Bath full of water. Bath empty.
+4089	The washbasin is next to the toilet. Blue bathroom.
+4090	The woman is cleaning the floor. The man is cleaning the toilet. He wiped the sink for me.
+4091	I am cleaning the glass door.
+4092	The cat is in the sink. She is in the bathroom.
+4093	I was wiping the sink. I was cleaning the bathroom.
+4094	They are cleaning the bath. I am cleaning the counter.
+4095	She is cleaning the floor.
+4096	I'm going to take a shower.
+4097	The two are bathing. She has a bath.
+4098	The daughter is about to take a bath.
+4099	She is bathing outside. I have bathed.
+4100	The woman is bathing. The woman is bathing. I'm going to take a shower.
+4101	I dumped the garbage.
+4102	Now I have to wipe the floor. I washed the dishes.
+4103	Now, I have to sweep the floor.
+4104	What should we do today? We have to clean the bathroom. I will wipe the sink.
+4105	I will wipe the bath.
+4106	Can you clean the toilet?
+4107	I will wipe the toilet after you sweep the floor.
+4108	Where are you going?
+4109	We go to the park.
+4110	Have you cleaned your bedroom? Yes, I cleaned up your bedroom. Do you vacuum the floor?
+4111	Not yet. I will vacuum the floor tonight.
+4112	This man is strong. This man is stronger. This woman is strong. This woman is stronger.
+4113	He is strong.
+4114	He is not well. She is fine.
+4115	She is not well.
+4116	Who is better?
+4117	The woman is stronger than the man. Who is better?
+4118	The man is stronger than the woman.
+4119	The boy is exercising.
+4120	The man does not exercise. He is reading the newspaper.
+4121	Girls don't exercise. The girls are talking.
+4122	The woman is exercising.
+4123	He is healthy because he exercises.
+4124	Monday, Wednesday and Thursday I exercise. We exercise on the beach.
+4125	They are practicing football.
+4126	The man is practicing golf in the office.
+4127	I'm practicing tennis.
+4128	The Brazilian team wears a yellow shirt. French team wears blue.
+4129	There are six boys in this team.
+4130	There are eleven daughters in this team.
+4131	Football team is practicing. Tennis team is practicing. She is taking photos of the golf team.
+4132	Which team do you play for? I play for football team. Why are you training today?
+4133	Because tomorrow my football team has a match.
+4134	The girl is practicing the piano. The boy is practicing the violin. The woman is practicing the guitar in the living room.
+4135	The man is practicing the violin in the theater.
+4136	I am practicing the violin inside.
+4137	I am practicing the guitar outside.
+4138	I am practicing soccer inside.
+4139	I am practicing soccer outside.
+4140	You should take this bus. It is faster.
+4141	I should drink this. It's cold outside.
+4142	You should listen to this. It's nice.
+4143	I want to eat chocolate, but I shouldn't.
+4144	I want to watch TV, but I should exercise.
+4145	I want to dance, but I should sweep the floor.
+4146	I want to go home early, but I shouldn't.
+4147	She should clean the bedroom.
+4148	You shouldn't buy this. It's so expensive.
+4149	You should not wear this. It does not fit.
+4150	Should he wear a black suit or a gray suit?
+4151	You should wear a gray suit.
+4152	Should you wear a blue dress or a black dress?
+4153	I should wear a blue dress.
+4154	Should I practice? Yes, I should practice.
+4155	Should I leave the violin on the floor?
+4156	Is not. You should leave the violin on the table.
+4157	Someone at the door.
+4158	Someone wants to talk to you. Someone in the office.
+4159	Someone is exercising. Some people are washing dishes. Someone in a car.
+4160	Someone in the bathroom. Some people are taking pictures.
+4161	Someone is practicing the guitar.
+4162	We need to find a place to play football. We need to find a place to practice instruments.
+4163	He is looking for a place to eat. They are looking for a place to camp.
+4164	This is a place to swim.
+4165	This is a place to practice soccer.
+4166	This is a place to exercise.
+4167	This is a place to ski.
+4168	They are looking for a place to read books.
+4169	They found a place to read books.
+4170	We are looking for a place to exercise.
+4171	We found a place to exercise.
+4172	Someone wrote to me! He is looking for something to eat.
+4173	I will be a famous singer tomorrow.
+4174	Sometimes dogs live inside, but sometimes they live outside. Math is sometimes easy and sometimes difficult.
+4175	Sometimes I take pictures of people and sometimes I take pictures of animals.
+4176	Sometimes we wear skirts to school, and sometimes we wear pants.
+4177	We always wear skirts to school.
+4178	In the morning, sometimes I drink coffee and sometimes I drink tea.
+4179	In the morning, I always drink coffee.
+4180	Here, sometimes it's cold. Sometimes it's hot.
+4181	Here, it's always cold.
+4182	Here, it's never cold.
+4183	Lemon is always sour.
+4184	Chocolate is never sour. Sugar is always sweet.
+4185	Pepper is never sweet.
+4186	I always take a bath before I go to work. I never eat meat.
+4187	Sometimes he is hungry and sometimes he is thirsty. Someone always stands here.
+4188	We never go skiing in the summer.
+4189	Sometimes I leave the workplace early.
+4190	Where do you train?
+4191	Sometimes we practice here. Sometimes we practice at school.
+4192	When do you train here?
+4193	We practice here in the fall. When do you train at school? In winter.
+4194	one eye with a nose and a mouth
+4195	This is the leg of a son. What is this?
+4196	This is the arm of a girl.
+4197	one arm with one leg an eye and one ear with a nose
+4198	This is my legs. This is my arm. This is my eyes. This is my ears.
+4199	This is my nose. This is my mouth.
+4200	She has a pain in her hand. I have a sore nose. He has eye pain. I have leg pain.
+4201	She has knee pain. I have elbow pain.
+4202	His hands are on his knees. Her elbows were on the table.
+4203	I need a bandage on my knee. He has a tape on his finger. She has a bandage on her arm.
+4204	I have tape on my elbow. They have tape on their knees. He has tape on his leg.
+4205	She has tape on her knees.
+4206	He is skiing. He is falling.
+4207	She is riding a bicycle. She is falling.
+4208	He is riding a horse. He is falling.
+4209	The man is falling on his bicycle. The man fell on a bicycle. The girl is falling down the fence. The girl fell down the fence.
+4210	I fell off my bike. Do you have tape? I have elbow pain.
+4211	I am thirsty. Do you have water? I'm sick. Do you have any medicine?
+4212	What is your glasses doing?
+4213	I went outside when it was raining. What are you doing?
+4214	I climbed the tree and I fell.
+4215	What are you doing?
+4216	I fell and I had a hand pain. What are they doing?
+4217	They fell and suffered leg pain.
+4218	What's wrong with your sweater? Mom washes his sweater.
+4219	What are you doing?
+4220	Last night I danced for three hours. What are you doing?
+4221	I went to the beach and it was very sunny.
+4222	What are you doing? I lost my horse. What are you doing? I jumped off the fence.
+4223	What are you doing? I fell off my bike.
+4224	Do you have a knee pain? Is not. I have elbow pain. Do you want tape? Yes, thank you.
+4225	the head of the head of the abdomen head of the abdomen
+4226	The son has a headache. The girl has abdominal pain. I have an earache.
+4227	The son had a sore nose.
+4228	I have a headache.
+4229	My son has a stomachache. The woman has a hand pain. I have eye pain.
+4230	The woman has a nose pain. He had a sore mouth.
+4231	What are you doing? I have an earache. What are you doing? I'm sick.
+4232	What are you doing? I have a headache. What are you doing? I have eye pain.
+4233	What is the temperature outside? Two degrees. You should wear a jacket. What is the temperature outside? Thirty degrees. We should go to the sea.
+4234	What is your baby's temperature? Thirty-seven degrees.
+4235	How much is your temperature? Thirty-eight degrees.
+4236	Your temperature is thirty-nine degrees. I will call the doctor.
+4237	Phone number of the doctor on the refrigerator.
+4238	She is taking medicine with water. I have to take medicine after dinner. I brought medicine to him.
+4239	He eats breakfast once a day.
+4240	The train departs to Paris twice a day. You have to take this medicine twice a day. I drink coffee once a day.
+4241	You should brush your teeth twice a day. Flights to Barcelona depart once a day.
+4242	She had to take this medicine four times a day.
+4243	Buses to the city center depart six times a day.
+4244	Do you play tennis?
+4245	Have. I play tennis three times a week. Do you take medicine?
+4246	Have. I take medicine once a day.
+4247	What are you doing? I have a stomachache.
+4248	Her temperature is thirty-eight degrees.
+4249	You should take this medicine three times a week.
+4250	Careful. The floor is wet.
+4251	Careful. A car is coming. Careful. This tree is very tall.
+4252	You have to be careful when you ride a bike. You have to be careful when you repair cars.
+4253	You have to be careful when you drive in the snow. You must be careful when you play with the baby.
+4254	Tomorrow, you and I have skiing? Have. Tomorrow, you and I will ski. You must be careful!
+4255	Hi John. Hello Dr. Stone. What are you doing? I have a headache.
+4256	What are you doing? I fell down the ladder.
+4257	You have to take this medicine twice a day. Thank you doctor.
+4258	You should be careful when you climb the ladder. Hello.
+4259	Hello doctor.
+4260	Can you bring me a ladder?
+4261	Yes. I will bring you the ladder.
+4262	Is the ladder broken? Yes, the ladder is broken.
+4263	Do you need my help?
+4264	No thanks. I don't need any help.
+4265	What are you doing? I have knee pain.
+4266	What are you doing? I fell.
+4267	Do you need tape?
+4268	No thanks. I don't need tape.
+4269	Do you want to eat apples? No thanks. I have it.
+4270	Who will live here?
+4271	A family from Vietnam. They have two children.
+4272	Kids and soccer team? Yes, we have a football team.
+4273	Do you practice today? No. We didn't practice today. We have a match for three hours.
+4274	Should I vacuum the floor? Yes, he should vacuum the floor.
+4275	Does it work? No, it does not work.
+4276	Should I sweep the floor? Yes, you should sweep the floor.
+4277	What time will they come? They will arrive at three o'clock.
+4278	These men won. This woman won.
+4279	This girl won. This son won.
+4280	Green cars are losing. Red cars are winning. Red shirt team is losing.
+4281	The blue team is winning. We won! I was lost.
+4282	The girl won and the boy lost. They are happy because they won.
+4283	The man is sad because he loses. The man in blue shirt wins.
+4284	Nobody eats.
+4285	Everyone is running.
+4286	People are talking. Nobody plays.
+4287	No one dances. People are dancing. Nobody sits. People are sitting.
+4288	There is nothing under the bed. Everything on the table is green. There is nothing in the office.
+4289	Everything in the sink is dirty.
+4290	Nothing on the carpet. There is something on the grass.
+4291	Everything is on the floor.
+4292	There is nothing new in this room. There's something orange in the living room. Everything in this house is small.
+4293	Nothing in the refrigerator. Everything on the counter.
+4294	Nothing on the counter. Everything in the refrigerator.
+4295	Nothing in the sink. Everything on the table.
+4296	Nothing on the table. Everything is in the sink.
+4297	There are enough pens for everyone.
+4298	There are not enough seats for everyone.
+4299	There is not enough coffee for everyone.
+4300	There are enough desserts for everyone.
+4301	Have enough cups for everyone? Have. Have enough cups for everyone. Is there enough fork for everyone? Is not. There are not enough fork for everyone.
+4302	This team wears a blue shirt.
+4303	I play in the team and wear a blue shirt.
+4304	The team that wears the blue shirt is about to win.
+4305	The team that wore the blue shirt lost.
+4306	One of these dogs wears a red sweater.
+4307	She is playing with the dog and wearing a red sweater.
+4308	She is running with the dog and wearing a red sweater.
+4309	The son is about to win.
+4310	The boy won very happily.
+4311	The girl is about to fall.
+4312	The girl who fell had a hand pain.
+4313	The man is about to lose.
+4314	The man who lost very sad.
+4315	This woman teaches art.
+4316	The woman who teaches art is talking to her daughter.
+4317	The woman who teaches art is buying a picture.
+4318	Which musician is your friend?
+4319	The musician who is playing the guitar is my friend. Which flight do you take?
+4320	I went on a flight and departed at half past five.
+4321	I need someone who can fix my dishwasher!
+4322	She needs someone who can play with her.
+4323	They need someone who can climb this tree.
+4324	We need someone who can help us buy a house.
+4325	I need someone who speaks Vietnamese.
+4326	I have a lot of friends who sing well.
+4327	I need someone who dances well.
+4328	We work in an office that has many windows.
+4329	We want to work in an office that has many windows.
+4330	I have an older sister who knows how to play the piano.
+4331	I need someone who knows how to play the guitar.
+4332	Do you need anything?
+4333	I am looking for someone who can speak Chinese.
+4334	We are looking for something that she can wear to the costume party.
+4335	Do you know his name? Yes, his name is John.
+4336	Do you know where we are? Yes, we are here.
+4337	I know how much money I have. I don't know how many.
+4338	She knows how much this cost. No one knows how many fish there are in the sea.
+4339	He didn't know they were in the house. I don't know where my key is. They don't know what this is.
+4340	She didn't know he bought flowers for her.
+4341	Do you know who she is? No, I don't know who she is.
+4342	Do you know how many people are coming? Four people coming.
+4343	He knows it's cold outside.
+4344	Parents don't know their children are looking. They know their mother is watching.
+4345	They know where fish are.
+4346	She doesn't know where her car is. They don't know that the baby is sleeping. She knows she is sleeping.
+4347	Do you know if you have enough money? Yes, I have enough money.
+4348	Do you know if the red team will lose? No, I don't know if the red shirt team will lose.
+4349	Do you know if he will go to the museum?
+4350	No, I don't know if he will go to the museum.
+4351	Do you know that she plays the piano? No, I don't know if she plays the piano or not.
+4352	It will be sunny today.
+4353	Maybe snow will fall tonight.
+4354	Maybe it will rain tomorrow.
+4355	Last month, the red team won five matches and lost a match.
+4356	Maybe the red shirt team will win this match.
+4357	Last month, the yellow team lost more matches than the blue shirt.
+4358	Maybe the yellow shirt team will lose this match.
+4359	What dress will you buy?
+4360	Maybe I will buy a red dress even though the dress is very medium.
+4361	Because the red dress is cheaper.
+4362	Will you go to Rome or Paris?
+4363	We will probably go to Paris even though we want to go to Rome.
+4364	Why did you go to Paris?
+4365	Because we want to go to the art museum in Paris.
+4366	Which team will win?
+4367	Maybe the blue shirt team will win even though the yellow team plays very well.
+4368	Because now the blue shirt team is winning.
+4369	Do you prefer summer or winter?
+4370	I prefer the winter even though it is sunny in the summer.
+4371	Why do you like winter more? Because I like skiing.
+4372	No one brought dessert.
+4373	Do you know we have enough cakes for all guests?
+4374	We probably don't have enough. We should buy a sweet cake.
+4375	Egypt on the African continent. Italy in continental Europe. Brazil in mainland South America.
+4376	America in the continent of North America.
+4377	Australia is a country and a continent. China in Asia continent.
+4378	This continent is Africa. This continent is Europe. This continent is South America. This continent is North America.
+4379	This continent is Asia.
+4380	This continent is Antarctica. This continent is Australia.
+4381	This is a wedding in Africa. This is a wedding in South America. This is a wedding in Europe.
+4382	This is a funeral in Asia. This is a funeral in North America. This is a funeral in Africa.
+4383	This is a wedding in Asia. This is a funeral in Europe. This is a funeral in Asia. This is a wedding in Europe.
+4384	This book is about animals in Antarctica.
+4385	She is watching movies about people living in Africa.
+4386	This book is about sailing.
+4387	This film is about Asian history.
+4388	She is working, but she is thinking about the family.
+4389	She is thinking about her grandparents.
+4390	I am thinking of my wife.
+4391	What are you thinking?
+4392	I am thinking of next week's football game. What are you thinking?
+4393	I'm thinking of your wedding next month.
+4394	My grandfather was born in 1901.
+4395	Granddad married his grandmother in 1922. Granddad lived in France for fifty-two years.
+4396	Grandfather died in 1983.
+4397	This woman will marry in Asia.
+4398	This animal was born in Australia.
+4399	This man died in Antarctica.
+4400	Congratulations on having a baby! Congratulations on having a new home! Please give me your condolences.
+4401	Please give me your condolences.
+4402	Today I will marry. Happy wedding! Yesterday my wife gave birth to a son. Congratulations on having a baby! Last week my father died.
+4403	Last month my grandmother died.
+4404	Eleven o'clock last night, I gave birth to a girl!
+4405	Congratulations to you!
+4406	I hope it is a toy.
+4407	It is a toy!
+4408	It is not a toy. It is a shirt.
+4409	I hope I find my book.
+4410	I found my book.
+4411	I hope you can catch this ball.
+4412	I didn't catch the ball.
+4413	I hope it will not rain on my wedding day.
+4414	It was raining on my wedding day.
+4415	I hope I will have a daughter.
+4416	You have a son!
+4417	We hope our team will win. Our team lost.
+4418	He hopes she will marry him. She will marry him!
+4419	We are happy. They are afraid. I'm sad.
+4420	They are happy because they are playing together. She is sad because she is about to leave.
+4421	He is scared because he is learning to drive.
+4422	People in this funeral are sad.
+4423	People in this wedding are happy.
+4424	She was afraid because she was lost.
+4425	My grandmother married in Africa a hundred years ago.
+4426	I was born in South America fifteen years ago.
+4427	I lived in Asia ten years ago.
+4428	The baby was born in Europe four days ago.
+4429	We married twenty years ago. We have been married for twenty years. This man died three thousand years ago.
+4430	He has lost three thousand years.
+4431	We were married fifty years ago. Europeans sailed to North America five hundred years ago.
+4432	I fell off my bicycle two hours ago.
+4433	This man has been dead for years.
+4434	They have been married for twenty-five years.
+4435	They have been married for a year.
+4436	I've been studying music for fifteen years.
+4437	He has been playing golf for ten years.
+4438	They have lived in Australia for five years.
+4439	How long have you been learning Vietnamese? I have been learning Vietnamese for seven months.
+4440	They are building a house.
+4441	They are building a stadium.
+4442	They are building a temple.
+4443	They are building a bridge.
+4444	They built this hospital in Africa.
+4445	They are building this hospital in South America.
+4446	They will build this hospital in Asia.
+4447	How long have you started building this school?
+4448	We have started building this school for a year.
+4449	How long has he started building this? He started building this one week ago.
+4450	Last night I finished reading a book. Now I need a new book.
+4451	We built this house a month ago. Now we live here.
+4452	She finished cleaning the room ten minutes ago. Now she is playing toys.
+4453	How long have you started building this house?
+4454	We have started building this house for two years.
+4455	When will you finish building?
+4456	We hope we will finish construction before the baby is born.
+4457	Welcome to our new home.
+4458	Congratulations to you!
+4459	Probably the baby is about to give birth. Their baby was born. They are getting married.
+4460	They are married.
+4461	Is it going to rain? No, it's not about to rain. You eat vegetables.
+4462	I have eaten vegetables!
+4463	Are you ready to clean up the kitchen? We have finished cleaning the kitchen! Are you about to finish the bridge? We fixed the bridge.
+4464	Europe in northern Africa. Australia in eastern Africa. Antarctica in southern Africa. South America in western Africa.
+4465	China in western Japan. Russia in northern China. Italy in the east of France. Australia in southern Russia.
+4466	The tree is between the girl and the man. The girl is between two women.
+4467	The dog is between the two.
+4468	The empty cup is in the middle of two full cups.
+4469	This is the Pacific Ocean. This is the Arctic Ocean. This is the Atlantic Ocean.
+4470	This is the Indian Ocean.
+4471	Where is the Indian Ocean?
+4472	Indian Ocean in east Africa. Where is the Arctic Ocean?
+4473	Arctic Ocean in the north of all continents.
+4474	Where is the Atlantic Ocean?
+4475	Atlantic Ocean between South America and Africa.
+4476	The man is sailing in the Atlantic Ocean. This animal is swimming in the Arctic Ocean.
+4477	I am walking beside the Indian Ocean. They are swimming in the Pacific Ocean.
+4478	Spain in southern France. Mexico in the eastern Pacific. France is between Germany and Spain. England in northern France.
+4479	First, my flight departs from Mexico.
+4480	After that, my flight to England. After that, I took the train south to France.
+4481	Finally, I drove east, to Germany.
+4482	Wednesday, my flight will depart from Australia.
+4483	Thursday, this flight will arrive in Spain.
+4484	I will be in Spain for a week.
+4485	Finally, I will take the train to Germany.
+4486	The man is walking in the desert. This animal lives in the desert.
+4487	These flowers are in the rainforest. Tropical forest is next to the beach.
+4488	Where did you take this photo?
+4489	I took this picture in the desert in Mexico. Where did you take this photo?
+4490	I took this picture in the rainforest in Brazil.
+4491	tree
+4492	animals of human animals
+4493	These are tall trees. This is a small tree.
+4494	There are flowering plants.
+4495	There are plants without flowers.
+4496	Where do these plants grow?
+4497	These plants grow in tropical forests. Where do these plants grow?
+4498	These plants grow in the desert.
+4499	This is an apple tree. This is a pine tree. This is an orange tree.
+4500	What kind of tree grows here? Grass.
+4501	What kind of tree grows here? Pine.
+4502	What kind of tree grows here? Orange.
+4503	What tree is this? This is an apple tree. What tree is this?
+4504	This is a pine tree.
+4505	What did he say?
+4506	He said the train to Germany was late. What did he say?
+4507	He said she had to take medicine.
+4508	Sorry, what did you say?
+4509	I said I liked his shirt. Sorry, what did you say?
+4510	I said I needed a bigger suitcase.
+4511	What does the teacher say?
+4512	The teacher said that this plant grows in the rainforest.
+4513	What does the doctor say?
+4514	The doctor said I should take this medicine twice a day.
+4515	What does the policeman say?
+4516	The police officer said it was a park in the west.
+4517	What does the teacher say?
+4518	The teacher said England was in Europe. What does the teacher say?
+4519	The teacher said that Egypt was in Africa.
+4520	The mother is carrying the baby. The father is carrying his daughter.
+4521	The teacher is holding a laptop. They are holding a map.
+4522	I'm carrying my brother.
+4523	She is holding flowers. I am carrying my baby.
+4524	We are holding photos of each other.
+4525	Is she holding a toy? No, she doesn't hold toys. Is he holding a baby?
+4526	Yes, he is holding the baby.
+4527	fire
+4528	ice
+4529	sand
+4530	There is a lot of sand in the desert. There is a lot of sand on the beach.
+4531	There are many tapes in Antarctica.
+4532	This statue is made of ice.
+4533	This looks like fire, but it's made of paper.
+4534	This building is made of sand.
+4535	This is his home.
+4536	Is this his home? Yes, his.
+4537	This is her dog.
+4538	Is this his dog? No, her.
+4539	Whose boat is this? His.
+4540	Whose hand is this? Hers.
+4541	Whose toy is this?
+4542	These cars are ours. This ball is ours.
+4543	Whose instruments are these? These drums are yours. This guitar is yours.
+4544	That dog is his. That dog is her. This dog is mine.
+4545	This dog is ours.
+4546	Whose cat is this? Her.
+4547	No, her.
+4548	Sorry, sir. It is yours. Is it hungry?
+4549	Have. It is hungry.
+4550	Camels live in the desert. Whales live in the sea.
+4551	Monkey lives in the rainforest.
+4552	Penguins live in Antarctica. Tigers live in Asia.
+4553	Elephants live in Asia and Africa.
+4554	The elephant is in the water. The tiger is running.
+4555	The penguins are about to swim. The whale is swimming.
+4556	Someone is riding a camel. The monkey is on the tree.
+4557	a camel a whale a monkey a tiger an elephant
+4558	a penguin
+4559	This bird is yellow. This bird is red.
+4560	This bird is standing on the flower. This bird is standing on the tree.
+4561	These birds are blue. This bird is about to eat.
+4562	His bird can speak.
+4563	One of these sheep is brown. These cows are black and white. These ducks are white.
+4564	These chickens are brown.
+4565	a sheep a cow a duck a chicken
+4566	Penguins are birds.
+4567	Chicken is a bird.
+4568	Ducks are birds.
+4569	Penguins can't fly, but they swim well.
+4570	These birds are flying north. These birds cannot fly, but they run very fast.
+4571	This duck is flying over the lake.
+4572	White bird is flying.
+4573	This penguin is under water. Whales are swimming.
+4574	The ducks are flying.
+4575	This bird is beautiful. These birds are bad. This is a beautiful street. This is a bad street.
+4576	My cat is bad. My dog is bad.
+4577	Her horses are beautiful. My cows are beautiful.
+4578	This statue is beautiful. This statue is bad. My dress is beautiful. My dress is bad.
+4579	Someone is touching the bird. Someone is touching the tape.
+4580	Someone is touching the book.
+4581	You can touch this tree.
+4582	You can touch this animal but you have to be careful.
+4583	Do you want to touch your horse?
+4584	an insect an insect an insect an snake a snake a frog
+4585	Drinking this is dangerous.
+4586	Drinking this is not dangerous. Touching this snake is dangerous.
+4587	Touching this snake is not dangerous.
+4588	Don't touch that kitchen. It is hot. Don't touch that animal. It is dirty.
+4589	Don't touch that frog. It is dangerous.
+4590	Riding this horse is dangerous.
+4591	Riding these horses is not dangerous. Camping here is dangerous.
+4592	Camping here is not dangerous.
+4593	This frog is beautiful but dangerous. Don't touch it.
+4594	This frog is bad but not dangerous. You can touch it.
+4595	This insect is beautiful and it is not dangerous.
+4596	You can touch it.
+4597	This insect is bad and dangerous. Don't touch it.
+4598	I hope we can find a frog.
+4599	I hope we can ride a camel.
+4600	Swimming with sharks is very dangerous.
+4601	Touching the tiger is very dangerous.
+4602	He hopes he can take photos of elephants.
+4603	She hopes she can take pictures of penguins.
+4604	They hope they can take photos of sharks.
+4605	She is not afraid of insects.
+4606	The cat is not afraid of the dog.
+4607	She is afraid of sharks.
+4608	They are afraid of snakes.
+4609	I'm afraid to touch the insect but my father says it's not dangerous.
+4610	My mother said these animals came from Africa.
+4611	I was afraid to touch my sheep but my teacher said it was not dangerous.
+4612	My grandfather said that these snakes came from Australia.
+4613	This monkey is ours. Their duck.
+4614	These chickens are ours. Their cows.
+4615	Is this key yours? Yes, our key.
+4616	Is that dog yours? No, their dog.
+4617	Which cup of yours? This is yours. My place?
+4618	My other place.
+4619	Sorry, is this yours? Yes thank you. This is mine.
+4620	This suitcase is yours.
+4621	These balls are yours.
+4622	Sorry, is this umbrella yours?
+4623	These are your jackets.
+4624	I like her fruits. Her is bigger than mine.
+4625	Your cakes are delicious but her taste is better.
+4626	Their cars are dirtier than ours. He is playing the violin. His violin is newer than yours.
+4627	Her bird is very beautiful. Where did it come from? It comes from the rainforest in Africa.
+4628	What's wrong with it? It hurts.
+4629	Can it fly?
+4630	Now it can't fly, but in two weeks it will be able to fly.
+4631	Do you know how to fix a car? Is not. I don't know how to fix a car.
+4632	Hi brother and sister. Hello.
+4633	My name is Will Norton. This is my wife, Julia.
+4634	Nice to meet you. My name is Catherine. Do you need anything?
+4635	Our cars are not running. Can you help us?
+4636	Maybe my husband knew how to fix it.
+4637	Is he here
+4638	No, he is not here. He is working, but he is about to leave.
+4639	Do you want to wait inside? Yes, thank you.
+4640	Welcome to our home! Thank you!
+4641	Is this your daughter? Yes, this is our daughter.
+4642	When was the birth?
+4643	Grandchildren two months ago.
+4644	Do you want to carry me?
+4645	Yes, I want to carry you.
+4646	How long has your family lived here? My family has lived here for many years.
+4647	My grandfather built this house seventy-five years ago.
+4648	The house is very beautiful.
+4649	When did you get married?
+4650	We married seven years ago.
+4651	What are you thinking?
+4652	I am thinking of my wedding.
+4653	Would you like to have lunch with us? Yes, thank you.
+4654	Have enough cups for everyone? Yes, there is enough.
+4655	Is that car yours? Yes, our other cars.
+4656	Can you fix it? Yes, I can fix it.
+4657	Thank you. Nothing.
+4658	Do cars run? Yes, cars are running.
+4659	He is sailing with his wife.
+4660	He is walking in the park with his girlfriend. She is shopping with her husband.
+4661	She is skiing with her boyfriend. The husband and wife are cleaning the house. The man is meeting his girlfriend for breakfast.
+4662	This is Thomas, my boyfriend. Nice to meet you.
+4663	This is Rebecca, my girlfriend. Nice to meet you.
+4664	I think the Vietnamese team will win this match. I think it will rain tonight.
+4665	He thinks there is no one at home. I think my jacket is here.
+4666	I think my girlfriend is in the library. They think their daughter is sleeping.
+4667	I think our cars are close to the other restaurant.
+4668	I think I can fix this. I don't think it will rain today.
+4669	I think this is a very good restaurant. I think the snow is about to fall.
+4670	Do you think our team will lose? Yes, I think we will lose.
+4671	Do you think our team will win? Yes, I think we will win.
+4672	Do you know my boyfriend Nicholas? Have. Previously we worked in the same office.
+4673	Do you know my girlfriend Maria? Is not. Nice to meet you.
+4674	This is Louis, my friend. Do you know each other?
+4675	No, we don't know each other.
+4676	My name is Suzanne.
+4677	Brother John! What are you doing in New York? I live here now.
+4678	Do you know Julia, my wife? I do not know. My name is John. Nice to meet you.
+4679	She thinks her boyfriend cooks badly.
+4680	I think red shoes are bad.
+4681	She thinks he sings badly.
+4682	We think sweet cakes are delicious.
+4683	They think that math is very interesting.
+4684	They think that studying history is very boring.
+4685	She has a very interesting book.
+4686	He has a very boring book.
+4687	She thinks this museum is very boring.
+4688	He thinks learning science is very interesting.
+4689	She thought it was interesting to read books, but watching TV was boring.
+4690	Watching the game is very interesting for these men, but very bored with their girlfriends.
+4691	Watching this movie is very interesting.
+4692	Watching this movie is very boring.
+4693	Reading this book is very interesting.
+4694	Reading this book is very boring.
+4695	Is that her boyfriend? Yes. I think next year they will marry. Do you think he is his wife?
+4696	Is not. He is not married. It was his girlfriend.
+4697	Do you know Peter?
+4698	Yes, I know Peter. She is one of my students.
+4699	When did you meet her?
+4700	I met her three months ago.
+4701	Where did you meet Daniel?
+4702	In the past we were students with the university.
+4703	When did you meet Daniel?
+4704	I met him two years ago.
+4705	When did you meet my father?
+4706	My parents met when Dad was visiting Rome and my mother was working there.
+4707	Where do parents meet?
+4708	Parents met at the cafe.
+4709	She started teaching art twenty-five years ago.
+4710	She has been teaching art for twenty-five years.
+4711	I met him fifty years ago.
+4712	We have known each other for fifty years.
+4713	Has your girlfriend read this book yet? Yes, she read it.
+4714	Did your boyfriend fix the dishwasher? No, he hasn't fixed it yet.
+4715	How many books did you read this year? I have read ten books and have two interesting books!
+4716	I cleaned the room twice this week! This month my parents wrote me four letters.
+4717	I practiced piano today.
+4718	No thanks. I have lunch today.
+4719	Swimming here is very dangerous.
+4720	Skiing here is not dangerous. He likes to exercise.
+4721	I like dancing more than playing golf.
+4722	In the desert, drinking plenty of water is important. Taking medicine is important.
+4723	Washing your hands before cooking is important. Early arrival at the airport is important.
+4724	Why is studying important?
+4725	Because I will be able to study at a famous university.
+4726	Why is brushing important? Because the teeth will be cleaner and whiter. Are these documents important? No, they are not important.
+4727	I think math learning is very interesting and important. I know that exercise is important but I think it's very boring.
+4728	I know that eating vegetables is important but I don't like vegetables.
+4729	I think learning Vietnamese is very important and interesting.
+4730	This color is wrong. This color is correct.
+4731	This number is wrong. This phone number is correct.
+4732	This clothing is not suitable for skiing. This clothes is suitable for swimming.
+4733	This ball is not suitable for golf. This ball is suitable for playing football. This table is of a size that is not suitable for this man.
+4734	This table is the right size for this girl.
+4735	I think this building is wrong. That's the right building.
+4736	This jacket is suitable for today's weather.
+4737	But this hat is not suitable for today's weather.
+4738	I booked the table first in the new restaurant. I think this restaurant is wrong.
+4739	This restaurant is right.
+4740	These disks are not suitable. Are these disks suitable? Have. Thank you
+4741	If I have enough money I will buy this. If it's sunny, I'll swim in the sea.
+4742	Why is training important?
+4743	If you practice then you will play better. Why is it important to learn Vietnamese? If I learn Vietnamese, I will be able to speak Vietnamese.
+4744	If it is ten then I will win. I lost because it was seven.
+4745	If snow falls, we'll go skiing. We will go skiing because of the snowfall. If you clean the room, you will play the game with the children.
+4746	We will play the game because you clean the room.
+4747	I can't find your shoes.
+4748	If you clean your room, you will find them.
+4749	Do you know where this famous statue is?
+4750	If you go to the city center, you'll find it.
+4751	Where did you meet your mother?
+4752	When I went to school in China, my mother was living there.
+4753	Is learning Chinese interesting? Have. My mother helped my father learn.
+4754	Is it important to learn Chinese? Have. If you speak Chinese, you can talk to a lot of people.
+4755	He lives in the rainforest. They are on vacation in the rainforest. This man lives in the desert. This family is on vacation in the desert.
+4756	Does your family go on holiday this summer?
+4757	Have. My family will go to the sea in Mexico.
+4758	He speaks Vietnamese very well. Do you live here?
+4759	Is not. I'm on vacation here.
+4760	They have dollars but I only have money. She's eating salad and sandwiches but I only eat salad.
+4761	She has a knife and fork but she only has a fork.
+4762	She has four books but I only have three books.
+4763	I only have one shoe. I just need a spoon.
+4764	Are we only wearing a towel?
+4765	I like a lot of vegetables but my brother only likes carrots.
+4766	My father always wears a watch but my mother only wears a watch when she exercises.
+4767	When my family goes on vacation, my family never goes to the mountain. My family only goes to the beach.
+4768	Do you sell vegetables?
+4769	Is not. I only sell fruits. Do you sell fruit? Is not. I only sell vegetables.
+4770	Dollars are a kind of money. Euro is a currency. Yen is a kind of money.
+4771	I only have euro money. In Japan, I will have to change to yen.
+4772	You can exchange your euro money at the airport.
+4773	I need money, but I only have dollars.
+4774	You can exchange money at the bank.
+4775	Where can I change money?
+4776	You can exchange money at the station.
+4777	Can I exchange euro money for dollar money here?
+4778	Yes, you can exchange euro money for dollars.
+4779	Can I change the yen to the dong here?
+4780	Yes, you can change the yen into the dong.
+4781	Can you teach me how to convert euro money into dollars?
+4782	Yes. First, I went to meet the person who was standing behind the counter.
+4783	Then give him five euros.
+4784	After that, he will give me the dollar money.
+4785	I changed five euros to seven dollars!
+4786	Now we can go to lunch at the restaurant.
+4787	backpack backpack backpack pairs of ATMs
+4788	a backpack a briefcase with an ATM of all kinds of money
+4789	Sorry. Is there an ATM nearby? Have. There is one beside the bank on the other street.
+4790	Sorry. Is there an ATM nearby? I'm sorry. I think not.
+4791	The woman is carrying her bag. The students are wearing backpacks. The woman is carrying a suitcase. The man is wearing a backpack.
+4792	Children are wearing backpacks. The woman is carrying her bag. The man is carrying a bag. The woman is wearing a backpack.
+4793	Backpack empty.
+4794	She is putting books in her backpack. This bag is full.
+4795	He is taking the pen out of the bag. I'm putting the card in the ATM.
+4796	I am taking money out of the ATM.
+4797	He is taking the dishes out of the box.
+4798	She took the shirt out of the box.
+4799	I already put the toy in the box.
+4800	Don't carry your bag like that.
+4801	Couple bags like this.
+4802	Do not wear such a backpack.
+4803	Wear backpacks like this.
+4804	People should never ride like that.
+4805	People should always ride like this. People should never fix bicycles like that.
+4806	People should fix bicycles like this.
+4807	People should not put suitcases like that.
+4808	One should wipe the pair like this.
+4809	People should not read books like that.
+4810	One should wipe the floor like this.
+4811	There is no room in the refrigerator.
+4812	His suitcase is empty. There is a lot of room inside.
+4813	There is no space in the box.
+4814	There is enough room on the bus for this family.
+4815	Is there enough room in your backpack for your dictionary?
+4816	No, I'm sorry. Not enough. I will have to hold it.
+4817	Is there enough room in the suitcase for my shoes? Have. I will go in.
+4818	Is there a place in a backpack? Yes, but only a few places. Do you want to go shopping?
+4819	I want to go, but I only have a little money.
+4820	I need to find an ATM.
+4821	Are you allowed to eat chocolate?
+4822	Yes, but I was only allowed to eat some chocolate.
+4823	There are not enough seats for everyone. They need another chair.
+4824	There are not enough discs for everyone. They need two more discs.
+4825	He doesn't have enough money. He needs another five dollars.
+4826	She wants to drink some more water. She wants to eat some more cakes. She wants to drink some more tea.
+4827	Do you want to drink more milk? Yes, I want to drink more milk. Do you want to eat more rice? Thank you I want to eat more rice.
+4828	Have you eaten enough cakes?
+4829	Not yet. I want to eat some more cakes. Do you want to drink more water?
+4830	I just want to drink a little more water.
+4831	Sorry sir. Do you speak English? Yes, but I only speak a little English. Do you speak Chinese? Yes, but I only speak a little Chinese.
+4832	How much does this pair cost?
+4833	One hundred dollars, but it is being discounted. Today the price is only eighty dollars. Are these jeans discounted?
+4834	No, these jeans are not discounted. The price is eighty euros.
+4835	Is this sunglasses discounted? Have. The previous price was eight hundred yen but now it is only five hundred yen.
+4836	Will this shirt get a discount? No, this shirt is not discounted.
+4837	She is hungry.
+4838	If she has a sandwich she won't be hungry.
+4839	Sitting here is very boring.
+4840	If I have a book it will be more interesting.
+4841	They have umbrellas. They are not wet.
+4842	If they have umbrellas, they won't get wet.
+4843	Backpack left room. You can put your camera in.
+4844	If my backpack has room, you will be able to put your camera in.
+4845	If I have a sandwich I will not be hungry.
+4846	If there is an ATM nearby, I will have cash.
+4847	If it rains more, your garden will grow faster.
+4848	If he has a car, he won't have to walk.
+4849	If we have a ticket then we will be able to watch the match.
+4850	If she has more money she will buy her husband a watch.
+4851	If there is more space in the suitcase, I'll put your dress on.
+4852	When people give me something, I should say "thank you".
+4853	If an elderly person gets on a bus, I should give them my seat.
+4854	If I'm at the library, I shouldn't talk on the phone.
+4855	I should open the door to the people behind me.
+4856	I should bring flowers when visiting people at the hospital.
+4857	I shouldn't talk in the theater.
+4858	I want to buy a statue when we go on vacation.
+4859	This statue is too expensive but if it is discounted, I will buy it.
+4860	Sorry sir. Does this statue get a discount?
+4861	I do not know. I will ask the manager.
+4862	Yes, it is being discounted.
+4863	I want to buy it.
+4864	It's very big. There was not enough room in my backpack.
+4865	If I have a bigger backpack I will be able to put it in.
+4866	I should buy a bigger backpack.
+4867	Is not. You can put it in my suitcase.
+4868	I think there's enough room inside.
+4869	Is there enough room?
+4870	Yes, enough room.
+4871	The kids are happy because they are eating pizza.
+4872	Baking cake on the kitchen.
+4873	The man is making pizza.
+4874	Mother baked pies do very well.
+4875	one-third of baked goods. one third of a cake baked a third of a pie baked half a pie baked half of a toast
+4876	both baked goods
+4877	This is half a pizza. This is a third of the pizza. This is a quarter of the pizza. This is the pizza.
+4878	They are about to cut pastries.
+4879	The woman cut the scones. The man cut the pizza.
+4880	The man cut the orange into two. The waiter cut the lemon into four. The boy cut the scones into three.
+4881	She drank a third of the milk. Someone ate half a cake! The teacher cut the paper into two.
+4882	My grandmother cut the apple into four.
+4883	His girlfriend is eating half an orange. She is giving her boyfriend the other half.
+4884	I'm playing with this ball. My friend is playing with the other ball.
+4885	Do you want to cut this pizza? No, I want to cut that.
+4886	Do you want to put your toys in this box?
+4887	Yes, I want to put them in this box.
+4888	a slice of bread with a slice of bread a slice of cheese
+4889	This is a piece of pizza. This is the pizza.
+4890	This is a piece of scones. This is a cupcakes.
+4891	The man has a slice of bread.
+4892	The woman has a cake.
+4893	The son has a slice of cheese.
+4894	The girl has a scones.
+4895	This ball is round.
+4896	This house is square.
+4897	This cheese slice is square.
+4898	This clock is round.
+4899	This orange is round.
+4900	This slice of bread is square.
+4901	What kind of watch do you want?
+4902	I want a watch that looks like this, but it's round.
+4903	Which painting is yours?
+4904	Square picture is mine.
+4905	This disk is round.
+4906	This disk is square.
+4907	This cheese is round.
+4908	This cheese is square.
+4909	This table is round.
+4910	This table is square.
+4911	This person weighed sixty-five kilograms.
+4912	This baby weighs three kilograms.
+4913	His suitcase weighs ten kilograms.
+4914	This dog weighs four kilograms.
+4915	This piece of scones is lighter than cheese.
+4916	Carrots are heavier than beans.
+4917	This piece of sweet cake is heavier than that piece of pastry.
+4918	This lemon is as heavy as the lemon.
+4919	This sweet cake is the price of this scones.
+4920	This chicken is more expensive than pizza.
+4921	A cheaper salad than a sandwich.
+4922	How much milk do you want?
+4923	I want to drink a lot of milk with my father. How many pizza do you want? I want two pieces of pizza.
+4924	I want to buy some cheese. How much do you want to buy?
+4925	I want to buy half a kilogram. I want to buy some fish.
+4926	How much do you want to buy? I want to buy a kilogram.
+4927	The man is measuring the couch. The woman is measuring the counter. The woman is counting flowers.
+4928	The girl is counting apples.
+4929	Do you count books?
+4930	Yes, I counted. I have four hundred and two volumes.
+4931	Why do you measure walls?
+4932	Because I want to leave a table near this wall.
+4933	I am counting my sheep.
+4934	I am a meter and a half tall.
+4935	This building is twenty meters tall. This street is two kilometers long. This wall is four meters wide.
+4936	How big is this carpet? It is three meters long and two meters wide. How big is this street? It is twenty meters wide.
+4937	How tall is this tree? It is ten meters tall.
+4938	How much do potatoes weigh? Potatoes weigh five kilograms.
+4939	How big is our table?
+4940	Our table is one meter wide and one hundred and fifty centimeters long.
+4941	How tall is this building? This building is one hundred meters tall. How tall is this tree?
+4942	This tree is fifty meters tall.
+4943	How much does the ticket cost?
+4944	I think the ticket price is at least ten dollars. How much is the ticket price?
+4945	Fares for twelve dollars.
+4946	How many oranges on this tree?
+4947	She didn't know but she thought there were at least fifty.
+4948	How many plates do we need? We need at least ten disks.
+4949	It's hot. I think the temperature is at least thirty degrees.
+4950	Yes, the temperature is thirty-one degrees.
+4951	How big is this wall? It is at least four meters wide.
+4952	Do you think my son weighs fifteen kilograms?
+4953	Is not. I think her son weighed at least twenty kilograms.
+4954	This pen is almost nine centimeters long. This dress cost nearly ninety dollars. This apple is nearly as heavy as an orange. Her sister is nearly as tall as her brother.
+4955	How tall are you? I am almost a meter tall. How long is the whale? It was nearly thirty meters long.
+4956	I am close enough to ride a bike. Potatoes weigh nearly four kilograms.
+4957	We have nearly enough juice for everyone.
+4958	I measured the floor for me.
+4959	It is five meters long and four meters wide. You measure the wall for me.
+4960	It was three meters tall and four meters wide.
+4961	I measured you. Stand here.
+4962	How tall are you?
+4963	I am a hundred centimeters tall.
+4964	a screwdriver a wrench with a hammer
+4965	They are using a hammer.
+4966	She is using a screwdriver. I am using a wrench. He is using pliers.
+4967	The man is using a knife, not a spoon.
+4968	The woman is using a hammer, not a pliers. The girl is using a hair brush, not a toothbrush.
+4969	The boy is using a screwdriver, not a wrench.
+4970	I am using a screwdriver to fix the glass.
+4971	He is using a wrench to fix the sink. I am using a hammer to fix the couch.
+4972	She is using pliers to fix jewelry.
+4973	Do you need pliers or screwdrivers? He needs pliers.
+4974	Do you need a wrench or a hammer? He needs a hammer.
+4975	a flashlight a flashlight a flashlight a sheet of paper a scissors
+4976	a pencil a pencil with a sticky tape with a sticky tape
+4977	I'm holding a paper.
+4978	He is using scissors to cut newspapers. I use tape to fix the glass. I am writing in pencil.
+4979	Doctor is using flashlight.
+4980	Two boys are using flashlight to read.
+4981	This balance is in the grocery store. This scale is in my bathroom.
+4982	This student is using a ruler to measure a piece of paper.
+4983	My mother is using a ruler to measure the window. This thermometer is outside.
+4984	This thermometer is in her mouth.
+4985	The teacher cut the paper.
+4986	The girl is standing on the scale.
+4987	The boy has a pencil and a piece of paper. The doctor is holding a thermometer.
+4988	They are using scissors and tape to fix the map. He is using a ruler to measure the door.
+4989	I am weighing fruits.
+4990	The woman is weighing her daughter. The man is weighing apples.
+4991	How much do you weigh?
+4992	The child weighs at least thirty kilograms. Please weigh me.
+4993	I weigh nearly thirty-five kilograms!
+4994	Please stand up for weight. How much do I weigh?
+4995	She weighed fifty-five kilograms.
+4996	How wide is the window?
+4997	I used a ruler to measure and it was ninety centimeters wide.
+4998	What are you doing outside? I am reading a thermometer.
+4999	a hammer a nail a screwdriver a screw
+5000	She is buying screws. He is looking for a nail.
+5001	He has a lot of nails but he needs a hammer.
+5002	I have a screw but I need a screwdriver.
+5003	Can you help me build this? Yes, I'll help you build this.
+5004	First, measure this with a ruler. After that, use a hammer and nails.
+5005	Then, use screwdrivers and screws. Finally, leave it in the garden.
+5006	This fish is frozen. This orange is fresh.
+5007	This pizza is frozen. These lemons are fresh.
+5008	Do you have fresh fish?
+5009	I'm sorry. We only have frozen fish. Do you have fresh vegetables?
+5010	Have. Fresh vegetables.
+5011	He is cutting tomatoes.
+5012	She is weighing bananas on the scale.
+5013	He's putting fresh tomatoes on pizza. This animal likes bananas.
+5014	This banana is broken.
+5015	This tomato is not ripe yet. These apples are ripe.
+5016	Don't eat these! They are broken. We will eat these fruits but now they are not ripe.
+5017	If you wait a day, these bananas will ripen.
+5018	Here are some fresh tomatoes in the garden.
+5019	These tomatoes are not yet ripe. These tomatoes are ripe. These tomatoes are damaged. This banana is not yet ripe.
+5020	This banana is ripe. This banana is broken.
+5021	Very hot coffee. I like hot soup. I like cold chicken. This water is very cold.
+5022	cold juice.
+5023	Hot tea.
+5024	Frozen meat.
+5025	Orange is broken.
+5026	Fresh tomatoes.
+5027	Banana fruit ripe.
+5028	She is putting pepper into the soup.
+5029	I'm giving sugar to tea.
+5030	He is making bread.
+5031	I am making scones.
+5032	I made a cake for my birthday.
+5033	I gave the way!
+5034	Put some salt in the soup.
+5035	We and Mom are making scones.
+5036	Pastries are in the oven.
+5037	He is putting pizza in the oven. She is putting the scones in the oven. Pizza in the oven.
+5038	We are making bread. She is giving sugar to tea.
+5039	He is putting pizza in the oven.
+5040	noodles
+5041	Wheat flour noodles
+5042	a tomato
+5043	The woman is weighing three hundred grams of flour. The boy is putting in four hundred milliliters of water.
+5044	The man is weighing six hundred grams of noodles.
+5045	The daughter is giving nine hundred milliliters of milk.
+5046	First, put in four hundred grams of sugar. Then, add two hundred and fifty milligrams of cold milk.
+5047	Then, add five grams of salt.
+5048	Finally, put in one hundred and twenty milliliters of water.
+5049	He is choosing a blue tie. She is choosing noodles for lunch. I am choosing sandals to go at the beach. He is choosing a bicycle to rent.
+5050	She chooses the smallest box to store books. They are choosing a movie for tonight. He is choosing a suit for his wedding.
+5051	She chose to buy noodles.
+5052	I'm cooking noodles.
+5053	We are choosing music. They are eating noodles.
+5054	I will choose red shoes.
+5055	Can you teach me how to make sweet cakes? First, weigh four hundred grams of flour and three hundred grams of sugar.
+5056	Then, put in one hundred and twenty milliliters of milk and two eggs.
+5057	Then, add one hundred and fifty grams of butter and one gram of salt.
+5058	Finally, put the pastry in the oven for an hour at a temperature of one hundred and eighty degrees. Tasty cake!
+5059	Hello. Hello.
+5060	How are you? I'm fine, thank you.
+5061	Have you met my son, Johann, yet?
+5062	Yes, I met you. How are you, Johann?
+5063	I speak Vietnamese very well. Are you learning Vietnamese?
+5064	Yes, I am studying.
+5065	I hope you enjoy living here this fall.
+5066	I think living in this house is very interesting. I think living in this house is very boring.
+5067	Where did you find it?
+5068	Stay in my bedroom.
+5069	What do you think this key is for? I don't know. We will find the door.
+5070	Is this door true? No, this door is not correct.
+5071	Is there anything in that box? No, there is nothing in this box.
+5072	Is there enough room for us? Yes, there is enough room for us.
+5073	Do you have a flashlight? Yes, mom has a flashlight.
+5074	Is this insect dangerous? No, this insect is not dangerous.
+5075	Does the key fit? Yes, just the key!
+5076	India in Asia.
+5077	This is an Indian woman. Mexico in North America.
+5078	This is a Mexican man. Japan in Asia.
+5079	This is a Japanese girl.
+5080	pasta
+5081	German cars
+5082	Mexican jewelry
+5083	Russian toys
+5084	an Egyptian Indian clothes statue
+5085	American cars
+5086	a French dessert of Chinese paintings a Japanese mountain a Russian church
+5087	an American restaurant an Indian temple an Japanese restaurant a Russian church of Egyptian clothes
+5088	Chinese clothes
+5089	He is cooking German food. I bought Italian food.
+5090	Egyptian food on the table. They are going to eat Mexican food.
+5091	What do you bring to the party? I bring French food. What do you bring?
+5092	I bring Chinese food.
+5093	Did you bring French food? Yes, I brought French food. Did you bring Chinese food? Yes, I bring Chinese food.
+5094	What kind of food do you like?
+5095	I like Italian food and German food.
+5096	German food is good but I prefer Italian food. We can have dinner at this Italian restaurant.
+5097	soldiers
+5098	a queen
+5099	a king
+5100	This soldier is meeting the queen.
+5101	She is the Queen of England.
+5102	The king sits here.
+5103	The king wears this.
+5104	In the past, there was a French king living here.
+5105	This soldier is writing to the family.
+5106	Forty years ago, he was a soldier.
+5107	These soldiers are climbing the wall.
+5108	These soldiers are running.
+5109	This soldier is talking to the child.
+5110	This is a statue of a Chinese soldier.
+5111	This is a statue of an Egyptian king.
+5112	This is a picture of a soldier.
+5113	This is a picture of a queen.
+5114	The adults are voting.
+5115	Some people are voting.
+5116	The students are voting.
+5117	Now no one votes.
+5118	They are lining up to vote.
+5119	He is voting.
+5120	She voted.
+5121	Today there is an election. Everyone is voting.
+5122	Many people vote for him. I think he will win the election.
+5123	The election is over. Everyone has already voted.
+5124	Yesterday there was an election.
+5125	He lost in the election.
+5126	He won the election.
+5127	Last month he won the election.
+5128	Now he is the president.
+5129	Next month he will visit Europe.
+5130	There, he will meet the British prime minister.
+5131	Indian Prime Minister is talking to the soldier.
+5132	American president lives here.
+5133	The British Prime Minister is visiting Germany.
+5134	Mexican President is answering the question.
+5135	The American flag is in front of the building.
+5136	The old man is holding the Mexican flag.
+5137	People are holding German flags.
+5138	There are many flags in this building.
+5139	Mexican people are jumping. The Germans are watching the match. The Russians are voting for presidential elections.
+5140	Americans are holding flags.
+5141	Italians are playing football.
+5142	He wants the French team to win this match.
+5143	Where are you going?
+5144	I went to vote.
+5145	Who will you vote for?
+5146	I will vote for the president.
+5147	Do you think Mr. Jones will win?
+5148	Yes, I think Mr. Jones will win. I voted for him.
+5149	Indian Prime Minister is meeting US president.
+5150	I want to be the president tomorrow.
+5151	Russian Prime Minister is visiting a school.
+5152	They are emailing each other on the internet.
+5153	She is making a reservation in advance at the hotel on the internet.
+5154	He is buying something on the internet.
+5155	I am reading a magazine about India.
+5156	They are reading magazines.
+5157	She is buying a magazine.
+5158	What are you watching? I'm watching the news. What's news tonight?
+5159	They talked about the election, and now they are talking about the weather.
+5160	Did they say who won the football match? No, but they are going to say.
+5161	She is reading news in magazines. I am reading news on the internet.
+5162	Today there is important news in the newspaper!
+5163	Is there any news about the election?
+5164	A lot of people are lining up to vote.
+5165	Is there any news about the match?
+5166	The Brazilian team won!
+5167	The men are watching the match on television.
+5168	The woman is watching the news on television. The kids are watching an interesting movie on TV.
+5169	We are listening to news on the radio.
+5170	They are watching news on television.
+5171	I am reading news on the internet.
+5172	She is reading news in magazines.
+5173	Have you read the news about the election in Australia?
+5174	Not yet. Who wins?
+5175	Mr. Smith won.
+5176	Have you read the news about the queen?
+5177	Not yet. What is she doing?
+5178	She is visiting India.
+5179	Who is on TV?
+5180	There are prime ministers on television. What is on TV?
+5181	There is a match on television. What is on TV?
+5182	The news is on the television.
+5183	What's the news today? The king married.
+5184	What's the news today? The queen visited the hospital. What's the news today?
+5185	The French president met the King of Spain.
+5186	This sign has many languages. This book is bilingual. This is an ancient language.
+5187	How many languages do you speak?
+5188	I speak three languages: English, Spanish and Vietnamese.
+5189	What language is he speaking?
+5190	He is speaking Chinese.
+5191	I don't understand what he said. What language is he speaking?
+5192	He is speaking Spanish. Do you understand what he said? I only understand a little.
+5193	What is this Vietnamese called?
+5194	This is Vietnamese called a table. What is this Vietnamese child called?
+5195	This is Vietnamese called frog.
+5196	What is this Vietnamese called? This is Vietnamese called the socks. What is this Vietnamese called?
+5197	This is Vietnamese called spoon. What is this Vietnamese called?
+5198	This is Vietnamese called a book.
+5199	These men work for the same company.
+5200	These two women work for two different companies.
+5201	The phone number for this company is 555-1234.
+5202	Our company bought this building. There is a party at the company.
+5203	This company is famous.
+5204	Which company do you work for?
+5205	I work for a company called Wheeler and Sons.
+5206	How long have you been working there?
+5207	I have been there for twelve years.
+5208	They want to be entrepreneurs. Her mother is an entrepreneur.
+5209	Her father is an entrepreneur. His wife is an entrepreneur.
+5210	Egyptian businessman is drinking tea. Chinese entrepreneurs are talking on the phone.
+5211	French businessman with laptop. American businessmen are meeting at the office.
+5212	I am a businessman. I am also a father.
+5213	This man is a musician. He is also a teacher.
+5214	She is an entrepreneur. She is also a mother.
+5215	This is a country. The country is also a continent.
+5216	I am a mother. I am also a child.
+5217	This man is exercising. He is also watching TV.
+5218	You play guitar very well. Do you play other instruments?
+5219	Yes, I also play the piano.
+5220	She speaks English and Russian. Do you speak other languages?
+5221	Yes, I also speak Spanish.
+5222	Do you have a dog
+5223	Yes, I have a dog. I also have a cat.
+5224	What do I have to do before dinner?
+5225	I have to cook noodles. I also have to make a salad.
+5226	When was this photo taken?
+5227	This photo was taken last winter. Who took this picture?
+5228	My brother shot.
+5229	I am making cakes for her birthday. This sweet cake is made this morning.
+5230	These people are building houses. This house was built last year.
+5231	Where is Spanish spoken?
+5232	Spanish is spoken in Spain, Mexico and South America.
+5233	When was this mosque built?
+5234	This mosque was built in 1287.
+5235	When was this book written? This book was written in 1998. Who wrote this book?
+5236	Jane Taylor writes.
+5237	Antarctica was discovered in 1820. This temple was discovered in Mexico. These statues were discovered on an island.
+5238	This city was discovered in South America.
+5239	These ancient statues were discovered in 1974.
+5240	This sweet cake is made for our wedding.
+5241	This car was driven only twice.
+5242	This book was written in 1985.
+5243	This photo was taken in 1961.
+5244	This church was built in 1250.
+5245	She was born in Beijing in 1950.
+5246	This statue was made in ancient Rome. This book was written in 1920. These snowboards were returned this morning.
+5247	This photo was taken in 1923.
+5248	Who took this picture?
+5249	My grandmother took this picture.
+5250	These people agree on who they will vote for.
+5251	These people disagree about who they will vote for.
+5252	The boyfriend and girlfriend agree on the movie they will watch.
+5253	Young brother and sister disagree about who wins.
+5254	They do not agree on which color to use.
+5255	Men agree on the fastest car.
+5256	I think this is his best picture.
+5257	I disagree. I think this picture is his best picture.
+5258	I think my team will win.
+5259	I disagree. I think my team will win.
+5260	Who do you vote for?
+5261	I voted for Louise Parker. Why did you vote for her? I agree with her.
+5262	I voted for Steve Dodd. I do not vote for him. Why not?
+5263	I disagree with him.
+5264	The party started at half past seven. Really? Not at eight thirty? We will be late.
+5265	Yesterday was her birthday.
+5266	Really? Isn't it today?
+5267	I should call her now.
+5268	Do you know that I speak Arabic?
+5269	Really?
+5270	Yes. When I was young, I lived in Egypt. This is Lynn, my wife. She is a musician. Is that so?
+5271	I am also a musician.
+5272	Do you know that Rosetta Stone was discovered in 1799?
+5273	Really? I don't know.
+5274	Yes. It was discovered in Egypt and now it is in a museum.
+5275	I'm getting married.
+5276	Really? Congratulations to you! I won!
+5277	Really? Congratulations to you!
+5278	Our child was born yesterday. Really? Congratulation!
+5279	There are too many people in the subway. There are not enough seats for them.
+5280	I have to carry too many books. There are not enough computers for them.
+5281	There are too many people on the bus. Too many fish.
+5282	There are too many cars on the street.
+5283	We can't swim here. There is not enough water.
+5284	We can't drive here. There is too much snow.
+5285	I eat too many cakes. I don't want to play soccer.
+5286	We can't go far. There is not enough gasoline.
+5287	I have not eaten enough. I'm hungry. I've eaten enough. Thanks Mom.
+5288	I have a stomach ache because I eat too many cakes.
+5289	I watch TV too much. You should read the book. I don't have enough eggs to make cakes. Can you go to the food store? There are too many people in the room.
+5290	Not enough cups.
+5291	Can I take a picture of you? Yes. Where do you want me to sit?
+5292	Do you want to go eat at a restaurant? Yes. We will meet at 8pm.
+5293	This picture is very beautiful.
+5294	How much does this painting cost? This picture costs three hundred dollars.
+5295	Too expensive. Can you sell it cheaper? I can sell you for two hundred and eighty dollars.
+5296	Yes. I will buy the picture.
+5297	Her boyfriend called. He wants you to call him tonight.
+5298	Yes. I will call him.
+5299	Her sister called. She wants you to call her at four o'clock.
+5300	Yes. I will call her.
+5301	She has a violin. She forgot to bring the violin. She has a hat.
+5302	She forgot to bring the hat.
+5303	She forgot to bring the umbrella. She forgot to bring books. I forgot all!
+5304	I forgot to bring your food!
+5305	He forgot to bring the key. Does he remember to bring the key. She forgot to bring coffee.
+5306	Does she remember to bring coffee.
+5307	Do you remember Maria's address? No I am sorry. I forgot it.
+5308	Do you remember her phone number? Have. Phone number is 555-2468.
+5309	Do you remember when we lived there? Is not. I don't remember when we lived there. I'm small.
+5310	I don't remember where we bought this. Did you forget? We buy this in Germany.
+5311	Hi Frank! I'm Alex. Do you remember me? Yes, I miss you! This is Jennifer, my wife.
+5312	Nice to meet you. Frank and I are friends at university.
+5313	Did you remember to vote this morning? No, I forgot.
+5314	Today do not forget to vote!
+5315	Yes. I will vote after finishing work.
+5316	What are you studying at school?
+5317	I am learning about animals living in the sea. Do you like it?
+5318	Yes I think learning about whales and sharks is very interesting.
+5319	The women are learning about the picture. These children are learning about animals. His daughter is learning about Brazil.
+5320	Her grandmother is learning to use a computer. She is learning to make cakes.
+5321	The women are learning to cook. She is learning how to swim.
+5322	What are you studying at school? I'm learning about Vietnam. Are you learning to speak Vietnamese? Yes, I am learning to speak Vietnamese.
+5323	Do you want to learn to use computers? Yes, I want to learn how to use computers. Do you want to learn how to swim?
+5324	Yes, I want to learn how to swim.
+5325	We watched the news from nine o'clock. I have been practicing since three o'clock.
+5326	She has been writing for this magazine since 1992. They have been living in this house since 1975.
+5327	How long has she been the queen? She has been a queen since 1952. How long have you been waiting here?
+5328	I waited here from 12 o'clock.
+5329	I have lived in Japan since I was little. My wife and I have been married for thirty-five years. They made bread from five o'clock this morning. We were born in India but we have lived in England for three years.
+5330	Have you ever gone to Northern Italy? No, I have never been to Northern Italy. Have you ever gone?
+5331	I went to northern Italy in 1982.
+5332	They are learning about South Africa. She is teaching them to West Africa.
+5333	They are learning about Eastern Africa. She is teaching them to Northern Africa.
+5334	I live in southern Italy.
+5335	We are visiting Eastern China.
+5336	She lives in the western United States.
+5337	These animals live in northern Russia.
+5338	Have you ever eaten Indian food? No, never.
+5339	Have you ever eaten Indian food? I have eaten, and I really like it.
+5340	Have you ever gone to Russia?
+5341	Yes, I went to Russia. In the past, I lived in Moscow.
+5342	Really? In the past, I lived near Moscow.
+5343	I have never been to Russia but I will go tomorrow.
+5344	I have to cook dinner again.
+5345	I have to wipe the floor again.
+5346	I have to wash the dishes again.
+5347	Last week my bike did not run.
+5348	My husband used a wrench and pliers to fix it.
+5349	My bike is broken today.
+5350	I think I will buy a new bike.
+5351	Do you win? Yes, we won again. Where is your book?
+5352	I forgot it again.
+5353	Do you understand what I say?
+5354	Is not. Can you say it again?
+5355	Have you ever been to China?
+5356	Have. Last year I left and next month I went again.
+5357	When will you go to New York?
+5358	I do not know. His flight was late.
+5359	Did you practice this morning?
+5360	Yes, and this afternoon we are training for tomorrow's match.
+5361	Mr. Tom, do you have a book?
+5362	I'm sorry. I forgot it again!
+5363	Tomorrow do not forget to bring books!
+5364	Yes. I will miss.
+5365	Friday do you want to go eat at a French restaurant with me?
+5366	I'm sorry, I can't go. Friday I will have dinner with my grandmother.
+5367	Yes, I'm free.
+5368	Do you want to go to the movies?
+5369	Yes. I'll meet you here at noon on Saturday.
+5370	No one is in the office celebrating. The women are celebrating.
+5371	Businessmen are celebrating. They did not celebrate.
+5372	They are celebrating because they won the match.
+5373	They are celebrating because today is his birthday.
+5374	They are celebrating because they have finished college.
+5375	They are celebrating because they have been married for forty years.
+5376	Last year I went on vacation in southern Italy for a month.
+5377	I visited many churches and museums there.
+5378	Last week I went on a business trip to Paris.
+5379	I met many entrepreneurs there.
+5380	Are you on vacation here? Is not. I work here. Are you on business in Australia? Is not. I went on vacation there.
+5381	She is on vacation in this city.
+5382	She is traveling in this city. They will go on vacation in Mexico.
+5383	They will travel to Mexico.
+5384	Why are you not at school? Today is a holiday. School closed. Why are you going to the park today? Today is a holiday.
+5385	On this holiday, they go to the party.
+5386	On this holiday, they wear red, white and blue clothes.
+5387	On this holiday, they celebrate the New Year.
+5388	Do you have to go to school?
+5389	Have. Today is not a holiday. Do you have to go to school?
+5390	Is not. Today is a holiday.
+5391	They are playing music in this parade. The women are dancing in this parade.
+5392	The women are wearing fruits on their heads during this parade.
+5393	Why is there a parade today? Because we are celebrating the New Year. Why is there a parade today?
+5394	Because our football team won all matches!
+5395	These are Hindu statues.
+5396	This is a Christian church.
+5397	They are watching Buddhist paintings on the wall.
+5398	The Jewish man is singing to his son.
+5399	The Muslim man is in the mosque.
+5400	Hindus are celebrating.
+5401	Buddhist people are celebrating.
+5402	Mexican people are celebrating.
+5403	When do Jews celebrate this holiday?
+5404	Jews celebrate this holiday in the spring.
+5405	When do Muslims celebrate this holiday?
+5406	Muslims celebrate this holiday in the fall.
+5407	This is a Christian wedding. This is a Jewish wedding. This is a Hindu wedding.
+5408	Why are you celebrating this celebration?
+5409	Because she is a Christian. Why do you celebrate?
+5410	Because my son and girlfriend are about to get married.
+5411	What are you reading?
+5412	I am reading about the holidays of Judaism.
+5413	Why do you read about Jewish holidays?
+5414	Because I will have dinner with a Jewish family.
+5415	Musicians are ready to play. Singer is not ready to sing.
+5416	Are you ready to have dinner?
+5417	These men are ready to run. Are you ready to ride?
+5418	It's time to get married. Are you ready to go? No, I'm not ready, but I'm almost done.
+5419	I'm ready to see the parade. Is it time to go?
+5420	Yes, it's time to go.
+5421	It's time to go to the party. Are you ready? You are not ready. I'll be done in five minutes. Yes. I will wait for you outside.
+5422	Time to go. Are you ready?
+5423	I'm not ready. I haven't finished the suitcase.
+5424	Yes, but we're about to go.
+5425	Let's go to the park.
+5426	Next month, let's go to Russia. Yes. We can go to Moscow. Are you ready to listen to music at the theater? I'm ready. Let's go!
+5427	Let's go to the zoo.
+5428	Yes. We can go this afternoon.
+5429	Are you ready to go to the station?
+5430	I am ready. Let's go!
+5431	Are you ready to go to the park yet?
+5432	Yes. Let's go.
+5433	Is it time to see the parade?
+5434	It's time. Let's go!
+5435	Are you ready to go to the restaurant? I'm ready. Let's go.
+5436	Are you ready to see the match? I'm ready. Let's go! Are you ready to go to the theater?
+5437	I'm ready. Let's go!
+5438	Hello! Welcome home! How are you?
+5439	How long do you take a vacation?
+5440	I went on vacation for a month.
+5441	Where did you go?
+5442	I went to northern Japan and India. What did you visit in Japan?
+5443	In the winter in this city, the Japanese built very big houses of snow. Really? They are very beautiful. Do you like food there?
+5444	Have. The fish dish is very delicious.
+5445	After I left Japan, I went to India. The taxis there look very different here.
+5446	Many Indians love to dance and sing during their holidays.
+5447	My friend Joel, riding an elephant in the city!
+5448	We also saw a temple on a lake.
+5449	We had lunch with a Hindu family.
+5450	What do you think is the most interesting?
+5451	I think meeting the most interesting people.
+5452	I also like Indian spicy food.
+5453	I also saw many beautiful mountains.
+5454	I really like her photos.
+5455	Do you know that I will go to Vietnam? Really? Will you go on a business trip?
+5456	I will go on vacation.
+5457	When will you go? Next month I will go.
+5458	I have been learning Vietnamese for three months.
+5459	I have a passport.
+5460	I have finished packing suitcases.
+5461	Are you ready?
+5462	I am ready.
+5463	Let's go!
+5464	Are you ready? No, I'm not ready.
+5465	Did you come here to celebrate the New Year? Yes, we came here to celebrate the New Year.
+5466	Did you come from America? Yes, we are from the United States.
+5467	Are you on business in Vietnam? Is not.
+5468	We go on vacation here.
+5469	They speak Vietnamese very well.
+5470	How many languages do you speak?
+5471	I speak three languages: Vietnamese, Italian and some Chinese.
+5472	Do you remember the wedding of that king? Yes, I miss the wedding of that king.
+5473	Very beautiful.
+5474	What are people watching on TV?
+5475	People are watching the wedding of the king on television.
+5476	Are you watching the news? Yes, we are watching the news.
+5477	The red shirt won?
+5478	Yes, the red team wins.
+5479	How much do these flags cost? These flags cost twelve euros.
+5480	I want to buy one.
+5481	Can you sell at a cheaper price?
+5482	I don't know if I can sell one at a cheaper price.
+5483	I will sell you two flags for twenty euros.
+5484	Do you want to buy?
+5485	Yes, I want to buy.
+5486	Are you ready? I'm ready!
