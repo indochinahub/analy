@@ -1,0 +1,566 @@
+00001	Dịch: OmegaQ Sync: lenamtrung
+00002	Bình tĩnh nào.
+00003	Man:  Anh trông chờ gì chứ?   Chúng là lũ mọi rợ.
+00004	Một gã ăn cắp con dê của gã khác
+00005	và thế là chúng nó đã cấu xé lẫn nhau trước khi anh biết chuyện rồi.
+00006	Tôi chưa từng thấy những kẻ lang thang ra tay như thế này.
+00007	Thậm chí cả đời tôi còn chưa từng thấy chuyện gì như thế này .
+00008	Anh tới gần hiện trường bao nhiêu?
+00009	- Gần nhất có thể. - Ta nên quay trở lại Bức Tường.
+00010	Mấy cái xác làm các người sợ à?
+00011	Lệnh của chúng ta là đi truy lùng những kẻ lang thang.
+00012	Chúng ta đã truy lùng chúng. Chúng sẽ ko gây rắc rối gì cho ta nữa đâu.
+00013	Thế ông không nghĩ là họ sẽ hỏi chúng ta rằng chúng chết thế nào à?
+00014	Lên ngựa đi.
+00015	Thứ đã giết chúng cũng có thể giết chúng ta.
+00016	Thứ đó còn giết cả con nít.
+00017	Thật tốt rằng chúng ta không phải con nít.
+00018	Muốn chạy về phía nam thì cứ chạy.
+00019	Tất nhiên là bọn họ sẽ truy đuổi ngươi như 1 kẻ bỏ trốn
+00020	Nếu như ta không kịp xử ngươi trước.
+00021	Lên ngựa đi.
+00022	Ta không lặp lại đâu.
+00023	Coi bộ mấy cái xác của ngươi đã dời trại rồi.
+00024	Chúng đã ở đây.
+00025	Tìm xem chúng đã đi đâu.
+00026	Cái gì thế?
+00027	Nó...
+00028	Nhanh nào, cha đang nhìn đấy.
+00029	Và cả mẹ nữa.
+00030	Làm rất tốt.
+00031	Cám ơn.
+00032	Và ai trong số các con là xạ thủ khi mới lên 10 ?
+00033	Tiếp tục tập luyện đi, Bran.
+00034	Nhanh lên.
+00035	Đừng nghĩ nhiều quá, Bran.
+00036	Thả lỏng tay cầm cung ra.
+00037	Chạy nhanh lên Bran!
+00038	Ngài Stark!
+00039	Thưa phu nhân.
+00040	Những kỵ sĩ vừa tuần tra trên những ngọn đồi.
+00041	Họ đã bắt giử 1 kẻ bỏ trốn từ nhóm Tuần Đêm.
+00042	Gọi mọi người chuẩn bị ngựa.
+00043	Chàng cần phải thế sao?
+00044	Anh ta đã thề rồi, Cat.
+00045	Luật là luật, thưa phu nhân.
+00046	Nói với Bran là nó đi theo luôn.
+00047	Ned.
+00048	10 tuổi là còn quá nhỏ để thấy những cảnh ấy.
+00049	Nó không thể mãi là 1 đứa nhỏ được.
+00050	Và mùa đông đang tới.
+00051	Goi tất cả mọi người lại.
+00052	Bóng Trắng.
+00053	Tôi đã thấy lũ Bóng Trắng.
+00054	Bóng Trắng.
+00055	Tôi đã thấy chúng.
+00056	Tôi biết là tôi đã phá vỡ lời thề.
+00057	Và tôi biết giờ tôi là 1 kẻ bỏ trốn.
+00058	Lẽ ra tôi nên quay trở về Bức Tường và thông báo cho bọn họ, nhưng...
+00059	tôi đã thấy chúng.
+00060	Tôi đã thấy lũ Bóng Trắng.
+00061	Người dân cần phải biết về việc này.
+00062	Nếu ngài có thể chuyển lời của tôi cho gia đình tôi...
+00063	Nói với họ tôi không phải là đồ hèn nhát.
+00064	Nói với họ là tôi xin lỗi.
+00065	Xin Người tha thứ cho con.
+00066	Nhân danh Robert của nhà Baratheon
+00067	- Tên của người... - Đừng quay đầu.
+00068	-  ...Vua của Andals Và Người Đầu Tiên...
+00069	Cha sẽ biết nếu em quay đi.
+00070	...Vua Của 7 Đô Thành   và là người bảo hộ của vương quốc,
+00071	Ta, Eddard của Nhà Stark
+00072	Lãnh chúa của Winterfell và người canh giữ của phương Bắc
+00073	xử tử ngươi tại đây.
+00074	Làm tốt lắm.
+00075	Con hiểu tại sao ta làm thế chứ?
+00076	Jon nói anh ta là 1 người bỏ trốn.
+00077	Nhưng con có hiểu tại sao phải tự tay ta giết anh ta?
+00078	Cách làm của chúng ta là cách làm cổ xưa?
+00079	Người nào đưa ra lệnh
+00080	thi người đó phải là người ra tay.
+00081	Có thật là anh ta đã nhìn thấy Bóng Trắng không?
+00082	Bóng trắng đã biến mất cách đây cả ngàn năm rồi.
+00083	Vậy anh ta nói dối?
+00084	Người điên nhìn những gì mình muốn thấy.
+00085	Cái gì thế?
+00086	Sư tử núi?
+00087	Trong khu rừng này không có loia5 sư tử đó.
+00088	Con gì thế kia!
+00089	Sói tuyết.
+00090	Con vật này khá đấy.
+00091	KHông hề có loại sói này ở phía nam của Bức Tường.
+00092	Giờ thỉ có tới 5 con.
+00093	Muốn giữ nó không?
+00094	CHúng sẽ đi đâu?
+00095	Mẹ chúng chết rồi.
+00096	Chúng không thuộc về nơi đây.
+00097	Giết chúng đi là tốt hơn.
+00098	Không có mẹ, chúng không sống nổi đâu
+00099	- Đưa đây. - KHông!
+00100	Cất con dao đi.
+00101	Tôi nhận lệnh từ cha ngài, không phải ngài.
+00102	- Cha ơi, làm ơn đi! - Ta rất tiếc, Bran.
+00103	Ngài Stark?
+00104	Có 5 con sói con...
+00105	Mỗi con dành cho 1 đứa trẻ của nhà Stark.
+00106	Sói tuyết là gia huy của nhà ngài.
+00107	Con của ngài là nhũng người chủ của chúng.
+00108	Tự thân con sẽ huấn luyện nó.
+00109	Tự thân con cho nó ăn.
+00110	Và nếu nó chết thì chính con sẽ phải chôn cất nó.
+00111	Còn anh?
+00112	Anh không phải người nhà Stark.
+00113	Cầm đi.
+00114	Gì thế?
+00115	Nhóc này nhanh thật... Con đó là của anh đấy.
+00116	Là anh trai của em trách nhiệm của anh là thông báo cho em rằng:
+00117	em lo nghĩ quá nhiều rồi đấy.
+00118	- Bắt đầu lộ ra mặt rồi kìa. - Và anh chằng bao giờ lo sợ về điều gì.
+00119	Khi ta lên 7, anh đã nhảy từ vách đá của núi Casterly,
+00120	thằng xuống biển phía dưới 100 foot
+00121	và anh chẳng sợ gì cả.
+00122	Cho tới khi em mách cha thôi.
+00123	Chúng ta là những Lannisters.  Lannisters không hành xử như lũ ngốc.
+00124	Lỡ như Jon Arryn đã nói chuyện đó với người nào thì sao?
+00125	Nhưng ông ta có thể nói với ai?
+00126	- Chồng em. - Nếu như ông ta kể lại cho đức vua nghe, cái đầu của 2 ta
+00127	hiện giờ đã bị cắm cọc và treo trước của thành rồi.
+00128	Cho dù Jon Arryn đã biết hay không biết gì nó cũng chết theo ông ta rồi.
+00129	Và Robert sẽ lại chọn 1 Cánh Tay Mặt Của Đức Vua... ai đó làm công việc của ông ta
+00130	trong khi ông ta lại tiếp tục chơi heo và săn điếm...
+00131	Hình như là ngược lại thì phải?
+00132	Và cuộc sống vẫn cứ tiếp diễn.
+00133	Anh nên là Cánh Tay Mặt Của Nhà Vua.
+00134	Đó là 1 vinh dự mà anh không cần.
+00135	Ngày của họ thì quá dài
+00136	Mạng của họ thì lại quá ngắn.
+00137	Bao nhiêu năm qua
+00138	và em vẫn thấy mình là người ngoài
+00139	mỗi khi em tới đây.
+00140	Nàng có tới 5 người con phương Bắc.
+00141	Nàng không phải là người ngoài.
+00142	Thiếp tự hỏi liệu các vị cựu thần có đồng ý không.
+00143	Là thần của nàng với luật lệ của họ.
+00144	Thiếp rất tiếc.
+00145	- Nói ta xem. - Một con quạ đến từ King's Landing.
+00146	Jon Arryn đã qua đời.
+00147	Một cơn sốt cướp đi tính mạng của ông ấy.
+00148	THiếp biết ông ấy như   một người cha đối với ngài.
+00149	-  CÒn em ông ấy, đứa bé?  - Họ vẫn khỏe mạnh
+00150	Các vị thần vẫn còn rất tốt bụng.
+00151	COn quạ manh thêm 1 tin nữa...
+00152	Nhà vùa đang tiến tới Winterfell...
+00153	VỚi hoàng hậu
+00154	và toàn bộ đại thần.
+00155	Nếu như ngài ấy tới tận phương Bắc xa xôi này...
+00156	Thì ngài ấy chỉ vì duy nhất 1 chuyện.
+00157	Ngài luông có thể nói không, Ned.
+00158	Chúng ta sẽ cần rất nhiều nến cho phòng của lãnh chúa Tyrion.
+00159	Tôi được bảo là ngài ấy đọc sách cả đêm.
+00160	Tôi còn được bảo là ngài ấy uống rượu cả đêm.
+00161	Ngài ấy có thể uốn tới múc nào nhỉ? Một người ở đia vị như ngài ấy...
+00162	Chúng tôi đã mang tám thùng rượu từ tầng hầm lên.
+00163	- Có lẽ chúng ta sẽ biết ngài ấy uống được bao nhiêu. - Dù sao thì
+00164	thêm nến.
+00165	Sao mẹ của anh là ép chúng ta phải thật bảnh khi ra mắt nhà vua vậy?
+00166	Là cho bà hoàng hậu, tôi cá là thế. Nghe đâu bà ta ăn trắng mặc trơn
+00167	Tôi cũng nghe nói tên hoàng tử là thằng đểu.
+00168	Cứ nghĩ tới tất cả những cô gái ở miền Nam
+00169	đã ngủ với hắn.
+00170	Làm đi tommy, cắt cho anh ta đẹp lên.
+00171	Anh ta chưa từng gặp cô gái nào tốt hơn mái tóc của bản thân đâu.
+00172	Chúng lớn nhanh quá.
+00173	Brandon!
+00174	Con đã thấy nhà vua. Ông ấy có cả trăm người đi theo.
+00175	Đã bao nhiêu lần mẹ nói với con là không được leo trèo?
+00176	Nhưng ông ấy đang đi tới đây ngay trên con đường của chúng ta.
+00177	Mẹ muốn con hứa với mẹ
+00178	là không leo trèo nữa.
+00179	Con hứa.
+00180	- COn biết gì không? - GÌ ạ?
+00181	Con lúc nào cũng nhìn xuống chân trước khi nói dối
+00182	Chay đi tìm cha con đi. Nói với ông ấy nhà vua sắp tới đây.
+00183	Arya đâu ? Sansa, em con đâu?
+00184	Con dội cái này vào đầu để làm gì thế?
+00185	- Vào hàng đi
+00186	Đi!
+00187	Điện hạ.
+00188	Cậu có vẻ lên cân đấy.
+00189	- Cat! - Thưa điện hạ.
+00190	Chín năm... Sao ta không nhìn thấy cậu? Cậu chui rút xó nào hả?
+00191	Canh giữ phương Bắc cho ngài, thưa điện hạ.
+00192	Winterfell là của người.
+00193	- Tiểu quỷ đâu rồi? - EM có im đi không?
+00194	Ai thế này ?
+00195	Chắc cháu là Robb.
+00196	Chà, 1 cô gái xinh đẹp.
+00197	CÒn tên của nhóc?
+00198	Arya.
+00199	Oh, cho xem chuột nào.
+00200	Nhóc sẽ là 1 người lính đấy.
+00201	Đó là Jaime Lannister anh sinh đôi của hoàng hậu.
+00202	Em làm ơn im được không?
+00203	Thưa hoàng hậu.
+00204	Thưa hoàng hậu.
+00205	Đưa ta tới ngôi mộ. Ta muốn thi lễ.
+00206	Chúng ta đã đi suốt cả tháng, thưa ngài.
+00207	Chắc rằng người đã chết có thể đợi.
+00208	Ned.
+00209	Quỷ lùn ở đâu rồi?
+00210	Em của anh đâu?
+00211	Đi và tìm thằng tiểu quỷ ấy về đây.
+00212	Kể cho thần nghe chuyện của Jon Arryn.
+00213	Khi đó ông ấy vẫn ổn...
+00214	Nhưng rồi thứ đó đã đánh gục ông ấy, dù cho đó là gì.
+00215	Ta thật sự thích ông ấy.
+00216	Cả ai chúng ta.
+00217	Ông ấy đã không cần phải dạy cho cậu mọi thứ nhưng ta thì lại ngược lại ?
+00218	Còn nhớ lúc ta 16 tuổi chứ ?
+00219	Lúc đó tất cả những gì ta muốn
+00220	là dập đầu vài thằng và chơi gái.
+00221	- Ông ấy đã chỉ cho ta thấy cái đúng cái sai.. - Aye.
+00222	Đừng nhìn ta như thế. Ta không nghe theo đó đâu phải lỗi của ông ấy.
+00223	Ta cần cậu, Ned...
+00224	ngay tại King's Landing, chứ không phải tại cái nơi mà cậu chả hữu dụng gì cả.
+00225	Lãnh chúa Eddard Stark
+00226	Giờ ta ban cho ngươi tước hiệu Cánh Tay Mặt Của Nhà Vua.
+00227	Thần không xứng đáng với vinh dự đó.
+00228	Ta đâu có cố vinh danh cậu. ta chỉ cố bắt cậu về cai trị vương quốc dùm ta
+00229	trong khi ta ăn nhậu và đàng điếm cho tới khi ta mất.
+00230	Chết tiệt, Ned, đứng dậy đi.
+00231	Cậu đã giúp ta chiếm ngôi báu
+00232	giờ hãy giúp ta giữ cái ngôi báu đó.
+00233	Chúng ta sẽ cùng nhau cai trị.
+00234	Nếu như chị của cậu còn sống chúng ta đã là anh em ruột rà rồi.
+00235	Vẫn chưa quá muộn.
+00236	Ta có con trai, cậu có con gái.
+00237	Chúng ta sẽ kết thông gia.
+00238	Chàng có nghe gì về nhà vua tại Winterfell không?
+00239	Có nghe đôi chút.
+00240	Và hoàng hậu cùng với anh sinh đôi của bà ta.
+00241	Họ nói rằng ngài ấy là người đẹp trai nhất 7 Đô Thành.
+00242	Và còn người anh em còn lại?
+00243	- Hoàng hậu có 2 người anh? - Đó là gã đẹp trai nhất
+00244	Con đây là người thông minh nhất.
+00245	Mmm, thiếp nghe nói họ gọi ngài ấy là quỷ lùn.
+00246	Ta nghe đâu hắn không ưa cái biệt danh đó.
+00247	Thiếp lại nghe là ngài ấy còn hơn cả cái biệt danh đó.
+00248	Thiếp nghe rằng ngài ấy là con sâu rượu
+00249	và là 1 người rất dâm dục.
+00250	Thông minh đấy cô gái.
+00251	Chúng em đợi ngài mãi, ngài Tyrion.
+00252	Thế à?
+00253	- Ngài lên rồi à?
+00254	Các vị thần ban cho ta duy nhất mỗi khả năng này.
+00255	- Khỏi ngồi dậy. - Thưa ngài.
+00256	Em có cần giải thích cho anh nghe về những căn phòng đóng cửa
+00257	- Tai nhà thổ không hả, anh trai? - Không nghi ngờ gì nữa, em quả thật còn rất nhiều thứ để dạy anh
+00258	Nhưng em gái của chúng ta mong muốn chúng ta có mặt.
+00259	Chị gái của chúng ta có những mong muốn kỳ quái thật
+00260	Đặc điểm gia đình.
+00261	Nhà Stark sẽ chiêu đãi chúng ta vào buổi chiều.
+00262	Đừng để anh một mình với mấy gã đó.
+00263	Xin lỗi nhé, nhưng em đã   nhập tiệc sớm 1 chút rồi.
+00264	Và đây chỉ là tăng 1 thôi.
+00265	Anh cũng cho là em nói thế.
+00266	Nhưng chúng ta có hơi ít thời gian...
+00267	Coi nào các cô.
+00268	Hẹn gặp lại vào chiều nhé.
+00269	Đóng cửa lại!
+00270	Cậu phải chôn nàng ấy ở 1 nơi như thế này ư?
+00271	Nàng ấy nên được chôn cất   trên 1 ngọn đồi
+00272	nơi có ánh nắng và mây.
+00273	Chị ấy là chị thần.
+00274	Đây là nơi chị ấy thuộc về.
+00275	Nàng ấy thuộc về ta.
+00276	Trong những giấc mơ của ta, ta giết tên ấy mỗi đêm.
+00277	Thù đã được trả rồi, thưa điện hạ.
+00278	Người Targaryens đã bị tiêu diệt.
+00279	Không phải tất cả.
+00280	Daenerys!
+00281	Daenerys.
+00282	Cô dâu tương lai của chúng ta đây rồi.
+00283	Một món quà từ Illyrio.
+00284	Sờ nó đi.
+00285	Làm đi, cảm nhận lớp vải đi.
+00286	Thật đúng lá 1 chủ nhà hiếu khách, phải không?
+00287	Chúng ta đã là khách của ông ấy suốt 1 năm rồi
+00288	và ông ấy chưa bao giờ đòi hỏi ta cái gì.
+00289	Illyrio không phải là gã ngốc.
+00290	Ông ta biết ta sẽ không bao giờ quên bạn của mình
+00291	khi ta chiếm lại được ngôi báu.
+00292	Trôn em nặng nề quá.
+00293	Để cho họ thấy.
+00294	GIờ đây em có cơ thể của 1 phụ nữ rồi.
+00295	Ta cần em phải thật hoàng hảo hôm nay.
+00296	Em làm thế vì ta được không?
+00297	Em đâu muốn đánh thức con rồng, đúng chứ?
+00298	Không.
+00299	Khi họ ghi lại sử sách về vương triều của ta hoàng muội thân yêu
+00300	họ sẽ viết rằng triều đại đó bắt đầu từ ngày hôm nay.
+00301	Trời nóng quá, thưa quận chúa.
+00302	Ông ta đâu?
+00303	Người Dothraki chưa từng được biết tới như là những người đúng giờ.
+00304	Cho phép tôi giới thiệu những vị khách danh dự của tôi?
+00305	Viserys đệ tam của nhà Targaryen,
+00306	Vì vua hợp pháp của Andals   và Người Sáng Lập,
+00307	và hoàng muội của ngài ấy
+00308	Daenerys của nhà Targaryen.
+00309	Em có thấy tóc ông ta dài không?
+00310	Mỗi khi một người  Dothraki   thua trong 1 trận đấu,
+00311	Họ sẽ cắt đuôi tóc để cho cả thế giới thấy được sự nhục nhã của họ.
+00312	Khal Drogo chưa thua bao giờ.
+00313	Tất nhiên ông ta là 1 kẻ hoang dã
+00314	nhưng lại là 1 tên sát nhân tuyệt nhất.
+00315	Và em sẽ là hoàng hậu của ông ta.
+00316	Mời bước tới, thưa quận chúa.
+00317	Ông ta đi đâu vậy?!
+00318	- Nghi lễ kết thúc rồi. - Nhưng ông ta chả nói gì cả.
+00319	- Ông ta có thích con bé không? - Tin tôi đi, thưa ngài
+00320	nếu ông ta không thích thì ta đã biết rồi.
+00321	Sẽ không lâu nữa đâu.
+00322	Ngài sẽ băng qua Biển Hẹp
+00323	và lấy lại ngôi báu của phụ thân ngài.
+00324	Người dân bí mật uống mừng
+00325	cho sức khỏe của ngài.
+00326	Họ mỏi mòn trông chờ vị vua chân chính của họ.
+00327	Khi nào họ lấy nhau?
+00328	Sớm thôi. Người Dothraki không bao giờ chờ đợi lâu.
+00329	Có thật là họ ngủ với ngựa của họ không?
+00330	Thần sẽ không hỏi Khal Drogo đâu.
+00331	Ngươi cho ta là tên ngốc à?
+00332	Thần luôn coi ngài như 1 vì vua.
+00333	Những vị vùa thường thiếu sự đề phòng đối với thường dân.
+00334	Thần xin lỗi nếu có ý mạo phạm.
+00335	Ta biết cách điều khiển 1 gã như Drogo.
+00336	Ta cho hắn 1 hoàng hậu và hắn cho ta 1 đạo quân.
+00337	Em không muốn làm hoàng hậu của hắn.
+00338	Em muốn về nhà.
+00339	Ta cũng thế.
+00340	Ta muốn cả hai ta cùng về
+00341	nhưng chúng đã tước đoạt tất cả của chúng ta.
+00342	Vậy nói cho ta nghe xem hoàng muội
+00343	Làm sao chúng ta trở về đây?
+00344	Em không biết.
+00345	Chúng ta trở về 1 với đạo quân.
+00346	Quân của Khal Drogo's.
+00347	Ta sẽ để cho cả 1 bộ lạc của hắn ngủ với em...
+00348	4 vạn người lẫn ngựa
+00349	nếu như đó là cái giá phải trả.
+00350	Mẹ có nghĩ là Joffrey sẽ thích con?
+00351	Nhỡ ngài ấy nghĩ con xấu thì sao?
+00352	Vậy hắn là tên hoàng từ ngu nhất từng sống.
+00353	Ngài ấy thật đẹp trai.
+00354	Khi nào chúng con mới kết hông? Sớm không? Hay là ta phải đợi?
+00355	Từ từ nào con. Cha con vẫn chưa nhận lời mà.
+00356	Nhơ cha nói không thì sao?
+00357	Cha sẽ trở thành người quyền uy nhất chỉ sau nhà vua mà thôi.
+00358	Vậy ông ấy sẽ phải rời bỏ nhà.
+00359	Và rời bỏ mẹ.
+00360	Và cả con nữa.
+00361	Mẹ đã bỏ nhà để đi tới đây.
+00362	Và 1 ngày nào đó con sẽ thành hoàng hậu.
+00363	Làm ơn làm cho cha nhận lời đi!
+00364	- Sansa... - Làm ơn đi!
+00365	Đây là duy nhất con muốn.
+00366	Cái bị ấy chết chưa?
+00367	Chú Benjen.
+00368	Cháu lớn hẳn ra rồi.
+00369	Ta phải cưỡi ngựa cả ngày. Không muốn bỏ cháu lại với cái đám nhà Lannisters đó.
+00370	Sao cháu không dự tiệc?
+00371	Phu nhân Stark nghĩ đó là sự xúc phạm tới hoàng gia
+00372	nếu để cho 1 tên con hoang nhập tiệc.
+00373	Chà, lúc nào cháu cũng được hoang nghênh tại Bức Tường.
+00374	Chẳng 1 đứa con hoang nào bị từ chối 1 chỗ ở đó cả.
+00375	Vậy hãy đưa con đi với chú đi.
+00376	- Jon... -Cha sẽ để hcau1 đi nếu chú hỏi ông ấy.
+00377	Chắc chắn mà.
+00378	Bức tường sẽ chẵng đi đâu cả.
+00379	Cháu đã sẵn sàng
+00380	để thực hiện lời thề.
+00381	Cháu không hiểu cháu sẽ phải từ bỏ những gì.
+00382	Chúng ta không có gia đình.
+00383	- Không ai trong chúng ta được làm cha... - Cháu không quan tâm!
+00384	Cháu sẽ quan tâm, nếu biết sống ở đó là như thế nào.
+00385	Ta nên vào trong
+00386	để cứu cha cháu khỏi đám khách khứa đó.
+00387	Ta nói sau nhé.
+00388	Chú của người ở trong đội Tuần Đêm à.
+00389	Ông làm gì ở đây?
+00390	Chuẩn bị ăn tiệc với gia đình ngươi.
+00391	Ta luôn muốn nhìn thấy bức tường đó.
+00392	Ông là Tyrion Lannister
+00393	Em trai của hoàng hậu?
+00394	Thành tựu lớn nhất đời ta đấy.
+00395	Và ngươi là con hoang của Ned Stark, phải không ?
+00396	Ta xúc phạm ngươi à? Xin lỗi nhé.
+00397	Ngươi vẫn là con hoang.
+00398	Lãnh chúa Eddard Stark là cha tôi.
+00399	Và phu nhân Stark không phải mẹ ngươi
+00400	nghĩa là ngươi là con hoang.
+00401	Ta khuyên ngươi vài điều này, con hoang.
+00402	Đừng bao giờ quên ngươi là ai.
+00403	Cả thế giới cũng sẽ không quên đâu.
+00404	Mặc nó như 1 tấm áo giáp
+00405	Và ngươi ta không thể dùng điều đó để làm tổn thương ngươi nữa.
+00406	Ông biết quái gì về việc là 1 đứa con hoang chứ?
+00407	Tất cả những gã lùn đều là con hoang trong mắt cha mình.
+00408	Hễ mà anh vào tiệc thì cứ như là con gấu sập bẫy.
+00409	Thằng nhóc ta chặt đầu...
+00410	- Cậu biết nó chứ? - Tất nhiên là biết.
+00411	Chỉ là 1 thằng nhóc.
+00412	Và nó rất dũng cảm, Ned
+00413	một người lính thực thụ.
+00414	Nó nói chuyện điên khùng.
+00415	Nó nói là Bóng Trắng đã giết bạn của nó.
+00416	Hai người đi chung với cậu ta tới giớ vẫn mất tích.
+00417	Một cuộc tập kích của những kẻ lang thang.
+00418	Có lẽ.
+00419	Sói tuyết ở phía nam Bức Tườngl
+00420	Những câu chuyện về Bóng Trắng
+00421	và anh trai của em sắp trở thành Cánh Tay Mặt Của Nhà Vua.
+00422	Mùa đông đúng là đang tới rồi.
+00423	Mùa động đang tới.
+00424	- Chú Benjen. -  Nhóc Robb.
+00425	- Chú thế nào? - Ta vẫn khỏe.
+00426	Đây là lần đầu tiên người tới phương Bắc à thưa hoàng hậu ?
+00427	Phải, một nơi rất đáng yêu.
+00428	Thần chắc là so với King's Landing thì nó khá ảm đạm.
+00429	Thần vẫn còn nhớ lần đầu tiên Ned...
+00430	đưa thần tới đây.
+00431	Chào cô bé.
+00432	Nhưng quả thật là 1 cô bé xinh đẹp.
+00433	- Ngươi bao nhiêu tuổi rồi? - 13, thưa hoàng hậu.
+00434	Ngươi cao thật, vẫn còn đang lớn à?
+00435	Thần nghĩ vậy, thưa Hoàng hậu.
+00436	Và ngươi đã mất trinh chưa?
+00437	Chưa, thưa hoàng hậu.
+00438	Ngươi tự may áo à?
+00439	Rất khéo tay, ngươi phải làm cho ta 1 cái gì đó .
+00440	Ta có nghe rằng chúng ta sẽ có chung 1 người cháu.
+00441	Thần cũng nghe như thế.
+00442	COn gái ngươi rất thích hợp sống tại Thủ Phủ.
+00443	Mỹ nhân như thế không nên cứ sống chui rúc ở đây tới cuối đời.
+00444	- Xin phép ngài. - Tôi nghe nói rằng chúng ta sắp thành hàng xóm.
+00445	- TÔi hy vọng điều đó là thật. - Vâng
+00446	Nhà vua đã đưa ra lời đề nghị với tôi.
+00447	Tôi chắc rằng chúng ta sẽ có 1 trận đấu
+00448	để chúc mừng danh hiệu mới của ngài... nếu ngài đồng ý.
+00449	Thật tốt nếu như ngài có mặt tại sân đấu.
+00450	Những cuộc thi đấu dạp này có hơi nhàm chán rồi.
+00451	- Tôi không tham gia đấu như thế. - Không à?
+00452	Già cả rồi à?
+00453	Tôi không tham gia thi đấu
+00454	vì khi mỗi lần tôi chiến đấu là tôi đánh thật
+00455	Tôi không muốn cho đối thủ biết tôi có thể làm những gì.
+00456	Nói hay lắm.
+00457	- Arya!
+00458	Không vui đâu!
+00459	Nó lúc nào cũng làm thế.
+00460	Đây là cái áo đẹp nhất của tôi.
+00461	Nó lúc nào cũng làm trò này !
+00462	Tới giờ đi ngủ rồi.
+00463	Ta là người phương Bắc.
+00464	Ta thuộc về nơi đây với nàng chứ không phải phương Nam
+00465	tại cái ổ chuột mà ngườ ta gọi là Thủ Phủ ấy
+00466	Thiếp không để ông ấy đưa ngài đi đâu.
+00467	Nhà vua lấy những gì ông ta muốn.
+00468	Đó là lý do tại sao ông ấy là vua.
+00469	Thiếp sẽ nói : "Này, lão béo"
+00470	Ông không  được đưa chồng tôi đi.
+00471	Ngài ấy thuộc về tôi."
+00472	Mà sao ông ấy lại mập dữ vậy?
+00473	Ngài ấy chỉ ngưng ăn khi uống thôi.
+00474	Là Maester Luwin, thưa ngài.
+00475	Cho ông ấy vào.
+00476	Xin 2 người thứ lỗi.
+00477	Một kỵ sĩ mang thư tới vào giữa đêm...
+00478	Từ chị của phu nhân.
+00479	- Cứ ở lại. - Là thư này gửi từ Eyrie.
+00480	Chị ấy làm gì tại Eyrie?
+00481	Chị ấy chưa từng về lại đó từ sau đám cưới.
+00482	Tin gì vậy?
+00483	Chị ấy bỏ trốn khỏi Thủ Phủ.
+00484	Chị ấy nói Jon Arryn bị mưu sát .
+00485	Bởi người nhà Lannisters.
+00486	Chị ấy nói nhà vua đang gặp nguy hiểm.
+00487	Chị ấy vừa mất chồng, Cat.
+00488	Chị ấy không biết mình đang nói gì.
+00489	Đầu của Lysa hẵn đã nằm trên cọc
+00490	nếu như 1 người khác tìm thấy bức thư.
+00491	Ngài nghĩ liệu chị ấy có liều cả mạng sống của mình...
+00492	con trai của chị ấy...
+00493	nếu chị ấy không chắc chắn việc chồng mình bị mưu sát?
+00494	Nếu như tin này là thật
+00495	và nhà Lannisters đang âm mưu soán ngôi
+00496	thì liệu còn ai ngoại trừ ngài có thể bảo vệ được nhà vua?
+00497	Chúng đã mưu sát vị cố vấn cuối cùng.
+00498	Giờ ông lại muốn Ned chấp nhận vị trí đó à?
+00499	Nhà vua đã đi ngựa ròng rã 1 tháng
+00500	chỉ để yêu cầu sự giúp đỡ của ngài Stark.
+00501	Ngài ấy là người duy nhất nhà cua tin tưởng.
+00502	Ngài đã thề lời thề với nhà vua.
+00503	Ngài ấy đã giành nửa cuộc đời để chiến đấu cho những cuộc chiến của Robert.
+00504	Ngài ấy chẳng nợ ai cái gì cả.
+00505	Cha và em của ngài đã từng xuống phía nam
+00506	theo lời yêu cầu của nhà vua.
+00507	Trong thời gian khác.
+00508	Vì vua khác.
+00509	Khi nào ta mới gặp Khal?
+00510	Ta cần phải bắt đầu kế hoạch xâm lược.
+00511	Nếu Khal Drogo hứa với ngài về ngôi báu
+00512	- thì ngài sẽ có được nó. - Nhưng khi nào?
+00513	Khi những điềm báo của họ cho phép họ tiến hành chiến tranh.
+00514	Ta khinh mấy cái điềm báo đó.
+00515	Ta đã chờ 17 năm để đoạt lấy ngai vàng.
+00516	Một đám cưới của người Dothraki
+00517	nếu mà không có ít nhất là 3 người chết thì coi như là vô hiệu.
+00518	Một món quà chỏ từ tân khaleesi...
+00519	Những bài hát và Lịch sử của 7 Kinh Đô.
+00520	Cám ơn ngài.
+00521	Ngài là người của nước tôi?
+00522	Hiệp sĩ Jorah Mormont của đảo gấu.
+00523	Tôi từng phục vụ cha người trong nhiều năm.
+00524	Tôi luôn hy vong sẽ được phụng sự 1 vì vua chân chính.
+00525	Trứng rồng, Daenerys
+00526	từ miền đấ bóng tôi phía bên kia Asshai.
+00527	Năm tháng đã làm chúng hóa đá
+00528	nhưng chúng vẫn mãi xinh đẹp.
+00529	Cám ơn, thưa thầy.
+00530	Thật đẹp.
+00531	Ser Jorah, tôi không biết nói cám ơn
+00532	bằng tiếng Dothraki.
+00533	Ngôn ngữ Dothraki không có từ cám ơn.
+00534	Làm cho hắn vui vẻ đi.
+00535	- Không
+00536	Ngài có hiểu những từ cơ bản không?
+00537	Không.
+00538	Chẵng là không là từ duy nhất ngài biết?
+00539	Không.
+00540	Một đêm khó nhọc à, quỷ lùn?
+00541	Nếu ta qua được 1 đêm mà không
+00542	làm cho 1 cô gái sung sướng hoặc là ta sung sướng thì đó có là phép màu.
+00543	Tôi đã không chọn người mổi khi đi săn .
+00544	Giáo của ta chọt đâu trúng đó nhé.
+00545	Không còn là săn bắn nữa nếu như ngài trả tiền mua chúng.
+00546	Cậu vẫn còn ngon lành như cậu vẫn làm khi xưa chứ?
+00547	Không, nhưng vẫn ngon lành hơn ngài.
+00548	Ta biết nhưng gì mà ta đang bắt cậu phải làm.
+00549	Cám ơn vì đã nhận lời.
+00550	Ta chỉ đề nghị cậu khi ta thậ sự cần cậu.
+00551	Cậu là 1 người bạn trung thành.
+00552	Nghe ta nói chứ? Một người bạn trung thành.
+00553	Và là người cuối cùng của ta.
+00554	- Hy vọng là tôi sẽ phụng sự ngài thật tốtl. - Chắc chắn rôi.
+00555	Và ta sẽ chắc chắn rằng cậu sẽ không buồn chán suốt cả ngày.
+00556	Đi nào,    Giết và con lợn rừng thôi!
+00557	Đi nào nhóc.
+00558	Dừng lại!
+00559	Dừng lại
+00560	Ngươi điên à?
+00561	- Nó nhìn thấy chúng ta. - Không sao, không sao đâu.
+00562	Nó đã nhìn thấy chúng ta!
+00563	Anh nghe rồi.
+00564	Leo trèo giỏi nhỉ?
+00565	- Nhóc bao nhiêu tuổi rồi? - 10.
+00566	Những gì ta làm cho tình yêu là đây.
