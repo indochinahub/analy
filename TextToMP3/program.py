@@ -14,7 +14,7 @@ for line in source_file :
     line = line.strip()
     splitLine = line.split("\t")
     tts = gTTS(text=splitLine[1], lang='en')
-    tts.save("KH206-"+splitLine[0].strip()+".mp3" )
+    tts.save("NF002-"+splitLine[0].strip()+".mp3" )
     print( splitLine )
 
 # Lang = vi, ja, en,km    
@@ -27,3 +27,4 @@ for line in source_file :
 # tts.save("KH202T-Reading-"+splitLine[0].strip()+".mp3")
 # tts.save("KH205T-"+splitLine[0].strip()+".mp3" )
 # tts.save("VN111-"+splitLine[0].strip()+".mp3" )
+# tts.save("KH206-"+splitLine[0].strip()+".mp3" )
