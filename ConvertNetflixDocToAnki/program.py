@@ -22,22 +22,19 @@ for line in source_file :
     line = line.strip()
     
     if line.find("\t") < 0 :
-        print("no tab at ::" + i)
+        print("no tab at ::" + str(i))
     else :
         line = line.split("\t")
     
-    if ( line[0][-1] != ".") :
-        en = en + line[0]
-        th = th + line[1]
-    else : 
-        en = en + line[0]
-        th = th + line[1]
+    
+    en = en + " " + line[0]
+    th = th + " " + line[1]
+
+    
+    if ( line[0][-1] == ".") :
         result_file.write(en + "\t" + th + "\n" )
         en = ""
         th = ""
-    
-
-    
     
     i = i + 1
 
