@@ -79,8 +79,8 @@ OneLineText = OneLineText.replace("Z.", "Z ")
 
 OneLineText = OneLineText.replace("Lt.", "Lt ")
 OneLineText = OneLineText.replace("Col.", "Col ")
-OneLineText = OneLineText.replace("Z.", "Z ")
-
+OneLineText = OneLineText.replace("Inc.", "Inc ")
+OneLineText = OneLineText.replace("St.", "St ")
 
 
 
