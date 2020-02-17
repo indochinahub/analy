@@ -1,480 +1,83 @@
-CH001-00010b	Her name is Lisa.
-CH001-00020b	I’m 12.
-CH001-00030b	My favourite colour is green.
-CH001-00040b	Her favourite sports are football and swimming.
-CH001-00050b	I’m interested in politics.
-CH001-00060b	I’m interested in politics.
-CH001-00070b	My father is a doctor and my mother is a teacher.
-CH001-00080b	I’m a teacher.
-CH001-00090b	I’m Japanese. I’m from Tokyo.
-CH001-00100b	I’m cold.  Can you close the door, please?
-CH001-00110b	I’m 23 years old.  My sister is 21.
-CH001-00120b	Steve is ill.  He’s in hospital.
-CH001-00130b	My brother is scared of snakes.
-CH001-00140b	It’s ten o’clock.  You’re not late.
-CH001-00150b	Ann and I aren't good friends.
-CH001-00160b	Your keys aren't on the table.
-CH001-00170b	I’m hungry, but I’m not tired.
-CH001-00180b	Lisa isn’t interested in art.  She’s interested in politics.
-CH001-00190b	James isn’t a student.  He’s a teacher.
-CH001-00200b	Those people aren’t Spainish.  They’re Australian.
-CH001-00210b	It’s cloudy today, but it is warm.
-CH001-00220b	Thank you. I'm fine. And you?
-CH001-00230b	Look!  There’s Christine.
-CH001-00240b	‘Here’s your book.’    ‘Thank you.’
-CH002-00250b	What’s his name?  David.
-CH002-00260b	Are you married?   Yes, I’m.
-CH002-00270b	How old is he?    25.
-CH002-00280b	Is your friend a student?    Yes, he is.
-CH002-00290b	‘Am I late?’     ‘Yes, you are.’
-CH002-00300b	‘Is your mother at home?’     ‘Yes, she is.’
-CH002-00310b	‘Are your parents at home?’     ‘Yes, they are.’
-CH002-00320b	‘Is it cold in your room?’     ‘No, It's quite hot.’
-CH002-00330b	Your hat is nice.  Is it new?
-CH002-00340b	Is she at work? / Is your mother at work?
-CH002-00350b	Are they old? / Are your shoes old?
-CH002-00360b	Who is your mother?  Is she at home?
-CH002-00370b	‘Where are you from?’     ‘Cambodia.’
-CH002-00380b	‘What colour is your car?’    ‘It’s black.’
-CH002-00390b	‘How old is Joe?’     ‘He’s 14.’
-CH002-00400b	How are your parents?  They're fine.
-CH002-00410b	This hat is nice.  How much is it?
-CH002-00420b	This hotel is very good so it is quite expensive.
-CH002-00430b	What’s the time?
-CH002-00440b	Who’re those men?
-CH002-00450b	Who’s Lucy?
-CH002-00460b	How’re your parents?
-CH002-00470b	‘Are you tired?’     ‘No, I'm not.’
-CH002-00480b	‘Are you hungry?’     ‘No, I’m not, but I’m tired.’
-CH002-00490b	‘Is your friend English?’     ‘No, he isn't.’
-CH002-00500b	‘Are these your shoes?’      ‘Yes, they are.’
-CH002-00510b	‘This’s my seat.’      ‘No, it isn’t.’
-CH003-00520b	She’s reading. She isn’t eating.
-CH003-00530b	It isn't raining. The sun is shining.
-CH003-00540b	They’re not running. They are walking.
-CH003-00550b	I’m not working.  I’m watching TV.
-CH003-00560b	Maria is reading a book.
-CH003-00570b	She is eating.
-CH003-00580b	The bus isn't coming.
-CH003-00590b	We’re having lunch.
-CH003-00600b	៉I'm not talking to you.
-CH003-00610b	The children are reading their books.
-CH003-00620b	Please be quiet.  I’m reading.
-CH003-00630b	Look, there’s Sarah.  She’s wearing a green coat.
-CH003-00640b	The weather is nice.  It’s sunny.
-CH003-00650b	‘Where are the children?’     ‘They are having lunch in the kitchen.’
-CH003-00660b	(on the phone)   We’re cooking now.  Can I call you later?
-CH003-00670b	You can have the newspaper.   I’m not reading it.
-CH004-00680b	‘Are you feeling OK?’     ‘No, I feel tired.’
-CH004-00690b	‘Is it raining?’      ‘Yes, take a rain jacket.’
-CH004-00700b	Why are you wearing a rain coat?  It’s not raining.
-CH004-00710b	‘What’s Paul doing?’      ‘He’s cooking for the dinner.’
-CH004-00720b	‘What are the children doing?’      ‘They’re reading books.’
-CH004-00730b	Look, there’s Emily!  What’s she drinking?
-CH004-00740b	Who are you waiting for?  Are you waiting for Steve?
-CH004-00750b	Is he teaching today?
-CH004-00760b	Is Ben visiting his parents today?
-CH004-00770b	Where are they playing?
-CH004-00780b	Where are those people reading?
-CH004-00790b	‘Are you going now?’      ‘No, I'm not.’
-CH004-00800b	‘Is Ben working today?’      ‘์No, he isn't.’
-CH004-00810b	‘Is it raining?’      ‘Yes, it is.’
-CH004-00820b	‘Are your friends staying at a hotel?’      ‘No, they aren’t.  They’re staying with Julie.’
-CH005-00830b	They write a lot.
-CH005-00840b	She likes ice cream.
-CH005-00850b	I work in a bank.  My brother works in a shop.
-CH005-00860b	Lucy lives in Scotland.  Her parents live in London.
-CH005-00870b	It doesn't rain in summer.
-CH005-00880b	Joe doesn't have a shower everyday
-CH005-00890b	I like small towns.
-CH005-00900b	Your English is good.  You write welll.
-CH005-00910b	Tom doesn't work very hard.  He starts at 9.30 and finishes at 3 o’clock in the evening.
-CH005-00920b	The moon goes round the earth.
-CH005-00930b	We don't do any things in our free time.
-CH005-00940b	It costs a lot of money to build a factory.
-CH005-00950b	Sue always gets to work late.
-CH005-00960b	I never eat dinner.
-CH005-00970b	We often go away at New Year.
-CH005-00980b	Mark sometimes plays football on Mondays.
-CH005-00990b	I sometimes drive to work, but not very often.
-CH006-01000b	She doesn’t drink tea.
-CH006-01010b	e doesn’t like his car.
-CH006-01020b	I drink tea, but I don’t drink coffee.
-CH006-01030b	Sue drinks coffee, but she doesn’t drink tea.
-CH006-01040b	You work very hard.
-CH006-01050b	We watch TV very often.
-CH006-01060b	The weather is usually bad.  It often rains.
-CH006-01070b	Sam and Chris know many people.
-CH006-01080b	I don’t like basketball.
-CH006-01090b	He likes football.
-CH006-01100b	I like Fred and  Fred likes me.
-CH006-01110b	My car uses much petrol.
-CH006-01120b	Sometimes he comes early, but it doesn’t happen very often.
-CH006-01130b	I like washing the car.  I do it very often.
-CH006-01140b	Sarah doesn't speak Spanish, but she speaks Italian.
-CH006-01150b	David does his job very well.
-CH006-01160b	Paula usually has breakfast.
-CH007-01170b	Do you play the piano?
-CH007-01180b	Do your friends work near here?
-CH007-01190b	Does Chris play football on Sundays?
-CH007-01200b	Does it alway hot here?
-CH007-01210b	Where do your parents work?
-CH007-01220b	How often do you wash your car?
-CH007-01230b	What do these words mean?
-CH007-01240b	How much does it cost to travel to Rome by a car?
-CH007-01250b	Does Chris always go shopping on Sundays?
-CH007-01260b	What do you usually do in the morning?
-CH007-01270b	‘What do you do?’     ‘I work in a hospital.’
-CH007-01280b	Does she like music?
-CH007-01290b	Does he like dogs?
-CH007-01300b	‘Do you play the guitar?’     ‘Yes, I do.’
-CH007-01310b	‘Do your parents speak Thai?’      ‘Yes, they do.’
-CH007-01320b	‘Does James work hard?’      ‘No, he doesn't.’
-CH007-01330b	‘Does your sister live in London?’      ‘Yes, she does.’
-CH008-01340b	Jack plays the guitar, and he is playing the guitar now.
-CH008-01350b	‘Is Jack playing the piano?’     ‘No, he isn’t.’    ‘Does he play the piano?’     ‘Yes, he does.’
-CH008-01360b	Please be quiet. I’m waching TV.
-CH008-01370b	Tom isn't having a shower at the moment.
-CH008-01380b	Take a raincoat with you. It’s raining.
-CH008-01390b	You can turn off the television. I’m going to bed.
-CH008-01400b	Why are you standing on the table? What are you doing?
-CH008-01410b	I sometimes work from 9 o’clock to 5.30.
-CH008-01420b	Tom has a shower every day.
-CH008-01430b	It doesn't rains in summer.
-CH008-01440b	I always watch TV.
-CH008-01450b	What do you usually do at Chrismas?
-CH008-01460b	I’m tired. I don't want to work.
-CH008-01470b	‘Do you know that girl?’     ‘No, I don’t.’
-CH008-01480b	I don’t understand. What does he mean?
-CH009-01490b	I have red hair.   or   I’ve got red hair.
-CH009-01500b	Tom has two brothers.   or   Tom has got two brothers.
-CH009-01510b	Our car has four wheels.   or   Our car has got four wheels.
-CH009-01520b	Sarah isn’t feeling well.  She has a backache.    or    She’s got a backache.
-CH009-01530b	They like animals.  They have a horse and three dogs
-CH009-01540b	I don’t have a bicycle.   or    I haven’t got a bicycle.
-CH009-01550b	They have two children.   or   They haven got two children.
-CH009-01560b	It’s a nice house, but it doesn’t have a pool.
-CH009-01570b	Amy doesn’t have a house at the moment. 
-CH009-01580b	‘Do you have a car?’     ‘Yes, I do.’   or   ‘Have you got a car?’     ‘Yes, I have.’
-CH009-01590b	‘Does Helen have a house?’      ‘No, she doesn't.’   or   ‘Has Helen got a house?’     ‘No, she hasn't.’
-CH009-01600b	What kind of phone does she have?   or  What kind of phone has she got?
-CH009-01610b	How many friends do they have?   or   How many friends have they got?
-CH010-01620b	Now Robert is at home.
-CH010-01630b	At noon yesterday he wasn’t at work.
-CH010-01640b	He wasn't in bed. He was awake.
-CH010-01650b	I am hungry.    I was hungry last night.
-CH010-01660b	Where is Kate?   Where was Kate last night?
-CH010-01670b	The weather is good today.    The weather was good last night.
-CH010-01680b	You are late.  You were late last night.
-CH010-01690b	They aren’t here.  They weren’t here last Monday.
-CH010-01700b	Last year Rachel was 32, so she is 33 now.
-CH010-01710b	When I was a child, I was scared of snakes.
-CH010-01720b	We were tired after the journey, but we weren’t hungry.
-CH010-01730b	The hotel wasn't  comfortable, but it was expensive.
-CH010-01740b	Was the weather nice when you were in Bangkok?
-CH010-01750b	Your shirt is nice. Was it expensive?
-CH010-01760b	Why were you late last night?
-CH010-01770b	‘Were you late?’     ‘Yes, I was’
-CH010-01780b	‘Was Tom at work yesterday?’      ‘No, he wasn't.’
-CH010-01790b	‘Were Sue and Steve at the party?’      ‘Yes, they were.’
-CH011-01800b	They watch TV every day.
-CH011-01810b	They read books yesterday evening.
-CH011-01820b	I read a book every morning. This morning I read a book.
-CH011-01830b	Terry worked in a factory from 2005 to 2011.
-CH011-01840b	Yesterday it rained all morning. It stopped at noon.
-CH011-01850b	We enjoyed the party yesterday. We danced a lot and talked to a lot of people. The party finished at 4 PM. 
-CH011-01860b	I usually get up late, but this morning I got up early.
-CH011-01870b	We didn't do a lot of work yesterday. 
-CH011-01880b	Caroline didn't go to the cinema last week.
-CH011-01890b	James came into the room, sat down and took off his coat.
-CH012-01900b	I don’t read a book very often.    I didn’t read a book yesterday. 
-CH012-01910b	Does she often go shopping?    Did she go shopping last week?
-CH012-01920b	I played tennis yesterday, and I won.
-CH012-01930b	‘Did you watch the movie?’   ‘No, I didn’t have time.’ 
-CH012-01940b	We went to the cinema, and we enjoyed the film. 
-CH012-01950b	Did your sister text you?
-CH012-01960b	What did you do yesterday?
-CH012-01970b	How did you come here?
-CH012-01980b	Where did your parents go last year?
-CH012-01990b	‘Did you see Joe yesterday?’       ‘Yes, I did.’
-CH012-02000b	‘Did it rain on Sunday?’       ‘No, it didn't.’
-CH012-02010b	‘Did Helen come to the party?’        ‘Yes, she did.’
-CH012-02020b	‘Did your parents have a good trip?’       ‘Yes, they did.’
-CH013-02030b	Paul is at home.    He is cooking.
-CH013-02040b	At 4 o’clock he wasn’t at home.    He was at the store.
-CH013-02050b	He was swimming in the pool.    He wasn’t reading a book.
-CH013-02060b	What were you doing at 11.30 yesterday?  Were you shopping?
-CH013-02070b	‘What did he do?’   ‘I don’t know.  I wasn’t looking at him.’
-CH013-02080b	It was raining, so we stayed there.
-CH013-02090b	In 2009 we were working in Canada.
-CH013-02100b	Today she’s wearing trouser, but yesterday she was wearing a skirt.
-CH013-02110b	I woke up early yesterday.  It was a terrible morning.  It was raining.
-CH013-02120b	I’m sitting.
-CH013-02130b	I was watching TV at 10.30 last night.
-CH013-02140b	It is raining.
-CH013-02150b	It wasn’t cold when we went out.
-CH013-02160b	Who are you talking with?
-CH013-02170b	Where were you at 3 o’clock?
-CH014-02180b	What happened?  There was an accident.
-CH014-02190b	What was Jack doing when his phone rang?    He was cooking a meal.
-CH014-02200b	What did he do when his phone rang?    He stopped cooking and answered his phone.
-CH014-02210b	A: What did you do yesterday morning?    B: We played football.
-CH014-02220b	A: What were you doing at 10.30?    B: We were playing football.
-CH014-02230b	Jack read a book last night.
-CH014-02240b	Jack was reading a book when there was a blackout.
-CH014-02250b	Did you watch the football match on TV last night?
-CH014-02260b	Were you cooking a meal when I phoned you?
-CH014-02270b	It rained while we were on holiday.
-CH014-02280b	It was raining when I got up.
-CH014-02290b	I started work at 9 o’clock and finished at 4.30. At 2.30 I was at work.
-CH014-02300b	It was raining when we got home.
-CH014-02310b	I saw Lucy and Steve yesterday.  They were waiting at the bus stop.
-CH014-02320b	Kelly fell asleep while she was watching TV.
-CH015-02330b	He has cleaned his house.
-CH015-02340b	They have been here.
-CH015-02350b	I’ve lost my wallet.
-CH015-02360b	‘Where’s Rebecca?’     ‘She’s gone out.’
-CH015-02370b	We’ve bought a new house.
-CH015-02380b	It’s Rachel’s birthday tomorrow and I haven’t bought her a birthday card.
-CH015-02390b	‘Bob has gone away.’     ‘Oh, where has he gone?’
-CH015-02400b	Can I take this magazine?  Have you finished with it?
-CH016-02410b	A:  Are Laura and Paul here?    B:  No, they haven't arrived yet.
-CH016-02420b	A:  Are you hungry?    B:  No, Yes, I am.
-CH016-02430b	A:  Is Tom here?    B:  Yes, he is in his office.
-CH016-02440b	A:  What time are Laura and Paul coming?    B: About 10 o'clock.
-CH016-02450b	It’s 9 o’clock and Anna hasn't stop working yet.
-CH016-02460b	A:  John, this is Emma.    B:  Hi, Emma. Nice to meet you.
-CH016-02470b	A:  Are Laura and Paul here?    B: Yes, they are.
-CH016-02480b	A:  Does James know that you’re going away?    B:  Yes, he does. 
-CH016-02490b	Silvia has bought a new book, but she hasn’t read it yet.
-CH016-02500b	A:  Have Laura and Paul arrived yet?    B:  No, not yet. They are on their way..
-CH016-02510b	A:  Has Nicola started her new job yet?    B:  Yes, she has.
-CH016-02520b	A:  This is my new sweater.    B:  Oh, it’s nice. Have you worn it yet?
-CH017-02530b	Have you been to Rome?    Yes, I have. Two times.
-CH017-02540b	Have you ever been to Japan?    Yes, I have. Many times.
-CH017-02550b	‘Have you been to France?’     ‘Yes, I have’
-CH017-02560b	I’ve been to Canada and the United States.  
-CH017-02570b	Mary is an interesting person.  She has had many different jobs and has travelled to many places.  
-CH017-02580b	I’ve seen that man before, but I can’t remember her name.
-CH017-02590b	How many times has Germany won the World Cup?
-CH017-02600b	‘Have you read this book?’     ‘No, never.’
-CH017-02610b	‘Has Ann ever been to Australia?’      ‘No, never.’
-CH017-02620b	‘Have you ever played golf?’      ‘No, never’ 
-CH017-02630b	My sister has ever travelled by plane. 
-CH017-02640b	I’ve never ridden a bicycle.
-CH017-02650b	‘Who is that man?’      ‘He is Steve. He lives near here.’  
-CH017-02660b	Where’s Ben?   He has gone off.
-CH017-02670b	Ben hasn't gone to Spain.
-CH017-02680b	Hello, Ben.    Hi. I’ve been to the meeting. I’ve been to Spain. 
-CH017-02690b	Ben hasn't been to Spain.
-CH017-02700b	I'm looking for Suran.  Where has she gone?
-CH017-02710b	Oh, hello Susan!  I couldn't find you.  Where have you been?
-CH018-02720b	How long has she worked in Ireland?
-CH018-02730b	She has stayed in Ireland since Monday.  
-CH018-02740b	Dan and Kate are married.    They have been married since 2010.
-CH018-02750b	Do you work here?    How long have you worked here? 
-CH018-02760b	Do you know Lisa?    Have you ever worked with here? 
-CH018-02770b	I know Lisa.    We’ve lived in the same flat for a long time.
-CH018-02780b	Vicky lives in London.    How long has she lived in London?    She has lived there since 2010. 
-CH018-02790b	I have a car.    How long have you had your car?   My father gave it to me in April.
-CH018-02800b	I’m learning German.    How long have you been learning German?    I’ve been learning German since last month.
-CH018-02810b	David is reading a book.    How long has he been watching TV?    He’s been reading a book  since 5 o’clock. 
-CH018-02820b	It’s raining.    It’s been raining all night. 
-CH019-02830b	Helen is in Ireland. She has been there since Monday. 
-CH019-02840b	Richard has studied in Canada for six months. 
-CH019-02850b	Richard has been in Canada for 6 months.
-CH019-02860b	We’ve been watching TV for two hours.
-CH019-02870b	They’ve been reading since 9 o’clock.
-CH019-02880b	I’ve worked  in London for a long time.
-CH019-02890b	I’ve lived in London for 10 years.
-CH019-02900b	Susan bought her new car three weeks ago. 
-CH019-02910b	‘When did Tom get home?’     ‘Ten minutes ago.’  
-CH019-02920b	I didn't have dinner.
-CH019-02930b	Education was very different a hundred years ago. 
-CH019-02940b	When did Helen arrive in Ireland?    She arrived in Ireland since Tuesday. 
-CH019-02950b	How long has she been in Ireland?    She has been in Ireland since she got her job.
-CH020-02960b	I didn't see Paula yesterday.
-CH020-02970b	Who were you with on Sunday morning?
-CH020-02980b	We  have a holiday last year. 
-CH020-02990b	‘Where were you do last night?’     ‘I stayed at home.’
-CH020-03000b	Isaac Newton lived from 1642 to 1726.  He was a physicist. He formulated the laws of motion. 
-CH020-03010b	Where did you buy your computer?
-CH020-03020b	Where did Andy go?
-CH020-03030b	I have sent the letter.
-CH020-03040b	I sent the letter last week.
-CH020-03050b	Ben hasn't gone home.
-CH020-03060b	Ben didn't go home.
-CH020-03070b	Haven't you see kate?
-CH020-03080b	Have you seen Kate since Saturday?
-CH020-03090b	Were you in Spain?
-CH020-03100b	Have you been in Spain since last year?
-CH020-03110b	My grandfather was a writer. He wrote many books. 
-CH020-03120b	Shakespeare  wasn't an inventer. He didn't invent anything.
-CH020-03130b	Sam hasn just phoned me.
-CH020-03140b	Sam hasn't phoned me since yesterday.
-CH020-03150b	We’ve lived in Singapore since 2010.
-CH020-03160b	We hasn't lived in Glasgow and now we live in Singapore.  
-CH021-03170b	Somebody doesn't clean the office every day.
-CH021-03180b	The office isn't cleaned every day.
-CH021-03190b	Somebody didn't clean the office yesterday. 
-CH021-03200b	The office wasn't cleaned yesterday.
-CH021-03210b	Cake is made from flour.
-CH021-03220b	Oranges aren't imported into Britain.
-CH021-03230b	When did these rooms be cleaned?
-CH021-03240b	I am always invited to parties.
-CH021-03250b	This house wasn't built 100 years ago.
-CH021-03260b	These houses weren't built 100 years ago.
-CH021-03270b	Who invented the telephone?
-CH021-03280b	We were invited to the party last week.
-CH021-03290b	‘Was anybody injured in the accident?’     ‘No-one was injured’
-CH021-03300b	I wasn't born in Berlin.
-CH021-03310b	‘When were you born?’      ‘In 1990.’
-CH021-03320b	Alexander Bell invented the telephone in 1876. 
-CH021-03330b	I wasn't bitten by a dog a few days ago. 
-CH021-03340b	Do you like these paintings? A friend of mine painted them. 
-CH022-03350b	The door is being painted.
-CH022-03360b	Somebody is painting the door.
-CH022-03370b	My car is at the garage. The mechanic is repairing it.
-CH022-03380b	People are building houses opposite the park. 
-CH022-03390b	The office is cleaned every day but it isn't being cleaned at the moment.   
-CH022-03400b	Football matches are often played at the weekend and may matches are being played next weekend.  
-CH022-03410b	Somebody hasn't painted the door.
-CH022-03420b	The door hasn't been painted.
-CH022-03430b	My key hasn't been stolen.
-CH022-03440b	My keys haven't been stolen.
-CH022-03450b	I’m going to the party. I have just been invited.
-CH022-03460b	This shirt has been washed.
-CH022-03470b	The room is still dirty.  It hasn't been cleaned. 
-CH022-03480b	I can’t find my keys. I think Steve have had them.  They were taken last week. 
-CH023-03490b	Please be quiet.  I’m listening to the radio.
-CH023-03500b	It isn’t cold at the moment.
-CH023-03510b	What are you reading this evening?
-CH023-03520b	I was working when she phoned me.
-CH023-03530b	It wasn’t cold, so we didn’t need any sweaters.
-CH023-03540b	Where were you at 3 o’clock?
-CH023-03550b	I was invited to paties.
-CH023-03560b	Cake are made from flour.
-CH023-03570b	These offices are cleaned every day. 
-CH023-03580b	The office wasn't cleaned yesterday.
-CH023-03590b	Were these houses built 100 years ago?
-CH023-03600b	When was the window broken?
-CH023-03610b	When were you born?
-CH023-03620b	I haven't cleaned my room yet.
-CH023-03630b	Tom didn't lose his passport.
-CH023-03640b	Kate has been to Canada.
-CH023-03650b	Where have Paul and Emma been?
-CH023-03660b	I don't like coffee and tea.
-CH023-03670b	Chris oftent go out.
-CH023-03680b	What do you usually do at home?
-CH023-03690b	Does Sam work alone?
-CH023-03710b	It didn’t rain last night.
-CH023-03700b	I watched TV yesterday.
-CH023-03720b	Where did Paul and Emma go ?
-CH024-03730b	I din't clean my room yesterday.
-CH024-03740b	Chris didn't study engineering at university.
-CH024-03750b	I haven't cleaned my room.
-CH024-03760b	Has Tima lived in London for ten years?
-CH024-03770b	Are these rooms are cleaned every day?
-CH024-03780b	My car has been repaired yet.
-CH024-03790b	I didn't make a cake yesterday.
-CH024-03800b	I haven't made some coffee yet.
-CH024-03810b	Cars is made from iron.
-CH024-03820b	Nobody broke this window last night.
-CH024-03830b	Somebody hasn't broken this window yet.
-CH024-03840b	This window wasn't broken last night
-CH025-03850b	They are playing tennis.
-CH025-03860b	He isn't playing tennis tomorrow.
-CH025-03870b	‘Are Tina and Helen going swimming?’    ‘No, they’re playing tennis in the park.’ 
-CH025-03880b	Please be quiet.  I’m reading.
-CH025-03890b	Andrew isn't playing tennis tomorrow.
-CH025-03900b	I’m working next week.
-CH025-03910b	Sophie is going to the doctor on Friday.   she has an appointment with the doctor
-CH025-03920b	We’re not having a party next Friday.
-CH025-03930b	I am meeting my friends tonight.
-CH025-03940b	Are you watching TV tomorrow moring?
-CH025-03950b	I’m going out tonight.  I’m seeing my friend. 
-CH025-03960b	I’m not staying at home this evening. 
-CH025-03970b	I am going out tonight.
-CH025-03980b	Lisa is coming to the party next week. 
-CH025-03990b	The train didn't arrive.
-CH025-04000b	What time does the film start?
-CH025-04010b	I’m not going to a concert tomorrow.
-CH025-04020b	The concert started at 7.30.
-CH025-04030b	What time did you leave?
-CH025-04040b	What time does your train arrive?
-CH026-04050b	She isn't  going to watch TV this evening.
-CH026-04060b	I’m not going to buy any books tomorrow.
-CH026-04070b	Sarah isn't going to sell her car.
-CH026-04080b	I’m going to have breakfast this morning.  I’m  hungry.
-CH026-04090b	Are you going to wear  a blue suit  at the wedding next week?
-CH026-04100b	‘Your shoes are dirty.’    ‘Yes, I know.  I’m going to wash them.’
-CH026-04110b	I'm going to invite Mark to my party.
-CH026-04120b	I am not playing tennis with Julia tomorrow. 
-CH026-04130b	Look at that man!  He's going to fall down.
-CH026-04140b	Oh dear!  It’s 8 o’clock and I’m ready. I’m not going to be late.
-CH027-04150b	It is 7 o’clock now.  Sarah isn't at work.
-CH027-04160b	At 11 o’clock yesterday, Sarah wasn't at work. 
-CH027-04170b	At 11 o’clock tomorrow, Sarah won't be at work. 
-CH027-04180b	Sue travels a lot.  Today she is in Madrid.  Tomorrow she’ll be in Rome. Next week she’ll be in London. 
-CH027-04190b	Don't call me this evening.  I won't  be at home.
-CH027-04200b	Leave your money on the table.  The waiter will take it..
-CH027-04210b	We probably  won't go out this evening. 
-CH027-04220b	I won't be at home this evening?
-CH027-04230b	I will be here tomorrow.
-CH027-04240b	Don’t drive the car too fast. You may have an accident.
-CH027-04250b	I don't think Kelly will pass the exam.
-CH027-04260b	I think it will rain this afternoon.
-CH027-04270b	I think the exam will be difficult. 
-CH027-04280b	We’re not going to the cinema on Saturday.  We are going to the beach.
-CH027-04290b	I’m working tomorrow.
-CH027-04300b	I am going to do the exam.
-CH027-04310b	I shan't be late tomorrow.   or   I won't be late tomorrow.
-CH027-04320b	I don't think we shall win.   or   I don't think we will  win.
-CH027-04330b	Tom won't be late.
-CH028-04340b	My bag isn't  heavy.    You needn't help me.
-CH028-04350b	‘I’ll phone you tomorrow, OK?’     ‘Sorry, I'm busy. Could you phone me tonigh?’
-CH028-04360b	I’m not tired.  I think I’ll read a book tonight.
-CH028-04370b	It’s a terrible day.  I don't think I’ll sit outside.
-CH028-04380b	It’s raining.  I think I’ll stay home.
-CH028-04390b	I won't phone you tomorrow.
-CH028-04400b	I don't think I’ll go to bed early.
-CH028-04410b	Are yo working tomorrow?
-CH028-04420b	I still use my car.  I’m not going to sell it. 
-CH028-04430b	Where are you going at the weekend?
-CH028-04440b	A: That’s the doorbell.  Shall I go?   B: Of course, thank you.
-CH028-04450b	It’s very cold in this room.  Shall I close the window?
-CH028-04460b	‘Shall I phone you this evening?’      ‘Sorry, I'm busy. Can you call me next morning?’
-CH028-04470b	I’m going to a party tonight.  Would you like to come with me?
-CH028-04480b	It’s a nice day.  Shall we go out tonight?
-CH028-04490b	Shall we go for our holidays this year?
-CH028-04500b	‘Let’s go to see a movie this evening.’      ‘OK, what time shall we meet?’
-CH029-04510b	He might not go to New York.
-CH029-04520b	It might not rain.
-CH029-04530b	I might not go to the cinema this evening because I'm quite busy.. 
-CH029-04540b	A:  "Who is Rebecca going to phone?    B:  I don’t know.  It might be Steve.  
-CH029-04550b	You don't have to take an umbrella.  It isn't going to rain.
-CH029-04560b	Don't buy a lottery ticket. It's very expensive.
-CH029-04570b	A:  Would you like to go to the party tonight?    B : I might.
-CH029-04580b	I’m not playing tennis tomorrow. I might not play tennis tomorrow. 
-CH029-04590b	Rebecca isn't  going to phone.   Rebecca might not phone . 
-CH029-04600b	I might go to work tomorrow.
-CH029-04610b	Sue might come to the party.
-CH029-04620b	I may not go to the cinema this evening.
-CH029-04630b	Sue may come to the party.
-CH029-04640b	I may ask you a question.
-CH029-04650b	‘May I sit here?’     ‘Sorry, this is David's.’
-CH030-04660b	He can't play the piano.
-CH030-04670b	I can play the piano but myy brother can't.
-CH030-04680b	Sarah can speak both Italian and Spanish.  
-CH030-04690b	A:  Can you swim?    B:  Yes, I’m also a very good swimmer.
-CH030-04700b	A:  Can you change twenty pounds?    B:  Of course. How do you want it?
-CH030-04710b	I’m having a party next week, and Paul and Rachel can come.  
-CH030-04720b	When I was young, I could swim very fast.
-CH030-04730b	Before Maria came to Britain, she couldn’t read much English.  Now she can read everything.
-CH030-04740b	I was tired last night, and I  I slept well.
-CH030-04750b	Did Paul and Rachel came to your party last week? No, they couldn't come. 
-CH030-04760b	Can you open the window, please?    or   Could you open the window, please?
-CH030-04770b	Can you sit here, please?      or     Could you sit here please?
-CH030-04780b	Can I have a glass of wine, please?    or   Can I get a glass of wine?
-CH030-04790b	Can I sleep here?
-CH030-04800b	Tom, could I borrow your pen?
+0016	你 忙 吗？
+0017	很 忙
+0018	汉语难吗?
+0019	不太难
+0020	忙
+0021	吗
+0022	很
+0023	汉语
+0024	难
+0025	太
+0026	爸爸
+0027	妈妈
+0028	他
+0029	她
+0030	男
+0031	哥哥
+0032	弟弟
+0033	妹妹
+0034	大吗？
+0035	难吗？
+0036	很好
+0037	很大
+0038	很难
+0039	你好吗？很好。
+0040	你忙吗？很忙。
+0041	汉语难吗？汉语不难
+0042	你爸爸好吗？很好
+0043	他忙吗？不忙。
+0044	你学英语吗？不学汉语。
+0045	去北京吗？对。
+0046	你去邮局寄信吗？不去。去银行取钱。
+0047	明天见！
+0048	学
+0049	英语
+0050	阿拉伯语
+0051	德语
+0052	俄语
+0053	法语
+0054	韩国语
+0055	日语
+0056	西班牙语
+0057	对
+0058	明天
+0059	见
+0060	去
+0061	邮局
+0062	寄
+0063	信
+0064	银行
+0065	取
+0066	钱
+0067	六
+0068	七
+0069	九
+0070	北京
+0071	今天星期几？今天星期二。
+0072	你去哪？我去天安门，你去不去？不去，我回学校
+0073	再见！
+0074	对不起！没关系！
+0075	今天
+0076	天
+0077	昨天
+0078	星期
+0079	星期一
+0080	星期二
+0081	星期三
+0082	星期四
+0083	星期五
+0084	星期六
+0085	星期天
+0086	几
+0087	二
+0088	三
+0089	四
+0090	哪
+0091	那
+0092	我
+0093	้回
+0094	学校
+0095	再见
+0096	对不起
+0097	没关系
+0098	天安门

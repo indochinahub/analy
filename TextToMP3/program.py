@@ -13,10 +13,13 @@ result_file = open('result.txt', encoding='utf-8', mode='w')
 for line in source_file :
     line = line.strip()
     splitLine = line.split("\t")
+	
     #tts = gTTS(text=splitLine[1], lang='zh-cn')    
     #tts.save("CH01-"+splitLine[0].strip()+".mp3" )
+	
     tts = gTTS(text=splitLine[1], lang='en')    
     tts.save("EN006-"+splitLine[0].strip()+".mp3" )    
+	
     print( splitLine )
 
 # Lang = vi, ja, en,km, zh-cn    
@@ -31,4 +34,3 @@ for line in source_file :
 # tts.save("VN111-"+splitLine[0].strip()+".mp3" )
 # tts.save("KH206-"+splitLine[0].strip()+".mp3" )
 # tts.save("NF003-"+splitLine[0].strip()+".mp3" )
-

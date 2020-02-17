@@ -16,20 +16,20 @@ for line in source_file :
     word = line_texts[0]
     
     #result_file.write( word + '\n' )
-    line_texts[1] = line_texts[1].replace("(1)"," ")
-    line_texts[1] = line_texts[1].replace("(2)"," ")
-    line_texts[1] = line_texts[1].replace("(3)"," ")
-    line_texts[1] = line_texts[1].replace("(4)"," ")
-    line_texts[1] = line_texts[1].replace("(5)"," ")
-    line_texts[1] = line_texts[1].replace("(6)"," ")
-    line_texts[1] = line_texts[1].replace("(7)"," ")
-    line_texts[1] = line_texts[1].replace("(8)"," ")
-    line_texts[1] = line_texts[1].replace("(9)"," ")
-    line_texts[1] = line_texts[1].replace("(10)"," ")
-    line_texts[1] = line_texts[1].replace("(11)"," ")
-    line_texts[1] = line_texts[1].replace("(12)"," ")
-    line_texts[1] = line_texts[1].replace("(13)"," ")
-    line_texts[1] = line_texts[1].replace("(14)"," ")
+    #line_texts[1] = line_texts[1].replace("(1)"," ")
+    #line_texts[1] = line_texts[1].replace("(2)"," ")
+    #line_texts[1] = line_texts[1].replace("(3)"," ")
+    #line_texts[1] = line_texts[1].replace("(4)"," ")
+    #line_texts[1] = line_texts[1].replace("(5)"," ")
+    #line_texts[1] = line_texts[1].replace("(6)"," ")
+    #line_texts[1] = line_texts[1].replace("(7)"," ")
+    #line_texts[1] = line_texts[1].replace("(8)"," ")
+    #line_texts[1] = line_texts[1].replace("(9)"," ")
+    #line_texts[1] = line_texts[1].replace("(10)"," ")
+    #line_texts[1] = line_texts[1].replace("(11)"," ")
+    #line_texts[1] = line_texts[1].replace("(12)"," ")
+    #line_texts[1] = line_texts[1].replace("(13)"," ")
+    #line_texts[1] = line_texts[1].replace("(14)"," ")
     
     line_texts[1] = line_texts[1].replace(";","::")    
     line_texts[1] = line_texts[1].replace("U.S.","US ")    
@@ -97,9 +97,11 @@ for line in source_file :
     line_texts[1] = line_texts[1].replace("etc.", "etc ")
 
     
-    exampleSentences = line_texts[1].split(".")
+    EnExampleSentences = line_texts[1].split(".")
+    print(line_texts[1] + "xxx" + line_texts[2] + "\n")
     
-    for sentence in exampleSentences:
+    
+    for sentence in EnExampleSentences:
         
         
         sentence = sentence.strip()
