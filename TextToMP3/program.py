@@ -18,7 +18,7 @@ for line in source_file :
     #tts.save("CH01-"+splitLine[0].strip()+".mp3" )
 	
     tts = gTTS(text=splitLine[1], lang='en')    
-    tts.save("EN006-"+splitLine[0].strip()+".mp3" )    
+    tts.save("EN01-4000words-"+splitLine[0].strip()+".mp3" )    
 	
     print( splitLine )
 
