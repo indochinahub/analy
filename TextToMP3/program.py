@@ -15,10 +15,10 @@ for line in source_file :
     splitLine = line.split("\t")
 	
     #tts = gTTS(text=splitLine[1], lang='zh-cn')    
-    #tts.save("CH01-"+splitLine[0].strip()+".mp3" )
+    #tts.save(""+splitLine[0].strip()+".mp3" )
 	
     tts = gTTS(text=splitLine[1], lang='en')    
-    tts.save("EN01-4000words-"+splitLine[0].strip()+".mp3" )    
+    tts.save(""+splitLine[0].strip()+".mp3" )
 	
     print( splitLine )
 

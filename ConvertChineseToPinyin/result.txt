@@ -1,60 +1,5 @@
-nǐ   máng   ma ？
-hěn   máng
-hàn yǔ nán ma ?
-bù tài nán
-máng
-ma
-hěn
-hàn yǔ
-nán
-tài
-bà bà
-mā mā
-tā
-tā
-nán
-gē gē
-dì dì
-mèi mèi
-dà ma ？
-nán ma ？
-hěn hǎo
-hěn dà
-hěn nán
-nǐ hǎo ma ？ hěn hǎo 。
-nǐ máng ma ？ hěn máng 。
-hàn yǔ nán ma ？ hàn yǔ bù nán
-nǐ bà bà hǎo ma ？ hěn hǎo
-tā máng ma ？ bù máng 。
-nǐ xué yīng yǔ ma ？ bù xué hàn yǔ 。
-qù běi jīng ma ？ dùi 。
-nǐ qù yóu jú jì xìn ma ？ bù qù 。 qù yín xíng qǔ qián 。
-míng tiān jiàn ！
-xué
-yīng yǔ
-ā lā bó yǔ
-dé yǔ
-é yǔ
-fǎ yǔ
-hán guó yǔ
-rì yǔ
-xī bān yá yǔ
-dùi
-míng tiān
-jiàn
-qù
-yóu jú
-jì
-xìn
-yín xíng
-qǔ
-qián
-lìu
-qī
-jǐu
-běi jīng
 jīn tiān xīng qī jī ？ jīn tiān xīng qī èr 。
-nǐ qù nǎ ？ wǒ qù tiān ān mén ， nǐ qù bù qù ？ bù qù ， wǒ húi xué xiào
+nǐ qù nǎ ér ？ wǒ qù tiān ān mén ， nǐ qù bù qù ？ bù qù ， wǒ húi xué xiào
 zài jiàn ！
 dùi bù qǐ ！ méi guān xì ！
 jīn tiān
@@ -72,8 +17,8 @@ jī
 èr
 sān
 sì
-nǎ
-nà
+nǎ ér
+nà ér
 wǒ
 ้ húi
 xué xiào
@@ -81,3 +26,237 @@ zài jiàn
 dùi bù qǐ
 méi guān xì
 tiān ān mén
+zhè shì wáng lǎo shī ， zhè shì wǒ bà bà 。
+wáng lǎo shī ， nín hǎo ！
+nín hǎo ！ qǐng jìn ！ qǐng zuò ！ qǐng hē chá ！
+xiè xiè ！ bù kè qì ！
+gōng zuò máng ma ？   bù tài máng 。
+shēn tǐ hǎo ma ？ hěn hǎo 。
+zhè
+shì
+lǎo shī
+nín
+qǐng
+jìn
+zuò
+hē
+chá
+xiè xiè
+bù kè qì
+kè qì
+gōng zuò
+shēn tǐ
+shí
+rì
+wáng
+yī
+èr
+sān
+sì
+wǔ
+lìu
+qī
+bā
+jǐu
+shí
+mài kè
+zhāng dōng
+qǐng wèn ， nǐ gùi xìng ？ wǒ xìng zhāng 。
+nǐ jiào shí yāo míng zì ？ wǒ jiào zhāng dōng 。
+nǐ shì nǎ guó rén ？ wǒ shì zhōng guó rén
+wǒ shì měi guó rén 。
+nǐ xué xí shí yāo ？
+wǒ xué xí hàn yǔ
+hàn yǔ nán ma ？ hàn zì hěn nán ， fā yīn bù tài nán 。
+zhè shì shí yāo ？ zhè shì shū 。
+zhè shì shí yāo shū ？ zhè shì zhōng wén shū 。
+zhè shì shúi de shū ？ zhè shì lǎo shī de shū 。
+nà shì shí yāo ？ nà shì zá zhì 。
+nà shì shí yāo zá zhì ？ nà shì yīng wén zá zhì 。
+nà shì shúi de zá zhì ？ nà shì wǒ péng yǒu de zá zhì 。
+qǐng wèn
+wèn
+gùi xìng
+xìng
+jiào
+míng zì
+nǎ
+guó
+zhōng guó
+dé guó
+é guó
+fǎ guó
+hán guó
+měi guó
+rì běn （ guó ）
+yīng guó
+rén
+xué xí
+hàn zì
+fā yīn
+shí yāo
+shū
+shúi
+de
+nà
+zá zhì
+. . .   wén
+zhōng wén
+ā lā bó wén
+dé wén
+é wén
+fǎ wén
+hán wén
+rì wén
+xī bān yá wén
+yīng wén
+péng yǒu
+wáng
+zhāng
+tián
+wěi guó
+dōng
+fāng
+zhōng wǔ nǐ qù nǎ ér chī fàn ？ wǒ qù shí táng 。
+nǐ chī shí mo ？ wǒ chī mán tóu 。
+nǐ yào jī gè ?   yī gè 。
+nǐ chī mán tóu ma ？ bù chī   ， wǒ chī mǐ fàn 。
+nǐ hē shí yāo ？ wǒ yào yī wǎn jī dàn tāng 。 nǐ hē mǎ ？
+nǐ hē jī dàn tāng ma ？ bù hē ， wǒ hē pí jǐu 。
+zhè xiē shì shí yāo ？   zhè shì jiǎo zǐ ， zhè shì bāo zǐ ， nà shì miàn tiáo 。
+zhōng wǔ
+chī
+fàn
+shí táng
+mán tóu
+mǐ fàn
+mǐ
+yào
+gè
+wǎn
+jī dàn
+jī
+dàn
+tāng
+pí jǐu
+jǐu
+zhè xiē
+xiē
+yī xiē
+nà xiē
+jiǎo zǐ
+bāo zǐ
+miàn tiáo
+mǎ lì
+kuài zǐ
+cí diǎn
+diàn nǎo
+sǎn
+qí chē
+diàn shì
+lù yīn jī
+shǒu jī
+nǐ mǎi shí yāo ？ wǒ mǎi shǔi guǒ 。
+píng guǒ yī jīn duō shǎo qián ？ sān kuài 。
+sān kuài ？ tài gùi le 。 liǎng kuài wǔ bā 。
+nǐ yào jī jīn ？ wǒ mǎi wǔ jīn 。
+huán yào bié de ma ？
+jié zǐ zěn yāo mài ？ liǎng kuài 。
+yào liǎng jīn 。
+yī gòng duō shǎo qián ？ yī gòng shí lìu kuài wǔ （ máo ） 。 nǐ gěi shí lìu kuài ba 。
+gěi nǐ qián 。
+zhè shì wǔ shí ， zhǎo nín sān shí sì kuài 。
+mǎi
+shǔi guǒ
+píng guǒ
+jīn
+gōng jīn
+gùi
+le
+bā
+duō shǎo
+duō
+shǎo
+kuài （ yuán ）
+jiǎo （ máo ）
+fēn
+huán
+bié de
+jié zǐ
+zěn yāo
+mài
+liǎng
+yī gòng
+gěi
+zhǎo
+xiàng xiáo
+pú táo
+xī guā
+lì
+táo
+cǎo méi
+xià wǔ wǒ qù tú shū guǎn ， nǐ qù bù qù ？ wǒ bù qù 。
+wǒ yào qù yín xíng huàn qián 。
+xiǎo jiě ， wǒ huàn qián 。
+nín huàn shí yāo qián ？
+wǒ huàn rén mín bì 。
+huàn duō shǎo ？
+èr bǎi měi yuán 。
+qǐng děng yī hùi ér 。 。 。
+xiān shēng ， gěi nín qián 。
+qǐng shù shù 。
+dùi le 。 xiè xiè ！
+bù kè qì ！
+xià wǔ
+shàng wǔ
+tú shū guǎn
+yào
+huàn xiǎo jiě
+xiǎo jiě
+yíng yè yuán
+rén mín bì
+rén mín
+bǎi
+qiān
+wàn
+měi yuán
+gǎng bì
+rì yuán
+ōu yuán
+děng
+yī hùi ér
+xiān shēng
+shù
+qǐng wèn ， zhè shì bàn gōng shì ma ？ shì 。 nǐ zhǎo shúi ？
+wáng lǎo shī zài ma ？
+wǒ shì tā de xué shēng 。
+tā bù zài 。
+tā zài jiā ní 。
+tā zhù shí bā lóu yī mén ， fáng jiān hào shì lìu líng yī 。
+nín zhī dào tā de diàn huà hào mǎ ma ？
+zhī dào ， lìu ér jǐu sān yī líng qī sì 。
+tā de shǒu jī hào mǎ shì duō shǎo ？
+bù zhī dào 。
+xiè xiè nín 。
+bù kè qì 。
+bàn gōng shì
+bàn gōng
+zhí yuán
+zhǎo
+zài
+jiā
+ní
+zhù
+lóu
+mén
+fáng jiān
+hào
+zhī dào
+diàn huà
+diàn
+huà
+hào mǎ
+líng
+shǒu jī
+shǒu
+lǐ chāng hào
