@@ -1,2 +1,3 @@
-00170	All passengers aboard fell into the river.
-00171	A limited menu is available aboard the train, but a nice bottle of vin rouge and a simple picnic hamper will enhance your Orient:Express fantasy.
+01850	Bạn muốn kinh doanh như thế nào?
+02370	mười, hai mươi
+02300	mười

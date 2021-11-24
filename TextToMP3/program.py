@@ -17,12 +17,12 @@ for line in source_file :
     #tts = gTTS(text=splitLine[1], lang='zh-cn')    
     #tts.save(""+splitLine[0].strip()+".mp3" )
 	
-    tts = gTTS(text=splitLine[1], lang='en')    
+    tts = gTTS(text=splitLine[1], lang='vi')
     tts.save(""+splitLine[0].strip()+".mp3" )
 	
     print( splitLine )
 
-# Lang = vi, ja, en,km, zh-cn    
+# Lang = vi, ja, en,km, zh-cn, ko  
 # tts.save("HellonWheel-"+splitLine[0].strip()+".mp3" )
 # tts.save("GOT-"+splitLine[0].strip()+".mp3" )
 # tts.save("VN201T-"+splitLine[0].strip()+".mp3" )
