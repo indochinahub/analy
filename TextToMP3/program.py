@@ -27,7 +27,7 @@ for line in source_file :
 # tts.save("GOT-"+splitLine[0].strip()+".mp3" )
 # tts.save("VN201T-"+splitLine[0].strip()+".mp3" )
 # tts.save("VN109T-words-"+splitLine[0].strip()+".mp3" )
-# tts.save("KH112T-words-"+splitLine[0].strip()+".mp3" )
+# tts.save("KH112T-words-"+splitLine[0].cmdstrip()+".mp3" )
 # tts.save("KH202T-ReadingPractice-"+splitLine[0].strip()+".mp3") สำหรับหนังสือหลักการอ่าน
 # tts.save("KH202T-Reading-"+splitLine[0].strip()+".mp3")
 # tts.save("KH205T-"+splitLine[0].strip()+".mp3" )
