@@ -13,24 +13,15 @@ result_file = open('result.txt', encoding='utf-8', mode='w')
 for line in source_file :
     line = line.strip()
     splitLine = line.split("\t")
+    
+    text_id = splitLine[0]
+    text = splitLine[1]
+    
+    text = text.replace("[newline]"," ")
 	
-    #tts = gTTS(text=splitLine[1], lang='zh-cn')    
-    #tts.save(""+splitLine[0].strip()+".mp3" )
-	
-    tts = gTTS(text=splitLine[1], lang='vi')
+    # Lang = vi, ja, en,km, zh-cn, ko  
+    tts = gTTS(text , lang='vi')
     tts.save(""+splitLine[0].strip()+".mp3" )
 	
-    print( splitLine )
+    print( text_id + "\t" + text )
 
-# Lang = vi, ja, en,km, zh-cn, ko  
-# tts.save("HellonWheel-"+splitLine[0].strip()+".mp3" )
-# tts.save("GOT-"+splitLine[0].strip()+".mp3" )
-# tts.save("VN201T-"+splitLine[0].strip()+".mp3" )
-# tts.save("VN109T-words-"+splitLine[0].strip()+".mp3" )
-# tts.save("KH112T-words-"+splitLine[0].cmdstrip()+".mp3" )
-# tts.save("KH202T-ReadingPractice-"+splitLine[0].strip()+".mp3") สำหรับหนังสือหลักการอ่าน
-# tts.save("KH202T-Reading-"+splitLine[0].strip()+".mp3")
-# tts.save("KH205T-"+splitLine[0].strip()+".mp3" )
-# tts.save("VN111-"+splitLine[0].strip()+".mp3" )
-# tts.save("KH206-"+splitLine[0].strip()+".mp3" )
-# tts.save("NF003-"+splitLine[0].strip()+".mp3" )

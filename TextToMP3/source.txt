@@ -1,5 +1,2 @@
-04730	Ai gõ cửa đó? Ai gõ cửa vậy?
-04720	Jenny đang đi đâu đó? Jenny đang đi đâu vậy?
-04700	số mấy
-04620	đó?, vậy?
-04530	Dạ, có. Xin bác nhắc Thùy Dương gọi điện thoại cho cháu.
+00030	Chào anh. anh tên là gì?
+00040	Tôi tên là Hùng.[newline]Rất vui được gặp chị.
