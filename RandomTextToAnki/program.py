@@ -9,36 +9,28 @@ source_file = open('source.txt', encoding='utf-8', mode='r')
 result_file = open('result.txt', encoding='utf-8', mode='w')
 
 def RandText( mytext) :
+
+    mytext = mytext.replace("[newline]", "\t")
+
     randText = ""
-    RANDOM_VALUE = 40
+    RANDOM_VALUE = 70
     
-    #ต้องการหาตัวอักษรแรกสุด เพื่อให้เป็น * เสมอ
-    j = 0 
-    #ป้องกันไม่ใช้สุ่มตัวอักษรติดกัน
-    k = 0 
     for charactor in mytext :
         # เช็คว่าเป็นตัวอักษรหรือไม่
         if charactor.isalpha() :
-            if j == 0 :
-                    randText = randText  + "*"
-                    j = 1
-                    k = 1
-            elif  random.randint(0,100) >= RANDOM_VALUE :
+            if  random.randint(0,100) >= RANDOM_VALUE :
                 print ("the same char")
                 randText = randText  +  charactor
             else :
-                if k == 0 :
-                    print ("the new char")        
-                    randText = randText  + "*"
-                    k = 1
-                else :
-                    randText = randText  +  charactor
-                    k = 0
+                print ("the new char")        
+                randText = randText  + "*"
                 
         # กรณีเป็นสัญลักษณ์อื่นๆ 
         else :
             randText = randText  +  charactor
-                
+          
+    randText = randText.replace("\t", "[newline]")
+          
     return randText ;
 
 
@@ -51,6 +43,9 @@ for line in source_file :
     line = line.replace(";", "::")
     line = line.replace("Mr.", "Mr")
     line = line.replace("Mrs.", "Mrs")
+    line = line.replace("Mrs.", "Mrs")
+    
+    
     
     if not line == '' :
         sentences = []
@@ -63,7 +58,7 @@ for line in source_file :
                 pass
             else :
                 j = j + 1
-                result_file.write ( RandText ( i ) +"\n")
+                result_file.write ( "["+ RandText( i ) +"]\n")
                 
 #        for sentence in sentences :
 #            result_file.write( "xxx" + '\n')    
