@@ -15,19 +15,25 @@ def RandText( mytext) :
     randText = ""
     #RANDOM_VALUE = 50
     
+    interval = 10
     i = 1
     for charactor in mytext :
         # เช็คว่าเป็นตัวอักษรหรือไม่
         if charactor.isalpha() :
-            if  i == 1 :
+
+            if i == 2 :
+                print ("the new char")        
+                randText = randText  + "*"
+                i = i + 1		
+            elif  i != interval :
                 print ("the same char")
                 randText = randText  +  charactor
-                i = 0
+                i = i + 1
             else :
                 print ("the new char")        
                 randText = randText  + "*"
                 i = 1
-                
+
         # กรณีเป็นสัญลักษณ์อื่นๆ 
         else :
             randText = randText  +  charactor
