@@ -24,4 +24,6 @@ for line in source_file :
     tts.save(""+splitLine[0].strip()+".mp3" )
 	
     print( text_id + "\t" + text )
+    
+    time.sleep(2)
 
