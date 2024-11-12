@@ -18,7 +18,6 @@ sum_mp3b = AudioSegment.empty()
 sum_mp3ab = AudioSegment.empty()
 silence = AudioSegment.silent( duration= 500)
 
-
 sum_text_a  = ""
 sum_text_b  = ""
 paragraph_seperator = "\n.\n"
@@ -33,10 +32,15 @@ for line in source_file :
     
     # For a
     language_a = splitLine[1]
-    text_a = splitLine[2]    
-    tts = gTTS(text_a , lang= language_a )
+    text_a = splitLine[2].strip()
     filename_a = text_id.strip() +"a.mp3" 
-    tts.save( filename_a )
+
+    if text_a == 'xxxx' :
+        silence.export(out_f = filename_a,   format = "mp3")
+    else : 
+        tts = gTTS(text_a , lang= language_a )
+        tts.save( filename_a )
+
     mp3a = AudioSegment.from_file(file = filename_a, format = "mp3") 
     sum_mp3a = sum_mp3a + silence + mp3a
     sum_text_a  = sum_text_a + paragraph_seperator + text_a
@@ -44,12 +48,17 @@ for line in source_file :
     # For b    
     if b_sound ==  True :
         language_b = splitLine[3]
-        text_b = splitLine[4]    
-        tts = gTTS(text_b , lang= language_b )
+        text_b = splitLine[4].strip()
         filename_b = text_id.strip() +"b.mp3" 
-        tts.save( filename_b )
+
+        if text_b == 'xxxx' :
+            silence.export(out_f = filename_b,   format = "mp3")
+        else : 
+            tts = gTTS(text_b , lang= language_b )
+            tts.save( filename_b )
+
         mp3b = AudioSegment.from_file(file = filename_b, format = "mp3") 
-        sum_mp3b = sum_mp3b + silence + sum_mp3b
+        sum_mp3b = sum_mp3b + silence + mp3b
         sum_text_b  = sum_text_b + paragraph_seperator + text_b
         # For ab
         sum_mp3ab = sum_mp3ab + silence  + mp3a + silence  + mp3b

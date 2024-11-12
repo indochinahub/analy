@@ -1,2 +1,4 @@
 00010	en	Chapter 1 Early Cambodian History	th	บทที่ 1 ประวัติศาสตร์กัมพูชายุคแรก
-00020	en	Topic Government and Society of Early Cambodia	th	หัวข้อ  รัฐบาลและสังคมของกัมพูชายุคต้น
+00020	en	Topic: Government and Society of Early Cambodia	th	หัวข้อ : รัฐบาลและสังคมของกัมพูชายุคต้น
+00030	en	This is blank.	th	xxxx
+00040	en	This is a book.	th	นี่คือหนังสือ
