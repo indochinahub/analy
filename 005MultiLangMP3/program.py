@@ -69,7 +69,7 @@ for line in source_file :
     else:
         print( filename_a + "\t" + text_a)
     
-    time.sleep(2)
+    time.sleep(1)
     
 result_file.write (sum_text_a + sum_text_b)
 result_file.close()
