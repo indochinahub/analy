@@ -11,7 +11,7 @@ import time
 source_file = open('source.txt', encoding='utf-8', mode='r')
 result_file = open('result.txt', encoding='utf-8', mode='w')
 
-b_sound = True
+b_sound = False
 
 sum_mp3a = AudioSegment.empty()
 sum_mp3b = AudioSegment.empty()
@@ -20,7 +20,9 @@ silence = AudioSegment.silent( duration= 500)
 
 sum_text_a  = ""
 sum_text_b  = ""
-paragraph_seperator = "\n.\n"
+#paragraph_seperator = "\n.\n"
+paragraph_seperator = "\t\n"
+
 
 for line in source_file :
     line = line.strip()
