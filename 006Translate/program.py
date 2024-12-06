@@ -35,7 +35,7 @@ for line in source_file :
 	
     print( text_id + "\t" + text )
     
-    result_text = result_text + text + "\t"  + tranlated_text + "\n"
+    result_text = result_text + text + "\n"  + tranlated_text + "\n\n"
     
     time.sleep(2)
 
