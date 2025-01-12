@@ -1,21 +1,64 @@
 # -*- coding: utf-8 -*-
 
-#
-# You need to fill the blank line at the end of the source file.
-#
-
 import re
 
+# Function
+def  separate(list_sentence, seperator ):
+    list_dummy = []
+    for sentence in list_sentence:
+        list_sub_sentence = sentence.split(seperator)
+        if len(list_sub_sentence) > 1: 
+            for sub_sentence in list_sub_sentence: 
+                sub_sentence = sub_sentence.strip()
+                # When the last string are "?"or";" ect, we will get "" element after spliting
+                # so we need to skip it.
+                if sub_sentence != "" and sub_sentence[-1] != ".":
+                    list_dummy.append(sub_sentence.strip() + seperator )
+                else:
+                    list_dummy.append(sub_sentence.strip() )
+        else:
+            list_dummy.append(sentence)
+    return list_dummy
+
+
+# main program
 source_file = open('source.txt', encoding='utf-8', mode='r')
 result_file = open('result.txt', encoding='utf-8', mode='w')
 
-OneLineText = ""
+txt_oneline = ""
 for line in source_file :
     line = line.strip()
-#หากต้องการให้ตัดบรรทัด ตามการขั้นบรรทัดใหม่ ให้แก้เป็น line = line + "."
     line = line + " "
-    OneLineText = OneLineText + line
+    txt_oneline = txt_oneline + line
+txt_oneline = txt_oneline.strip()    
 
+list_sentence = txt_oneline.split(".")
+
+list_dummy = []
+for sentence in list_sentence:
+    sentence = sentence.strip() + "."
+
+    #Edit here
+    sentence = sentence.replace("?.", "?")
+    sentence = sentence.replace(";.", ";")
+
+    list_dummy.append(sentence)
+list_sentence =  list_dummy
+print(list_sentence)
+
+
+list_sentence = separate(list_sentence, "?" )
+#list_sentence = separate(list_sentence, ";" )
+#print(list_sentence)
+
+txt_oneline = ""
+for sentence in list_sentence:
+    txt_oneline = txt_oneline + sentence + "\n"
+
+result_file.write(txt_oneline)
+
+
+'''
 OneLineText = OneLineText.replace(";","::")    
 OneLineText = OneLineText.replace("U.S.","US ")    
 OneLineText = OneLineText.replace("Mr.", "Mr")
@@ -79,12 +122,4 @@ OneLineText = OneLineText.replace("Lt.", "Lt ")
 OneLineText = OneLineText.replace("Col.", "Col ")
 OneLineText = OneLineText.replace("Inc.", "Inc ")
 OneLineText = OneLineText.replace("St.", "St ")
-
-
-
-
-Sentences = OneLineText.split('.')
-
-for sentence in Sentences :
-    sentence = sentence.strip()
-    result_file.write(sentence + '.\n' )     
+'''

@@ -1,44 +1,10 @@
-Chào mừng bạn đến với khóa học  AI cho tất cả mọi người.
-AI đang thay đổi cách chúng ta làm việc và sống khóa học không nặng tính kỹ thuật này sẽ dạy cho bạn làm thế nào để hiễu về sự trỗi dậy của AI  Cho dù bạn muốn biết những gì đằng sau các từ chuyên môn đang thịnh hành hoặc cho dù bạn muốn có lẽ tự mình sử dụng AI cho mục đích cá nhân hoặc trong một công ty hay tổ chức nào khác, thì khóa học này sẽ dạy bạn làm thế nào để đạt những điều đó.
-Và nếu bạn muốn hiểu AI ảnh hưởng như thế nào đến xã hội, và làm thế nào bạn có thể hiểu điều đó, bạn cũng sẽ học về điều đó trong khóa học này Trong tuần đầu tiên này, chúng ta sẽ bắt đầu bằng cách bỏ qua sự thổi phồng về AI và cho bạn một cái nhìn thực tế về bản chất thực sự của AI  Hãy bắt đầu.
-Bạn có thể đã xem các bài báo về mức độ giá trị mà AI tạo ra.
-Theo một nghiên cứu của McKinsey Global Institute, AI được ước tính sẽ tạo thêm giá trị trị giá 13 nghìn tỷ đô la Mỹ hàng năm vào năm 2030.
-Mặc dù AI đã tạo ra một lượng giá trị to lớn cho ngành công nghiệp phần mềm, rất nhiều giá trị sẽ được tạo ra trong tương lai nằm ngoài ngành công nghiệp phần mềm.
-Trong các lĩnh vực như bán lẻ, du lịch, giao thông vận tải, ô tô, vật liệu, sản xuất và tương tự như thế.
-Tôi thấy rất khó để nghĩ ra một ngành công nghiệp mà AI không tạo ra tác động lớn trong vài năm tới.
-Tôi và những người bạn đã thách nhau nêu tên 1 ngành công nghiệp mà AI sẽ không tạo ra tác động lớn.
-Ví dụ điển hình nhất của tôi là ngành làm tóc bởi vì chúng ta biết cách sử dụng robot AI để tự động hóa việc làm tóc.
-Tuy nhiên, tôi đã từng nói điều này trong 1 buổi thuyết trình và một trong những người bạn của tôi là giáo sư robot có mặt trong thính phòng ngày hôm đó, và cô ấy đã đứng dậy và nhìn vào mắt tôi và nói,  Anh Andrew này, anh biết không với hầu hết các kiểu tóc của mọi người, tôi không thể làm cho 1 robot cắt được tóc của họ theo các kiểu đó.
-Nhưng cô ấy nhìn tôi và nói,  Với kiểu tóc của anh, Andrew, thì một robot có thể cắt được.
-Có rất nhiều sự phấn khích nhưng cũng có rất nhiều sự thổi phồng không cần thiết về AI  Một trong những lý do cho điều này là vì thực ra, AI có hai hướng riêng biệt.
-Hầu như tất cả những tiến bộ chúng ta đang thấy trong AI ngày nay là trí thông minh nhân tạo hẹp.
-Đây là những AI có thể làm một tác vụ như loa thông minh hoặc xe tự lái hoặc AI để tìm kiếm trên web hoặc AI ứng dụng trong nông nghiệp hay trong nhà máy Những loại AI này chỉ giỏi một kỹ năng nhưng khi bạn tìm thấy kỹ năng phù hợp điều này vẫn có thể có giá trị rất lớn.
-Thật không may, AI cũng có một khái niệm thứ hai là AGI hoặc trí tuệ nhân tạo tổng quát.
-Đó là mục tiêu để xây dựng AI  Chúng có thể làm bất cứ điều gì mà con người có thể làm hoặc có lẽ thậm chí có thể là siêu thông minh và thậm chí còn làm nhiều việc hơn bất kỳ con người nào.
-Tôi đang thấy rất nhiều tiến bộ trong ANI, trí thông minh nhân tạo hẹp và hầu như không có tiến triển gì với AGI hay trí thông minh nhân tạo tổng quát.
-Cả hai đều là những mục tiêu xứng đáng và thật không may, sự tiến bộ nhanh chóng trong ANI rất có giá trị, điều đó đã khiến mọi người kết luận rằng có rất nhiều tiến bộ trong AI, điều đó đúng Nhưng điều đó đã khiến mọi người lầm tưởng rằng có thể cũng có rất nhiều tiến bộ trong AGI do đó dẫn đến một số lo ngại phi lý về những robot thông minh xấu xa đang sắp sửa chiếm lấy nhân loại bất cứ lúc nào.
-Tôi nghĩ rằng AGI là một mục tiêu thú vị để các nhà nghiên cứu thực hiện, nhưng nó sẽ cần rất nhiều những đột phá công nghệ trước khi chúng ta đến được mức đó và nó có thể là hàng thập kỷ hoặc hàng trăm năm hoặc thậm chí hàng ngàn năm.
-Vì AGI còn rất xa vời, tôi nghĩ không cần phải lo lắng quá mức về nó.
-Trong tuần này, bạn sẽ tìm hiểu những gì ANI có thể làm và cách áp dụng chúng cho các vấn đề của bạn.
-Sau đó trong khóa học này, bạn cũng sẽ thấy một số ví dụ thực tế về cách mà ANI, chỉ giỏi về một kỹ năng , có thể được sử dụng để xây dựng các ứng dụng thực sự có giá trị như loa thông minh và xe tự lái.
-Trong tuần này, bạn sẽ tìm hiểu AI là gì.
-Bạn có thể đã nghe nói về học máy (machine learning) và video tiếp theo sẽ dạy cho bạn học máy là gì.
-Bạn cũng tìm hiểu dữ liệu là gì và loại dữ liệu nào có giá trị và những loại dữ liệu nào không có giá trị.
-Bạn tìm hiểu điều gì làm cho một công ty trở thành một công ty AI hoặc một công ty đầu tiên về AI để có lẽ bạn có thể bắt đầu suy nghĩ xem liệu có cách nào để cải thiện khả năng của công ty của bạn hoặc các tổ chức khác để sử dụng AI, và quan trọng là trong tuần này bạn cũng học được về những gì machine learning có thể và không thể làm.
-Trong xã hội của chúng ta, báo chí cũng như các tài liệu nghiên cứu có xu hướng chỉ nói về những câu chuyện thành công của của hoc máy và AI và chúng ta hầu như không thấy bất kỳ câu chuyện thất bại nào vì chúng không thú vị để được báo cáo.
-Nhưng để bạn có cái nhìn thực tế về những gì AI và hoc máy có thể hoặc không thể làm, tôi nghĩ điều quan trọng là bạn xem các ví dụ về cả hai trường hợp để bạn có thể đưa ra những đánh giá chính xác hơn về việc bạn có lẽ nên và có lẽ không nên cố gắng sử dụng những công nghệ này vào những lĩnh vực nào.
-Cuối cùng, rất nhiều sự nổi lên gần đây của hoc máy đã được thúc đẩy thông qua sự gia tăng của deep learning (học sâu).
-Đôi khi cũng được gọi là mạng nơ:ron.
-Trong hai video tùy chọn cuối cùng của tuần này, bạn cũng có thể thấy một lời giải thích trực quan về học sâu để bạn sẽ hiểu rõ hơn những gì chúng có thể làm đặc biệt cho một nhóm các nhiệm vụ ANI hẹp.
-Nào, đó là những gì bạn học tuần này và vào cuối tuần này, bạn có ý thức về các công nghệ AI và những gì chúng có thể và không thể làm được.
-Trong tuần thứ hai, bạn sẽ tìm hiểu cách các công nghệ AI này có thể được sử dụng để xây dựng các dự án có giá trị.
-Bạn biết được cảm nhận như thế nào khi xây dựng một dự án AI cũng như những gì bạn phải làm để đảm bảo bạn chọn được các dự án khả thi về mặt kỹ thuật cũng như có giá trị cho bạn hoặc doanh nghiệp của bạn hoặc tổ chức khác.
-Sau khi tìm hiểu những gì cần thiết để xây dựng các dự án AI, trong tuần thứ ba, bạn sẽ học cách xây dựng AI trong công ty của mình.
-Cụ thể là, nếu bạn muốn thực hiện một vài bước để làm cho công ty của bạn giỏi về AI, bạn sẽ xem AI transformation playbook (cẩm nang chuyển đổi thành AI) và tìm hiểu cách xây dựng các nhóm AI cũng như xây dựng các sản phẩm AI phức tạp.
-Cuối cùng, AI đang có một tác động rất lớn đến xã hội.
-Trong tuần thứ tư và cuối cùng, bạn sẽ học về cách các hệ thống AI có thể thành kiến và làm thế nào để giảm bớt hoặc loại bỏ những thành kiến đó.
-Bạn cũng tìm hiểu cách AI ảnh hưởng đến các nền kinh tế đang phát triển và cách AI ảnh hưởng đến việc làm và có thể điều hướng tốt hơn sự phát triển này của AI cho chính bạn và cho tổ chức của bạn.
-Vào cuối khóa học 4 tuần này, bạn sẽ hiểu biết hơn và có trình độ tốt hơn so với ngay cả những CEO của hầu hết các công ty lớn về sự hiểu biết của bạn về công nghệ AI cũng như khả năng của bạn để giúp bản thân hoặc công ty của bạn hoặc các tổ chức khác điều hướng sự phát triển của AI  Vì tôi hy vọng rằng sau khóa học này, bạn sẽ ở vào vị trí để lãnh đạo người khác cũng tốt như họ điều hướng các vấn đề này.
-Nào, một trong những công nghệ chính thúc đẩy sự vượt lên gần đây của AI là hoc máy.
-Nhưng hoc máy là gì? Chúng ta hãy thảo luận ở video tiếp theo.
-.
+Who is the teacher?
+Do you know that man?
+Yes, he is my teacher.
+He teaches in my school.
+Where are you going?
+I am going home.
+He is my brother.
+Is she your friend?
+I need help; Do you hear me?
+
