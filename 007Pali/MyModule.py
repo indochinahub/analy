@@ -14,7 +14,7 @@ def romanpali_to_thai(roman_pali):
 def improve_thai_text(thai_text):
   return False
 
-# get  ,list of position
+# get text ,list of position
 # return swaped text
 def swap_previous_char(text, li_position) :
   if li_position == [] : return text
@@ -28,7 +28,22 @@ def swap_previous_char(text, li_position) :
     
   return "".join(text)
 
-  
+# get text, substring
+# return list_position
+def find_all(text, substring) :
+  if text == "" : return []
+
+  li_position = []
+  start = 0
+  while True:
+    start = text.find(substring, start)
+    if start == -1: 
+      break
+    else : 
+      li_position.append(start)
+      start = start + len(substring)
+
+  return li_position
 
 # get text, return list
 def separate_text_to_words(text):

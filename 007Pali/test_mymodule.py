@@ -45,6 +45,15 @@ class TestMyModule(unittest.TestCase):
         expected_result = "badcefghijk"
         self.assertEqual(result, expected_result)
 
+    # get text, substring # return list_position
+    def test_find_all(self) :
+        result = MyModule.find_all("aaaaabccbbcccbdddd", "b")
+        expected_result = [5, 8, 9, 13]
+        self.assertEqual(result, expected_result)
+
+        result = MyModule.find_all("", "b")
+        expected_result = []
+        self.assertEqual(result, expected_result)        
 
     def test_separate_text_to_words(self):
         result = MyModule.separate_text_to_words("  Hello   world  this is a test  ")
