@@ -10,9 +10,9 @@ class TestMyModule(unittest.TestCase):
         expected_result = "มะนุสสะ"
         self.assertEqual(result, expected_result)
 
-        #result = MyModule.romanpali_to_thai(" Buddho passati ")
-        #expected_result = "มะนุสสะ"
-        #self.assertEqual(result, expected_result)
+        result = MyModule.romanpali_to_thai(" Buddho Buddho ")
+        expected_result = 'พุทโธ พุทโธ'
+        self.assertEqual(result, expected_result)
 
         result = MyModule.romanpali_to_thai("")
         expected_result = ""
@@ -20,10 +20,9 @@ class TestMyModule(unittest.TestCase):
 
     # get raw thai text, returned improve thai text
     def test_improve_thai_text(self):
-        #improve_thai_text(thai_text)
-        result = MyModule.improve_thai_text("Bhūpālo bhuñjati.")
-        expected_result = True
-        #self.assertEqual(result, expected_result)
+        result = MyModule.improve_thai_text('\u0E25'+ '\u0E42'+" " + '\u0E25' + '\u0E42' )
+        expected_result = "โล โล"
+        self.assertEqual(result, expected_result)
 
 
     # get raw thai text ,list of position
@@ -49,6 +48,10 @@ class TestMyModule(unittest.TestCase):
     def test_find_all(self) :
         result = MyModule.find_all("aaaaabccbbcccbdddd", "b")
         expected_result = [5, 8, 9, 13]
+        self.assertEqual(result, expected_result)
+
+        result = MyModule.find_all("โล โย โล", '\u0E42')
+        expected_result = [0, 3, 6]   
         self.assertEqual(result, expected_result)
 
         result = MyModule.find_all("", "b")
@@ -84,12 +87,24 @@ class TestMyModule(unittest.TestCase):
         result = MyModule.strip_list(['single'])
         expected_result = ['single']
         self.assertEqual(result, expected_result)
-        
+
+    # get None, return list of thai consonant in text/unicode format
+    def test_li_thai_consonant(self) :
+        result = MyModule.li_thai_consonant()
+        expected_result = ""
+        self.assertEqual(result, expected_result)        
+
     # return dictionary key : pomanpali, value : thai unicode text
     def test_dict_romanpali_to_thaiunicode(self) :
         result = len(MyModule.dict_romanpali_to_thaiunicode())
         expected_result = 41
         self.assertEqual(result, expected_result)
+
+    # get None # return list of romanpali_consonant
+    def test_li_consonant(self):        
+        result = len(MyModule.li_consonant())
+        expected_result = 33
+        self.assertEqual(result, expected_result)        
 
 
 if __name__ == '__main__':
