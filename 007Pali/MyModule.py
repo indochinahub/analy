@@ -11,6 +11,7 @@ def romanpali_to_thai(roman_pali):
 
     thai_pali = improve_thai_text_sra_o(roman_pali)
     thai_pali = improve_thai_text_sra_a(thai_pali)
+    thai_pali = improve_thai_text_sra_aa(thai_pali)
     return thai_pali
 
 # get raw thai text, returned improve thai text

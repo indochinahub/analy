@@ -14,16 +14,15 @@ class TestMyModule(unittest.TestCase):
         expected_result = 'พุทโธ พุทโธ'
         self.assertEqual(result, expected_result)
 
-        #result = MyModule.romanpali_to_thai(" āgacchati ")
-        #expected_result = ""
-        #self.assertEqual(result, expected_result)        
+        result = MyModule.romanpali_to_thai(" āgacchati āgacchati ")
+        expected_result = "อาคัจฉะติ อาคัจฉะติ"
+        self.assertEqual(result, expected_result)        
 
         result = MyModule.romanpali_to_thai("")
         expected_result = ""
-        #self.assertEqual(result, expected_result)        
+        self.assertEqual(result, expected_result)        
 
     # get raw thai text, returned improve thai text
-    # def improve_thai_text_sra_a(thai_text):
     def test_improve_thai_text_sra_aa(self):
         result = MyModule.improve_thai_text_sra_aa("าอาอาดมา าอามา")
         expected_result = "อาอาอาดมา อาอามา"
