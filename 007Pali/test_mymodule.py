@@ -14,19 +14,49 @@ class TestMyModule(unittest.TestCase):
         expected_result = 'พุทโธ พุทโธ'
         self.assertEqual(result, expected_result)
 
+        result = MyModule.romanpali_to_thai(" āgacchati ")
+        expected_result = ""
+        self.assertEqual(result, expected_result)        
+
         result = MyModule.romanpali_to_thai("")
         expected_result = ""
         #self.assertEqual(result, expected_result)        
 
     # get raw thai text, returned improve thai text
-    def test_improve_thai_text(self):
-        result = MyModule.improve_thai_text('\u0E25'+ '\u0E42'+" " + '\u0E25' + '\u0E42' )
+    def test_improve_thai_text_sra_a(self):
+        result = MyModule.improve_thai_text_sra_a( "\u0E30" + "กะกะกกะ")
+        expected_result = "อะกะกักกะ"
+        self.assertEqual(result, expected_result)
+
+        result = MyModule.improve_thai_text_sra_a( "กะกกะกะกะก")
+        expected_result = "กักกะกะกัก"
+        self.assertEqual(result, expected_result)        
+
+        result = MyModule.improve_thai_text_sra_a("กะ")
+        expected_result = "กะ"
+        self.assertEqual(result, expected_result)        
+
+    # get raw thai text, returned improve thai text
+    def test_improve_thai_text_sra_o(self):
+        result = MyModule.improve_thai_text_sra_o('\u0E25'+ '\u0E42'+" " + '\u0E25' + '\u0E42' ) # โอ + ลอ 
         expected_result = "โล โล"
         self.assertEqual(result, expected_result)
 
+    # get text ,list of position # return changed text
+    def test_change_char_in_text(self):
+        result = MyModule.change_char_in_text("aaabbbcccddd",[],"x")
+        expected_result = "aaabbbcccddd"
+        self.assertEqual(result, expected_result)
 
-    # get raw thai text ,list of position
-    # returned improve thai text
+        result = MyModule.change_char_in_text("aaabbbcccddd",[1, 3, 5],"")
+        expected_result = "aaabbbcccddd"
+        self.assertEqual(result, expected_result)
+
+        result = MyModule.change_char_in_text("aaabbbcccddd",[1, 3, 5],"x")
+        expected_result = 'axaxbxcccddd'
+        self.assertEqual(result, expected_result)
+
+    # get raw thai text ,list of position # returned improve thai text
     def test_swap_previous_char(self) :
         result = MyModule.swap_previous_char(text = "abcdefghijk", li_position = [])
         expected_result = "abcdefghijk"
@@ -92,6 +122,16 @@ class TestMyModule(unittest.TestCase):
     def test_dict_romanpali_to_thaiunicode(self) :
         result = len(MyModule.dict_romanpali_to_thaiunicode())
         expected_result = 41
+        self.assertEqual(result, expected_result)
+
+    #get None # return list of thai vowel
+    def test_li_thai_vowel(self):
+        result = len(MyModule.li_thai_vowel())
+        expected_result = 8
+        self.assertEqual(result, expected_result)
+
+        result = MyModule.li_thai_vowel()[0]
+        expected_result = '\u0E30' #sra a
         self.assertEqual(result, expected_result)
 
     # get None # return list of romanpali_vowel table

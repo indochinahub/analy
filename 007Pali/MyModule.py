@@ -9,17 +9,50 @@ def romanpali_to_thai(roman_pali):
     for roman_char in dict_thaiunicode.keys():
       roman_pali = roman_pali.replace( roman_char, dict_thaiunicode[roman_char]  )
 
-    roman_pali = improve_thai_text(roman_pali) 
-    return roman_pali
+    thai_pali = improve_thai_text_sra_o(roman_pali)
+    thai_pali = improve_thai_text_sra_a(thai_pali)
+    return thai_pali
 
 # get raw thai text, returned improve thai text
-def improve_thai_text(thai_text):
-    # sra o
+def improve_thai_text_sra_a(thai_text):
+    li_position = find_all(thai_text,'\u0E30')
+    if li_position == [] : return thai_text
+
+    li_new_position = []
+    for position in li_position:
+        if position == 0 :
+          thai_text = change_char_in_text(thai_text, [0], "x")
+        elif position == (len(thai_text) - 1) :
+            pass
+            #do nothing
+        elif (position == (len(thai_text) - 2)) and  (thai_text[-1] in li_thai_consonant())   :
+            li_new_position.append(position)
+        elif (thai_text[position - 1] in li_thai_consonant()) and (thai_text[position + 1] in li_thai_consonant() ) and (thai_text[position + 2] in li_thai_consonant() ) :
+           li_new_position.append(position)
+            
+    thai_text = change_char_in_text(thai_text, li_new_position , '\u0E31')
+    thai_text  = thai_text.replace("x", "อะ")
+
+    return thai_text
+
+# get raw thai text, returned improve thai text
+def improve_thai_text_sra_o(thai_text):
     list_sra_o_position = find_all(thai_text,'\u0E42')
     if list_sra_o_position :
       thai_text = swap_previous_char(thai_text, list_sra_o_position)
     
     return thai_text
+
+# get text ,list of position # return changed text
+def change_char_in_text(text, li_position, substring):
+   if li_position == [] : return text
+   if substring == "" : return text
+
+   li_char = list(text)
+   for position in li_position:
+      li_char[position] = substring
+   
+   return "".join(li_char)
 
 # get text ,list of position # return swaped text
 def swap_previous_char(text, li_position) :
@@ -76,10 +109,19 @@ def dict_romanpali_to_thaiunicode() :
 
     return mydict
 
+#get None # return list of thai vowel
+def li_thai_vowel():
+    li_vowel = li_vowel_table()
+    li_thai_vowel = []
+    for vowel in li_vowel:
+       li_thai_vowel.append(vowel[2])
+
+    return li_thai_vowel
+   
 # get None # return list of romanpali_vowel table
 def li_vowel_table():
    return [
-      ['a', 'อะ', '\u0E30'],
+      ['a', 'อะ', '\u0E30'],  
       ['ā', 'อา', '\u0E32'],
       ['i', 'อิ', '\u0E34'],
       ['ī', 'อี', '\u0E35'],
