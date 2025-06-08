@@ -88,22 +88,37 @@ class TestMyModule(unittest.TestCase):
         expected_result = ['single']
         self.assertEqual(result, expected_result)
 
-    # get None, return list of thai consonant in text/unicode format
-    def test_li_thai_consonant(self) :
-        result = MyModule.li_thai_consonant()
-        expected_result = ""
-        self.assertEqual(result, expected_result)        
-
     # return dictionary key : pomanpali, value : thai unicode text
     def test_dict_romanpali_to_thaiunicode(self) :
         result = len(MyModule.dict_romanpali_to_thaiunicode())
         expected_result = 41
         self.assertEqual(result, expected_result)
 
-    # get None # return list of romanpali_consonant
-    def test_li_consonant(self):        
-        result = len(MyModule.li_consonant())
+    # get None # return list of romanpali_vowel table
+    def test_li_vowel_table(self):
+        result = len(MyModule.li_vowel_table())
+        expected_result = 8     
+        self.assertEqual(result, expected_result)
+
+        result = MyModule.li_vowel_table()[0]
+        expected_result = ['a', 'อะ', '\u0E30']     
+        self.assertEqual(result, expected_result)
+
+    #get None # return list of thai consonant
+    #def li_thai_consonant():
+    def test_li_thai_consonant(self):
+        result = len(MyModule.li_thai_consonant())
         expected_result = 33
+        self.assertEqual(result, expected_result)
+
+    # get None # return list of romanpali_consonant table
+    def test_li_consonant_table(self):        
+        result = len(MyModule.li_consonant_table())
+        expected_result = 33
+        self.assertEqual(result, expected_result)
+
+        result = MyModule.li_consonant_table()[0]
+        expected_result = ['k', 'ก', '\u0E01']
         self.assertEqual(result, expected_result)        
 
 

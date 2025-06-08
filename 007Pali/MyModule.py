@@ -64,48 +64,21 @@ def strip_list(lst):
     """Trim whitespace from each item in a list and remove empty items."""
     return [item.strip() for item in lst if item.strip()]
 
-# get None, return list of thai consonant in text/unicode format
-def li_thai_consonant(format = "text") :
-    li_thai_consonant = dict_romanpali_to_thaiunicode()
-    #li_thai_consonant = li_thai_consonant[:33]
-    return type(li_thai_consonant)
 
 # return dictionary key : pomanpali, value : thai unicode text
 def dict_romanpali_to_thaiunicode() :
-    list_text = [
-      ['kh', 'ข', '\u0E02'],    
-      ['gh', 'ฆ', '\u0E06'],
-      ['ch', 'ฉ', '\u0E09'],
-      ['jh', 'ฌ', '\u0E0c'],
-      ['ṭh', 'ฐ', '\u0E10'],    
-      ['ḍh', 'ฒ', '\u0E12'],
-      ['th', 'ถ', '\u0E16'],
-      ['dh', 'ธ',	'\u0E18'],    
-      ['ph', 'ผ', '\u0E1c'],	
-      ['bh', 'ภ', '\u0E20'],
-      ['k', 'ก', '\u0E01'],
-      ['g', 'ค', '\u0E04'],
-      ['ṅ', 'ง', '\u0E07'],
-      ['c', 'จ', '\u0E08'],
-      ['j', 'ช', '\u0E0a'],
-      ['ñ', 'ญ', '\u0E0d'],
-      ['ṭ', 'ฏ', '\u0E0f'],
-      ['ḍ', 'ฑ', '\u0E11'],
-      ['ṇ', 'ณ', '\u0E13'],
-      ['t', 'ต', '\u0E15'],
-      ['d', 'ท', '\u0E17'],
-      ['n', 'น', '\u0E19'],
-      ['p', 'ป', '\u0E1a'],
-      ['b', 'พ', '\u0E1e'],
-      ['m', 'ม', '\u0E21'],
-      ['y',	'ย', '\u0E22'],
-      ['r',	'ร', '\u0E23'],
-      ['l',	'ล', '\u0E25'],
-      ['v',	'ว', '\u0E27'],
-      ['s',	'ส', '\u0E2a'],
-      ['h',	'ห', '\u0E2b'],
-      ['ḷ',	'ฬ', '\u0E2c'],
-      ['ṃ',	'อํ',	'\u0E2d'],
+    list_text = li_consonant_table()
+    list_text.extend(li_vowel_table())
+
+    mydict = {}
+    for x in list_text :
+      mydict[x[0]] = x[2]
+
+    return mydict
+
+# get None # return list of romanpali_vowel table
+def li_vowel_table():
+   return [
       ['a', 'อะ', '\u0E30'],
       ['ā', 'อา', '\u0E32'],
       ['i', 'อิ', '\u0E34'],
@@ -115,16 +88,20 @@ def dict_romanpali_to_thaiunicode() :
       ['e', 'เอ', '\u0E40'],
       ['o', 'โอ', '\u0E42']
     ]
+#get None # return list of thai consonant
+def li_thai_consonant():
+    li_consonant = li_consonant_table()
 
-    mydict = {}
-    for x in list_text :
-      mydict[x[0]] = x[2]
+    li_thai_consonant = []
+    for consonant in li_consonant:
+       li_thai_consonant.append(consonant[2])
 
-    return mydict
+    return li_thai_consonant
 
-# get None # return list of romanpali_consonant
-def li_consonant():
+# get None # return list of romanpali_consonant table
+def li_consonant_table():
     return [
+        ['k', 'ก', '\u0E01'],
         ['kh', 'ข', '\u0E02'],    
         ['gh', 'ฆ', '\u0E06'],
         ['ch', 'ฉ', '\u0E09'],
@@ -135,7 +112,6 @@ def li_consonant():
         ['dh', 'ธ',	'\u0E18'],    
         ['ph', 'ผ', '\u0E1c'],	
         ['bh', 'ภ', '\u0E20'],
-        ['k', 'ก', '\u0E01'],
         ['g', 'ค', '\u0E04'],
         ['ṅ', 'ง', '\u0E07'],
         ['c', 'จ', '\u0E08'],
