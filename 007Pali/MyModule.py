@@ -14,6 +14,24 @@ def romanpali_to_thai(roman_pali):
     return thai_pali
 
 # get raw thai text, returned improve thai text
+def improve_thai_text_sra_aa(thai_text):
+    li_position = find_all(thai_text,'า')
+    if li_position == [] : return thai_text
+
+    li_new_position = []
+    for position in li_position:
+        if position == 0 :
+            li_new_position.append(position)
+        elif thai_text[position - 1] not in li_thai_consonant():
+            li_new_position.append(position)
+
+    if li_new_position :
+       thai_text = change_char_in_text(thai_text, li_new_position , 'อา')
+   
+    thai_text  = thai_text.replace("x", "อา")
+    return thai_text
+
+# get raw thai text, returned improve thai text
 def improve_thai_text_sra_a(thai_text):
     li_position = find_all(thai_text,'\u0E30')
     if li_position == [] : return thai_text
