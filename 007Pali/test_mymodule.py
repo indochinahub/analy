@@ -105,11 +105,14 @@ class TestMyModule(unittest.TestCase):
         self.assertEqual(result, expected_result)
 
     #get None # return list of thai consonant
-    #def li_thai_consonant():
     def test_li_thai_consonant(self):
         result = len(MyModule.li_thai_consonant())
         expected_result = 33
         self.assertEqual(result, expected_result)
+
+        result = MyModule.li_thai_consonant()[0]
+        expected_result =  '\u0E02' #'ข'
+        self.assertEqual(result, expected_result)        
 
     # get None # return list of romanpali_consonant table
     def test_li_consonant_table(self):        
@@ -118,7 +121,7 @@ class TestMyModule(unittest.TestCase):
         self.assertEqual(result, expected_result)
 
         result = MyModule.li_consonant_table()[0]
-        expected_result = ['k', 'ก', '\u0E01']
+        expected_result = ['kh', 'ข', '\u0E02']
         self.assertEqual(result, expected_result)        
 
 

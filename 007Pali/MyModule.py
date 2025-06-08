@@ -101,7 +101,6 @@ def li_thai_consonant():
 # get None # return list of romanpali_consonant table
 def li_consonant_table():
     return [
-        ['k', 'ก', '\u0E01'],
         ['kh', 'ข', '\u0E02'],    
         ['gh', 'ฆ', '\u0E06'],
         ['ch', 'ฉ', '\u0E09'],
@@ -112,6 +111,7 @@ def li_consonant_table():
         ['dh', 'ธ',	'\u0E18'],    
         ['ph', 'ผ', '\u0E1c'],	
         ['bh', 'ภ', '\u0E20'],
+        ['k', 'ก', '\u0E01'],
         ['g', 'ค', '\u0E04'],
         ['ṅ', 'ง', '\u0E07'],
         ['c', 'จ', '\u0E08'],
