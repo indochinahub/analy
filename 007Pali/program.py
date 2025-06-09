@@ -1,4 +1,7 @@
-import MyModule
+import sys
+sys.path.append("../")
+
+from MyModule import PaliModule
 
 source_file = open('source.txt', encoding='utf-8', mode='r')
 result_file = open('result.txt', encoding='utf-8', mode='w')
@@ -10,7 +13,7 @@ for line in source_file :
     text_id = splitLine[0]
     text = splitLine[1]
 
-    text = MyModule.romanpali_to_thai(text)
+    text = PaliModule.romanpali_to_thai(text)
     text_result = text_result + text_id + "\t" + text + "\n"
     print(text_id, text)
 
