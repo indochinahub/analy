@@ -5,6 +5,10 @@ class TestPaliModule(unittest.TestCase):
 
     # get romanpali, return thai
     def test_romanpali_to_thai(self):
+        result = PaliModule.romanpali_to_thai("")
+        expected_result = ""
+        self.assertEqual(result, expected_result)        
+
         result = PaliModule.romanpali_to_thai("manussa")
         expected_result = "มะนุสสะ"
         self.assertEqual(result, expected_result)
@@ -15,10 +19,6 @@ class TestPaliModule(unittest.TestCase):
 
         result = PaliModule.romanpali_to_thai(" āgacchati āgacchati ")
         expected_result = "อาคัจฉะติ อาคัจฉะติ"
-        self.assertEqual(result, expected_result)        
-
-        result = PaliModule.romanpali_to_thai("")
-        expected_result = ""
         self.assertEqual(result, expected_result)        
 
     # get thai text # return thai sentence sapated with commas
@@ -36,21 +36,21 @@ class TestPaliModule(unittest.TestCase):
         expected_result = []
         self.assertEqual(result, expected_result)    
 
-        result = PaliModule.thai_sentence_to_syllable("กา")
-        expected_result = ["กา"]
-        self.assertEqual(result, expected_result)    
-
         result = PaliModule.thai_sentence_to_syllable(" กัก ")
-        expected_result = ["กัก"]
+        expected_result = []
+        self.assertEqual(result, expected_result)            
+
+        result = PaliModule.thai_sentence_to_syllable("กา")
+        expected_result = "กา"
         self.assertEqual(result, expected_result)    
 
         result = PaliModule.thai_sentence_to_syllable("คากา")
-        expected_result = ["คา", "กา"]
+        expected_result = "คา, กา"
         self.assertEqual(result, expected_result)    
 
         result = PaliModule.thai_sentence_to_syllable("กากขา")
-        expected_result = ["กาก", "ขา"]
-        self.assertEqual(result, expected_result)            
+        expected_result = "กาก, ขา"
+        self.assertEqual(result, expected_result)                    
 
     # get line text # return list of sentenced
     def test_break_line_to_sentence(self):

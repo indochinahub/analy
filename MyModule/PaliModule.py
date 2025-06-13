@@ -12,17 +12,18 @@ def romanpali_to_thai(roman_pali):
     thai_pali = improve_thai_text_sra_o(roman_pali)
     thai_pali = improve_thai_text_sra_a(thai_pali)
     thai_pali = improve_thai_text_sra_aa(thai_pali)
-    
+
+
     return thai_pali
 
 # get thai sentence # return thai sentence saparated with spaces
 def thai_sentence_to_syllable(thai_sentence):
+    if " " in thai_sentence : return []
+    if len(thai_sentence) == 0 : return []
+
     thai_sentence = thai_sentence.strip()
     li_vowel = li_thai_vowel()
     li_vowel.extend(['\u0E31'])  #Mai han agart
-
-    if len(thai_sentence) == 0 : return []
-    if " " in thai_sentence : return []
 
     li_vowel_position = []    
     for vowel in li_vowel:
@@ -36,13 +37,23 @@ def thai_sentence_to_syllable(thai_sentence):
     for position in li_vowel_position :
         if position == (len(thai_sentence) - 1) :
             sentence = thai_sentence[-2:]
-            li_sentence.insert(0, sentence)
-            thai_sentence = thai_sentence.replace(sentence,"") 
         elif position == (len(thai_sentence) - 2) :
             sentence = thai_sentence[-3:]
-            li_sentence.insert(0, sentence)
-            thai_sentence = thai_sentence.replace(sentence,"") 
-    return li_sentence
+        li_sentence.insert(0, sentence)
+        thai_sentence = thai_sentence.replace(sentence,"") 
+
+    #return li_sentence
+
+    thai_sentence = ""
+    for sentence in li_sentence :
+       thai_sentence = thai_sentence + sentence + ", "
+       
+    return thai_sentence[:-2]
+
+
+# get list, and join them using commas as seperator
+#
+
 
 # get line text # return list of sentenced
 def break_line_to_sentence(text):
