@@ -18,7 +18,7 @@ class TestPaliModule(unittest.TestCase):
         self.assertEqual(result, expected_result)
 
         result = PaliModule.romanpali_to_thai(" āgacchati āgacchati ")
-        expected_result = "อาคัจฉะติ อาคัจฉะติ"
+        expected_result = "อา คัจ ฉะ ติ, อา คัจ ฉะ ติ"
         self.assertEqual(result, expected_result)        
 
     # get thai text # return thai sentence sapated with commas
@@ -53,8 +53,13 @@ class TestPaliModule(unittest.TestCase):
 
         result = PaliModule.thai_sentence_to_syllable("พุทโธ")
         expected_result = "พุท โธ"
-        self.assertEqual(result, expected_result)                            
+        self.assertEqual(result, expected_result) 
 
+        '''
+        result = PaliModule.thai_sentence_to_syllable("เมเมนเม")
+        expected_result = "เม เมน เม"
+        self.assertEqual(result, expected_result)                                    
+        '''
 
     # get line text # return list of sentenced
     def test_break_line_to_sentence(self):
