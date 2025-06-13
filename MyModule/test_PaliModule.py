@@ -5,16 +5,16 @@ import PaliModule
 class TestPaliModule(unittest.TestCase):
 
     # get thai text # return thai sentence sapated with commas
-    def test_thai_sentence_to_sylable(self):
-        result = PaliModule.thai_sentence_to_sylable("")
+    def test_thai_sentence_to_syllable(self):
+        result = PaliModule.thai_sentence_to_syllable("")
         expected_result = ""
         self.assertEqual(result, expected_result)
     
-        result = PaliModule.thai_sentence_to_sylable(" ")
+        result = PaliModule.thai_sentence_to_syllable(" ")
         expected_result = ""
         self.assertEqual(result, expected_result)    
         
-        result = PaliModule.thai_sentence_to_sylable("กา")
+        result = PaliModule.thai_sentence_to_syllable("กากากักกักกา")
         expected_result = ""
         self.assertEqual(result, expected_result)    
 

@@ -1,14 +1,23 @@
 # get thai sentence # return thai sentence saparated with spaces
-def thai_sentence_to_sylable(thai_sentence):
+def thai_sentence_to_syllable(thai_sentence):
     thai_sentence = thai_sentence.strip()
+    li_vowel = li_thai_vowel()
+    li_vowel.extend(['\u0E31'])  #Mai han agart
 
     if len(thai_sentence) == 0 : return ""
-    return False
 
-    li_thai_vowel():
+    li_vowel_position = []    
+    for vowel in li_vowel:
+       li_position =  find_all(thai_sentence, vowel) 
+       li_position.sort(reverse=True)
+       if li_position : 
+          print(vowel,li_position)
+          li_vowel_position.extend(li_position)
 
+
+          
     
-
+    return li_vowel_position
 
 # get line text # return list of sentenced
 def break_line_to_sentence(text):
