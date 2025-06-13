@@ -12,18 +12,14 @@ class TestPaliModule(unittest.TestCase):
         result = PaliModule.romanpali_to_thai("manussa")
         expected_result = "มะ นุส สะ"
         self.assertEqual(result, expected_result)        
-
-        '''
-        
+    
         result = PaliModule.romanpali_to_thai(" Buddho Buddho ")
-        expected_result = 'พุทโธ พุทโธ'
+        expected_result = 'พุท โธ, พุท โธ'
         self.assertEqual(result, expected_result)
 
         result = PaliModule.romanpali_to_thai(" āgacchati āgacchati ")
         expected_result = "อาคัจฉะติ อาคัจฉะติ"
         self.assertEqual(result, expected_result)        
-
-        '''
 
     # get thai text # return thai sentence sapated with commas
     def test_thai_sentence_to_syllable(self):
