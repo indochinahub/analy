@@ -4,20 +4,28 @@ def thai_sentence_to_syllable(thai_sentence):
     li_vowel = li_thai_vowel()
     li_vowel.extend(['\u0E31'])  #Mai han agart
 
-    if len(thai_sentence) == 0 : return ""
+    if len(thai_sentence) == 0 : return []
+    if " " in thai_sentence : return []
 
     li_vowel_position = []    
     for vowel in li_vowel:
        li_position =  find_all(thai_sentence, vowel) 
        li_position.sort(reverse=True)
        if li_position : 
-          print(vowel,li_position)
+          #print(vowel,li_position)
           li_vowel_position.extend(li_position)
 
-
-          
-    
-    return li_vowel_position
+    li_sentence = []
+    for position in li_vowel_position :
+        if position == (len(thai_sentence) - 1) :
+            sentence = thai_sentence[-2:]
+            li_sentence.insert(0, sentence)
+            thai_sentence = thai_sentence.replace(sentence,"") 
+        elif position == (len(thai_sentence) - 2) :
+            sentence = thai_sentence[-3:]
+            li_sentence.insert(0, sentence)
+            thai_sentence = thai_sentence.replace(sentence,"") 
+    return li_sentence
 
 # get line text # return list of sentenced
 def break_line_to_sentence(text):

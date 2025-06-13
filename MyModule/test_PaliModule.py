@@ -6,18 +6,34 @@ class TestPaliModule(unittest.TestCase):
 
     # get thai text # return thai sentence sapated with commas
     def test_thai_sentence_to_syllable(self):
+
         result = PaliModule.thai_sentence_to_syllable("")
-        expected_result = ""
+        expected_result = []
         self.assertEqual(result, expected_result)
     
         result = PaliModule.thai_sentence_to_syllable(" ")
-        expected_result = ""
-        self.assertEqual(result, expected_result)    
-        
-        result = PaliModule.thai_sentence_to_syllable("กากากักกักกา")
-        expected_result = ""
+        expected_result = []
+        self.assertEqual(result, expected_result) 
+
+        result = PaliModule.thai_sentence_to_syllable("กา กา")
+        expected_result = []
         self.assertEqual(result, expected_result)    
 
+        result = PaliModule.thai_sentence_to_syllable("กา")
+        expected_result = ["กา"]
+        self.assertEqual(result, expected_result)    
+
+        result = PaliModule.thai_sentence_to_syllable(" กัก ")
+        expected_result = ["กัก"]
+        self.assertEqual(result, expected_result)    
+
+        result = PaliModule.thai_sentence_to_syllable("คากา")
+        expected_result = ["คา", "กา"]
+        self.assertEqual(result, expected_result)    
+
+        result = PaliModule.thai_sentence_to_syllable("กากขา")
+        expected_result = ["กาก", "ขา"]
+        self.assertEqual(result, expected_result)            
 
     # get line text # return list of sentenced
     def test_break_line_to_sentence(self):
