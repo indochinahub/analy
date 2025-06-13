@@ -51,10 +51,10 @@ def thai_sentence_to_syllable(thai_sentence):
             sentence = thai_sentence[-2:]
         elif position == (len(thai_sentence) - 2) :
             sentence = thai_sentence[-3:]
+
         li_sentence.insert(0, sentence)
         thai_sentence = thai_sentence.replace(sentence,"") 
 
-    thai_sentence = ""
     for sentence in li_sentence :
        thai_sentence = thai_sentence + sentence + " "
        
