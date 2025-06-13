@@ -1,3 +1,20 @@
+# get romanpali, return thai
+def romanpali_to_thai(roman_pali):
+    dict_thaiunicode = dict_romanpali_to_thaiunicode()
+
+    roman_pali = roman_pali.strip()
+    if len(roman_pali) == 0 : return ""
+
+    roman_pali = roman_pali.lower()
+    for roman_char in dict_thaiunicode.keys():
+      roman_pali = roman_pali.replace( roman_char, dict_thaiunicode[roman_char]  )
+
+    thai_pali = improve_thai_text_sra_o(roman_pali)
+    thai_pali = improve_thai_text_sra_a(thai_pali)
+    thai_pali = improve_thai_text_sra_aa(thai_pali)
+    
+    return thai_pali
+
 # get thai sentence # return thai sentence saparated with spaces
 def thai_sentence_to_syllable(thai_sentence):
     thai_sentence = thai_sentence.strip()
@@ -38,23 +55,6 @@ def break_line_to_sentence(text):
       if len(sentence) >0  : li_new.append(sentence)
 
     return li_new
-
-
-# get romanpali, return thai
-def romanpali_to_thai(roman_pali):
-    dict_thaiunicode = dict_romanpali_to_thaiunicode()
-
-    roman_pali = roman_pali.strip()
-    if len(roman_pali) == 0 : return ""
-
-    roman_pali = roman_pali.lower()
-    for roman_char in dict_thaiunicode.keys():
-      roman_pali = roman_pali.replace( roman_char, dict_thaiunicode[roman_char]  )
-
-    thai_pali = improve_thai_text_sra_o(roman_pali)
-    thai_pali = improve_thai_text_sra_a(thai_pali)
-    thai_pali = improve_thai_text_sra_aa(thai_pali)
-    return thai_pali
 
 # get raw thai text, return improve thai text
 def improve_thai_text_sra_aa(thai_text):

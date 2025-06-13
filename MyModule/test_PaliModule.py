@@ -1,8 +1,25 @@
 import unittest
 import PaliModule
- 
 
 class TestPaliModule(unittest.TestCase):
+
+    # get romanpali, return thai
+    def test_romanpali_to_thai(self):
+        result = PaliModule.romanpali_to_thai("manussa")
+        expected_result = "มะนุสสะ"
+        self.assertEqual(result, expected_result)
+
+        result = PaliModule.romanpali_to_thai(" Buddho Buddho ")
+        expected_result = 'พุทโธ พุทโธ'
+        self.assertEqual(result, expected_result)
+
+        result = PaliModule.romanpali_to_thai(" āgacchati āgacchati ")
+        expected_result = "อาคัจฉะติ อาคัจฉะติ"
+        self.assertEqual(result, expected_result)        
+
+        result = PaliModule.romanpali_to_thai("")
+        expected_result = ""
+        self.assertEqual(result, expected_result)        
 
     # get thai text # return thai sentence sapated with commas
     def test_thai_sentence_to_syllable(self):
@@ -44,26 +61,6 @@ class TestPaliModule(unittest.TestCase):
         result = PaliModule.break_line_to_sentence(" กา กากา  กักกา ")
         expected_result = ['กา', 'กากา', 'กักกา']
         self.assertEqual(result, expected_result)      
-
-    
-
-    # get romanpali, return thai
-    def test_romanpali_to_thai(self):
-        result = PaliModule.romanpali_to_thai("manussa")
-        expected_result = "มะนุสสะ"
-        self.assertEqual(result, expected_result)
-
-        result = PaliModule.romanpali_to_thai(" Buddho Buddho ")
-        expected_result = 'พุทโธ พุทโธ'
-        self.assertEqual(result, expected_result)
-
-        result = PaliModule.romanpali_to_thai(" āgacchati āgacchati ")
-        expected_result = "อาคัจฉะติ อาคัจฉะติ"
-        self.assertEqual(result, expected_result)        
-
-        result = PaliModule.romanpali_to_thai("")
-        expected_result = ""
-        self.assertEqual(result, expected_result)        
 
     # get raw thai text, returned improve thai text
     def test_improve_thai_text_sra_aa(self):
@@ -182,7 +179,6 @@ class TestPaliModule(unittest.TestCase):
         result = PaliModule.li_consonant_table()[0]
         expected_result = ['kh', 'ข', '\u0E02']
         self.assertEqual(result, expected_result)        
-
 
 if __name__ == '__main__':
     unittest.main()
