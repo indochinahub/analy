@@ -13,7 +13,6 @@ def romanpali_to_thai(roman_pali):
     thai_pali = improve_thai_text_sra_a(thai_pali)
     thai_pali = improve_thai_text_sra_aa(thai_pali)
 
-
     return thai_pali
 
 # get thai sentence # return thai sentence saparated with spaces
@@ -46,9 +45,9 @@ def thai_sentence_to_syllable(thai_sentence):
 
     thai_sentence = ""
     for sentence in li_sentence :
-       thai_sentence = thai_sentence + sentence + ", "
+       thai_sentence = thai_sentence + sentence + " "
        
-    return thai_sentence[:-2]
+    return thai_sentence.strip()
 
 
 # get list, and join them using commas as seperator

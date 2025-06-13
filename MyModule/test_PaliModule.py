@@ -45,11 +45,11 @@ class TestPaliModule(unittest.TestCase):
         self.assertEqual(result, expected_result)    
 
         result = PaliModule.thai_sentence_to_syllable("คากา")
-        expected_result = "คา, กา"
+        expected_result = "คา กา"
         self.assertEqual(result, expected_result)    
 
         result = PaliModule.thai_sentence_to_syllable("กากขา")
-        expected_result = "กาก, ขา"
+        expected_result = "กาก ขา"
         self.assertEqual(result, expected_result)                    
 
     # get line text # return list of sentenced
