@@ -1,11 +1,38 @@
 import unittest
 import PaliModule
+ 
 
 class TestPaliModule(unittest.TestCase):
 
+    # get thai text # return thai sentence sapated with commas
+    def test_thai_sentence_to_sylable(self):
+        result = PaliModule.thai_sentence_to_sylable("")
+        expected_result = ""
+        self.assertEqual(result, expected_result)
+    
+        result = PaliModule.thai_sentence_to_sylable(" ")
+        expected_result = ""
+        self.assertEqual(result, expected_result)    
+        
+        result = PaliModule.thai_sentence_to_sylable("กา")
+        expected_result = ""
+        self.assertEqual(result, expected_result)    
+
+
+    # get line text # return list of sentenced
+    def test_break_line_to_sentence(self):
+        result = PaliModule.break_line_to_sentence("  ")
+        expected_result = []
+        self.assertEqual(result, expected_result)
+              
+        result = PaliModule.break_line_to_sentence(" กา กากา  กักกา ")
+        expected_result = ['กา', 'กากา', 'กักกา']
+        self.assertEqual(result, expected_result)      
+
+    
+
     # get romanpali, return thai
     def test_romanpali_to_thai(self):
-
         result = PaliModule.romanpali_to_thai("manussa")
         expected_result = "มะนุสสะ"
         self.assertEqual(result, expected_result)
@@ -93,36 +120,6 @@ class TestPaliModule(unittest.TestCase):
         result = PaliModule.find_all("", "b")
         expected_result = []
         self.assertEqual(result, expected_result)        
-
-    def test_separate_text_to_words(self):
-        result = PaliModule.separate_text_to_words("  Hello   world  this is a test  ")
-        expected_result = ["Hello", "world", "this", "is", "a", "test"]
-        self.assertEqual(result, expected_result)
-
-        result = PaliModule.separate_text_to_words("  ")
-        expected_result = []
-        self.assertEqual(result, expected_result)
-
-        result = PaliModule.separate_text_to_words("")
-        expected_result = []
-        self.assertEqual(result, expected_result)
-
-    def test_strip_list(self):
-        result = PaliModule.strip_list(["  hello  ", "world", "  ", "  test  "])
-        expected_result = ["hello", "world", "test"]
-        self.assertEqual(result, expected_result)
-
-        result = PaliModule.strip_list(["   ", "   "])
-        expected_result = []
-        self.assertEqual(result, expected_result)
-
-        result = PaliModule.strip_list([])
-        expected_result = []
-        self.assertEqual(result, expected_result)
-
-        result = PaliModule.strip_list(['single'])
-        expected_result = ['single']
-        self.assertEqual(result, expected_result)
 
     # return dictionary key : pomanpali, value : thai unicode text
     def test_dict_romanpali_to_thaiunicode(self) :

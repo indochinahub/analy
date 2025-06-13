@@ -1,28 +1,3 @@
-# get thai sentence # return thai sentence saparated with spaces
-def thai_sentence_to_sylable(thai_sentence):
-    thai_sentence = thai_sentence.strip()
-
-    if len(thai_sentence) == 0 : return ""
-    return False
-
-    li_thai_vowel():
-
-    
-
-
-# get line text # return list of sentenced
-def break_line_to_sentence(text):
-    text = text.strip()
-    if len(text) == 0 : return []
-
-    li_sentence = text.split(" ")
-    li_new = []
-    for sentence in li_sentence :
-      if len(sentence) >0  : li_new.append(sentence)
-
-    return li_new
-
-
 # get romanpali, return thai
 def romanpali_to_thai(roman_pali):
     dict_thaiunicode = dict_romanpali_to_thaiunicode()
@@ -39,7 +14,7 @@ def romanpali_to_thai(roman_pali):
     thai_pali = improve_thai_text_sra_aa(thai_pali)
     return thai_pali
 
-# get raw thai text, return improve thai text
+# get raw thai text, returned improve thai text
 def improve_thai_text_sra_aa(thai_text):
     li_position = find_all(thai_text,'า')
     if li_position == [] : return thai_text
@@ -127,6 +102,20 @@ def find_all(text, substring) :
         start = start + len(substring)
 
     return li_position
+
+# get text, return list
+def separate_text_to_words(text):
+    text = text.strip()
+    if len(text) == 0:
+      return []
+    
+    return strip_list(text.split())
+
+# get list, return list
+def strip_list(lst):
+    """Trim whitespace from each item in a list and remove empty items."""
+    return [item.strip() for item in lst if item.strip()]
+
 
 # return dictionary key : pomanpali, value : thai unicode text
 def dict_romanpali_to_thaiunicode() :
