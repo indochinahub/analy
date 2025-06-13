@@ -13,7 +13,15 @@ def romanpali_to_thai(roman_pali):
     thai_pali = improve_thai_text_sra_a(thai_pali)
     thai_pali = improve_thai_text_sra_aa(thai_pali)
 
-    return thai_pali
+    #return thai_pali.split("")
+    li_sentence = thai_pali.split(" ")
+
+    new_thai_text = ""
+    for sentence in li_sentence :
+       sentence = thai_sentence_to_syllable(sentence)
+       new_thai_text = new_thai_text + sentence + ", "
+
+    return new_thai_text[:-2]
 
 # get thai sentence # return thai sentence saparated with spaces
 def thai_sentence_to_syllable(thai_sentence):
@@ -32,16 +40,19 @@ def thai_sentence_to_syllable(thai_sentence):
           #print(vowel,li_position)
           li_vowel_position.extend(li_position)
 
+    li_vowel_position.sort(reverse=True)
+
     li_sentence = []
     for position in li_vowel_position :
-        if position == (len(thai_sentence) - 1) :
+        #['o', 'โอ', '\u0E42']
+        if thai_sentence[-2] == '\u0E42' : 
+            sentence = thai_sentence[-2:]
+        elif position == (len(thai_sentence) - 1) :
             sentence = thai_sentence[-2:]
         elif position == (len(thai_sentence) - 2) :
             sentence = thai_sentence[-3:]
         li_sentence.insert(0, sentence)
         thai_sentence = thai_sentence.replace(sentence,"") 
-
-    #return li_sentence
 
     thai_sentence = ""
     for sentence in li_sentence :
