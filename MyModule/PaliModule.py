@@ -30,16 +30,13 @@ def clean_roman_text (roman_text):
 
     li_char = list(roman_text.lower())
 
-    #li_thai_vowel()
-    #li_thai_consonant()
-
     dummy_text = ""
     for char in li_char:
-        print(char)
-        if (char in li_thai_consonant()) or (char in li_thai_vowel() ):
+        if ((char in li_roman_consonant()) or (char in li_roman_vowel()) or (char == " ") ):
             dummy_text = dummy_text + char
+    roman_text = dummy_text.strip()            
         
-    return dummy_text
+    return roman_text
 
 
 # get thai sentence # return thai sentence saparated with spaces
