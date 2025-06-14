@@ -202,6 +202,17 @@ def li_thai_vowel():
        li_thai_vowel.append(vowel[2])
 
     return li_thai_vowel
+
+#get None # return list of roman vowel
+def li_roman_vowel():
+    li_vowel = li_vowel_table()
+
+    li_dummy = []
+    for vowel in li_vowel:
+       li_dummy.append(vowel[0])
+    li_vowel = li_dummy
+
+    return li_vowel
    
 # get None # return list of romanpali_vowel table
 def li_vowel_table():

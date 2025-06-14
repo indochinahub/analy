@@ -175,6 +175,16 @@ class TestPaliModule(unittest.TestCase):
         expected_result = '\u0E30' #sra a
         self.assertEqual(result, expected_result)
 
+    #get None # return list of roman vowel
+    def test_li_roman_vowel(self):
+        result = len(PaliModule.li_roman_vowel())
+        expected_result = 8
+        self.assertEqual(result, expected_result)
+
+        result = PaliModule.li_roman_vowel()[0]
+        expected_result = 'a'
+        self.assertEqual(result, expected_result)
+
     # get None # return list of romanpali_vowel table
     def test_li_vowel_table(self):
         result = len(PaliModule.li_vowel_table())
