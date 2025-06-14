@@ -20,7 +20,6 @@ class TestPaliModule(unittest.TestCase):
         result = PaliModule.romanpali_to_thai(" āgacchati āgacchati ")
         expected_result = "อา คัจ ฉะ ติ, อา คัจ ฉะ ติ"
         self.assertEqual(result, expected_result)  
-        
 
     # get roman text, clean it #return cleaned text
     def test_clean_roman_text (self):
@@ -37,7 +36,6 @@ class TestPaliModule(unittest.TestCase):
         expected_result = "xxxx"
         self.assertEqual(result, expected_result) 
         '''
-
 
     # get thai text # return thai sentence sapated with commas
     def test_thai_sentence_to_syllable(self):
@@ -196,6 +194,17 @@ class TestPaliModule(unittest.TestCase):
         result = PaliModule.li_thai_consonant()[0]
         expected_result =  '\u0E02' #'ข'
         self.assertEqual(result, expected_result)        
+
+    #get None # return list of roman consonant
+    def test_li_roman_consonant(self):
+        result = len(PaliModule.li_roman_consonant())
+        expected_result = 33
+        self.assertEqual(result, expected_result)
+        
+        result1 = PaliModule.li_roman_consonant()
+        result = result1[0]
+        expected_result = "kh"
+        self.assertEqual(result, expected_result)
 
     # get None # return list of romanpali_consonant table
     def test_li_consonant_table(self):        

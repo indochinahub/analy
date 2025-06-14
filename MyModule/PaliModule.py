@@ -215,6 +215,7 @@ def li_vowel_table():
       ['e', 'เอ', '\u0E40'],
       ['o', 'โอ', '\u0E42']
     ]
+
 #get None # return list of thai consonant
 def li_thai_consonant():
     li_consonant = li_consonant_table()
@@ -224,6 +225,18 @@ def li_thai_consonant():
        li_thai_consonant.append(consonant[2])
 
     return li_thai_consonant
+
+#get None # return list of thai consonant
+def li_roman_consonant():
+    li_consonant = li_consonant_table()
+
+    li_dummy = []
+    for consonant in li_consonant:
+       li_dummy.append(consonant[0])
+    li_consonant = li_dummy
+        
+    return li_consonant
+
 
 # get None # return list of romanpali_consonant table
 def li_consonant_table():
