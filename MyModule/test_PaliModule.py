@@ -17,6 +17,11 @@ class TestPaliModule(unittest.TestCase):
         expected_result = 'พุท โธ, พุท โธ'
         self.assertEqual(result, expected_result)
 
+        result = PaliModule.romanpali_to_thai(" 1. Buddho Buddho ")
+        expected_result = 'พุท โธ, พุท โธ'
+        self.assertEqual(result, expected_result)
+
+
         result = PaliModule.romanpali_to_thai(" āgacchati āgacchati ")
         expected_result = "อา คัจ ฉะ ติ, อา คัจ ฉะ ติ"
         self.assertEqual(result, expected_result)  

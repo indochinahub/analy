@@ -6,6 +6,8 @@ def romanpali_to_thai(roman_pali):
     if len(roman_pali) == 0 : return ""
 
     roman_pali = roman_pali.lower()
+    roman_pali = clean_roman_text(roman_pali)
+
     for roman_char in dict_thaiunicode.keys():
       roman_pali = roman_pali.replace( roman_char, dict_thaiunicode[roman_char]  )
 
