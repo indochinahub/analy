@@ -15,8 +15,11 @@ def romanpali_to_thai(roman_pali):
     thai_pali = improve_thai_text_sra_a(thai_pali)
     thai_pali = improve_thai_text_sra_aa(thai_pali)
 
-    #return thai_pali.split("")
+    #return thai_pali
+
     li_sentence = thai_pali.split(" ")
+
+    #return  thai_sentence_to_syllable('a') 
 
     new_thai_text = ""
     for sentence in li_sentence :
@@ -71,7 +74,7 @@ def thai_sentence_to_syllable(thai_sentence):
             sentence = thai_sentence[-3:]
 
         li_sentence.insert(0, sentence)
-        thai_sentence = thai_sentence.replace(sentence,"") 
+        thai_sentence = thai_sentence[:(len(thai_sentence)-len(sentence))]
 
     for sentence in li_sentence :
        thai_sentence = thai_sentence + sentence + " "

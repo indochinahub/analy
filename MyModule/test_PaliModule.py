@@ -5,6 +5,7 @@ class TestPaliModule(unittest.TestCase):
 
     # get romanpali, return thai
     def test_romanpali_to_thai(self):
+
         result = PaliModule.romanpali_to_thai("")
         expected_result = ""
         self.assertEqual(result, expected_result)        
@@ -21,6 +22,9 @@ class TestPaliModule(unittest.TestCase):
         expected_result = 'พุท โธ, พุท โธ'
         self.assertEqual(result, expected_result)
 
+        result = PaliModule.romanpali_to_thai(" Tathāgata ")
+        expected_result = 'ตะ ถา คะ ตะ'
+        self.assertEqual(result, expected_result)                
 
         result = PaliModule.romanpali_to_thai(" āgacchati āgacchati ")
         expected_result = "อา คัจ ฉะ ติ, อา คัจ ฉะ ติ"
@@ -46,6 +50,7 @@ class TestPaliModule(unittest.TestCase):
 
     # get thai text # return thai sentence sapated with commas
     def test_thai_sentence_to_syllable(self):
+        
         result = PaliModule.thai_sentence_to_syllable("")
         expected_result = []
         self.assertEqual(result, expected_result)
@@ -66,6 +71,7 @@ class TestPaliModule(unittest.TestCase):
         expected_result = "กา"
         self.assertEqual(result, expected_result)    
 
+        
         result = PaliModule.thai_sentence_to_syllable("คากา")
         expected_result = "คา กา"
         self.assertEqual(result, expected_result)    
@@ -77,12 +83,11 @@ class TestPaliModule(unittest.TestCase):
         result = PaliModule.thai_sentence_to_syllable("พุทโธ")
         expected_result = "พุท โธ"
         self.assertEqual(result, expected_result) 
-
-        '''
-        result = PaliModule.thai_sentence_to_syllable("เมเมนเม")
-        expected_result = "เม เมน เม"
+        
+        result = PaliModule.thai_sentence_to_syllable("ตะถาคะตะ")
+        expected_result = "ตะ ถา คะ ตะ"
         self.assertEqual(result, expected_result)                                    
-        '''
+        
 
     # get line text # return list of sentenced
     def test_break_line_to_sentence(self):
