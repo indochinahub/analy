@@ -23,6 +23,25 @@ def romanpali_to_thai(roman_pali):
 
     return new_thai_text[:-2]
 
+# get roman text, clean it #return cleaned text
+def clean_roman_text (roman_text):
+    roman_text = roman_text.strip()
+    if len(roman_text) == 0 : return ""
+
+    li_char = list(roman_text.lower())
+
+    #li_thai_vowel()
+    #li_thai_consonant()
+
+    dummy_text = ""
+    for char in li_char:
+        print(char)
+        if (char in li_thai_consonant()) or (char in li_thai_vowel() ):
+            dummy_text = dummy_text + char
+        
+    return dummy_text
+
+
 # get thai sentence # return thai sentence saparated with spaces
 def thai_sentence_to_syllable(thai_sentence):
     if " " in thai_sentence : return []
@@ -60,10 +79,8 @@ def thai_sentence_to_syllable(thai_sentence):
        
     return thai_sentence.strip()
 
-
 # get list, and join them using commas as seperator
 #
-
 
 # get line text # return list of sentenced
 def break_line_to_sentence(text):

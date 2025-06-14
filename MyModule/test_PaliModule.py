@@ -19,7 +19,25 @@ class TestPaliModule(unittest.TestCase):
 
         result = PaliModule.romanpali_to_thai(" āgacchati āgacchati ")
         expected_result = "อา คัจ ฉะ ติ, อา คัจ ฉะ ติ"
-        self.assertEqual(result, expected_result)        
+        self.assertEqual(result, expected_result)  
+        
+
+    # get roman text, clean it #return cleaned text
+    def test_clean_roman_text (self):
+        result = PaliModule.clean_roman_text("")
+        expected_result = ""
+        self.assertEqual(result, expected_result) 
+
+        '''
+        result = PaliModule.clean_roman_text(" Buddho Buddho ")
+        expected_result = False
+        self.assertEqual(result, expected_result) 
+
+        result = PaliModule.clean_roman_text(" 1.Buddho Buddho ")
+        expected_result = "xxxx"
+        self.assertEqual(result, expected_result) 
+        '''
+
 
     # get thai text # return thai sentence sapated with commas
     def test_thai_sentence_to_syllable(self):
