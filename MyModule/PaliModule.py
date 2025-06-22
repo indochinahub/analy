@@ -83,11 +83,11 @@ def thai_sentence_to_syllable(thai_sentence):
     return thai_sentence.strip()
 
 # get line text # return list of sentenced
-def break_line_to_sentence(text):
-    text = text.strip()
-    if len(text) == 0 : return []
+def break_line_to_sentence(line):
+    line = line.strip()
+    if len(line) == 0 : return []
 
-    li_sentence = text.split(" ")
+    li_sentence = line.split(" ")
     li_dummy = []
     for sentence in li_sentence :
       if len(sentence) >0  : li_dummy.append(sentence)
