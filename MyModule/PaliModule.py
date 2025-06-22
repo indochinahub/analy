@@ -15,11 +15,12 @@ def romanpali_to_thai(roman_pali):
     thai_pali = improve_thai_text_sra_a(thai_pali)
     thai_pali = improve_thai_text_sra_aa(thai_pali)
 
-    #return thai_pali
-
     li_sentence = thai_pali.split(" ")
-
-    #return  thai_sentence_to_syllable('a') 
+    li_dummy = []
+    for sentence in li_sentence:
+       if len(sentence.strip()) > 0 :
+            li_dummy.append(sentence)
+    li_sentence = li_dummy
 
     new_thai_text = ""
     for sentence in li_sentence :
@@ -81,20 +82,18 @@ def thai_sentence_to_syllable(thai_sentence):
        
     return thai_sentence.strip()
 
-# get list, and join them using commas as seperator
-#
-
 # get line text # return list of sentenced
 def break_line_to_sentence(text):
     text = text.strip()
     if len(text) == 0 : return []
 
     li_sentence = text.split(" ")
-    li_new = []
+    li_dummy = []
     for sentence in li_sentence :
-      if len(sentence) >0  : li_new.append(sentence)
+      if len(sentence) >0  : li_dummy.append(sentence)
+    li_sentence = li_dummy
 
-    return li_new
+    return li_sentence
 
 # get raw thai text, return improve thai text
 def improve_thai_text_sra_aa(thai_text):

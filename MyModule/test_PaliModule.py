@@ -88,7 +88,6 @@ class TestPaliModule(unittest.TestCase):
         expected_result = "ตะ ถา คะ ตะ"
         self.assertEqual(result, expected_result)                                    
         
-
     # get line text # return list of sentenced
     def test_break_line_to_sentence(self):
         result = PaliModule.break_line_to_sentence("  ")
