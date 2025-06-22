@@ -15,12 +15,7 @@ def romanpali_to_thai(roman_pali):
     thai_pali = improve_thai_text_sra_a(thai_pali)
     thai_pali = improve_thai_text_sra_aa(thai_pali)
 
-    li_sentence = thai_pali.split(" ")
-    li_dummy = []
-    for sentence in li_sentence:
-       if len(sentence.strip()) > 0 :
-            li_dummy.append(sentence)
-    li_sentence = li_dummy
+    li_sentence = break_line_to_sentence(thai_pali)
 
     new_thai_text = ""
     for sentence in li_sentence :
@@ -43,7 +38,6 @@ def clean_roman_text (roman_text):
     roman_text = dummy_text.strip()            
         
     return roman_text
-
 
 # get thai sentence # return thai sentence saparated with spaces
 def thai_sentence_to_syllable(thai_sentence):
