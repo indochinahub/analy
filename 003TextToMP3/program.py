@@ -19,8 +19,8 @@ for line in source_file :
     
     text = text.replace("[newline]"," ")
     
-    # Lang = vi, ja, en, km, zh-cn, ko, th
-    tts = gTTS(text , lang='en')
+    # Lang = vi, ja, en, km, zh-cn, ko, th, la(Latin),  my (Myanmar), id(Indonesian), lv(Latvia)
+    tts = gTTS(text , lang='th')
     tts.save(""+splitLine[0].strip()+".mp3" )
 	
     print( text_id + "\t" + text )
