@@ -13,16 +13,23 @@ result_file = open('result.txt', encoding='utf-8', mode='w')
 
 b_sound = False
 
+#Delete *.mp3
+for folder, subfolder, files in os.walk('.') : 
+    for file in files : 
+        if file.endswith('.mp3') :
+            path = os.path.join(folder, file)
+            os.remove(path)
+            print("Delete : " ,path)
+        
 sum_mp3a = AudioSegment.empty()
 sum_mp3b = AudioSegment.empty()
 sum_mp3ab = AudioSegment.empty()
-silence = AudioSegment.silent( duration= 500)
+silence = AudioSegment.silent(duration= 500)
 
 sum_text_a  = ""
 sum_text_b  = ""
 #paragraph_seperator = "\n.\n"
 paragraph_seperator = "\t\n"
-
 
 for line in source_file :
     line = line.strip()
@@ -75,6 +82,9 @@ result_file.write (sum_text_a + sum_text_b)
 result_file.close()
 
 sum_mp3a.export(out_f = "sum_mp3a.mp3",   format = "mp3")
+#sum_mp3a.export(out_f = "E:\\lesson_media\\TH011\\mp3\\sum_mp3a.mp3",   format = "mp3")
+
+
 
 if b_sound ==  True :
     sum_mp3b.export(out_f = "sum_mp3b.mp3",   format = "mp3")
