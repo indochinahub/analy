@@ -12,12 +12,14 @@ source_file = open('source.txt', encoding='utf-8', mode='r')
 result_file = open('result.txt', encoding='utf-8', mode='w')
 
 # Lang = vi, ja, en, km, zh-cn, ko, th
-result_text = ""
 lang_source = "en"
-lang_target = "th"
+lang_target = "vi"
 
 MyTranslate = GoogleTranslator(source= lang_source, target= lang_target)
 
+result_file.write ("")
+result_file.close ()
+result_file = open('result.txt', encoding='utf-8', mode='a')
 for line in source_file :
     line = line.strip()
     splitLine = line.split("\t")
@@ -34,10 +36,6 @@ for line in source_file :
     tranlated_text  = MyTranslate.translate(text)
 	
     print( text_id + "\t" + text )
+    result_file.write (text_id + "\t" +  tranlated_text  + "\n")
     
-    result_text = result_text + text + "\n"  + tranlated_text + "\n\n"
-    
-    time.sleep(2)
-
-
-result_file.write (result_text)
+    time.sleep(1)

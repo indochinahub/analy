@@ -1,6 +1,9 @@
-INTRODUCTION
-การแนะนำ
-
-From the time of Suryavarman II’s death around 1150 until Jayavarman VII’s coronation in 1182, only one dated Cambodian inscription has survived. Much of what we know about this period must be filtered through inscriptions carved at Jayavarman’s behest, reflecting his view of the world as well as what he wanted people to believe about his early life. Because he was not, apparently, an entirely legitimate contender for the throne, his early years, like those of so many Cambodian founderkings, are poorly documented.
-ตั้งแต่สมัยพระเจ้าสุริยวรมันที่ 2 สิ้นพระชนม์ในราวปี ค.ศ. 1150 จนถึงการขึ้นครองราชย์ของพระเจ้าชัยวรมันที่ 7 ในปี ค.ศ. 1182 มีจารึกภาษากัมพูชาที่หลงเหลืออยู่เพียงจารึกเดียวเท่านั้น ความรู้ส่วนใหญ่เกี่ยวกับช่วงเวลานี้ต้องได้รับการกรองผ่านจารึกที่แกะสลักตามพระประสงค์ของพระเจ้าชัยวรมัน ซึ่งสะท้อนถึงมุมมองของพระองค์ที่มีต่อโลก ตลอดจนสิ่งที่พระองค์ต้องการให้ผู้คนเชื่อเกี่ยวกับพระชนม์ชีพช่วงต้นของพระองค์ เนื่องจากเห็นได้ชัดว่าพระองค์ไม่ใช่ผู้ท้าชิงบัลลังก์ที่ถูกต้องตามกฎหมายอย่างสมบูรณ์ จึงมีการบันทึกไว้อย่างไม่เพียงพอเกี่ยวกับช่วงต้นรัชสมัยของพระองค์ เช่นเดียวกับพระมหากษัตริย์ผู้ก่อตั้งประเทศกัมพูชาหลายพระองค์
-
+a03280	Những văn phòng này không được dọn dẹp hàng ngày.
+a03290	Văn phòng đã được dọn dẹp ngày hôm qua.
+a03300	Những ngôi nhà này được xây dựng cách đây 100 năm.
+a03310	Cửa sổ bị vỡ như thế nào?
+a03320	Bạn sinh ra ở đâu?
+a03330	Tôi đã dọn phòng của tôi rồi.
+a03340	Tom đã bị mất hộ chiếu.
+a03350	Kate chưa đến Canada.
+a03360	Paul và Emma đã đi đâu?

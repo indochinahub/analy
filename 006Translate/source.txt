@@ -1,2 +1,9 @@
-00010	INTRODUCTION
-00020	From the time of Suryavarman II’s death around 1150 until Jayavarman VII’s coronation in 1182, only one dated Cambodian inscription has survived. Much of what we know about this period must be filtered through inscriptions carved at Jayavarman’s behest, reflecting his view of the world as well as what he wanted people to believe about his early life. Because he was not, apparently, an entirely legitimate contender for the throne, his early years, like those of so many Cambodian founderkings, are poorly documented.
+a03280	These offices aren't cleaned every day.
+a03290	The office was cleaned yesterday.
+a03300	These houses were built 100 years ago.
+a03310	How was the window broken?
+a03320	Where were you born?
+a03330	I've cleaned my room.
+a03340	Tom has lost his passport.
+a03350	Kate hasn't been to Canada.
+a03360	Where have Paul and Emma gone?
