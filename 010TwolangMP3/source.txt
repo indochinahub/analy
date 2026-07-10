@@ -1,0 +1,37 @@
+d00680	Thì quá khứ đơn thường kết thúc bằng -ed.
+d00690	Thì quá khứ đơn của [regular verb] kết thúc bằng [ee, dee]
+d00700	Nhưng nhiều động từ là [irregular]. Thì quá khứ đơn không kết thúc bằng -ed.
+d00710	Về chính tả, xem Phụ lục 6.
+d00720	Trong câu hỏi và câu phủ định, chúng ta sử dụng "did" hoặc "didn't" với [infinitive]
+d00730	Trong các ví dụ sau, "do" là động từ chính trong câu.
+d00740	Thì quá khứ của "[be]" là "[was/were]
+d00750	Lưu ý rằng chúng ta không sử dụng "[did]" trong câu phủ định và câu hỏi với "[was/were]
+d00390	Alex là một tài xế xe buýt, nhưng bây giờ anh ấy đang ngủ trên giường.
+d00400	Anh ấy không đang lái xe buýt, vì anh ấy đang ngủ. Nhưng anh ấy lái xe buýt, vì anh ấy là một tài xế xe buýt.
+d00410	Chúng ta sử dụng thì hiện tại đơn để nói về sự vật nói chung. Chúng ta sử dụng nó để nói rằng điều gì đó xảy ra mọi lúc hoặc lặp đi lặp lại, hoặc điều gì đó đúng nói chung:
+d00420	Hãy nhớ: [I work ...] nhưng [He works ..., They teach ...] nhưng [My sister teaches ...]
+d00430	Để biết chính tả, xem Phụ lục 6.
+d00440	Chúng ta sử dụng [do/does] để đặt câu hỏi và câu phủ định.
+d00450	Trong các ví dụ sau, "do" cũng là động từ chính.
+d00460	Chúng ta sử dụng thì hiện tại đơn để nói về tần suất chúng ta làm một việc gì đó.
+d00470	Đôi khi chúng ta làm một việc gì đó bằng cách nói ra. Ví dụ, khi bạn hứa làm một việc gì đó, bạn có thể nói ' [I promise ...] Tôi hứa ...'; khi bạn đề nghị một việc gì đó, bạn có thể nói '[I suggest ...] Tôi đề nghị ...':
+d00480	Tương tự như vậy, chúng ta nói: [I apologise] Tôi xin lỗi ..., [I advise] Tôi khuyên ...,  [I insist] Tôi nhấn mạnh ...,  [I agree] Tôi đồng ý ..., [I refuse] Tôi từ chối ... v.v.
+d00490	Chúng ta dùng thì hiện tại tiếp diễn cho những việc đang xảy ra vào hoặc xung quanh thời điểm nói. Hành động chưa hoàn tất.
+d00500	Chúng ta dùng thì hiện tại tiếp diễn cho những tình huống tạm thời.
+d00510	Chúng ta dùng thì hiện tại đơn cho những sự việc nói chung hoặc những việc xảy ra lặp đi lặp lại.
+d00520	Chúng ta dùng thì hiện tại đơn cho những tình huống lâu dài.
+d00530	Xem Bài 1 để biết thêm thông tin.
+d00540	Câu ['I'm always doing something' ] "Tôi luôn làm việc gì đó" có nghĩa khác.
+d00550	Ví dụ, Thêm ví dụ
+d00560	Chúng ta sử dụng thì hiện tại tiếp diễn cho các hành động và sự việc đã bắt đầu nhưng chưa kết thúc ( [they are eating] họ đang ăn, [it is raining] trời đang mưa, v.v.). Một số động từ (ví dụ: [know] và [like] ) thường không được sử dụng theo cách này. Chúng ta không nói [I am knowing] hay [they are liking]; chúng ta nói  [I know, they like.]
+d00570	Các động từ sau đây thường không được sử dụng trong thì hiện tại tiếp diễn: [like, want, need, prefer]
+d00580	Các động từ sau đây thường không được sử dụng trong thì hiện tại tiếp diễn: [know, realize, suppose, mean, understand, believe]
+d00590	Các động từ sau đây thường không được sử dụng trong thì hiện tại tiếp diễn: [belong, fit, contain, consist, seem]
+d00600	Khi "[think]" có nghĩa là '[believe]' hoặc '[have an opinion]', chúng ta không sử dụng thì hiện tại tiếp diễn: [I think this car is expensive.]
+d00610	Khi "[think]" có nghĩa là '[consider]', chúng ta có thể sử dụng thì hiện tại tiếp diễn. I'm thinking of buying a new car
+d00620	Chúng ta thường dùng thì hiện tại đơn (không phải thì hiện tại tiếp diễn) với các động từ "[see, hear, smell, taste]". Tôi nghe thấy một vài âm thanh lạ.
+d00630	Chúng ta thường dùng "[can]" với các động từ [see, hear, smell, taste. [ I can hear his voice. ] Tôi có thể nghe thấy giọng nói của anh ấy.
+d00640	Bạn có thể dùng thì hiện tại đơn hoặc hiện tại tiếp diễn để nói về vẻ ngoài hoặc cảm xúc của ai đó hiện tại. [You're looking tired] Bạn trông mệt. [You look tired every morning] Bạn trông mệt mỏi mỗi sáng,nhưng không dùng [You're looking tired every morning]
+d00650	[He's being] có nghĩa là "Anh ấy đang hành động". "[He is being selfish.]" có nghĩa là "Anh ấy đang ích kỷ vào lúc này".
+d00660	Chúng ta dùng "[am/is/are being]" để nói về cách ai đó đang hành động. Điều này này chỉ được dùng cho hành động của con người. Chúng ta nói [It's hot today], nhưng không nói [it is being hot.]
+d00670	Hãy nghiên cứu ví dụ này:
