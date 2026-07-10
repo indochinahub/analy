@@ -16,6 +16,15 @@ class TestMyModule(unittest.TestCase):
         result = mymodule.get_group_of_line('')
         self.assertEqual(result, '')
 
+        result = mymodule.get_group_of_line('line1')
+        self.assertEqual(result, ['line1'])        
+
+        result = mymodule.get_group_of_line('line1\nline2')
+        self.assertEqual(result, ['line1\nline2'])        
+
+        result = mymodule.get_group_of_line('line1\nline2\n\nline3\nline4')
+        self.assertEqual(result, ['line1\nline2', 'line3\nline4'])
+
     def test_prepare_text(self):
         result = mymodule.prepare_text('')
         self.assertEqual(result, '')
@@ -28,7 +37,8 @@ class TestMyModule(unittest.TestCase):
         result = mymodule.prepare_text('\nline1\r\nline2\r\nline3\r\n')
         self.assertEqual(result, 'line1\nline2\nline3')
 
-
+        result = mymodule.prepare_text('line1\n\nline2\n\n\n\n\nline3\nline4')
+        self.assertEqual(result, 'line1\n\nline2\n\nline3\nline4')
 
         
 
