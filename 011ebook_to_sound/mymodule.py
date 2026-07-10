@@ -11,3 +11,12 @@ def get_group_of_line(text):
   #text = text.split('\n')
 
   return text
+
+def prepare_text(text):
+  if text == "": return ""
+
+  text = text.strip()
+  text = text.replace('\r\n', '\n')
+  #text = text.split('\n')
+
+  return text  

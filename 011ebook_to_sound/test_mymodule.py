@@ -16,13 +16,19 @@ class TestMyModule(unittest.TestCase):
         result = mymodule.get_group_of_line('')
         self.assertEqual(result, '')
 
+    def test_prepare_text(self):
+        result = mymodule.prepare_text('')
+        self.assertEqual(result, '')
+
         # Get text, strip text
-        result = mymodule.get_group_of_line('\nline\n')
-        self.assertEqual(result, 'line')
+        result = mymodule.prepare_text('\nline\n')
+        self.assertEqual(result, 'line')        
 
         # Relplace
-        result = mymodule.get_group_of_line('\nline1\r\nline2\r\nline3\r\n')
+        result = mymodule.prepare_text('\nline1\r\nline2\r\nline3\r\n')
         self.assertEqual(result, 'line1\nline2\nline3')
+
+
 
         
 
